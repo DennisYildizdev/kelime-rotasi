@@ -22,10 +22,14 @@
     "validate:content": "node scripts/validate-content.js",
     "build": "node scripts/validate-source.js && node scripts/validate-content.js && node tests/a1-coverage.mjs && node scripts/build-web.js",
     "deploy:pages": "npm run build && wrangler pages deploy dist",
+    "deploy:pages:only": "wrangler pages deploy dist",
     "cf:watch": "wrangler pages dev dist"
   },
-  "engines": { "node": ">=22" },
+  "engines": {
+    "node": ">=22"
+  },
   "devDependencies": {
-    "playwright": "^1.63.0"
+    "playwright": "^1.63.0",
+    "wrangler": "^4.147.0"
   }
 }

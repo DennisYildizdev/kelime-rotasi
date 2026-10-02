@@ -1,16 +1,23 @@
-# Cloudflare Pages
+# Cloudflare Pages dağıtım yapılandırması
 #
-# Bu dosya yalnız DEPLOY yapılandırması içindir; sayfa günlük geliştirmede
-# kullanılmaz. Dashboard'da ayrıca build komutu ve çıktı dizini elle
-# giriliyorsa bu dosya ile çelişmeyin.
+# BU DOSYA Pages (statik barındırma) yapılandırmasıdır. Workers yapılandırması
+# DEĞİLDİR ve burada `main` (Worker giriş dosyası) tanımlanmaz — bu projede
+# Worker kodu yoktur, yalnızca statik dosyalar dağıtılır.
 #
-# Dağıtım:
-#   npm run deploy          (build + pages deploy)
-#   npx wrangler pages deploy dist --project-name=kelime-rotasi
+# ÇOK ÖNEMLİ: Pages dağıtım komutu `wrangler deploy` DEĞİLDİR.
+#   `wrangler deploy`          -> Worker giriş dosyası arar, "Missing
+#                                  entry-point" hatası verir. Pages'ta çalışmaz.
+#   `wrangler pages deploy`    -> doğru komut (statik varlıkları yükler).
 #
-# Bu dosya tanımlandığı için Pages ayarlarının kaynağı dashboard değil bu
-# dosya olur: pages_build_output_dir, name, compatibility_date alanları
-# dashboard'dan artık değiştirilemez.
+# Cloudflare dashboard ayarları:
+#   Build command      : npm run build
+#   Deploy command     : npx wrangler pages deploy dist
+#   Output directory   : dist
+#   Node.js version    : 22
+#
+# Not: `pages_build_output_dir` yalnız `wrangler pages deploy`'in varsayılan
+# çıktı dizinidir; dashboard'daki "Output directory" alanıyla birlikte çalışır.
+# Dağıtım komutunda dizin açıkça geçtiği için iki yolun tutarlı olması şart.
 
 name = "kelime-rotasi"
 pages_build_output_dir = "./dist"
