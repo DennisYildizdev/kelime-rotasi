@@ -1,0 +1,907 @@
+[
+  {
+    "sourceId": "gain-1272",
+    "headword": "gain",
+    "level": "B2",
+    "raw": "gain v., n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "gain",
+    "translationLookup": "gain",
+    "ipaCandidates": {
+      "en-US": "/ˈɡeɪn/",
+      "en-GB": "/ɡˈeɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/gain__Noun__1",
+        "sense": null,
+        "translations": "kazanmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/gain__Noun__1",
+        "sense": "factor by which signal is multiplied",
+        "translations": "kazanç",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "gang-1284",
+    "headword": "gang",
+    "level": "B2",
+    "raw": "gang n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "gang",
+    "translationLookup": "gang",
+    "ipaCandidates": {
+      "en-US": "/ˈɡæŋ/",
+      "en-GB": "/ɡˈæŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/gang__Noun__1",
+        "sense": "group of criminals who band together for mutual protection",
+        "translations": "çete",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/gang__Noun__1",
+        "sense": "a company of persons",
+        "translations": "çete",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "generate-1320",
+    "headword": "generate",
+    "level": "B2",
+    "raw": "generate v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "generate",
+    "translationLookup": "generate",
+    "ipaCandidates": {
+      "en-US": "/ˈdʒɛnɝˌeɪt/",
+      "en-GB": "/dʒˈɛnəɹˌeɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/generate__Verb__1",
+        "sense": null,
+        "translations": "imal etmek",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/generate__Verb__1",
+        "sense": "bring into being",
+        "translations": "oluşturmak",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/generate__Verb__1",
+        "sense": "produce as a result of a chemical or physical process",
+        "translations": "geliştirmek",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "genre-1332",
+    "headword": "genre",
+    "level": "B2",
+    "raw": "genre n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "genre",
+    "translationLookup": "genre",
+    "ipaCandidates": {
+      "en-US": "/ˈʒɑnɹə/",
+      "en-GB": "/ʒˈɒnɹɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/genre__Noun__1",
+        "sense": "kind; type; sort",
+        "translations": "tür",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "govern-1145",
+    "headword": "govern",
+    "level": "B2",
+    "raw": "govern v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "govern",
+    "translationLookup": "govern",
+    "ipaCandidates": {
+      "en-US": "/ˈɡəvɝn/",
+      "en-GB": "/ɡˈʌvən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/govern__Verb__1",
+        "sense": "to exercise sovereign authority in",
+        "translations": "hüküm sürmek | idare etmek",
+        "score": 111.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "grab-1153",
+    "headword": "grab",
+    "level": "B2",
+    "raw": "grab v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "grab",
+    "translationLookup": "grab",
+    "ipaCandidates": {
+      "en-US": "/ˈɡɹæb/",
+      "en-GB": "/ɡɹˈæb/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/grab__Verb__1",
+        "sense": "to make a sudden grasping or clutching motion (at something)",
+        "translations": "yakalamak | kabzetmek",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/grab__Verb__1",
+        "sense": "to seize",
+        "translations": "kapmak",
+        "score": 100.4
+      },
+      {
+        "entry": "eng/grab__Verb__1",
+        "sense": "to restrain someone; to arrest",
+        "translations": "ele geçirmek | tevkif etmek | yakalamak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "gradually-1161",
+    "headword": "gradually",
+    "level": "B2",
+    "raw": "gradually adv. B2",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "gradually",
+    "translationLookup": "gradually",
+    "ipaCandidates": {
+      "en-US": "/ˈɡɹædʒuəɫi/, /ˈɡɹædʒuɫi/",
+      "en-GB": "/ɡɹˈædʒuːəli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/gradually__Adverb__1",
+        "sense": "in gradual manner",
+        "translations": "aşamalı olarak",
+        "score": 10.0
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "adım adım",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "grand-1173",
+    "headword": "grand",
+    "level": "B2",
+    "raw": "grand adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "grand",
+    "translationLookup": "grand",
+    "ipaCandidates": {
+      "en-US": "/ˈɡɹænd/",
+      "en-GB": "/ɡɹˈænd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/grand__Noun__1",
+        "sense": "one thousand of some currency",
+        "translations": "tepsi",
+        "score": 1.1
+      },
+      {
+        "entry": "eng/grand__Adjective__1",
+        "sense": "great in size, and fine or imposing in appearance or impression",
+        "translations": "büyük",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/grand__Adjective__1",
+        "sense": "having higher rank or more dignity, size, or importance than other similar things",
+        "translations": "büyük",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/grand__Adjective__1",
+        "sense": "of large size or extent",
+        "translations": "büyük",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/grand__Adjective__1",
+        "sense": "standing in the second or more remote degree of parentage or descent",
+        "translations": "büyük",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "grant-1189",
+    "headword": "grant",
+    "level": "B2",
+    "raw": "grant v., n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "grant",
+    "translationLookup": "grant",
+    "ipaCandidates": {
+      "en-US": "/ˈɡɹænt/",
+      "en-GB": "/ɡɹˈɑːnt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/grant__Verb__1",
+        "sense": null,
+        "translations": "bahşetmek | ihsan etmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/grant__Verb__1",
+        "sense": "to give over",
+        "translations": "bahşetmek | bağışlamak | vermek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "guarantee-1233",
+    "headword": "guarantee",
+    "level": "B2",
+    "raw": "guarantee v., n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "guarantee",
+    "translationLookup": "guarantee",
+    "ipaCandidates": {
+      "en-US": "/ˌɡɛɹənˈti/",
+      "en-GB": "/ɡˌæɹɑːntˈiː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/guarantee__Noun__1",
+        "sense": "anything that assures a certain outcome",
+        "translations": "garanti | güvence | teminat",
+        "score": 121.7
+      },
+      {
+        "entry": "eng/guarantee__Noun__1",
+        "sense": "written declaration",
+        "translations": "garanti | güvence",
+        "score": 121.7
+      },
+      {
+        "entry": "eng/guarantee__Noun__1",
+        "sense": null,
+        "translations": "kefil",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "handle-1293",
+    "headword": "handle",
+    "level": "B2",
+    "raw": "handle v., n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "handle",
+    "translationLookup": "handle",
+    "ipaCandidates": {
+      "en-US": "/ˈhændəɫ/",
+      "en-GB": "/hˈændəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/handle__Noun__1",
+        "sense": "part of an object held in the hand when used or moved",
+        "translations": "kulp | sap",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/handle__Noun__1",
+        "sense": "part of a door",
+        "translations": "mandal | kol",
+        "score": 103.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "harm-1325",
+    "headword": "harm",
+    "level": "B2",
+    "raw": "harm n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "harm",
+    "translationLookup": "harm",
+    "ipaCandidates": {
+      "en-US": "/ˈhɑɹm/",
+      "en-GB": "/hˈɑːm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/harm__Noun__1",
+        "sense": null,
+        "translations": "zarar | ziyan | hasar | incinme",
+        "score": 103.9
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "harmful-1329",
+    "headword": "harmful",
+    "level": "B2",
+    "raw": "harmful adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "harmful",
+    "translationLookup": "harmful",
+    "ipaCandidates": {
+      "en-US": "/ˈhɑɹmfəɫ/",
+      "en-GB": "/hˈɑːmfəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/harmful__Adjective__1",
+        "sense": null,
+        "translations": "zararlı",
+        "score": 100.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "hearing-1098",
+    "headword": "hearing",
+    "level": "B2",
+    "raw": "hearing n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "hearing",
+    "translationLookup": "hearing",
+    "ipaCandidates": {
+      "en-US": "/ˈhiɹɪŋ/",
+      "en-GB": "/hˈiəɹɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/hearing__Noun__1",
+        "sense": "sense",
+        "translations": "işitme duyusu | duyma | işitim | işitme yetisi",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/hearing__Adjective__1",
+        "sense": "able to hear",
+        "translations": "işiten",
+        "score": 100
+      },
+      {
+        "entry": "eng/hearing__Noun__1",
+        "sense": "legal procedure",
+        "translations": "duruşma | murafaa",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "heaven-1114",
+    "headword": "heaven",
+    "level": "B2",
+    "raw": "heaven n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "heaven",
+    "translationLookup": "heaven",
+    "ipaCandidates": {
+      "en-US": "/ˈhɛvən/",
+      "en-GB": "/hˈɛvən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/heaven__Noun__1",
+        "sense": "paradise and upper-world",
+        "translations": "cennet",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/heaven__Noun__1",
+        "sense": "sky",
+        "translations": "gök | gökyüzü | cennet",
+        "score": 115.0
+      },
+      {
+        "entry": "eng/heaven__Noun__1",
+        "sense": "blissful place or experience",
+        "translations": "cennet",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "heel-1126",
+    "headword": "heel",
+    "level": "B2",
+    "raw": "heel n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "heel",
+    "translationLookup": "heel",
+    "ipaCandidates": {
+      "en-US": "/ˈhiɫ/",
+      "en-GB": "/hˈiːl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/heel__Noun__1",
+        "sense": "anatomy: part of the foot",
+        "translations": "topuk",
+        "score": 160.0
+      },
+      {
+        "entry": "eng/heel__Noun__1",
+        "sense": "part of shoe",
+        "translations": "topuk",
+        "score": 70.0
+      },
+      {
+        "entry": "eng/heel__Noun__1",
+        "sense": "rear part of a sock",
+        "translations": "topuk",
+        "score": 30.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "hell-1138",
+    "headword": "hell",
+    "level": "B2",
+    "raw": "hell n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "hell",
+    "translationLookup": "hell",
+    "ipaCandidates": {
+      "en-US": "/ˈhɛɫ/",
+      "en-GB": "/hˈɛl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/hell__Proper_noun__1",
+        "sense": "abode for the condemned",
+        "translations": "cehennem | tamu",
+        "score": 163.6
+      },
+      {
+        "entry": "eng/hell__Noun__1",
+        "sense": "place of suffering in life",
+        "translations": "cehennem | tamu",
+        "score": 153.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "hesitate-1174",
+    "headword": "hesitate",
+    "level": "B2",
+    "raw": "hesitate v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "hesitate",
+    "translationLookup": "hesitate",
+    "ipaCandidates": {
+      "en-US": "/ˈhɛzəˌteɪt/",
+      "en-GB": "/hˈɛsɪtˌeɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/hesitate__Verb__1",
+        "sense": "to stop or pause respecting decision or action",
+        "translations": "kararsız kalmak | tereddüt etmek | çekinmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "hollow-1258",
+    "headword": "hollow",
+    "level": "B2",
+    "raw": "hollow adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "hollow",
+    "translationLookup": "hollow",
+    "ipaCandidates": {
+      "en-US": "/ˈhɑɫoʊ/",
+      "en-GB": "/hˈɒləʊ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/hollow__Noun__1",
+        "sense": "small valley",
+        "translations": "çukur",
+        "score": 100.6
+      },
+      {
+        "entry": "eng/hollow__Noun__1",
+        "sense": "sunken area",
+        "translations": "çukur",
+        "score": 100.6
+      },
+      {
+        "entry": "eng/hollow__Adjective__1",
+        "sense": "having an empty space inside",
+        "translations": "delikli | oyuk | oyuklu",
+        "score": 100
+      },
+      {
+        "entry": "eng/hollow__Adjective__1",
+        "sense": "without substance",
+        "translations": "boş",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/hollow__Noun__1",
+        "sense": "feeling of emptiness",
+        "translations": "boşluk",
+        "score": 100
+      },
+      {
+        "entry": "eng/hollow__Noun__1",
+        "sense": "unfilled space in something solid; a cavity",
+        "translations": "kovuk | oyuk",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "holy-1262",
+    "headword": "holy",
+    "level": "B2",
+    "raw": "holy adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "holy",
+    "translationLookup": "holy",
+    "ipaCandidates": {
+      "en-US": "/ˈhoʊɫi/",
+      "en-GB": "/hˈəʊli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/holy__Adjective__1",
+        "sense": "dedicated to a religious purpose",
+        "translations": "kutsal | mukaddes",
+        "score": 100.6
+      },
+      {
+        "entry": "eng/holy__Adjective__1",
+        "sense": "revered in a religion",
+        "translations": "kutsal",
+        "score": 100.6
+      },
+      {
+        "entry": "eng/holy__Adjective__1",
+        "sense": "slang intensifier",
+        "translations": "be mübarek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "honour-1278",
+    "headword": "honour",
+    "level": "B2",
+    "raw": "honour n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "honour",
+    "translationLookup": "honour",
+    "ipaCandidates": {
+      "en-US": "/ˈɑnɝ/",
+      "en-GB": "/ˈɒnɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "onur",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "household-1322",
+    "headword": "household",
+    "level": "B2",
+    "raw": "household n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "household",
+    "translationLookup": "household",
+    "ipaCandidates": {
+      "en-US": "/ˈhaʊsˌhoʊɫd/",
+      "en-GB": "/hˈaʊshəʊld/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/household__Noun__1",
+        "sense": null,
+        "translations": "ev halkı | hanehalkı",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "housing-1326",
+    "headword": "housing",
+    "level": "B2",
+    "raw": "housing n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "housing",
+    "translationLookup": "housing",
+    "ipaCandidates": {
+      "en-US": "/ˈhaʊzɪŋ/",
+      "en-GB": "/hˈaʊzɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/housing__Noun__1",
+        "sense": "activity of enclosing or providing residence",
+        "translations": "ikametgâh | konut | mesken",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "humorous-1346",
+    "headword": "humorous",
+    "level": "B2",
+    "raw": "humorous adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "humorous",
+    "translationLookup": "humorous",
+    "ipaCandidates": {
+      "en-US": "/ˈhjumɝəs/",
+      "en-GB": "/hjˈuːməɹəs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/humorous__Adjective__1",
+        "sense": "full of humor or arousing laughter; funny",
+        "translations": "komik",
+        "score": 5.0
+      },
+      {
+        "entry": "eng/humorous__Adjective__1",
+        "sense": "showing humor; witty, jocular",
+        "translations": "komik",
+        "score": 2.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "humour-1350",
+    "headword": "humour",
+    "level": "B2",
+    "raw": "humour n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "humour",
+    "translationLookup": "humour",
+    "ipaCandidates": {
+      "en-US": "/ˈhjumɝ/",
+      "en-GB": "/hjˈuːmɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/humour__Noun__1",
+        "sense": "wit",
+        "translations": "mizah | şaka",
+        "score": 107.5
+      }
+    ],
+    "needsExternal": []
+  }
+]

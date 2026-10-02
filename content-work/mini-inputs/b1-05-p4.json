@@ -1,0 +1,935 @@
+[
+  {
+    "sourceId": "private-2122",
+    "headword": "private",
+    "level": "B1",
+    "raw": "private adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "private",
+    "translationLookup": "private",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹaɪvət/",
+      "en-GB": "/pɹˈaɪvət/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/private__Noun__1",
+        "sense": "soldier",
+        "translations": "er",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/private__Adjective__1",
+        "sense": "belonging to, concerning, or accessible only to an individual person or a specific group",
+        "translations": "özel",
+        "score": 40.0
+      },
+      {
+        "entry": "eng/private__Adjective__1",
+        "sense": "not accessible by the public",
+        "translations": "özel",
+        "score": 40.0
+      },
+      {
+        "entry": "eng/private__Adjective__1",
+        "sense": null,
+        "translations": "özel",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "producer-2150",
+    "headword": "producer",
+    "level": "B1",
+    "raw": "producer n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "producer",
+    "translationLookup": "producer",
+    "ipaCandidates": {
+      "en-US": "/pɹəˈdusɝ/",
+      "en-GB": "/pɹədjˈuːsɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/producer__Noun__1",
+        "sense": "in economics",
+        "translations": "üretici",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/producer__Noun__1",
+        "sense": "in arts",
+        "translations": "yapımcı | prodüktör",
+        "score": 111.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "production-2158",
+    "headword": "production",
+    "level": "B1",
+    "raw": "production n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "production",
+    "translationLookup": "production",
+    "ipaCandidates": {
+      "en-US": "/pɝˈdəkʃən/, /pɹəˈdəkʃən/, /pɹoʊˈdəkʃən/",
+      "en-GB": "/pɹədˈʌkʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/production__Noun__1",
+        "sense": "the act of producing",
+        "translations": "üretim",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/production__Noun__1",
+        "sense": "the act of being produced",
+        "translations": "üretim",
+        "score": 22.5
+      },
+      {
+        "entry": "eng/production__Noun__1",
+        "sense": "the total amount produced",
+        "translations": "üretim",
+        "score": 22.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "profession-2162",
+    "headword": "profession",
+    "level": "B1",
+    "raw": "profession n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "profession",
+    "translationLookup": "profession",
+    "ipaCandidates": {
+      "en-US": "/pɹəˈfɛʃən/",
+      "en-GB": "/pɹəfˈɛʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/profession__Noun__1",
+        "sense": "occupation",
+        "translations": "meslek",
+        "score": 104.4
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "profit-2178",
+    "headword": "profit",
+    "level": "B1",
+    "raw": "profit n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "profit",
+    "translationLookup": "profit",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹɑfət/, /ˈpɹɑfɪt/",
+      "en-GB": "/pɹˈɒfɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/profit__Noun__1",
+        "sense": "benefit",
+        "translations": "kazanç | fayda",
+        "score": 114.6
+      },
+      {
+        "entry": "eng/profit__Noun__1",
+        "sense": "total income or cash flow minus expenditures",
+        "translations": "kazanç",
+        "score": 113.6
+      },
+      {
+        "entry": "eng/profit__Verb__1",
+        "sense": null,
+        "translations": "kar",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "promote-2202",
+    "headword": "promote",
+    "level": "B1",
+    "raw": "promote v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "promote",
+    "translationLookup": "promote",
+    "ipaCandidates": {
+      "en-US": "/pɹəˈmoʊt/",
+      "en-GB": "/pɹəmˈəʊt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/promote__Verb__1",
+        "sense": "raise someone to a more important, responsible, or remunerative job or rank",
+        "translations": "desteklemek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "proper-1935",
+    "headword": "proper",
+    "level": "B1",
+    "raw": "proper adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "proper",
+    "translationLookup": "proper",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹɑpɝ/",
+      "en-GB": "/pɹˈɒpɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/proper__Adjective__1",
+        "sense": null,
+        "translations": "düzgün",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "properly-1939",
+    "headword": "properly",
+    "level": "B1",
+    "raw": "properly adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "properly",
+    "translationLookup": "properly",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹɑpɝɫi/",
+      "en-GB": "/pɹˈɒpəli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/properly__Adverb__1",
+        "sense": "in a proper manner",
+        "translations": "doğru şekilde",
+        "score": 1.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "property-1943",
+    "headword": "property",
+    "level": "B1",
+    "raw": "property n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "property",
+    "translationLookup": "property",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹɑpɝti/",
+      "en-GB": "/pɹˈɒpəti/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/property__Noun__1",
+        "sense": "something owned",
+        "translations": "mülk | emlak | mal",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/property__Noun__1",
+        "sense": "attribute or abstract quality associated with an object, individual or concept",
+        "translations": "nitelik | vasıf",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/property__Noun__1",
+        "sense": "exclusive right of possessing, enjoying and disposing of a thing",
+        "translations": "mülkiyet",
+        "score": 100
+      },
+      {
+        "entry": "eng/property__Noun__1",
+        "sense": "piece of real estate",
+        "translations": "emlak | mülk",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "protest-1967",
+    "headword": "protest",
+    "level": "B1",
+    "raw": "protest n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "protest",
+    "translationLookup": "protest",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹoʊˌtɛst/, /pɹəˈtɛst/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/protest__Noun__1",
+        "sense": "collective gesture of disapproval: demonstration",
+        "translations": "protesto",
+        "score": 110.6
+      },
+      {
+        "entry": "eng/protest__Noun__1",
+        "sense": "formal objection",
+        "translations": "itiraz",
+        "score": 100
+      },
+      {
+        "entry": "eng/protest__Verb__1",
+        "sense": "to make a strong objection",
+        "translations": "protesto etmek",
+        "score": 21.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "proud-1971",
+    "headword": "proud",
+    "level": "B1",
+    "raw": "proud adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "proud",
+    "translationLookup": "proud",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹaʊd/",
+      "en-GB": "/pɹˈaʊd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/proud__Adjective__1",
+        "sense": "gratified, feeling honoured, feeling satisfied",
+        "translations": "gururlu",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/proud__Adjective__1",
+        "sense": "possessed of a due sense of what one is worth or deserves",
+        "translations": "gururlu",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "prove-1975",
+    "headword": "prove",
+    "level": "B1",
+    "raw": "prove v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "prove",
+    "translationLookup": "prove",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹuv/",
+      "en-GB": "/pɹˈuːv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/prove__Verb__1",
+        "sense": null,
+        "translations": "kanıtlamak | ispatlamak | ispat etmek",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "punish-2011",
+    "headword": "punish",
+    "level": "B1",
+    "raw": "punish v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "punish",
+    "translationLookup": "punish",
+    "ipaCandidates": {
+      "en-US": "/ˈpənɪʃ/",
+      "en-GB": "/pˈʌnɪʃ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/punish__Verb__1",
+        "sense": "to cause to suffer for crime or misconduct",
+        "translations": "cezalandırmak | ceza vermek",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/punish__Verb__1",
+        "sense": null,
+        "translations": "cezalandırmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "punishment-2015",
+    "headword": "punishment",
+    "level": "B1",
+    "raw": "punishment n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "punishment",
+    "translationLookup": "punishment",
+    "ipaCandidates": {
+      "en-US": "/ˈpənɪʃmənt/",
+      "en-GB": "/pˈʌnɪʃmənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/punishment__Noun__1",
+        "sense": "act of punishing",
+        "translations": "ceza | mücazat",
+        "score": 116.1
+      },
+      {
+        "entry": "eng/punishment__Noun__1",
+        "sense": "penalty for wrongdoing",
+        "translations": "ceza",
+        "score": 19.7
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "qualification-2051",
+    "headword": "qualification",
+    "level": "B1",
+    "raw": "qualification n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "qualification",
+    "translationLookup": "qualification",
+    "ipaCandidates": {
+      "en-US": "/ˌkwɑɫəfəˈkeɪʃən/",
+      "en-GB": "/kwˌɒlɪfɪkˈeɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/qualification__Noun__1",
+        "sense": "an ability or attribute that aids someone's chances of qualifying for something",
+        "translations": "eleme",
+        "score": 10.0
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "nitelik",
+        "score": 2
+      },
+      {
+        "entry": "eng/qualification__Noun__1",
+        "sense": "added clause or condition; a limitation",
+        "translations": "şart",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/qualification__Noun__1",
+        "sense": "certificate, diploma, degree",
+        "translations": "belge",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "qualified-2055",
+    "headword": "qualified",
+    "level": "B1",
+    "raw": "qualified adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "qualified",
+    "translationLookup": "qualified",
+    "ipaCandidates": {
+      "en-US": "/ˈkwɑɫəˌfaɪd/",
+      "en-GB": "/kwˈɒlɪfˌaɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/qualified__Adjective__1",
+        "sense": "meeting requirements",
+        "translations": "kalifiye",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/qualified__Adjective__1",
+        "sense": "restricted or limited",
+        "translations": "sınırlandırılmış | sınırlı | tahdit edilmiş",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "qualify-2059",
+    "headword": "qualify",
+    "level": "B1",
+    "raw": "qualify v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "qualify",
+    "translationLookup": "qualify",
+    "ipaCandidates": {
+      "en-US": "/ˈkwɑɫəˌfaɪ/",
+      "en-GB": "/kwˈɒlɪfˌaɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/qualify__Verb__1",
+        "sense": "to compete successfully in some stage of a competition and become eligible for the next stage",
+        "translations": "nitelemek",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/qualify__Verb__1",
+        "sense": "to certify or license someone for something",
+        "translations": "nitelendirmek",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/qualify__Verb__1",
+        "sense": "to describe or characterize something by listing its qualities",
+        "translations": "nitelendirmek",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/qualify__Verb__1",
+        "sense": "to make someone, or to become competent or eligible for some position or task",
+        "translations": "nitelendirmek",
+        "score": 2.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "queue-2083",
+    "headword": "queue",
+    "level": "B1",
+    "raw": "queue n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "queue",
+    "translationLookup": "queue",
+    "ipaCandidates": {
+      "en-US": "/ˈkju/",
+      "en-GB": "/kjˈuː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/queue__Noun__1",
+        "sense": "line of people",
+        "translations": "kuyruk | sıra",
+        "score": 115.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "quit-2103",
+    "headword": "quit",
+    "level": "B1",
+    "raw": "quit v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "quit",
+    "translationLookup": "quit",
+    "ipaCandidates": {
+      "en-US": "/ˈkwɪt/",
+      "en-GB": "/kwˈɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/quit__Verb__1",
+        "sense": "to give up, stop doing something",
+        "translations": "bırakmak",
+        "score": 102.2
+      },
+      {
+        "entry": "eng/quit__Verb__1",
+        "sense": "to resign",
+        "translations": "istifa etmek",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "quotation-2111",
+    "headword": "quotation",
+    "level": "B1",
+    "raw": "quotation n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "quotation",
+    "translationLookup": "quotation",
+    "ipaCandidates": {
+      "en-US": "/kwoʊˈteɪʃən/",
+      "en-GB": "/kwəʊtˈeɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/quotation__Noun__1",
+        "sense": "act of naming a price; price that has been quoted",
+        "translations": "geçerli fiyat",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "quote-2115",
+    "headword": "quote",
+    "level": "B1",
+    "raw": "quote v., n. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "quote",
+    "translationLookup": "quote",
+    "ipaCandidates": {
+      "en-US": "/ˈkwoʊt/",
+      "en-GB": "/kwˈəʊt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/quote__Verb__1",
+        "sense": null,
+        "translations": "alıntılamak | alıntı yapmak | iktibas etmek",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/quote__Noun__1",
+        "sense": "a quotation mark",
+        "translations": "tırnak | tırnak işareti",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/quote__Noun__1",
+        "sense": "a statement attributed to someone",
+        "translations": "alıntı | iktibas | söz | vecize",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/quote__Verb__1",
+        "sense": "to indicate the start of a quotation",
+        "translations": "tırnak içine almak",
+        "score": 100
+      },
+      {
+        "entry": "eng/quote__Verb__1",
+        "sense": "to name the current price",
+        "translations": "fiyat söylemek",
+        "score": 100
+      },
+      {
+        "entry": "eng/quote__Verb__1",
+        "sense": "to observe, to take account of",
+        "translations": "akılta tutmak | belirtmek | dikkate almak | göz önünde bulundurmak | göz önüne almak | hesaba katmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/quote__Verb__1",
+        "sense": "to prepare a summary of work to be done and set a price",
+        "translations": "fiyat teklif etmek | piyasa fiyatını bildirmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "race-people--2123",
+    "headword": "race (people)",
+    "level": "B1",
+    "raw": "race (people) n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "race",
+    "translationLookup": "race",
+    "ipaCandidates": {
+      "en-US": "/ˈɹeɪs/",
+      "en-GB": "/ɹˈeɪs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/race__Noun__1",
+        "sense": "contest",
+        "translations": "yarış | müsabaka",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/race__Noun__2",
+        "sense": "a large group of people distinguished from others on the basis of a common heritage",
+        "translations": "ırk",
+        "score": 111.1
+      },
+      {
+        "entry": "eng/race__Noun__1",
+        "sense": "to take part in a race",
+        "translations": "yarışmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "racing-2127",
+    "headword": "racing",
+    "level": "B1",
+    "raw": "racing n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "racing",
+    "translationLookup": "racing",
+    "ipaCandidates": {
+      "en-US": "/ˈɹeɪsɪŋ/",
+      "en-GB": "/ɹˈeɪsɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "yarışma",
+        "score": 2
+      },
+      {
+        "entry": "eng/racing__Noun__1",
+        "sense": "the sport of competing in races",
+        "translations": "koşu",
+        "score": 1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "range-2147",
+    "headword": "range",
+    "level": "B1",
+    "raw": "range n. B1, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "range",
+    "translationLookup": "range",
+    "ipaCandidates": {
+      "en-US": "/ˈɹeɪndʒ/",
+      "en-GB": "/ɹˈeɪndʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/range__Noun__1",
+        "sense": null,
+        "translations": "menzil | Değer kümesi",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/range__Noun__1",
+        "sense": "line of mountains, buildings etc.",
+        "translations": "sıradağ",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "rare-2163",
+    "headword": "rare",
+    "level": "B1",
+    "raw": "rare adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "rare",
+    "translationLookup": "rare",
+    "ipaCandidates": {
+      "en-US": "/ˈɹɛɹ/",
+      "en-GB": "/ɹˈeə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/rare__Adjective__1",
+        "sense": null,
+        "translations": "nadir | ender | nadide",
+        "score": 123.6
+      }
+    ],
+    "needsExternal": []
+  }
+]

@@ -1,0 +1,17 @@
+# Cloudflare Pages
+#
+# Bu dosya yalnız DEPLOY yapılandırması içindir; sayfa günlük geliştirmede
+# kullanılmaz. Dashboard'da ayrıca build komutu ve çıktı dizini elle
+# giriliyorsa bu dosya ile çelişmeyin.
+#
+# Dağıtım:
+#   npm run deploy          (build + pages deploy)
+#   npx wrangler pages deploy dist --project-name=kelime-rotasi
+#
+# Bu dosya tanımlandığı için Pages ayarlarının kaynağı dashboard değil bu
+# dosya olur: pages_build_output_dir, name, compatibility_date alanları
+# dashboard'dan artık değiştirilemez.
+
+name = "kelime-rotasi"
+pages_build_output_dir = "./dist"
+compatibility_date = "2026-10-02"

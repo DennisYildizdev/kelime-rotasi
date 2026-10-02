@@ -1,0 +1,4984 @@
+[
+  {
+    "id": "a-an-1",
+    "headword": "a, an",
+    "lookupLemma": "a",
+    "pos": "indefinite article",
+    "senses": [
+      {
+        "partOfSpeech": "indefinite article",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈeɪ/, /ə/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/a__Article__1",
+        "sense": "indefinite article",
+        "translations": "bir | bi | bi'",
+        "score": 102.2
+      },
+      {
+        "entry": "eng/a__Noun__1",
+        "sense": "name of the letter A, a",
+        "translations": "a",
+        "score": 100
+      }
+    ],
+    "existing": {
+      "translation": "bir",
+      "ipa": "/ə; eɪ/",
+      "example": "I have a book.",
+      "exampleTr": "Bir kitabım var.",
+      "approxTr": "ı; ey",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/ə; eɪ/",
+          "approxTr": "ı; ey"
+        },
+        "en-GB": {
+          "ipa": "/ə; eɪ/",
+          "approxTr": "ı; ey"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır.",
+      "displayWord": "a",
+      "speechText": "a",
+      "contentNote": "Kaynak başlık a, an olarak korunur. Bu pilot kart yalnızca a biçimini öğretir; an için ayrı içerik henüz yoktur."
+    }
+  },
+  {
+    "id": "about-17",
+    "headword": "about",
+    "lookupLemma": "about",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep., adv.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/əˈbaʊt/",
+      "en-GB": "/ɐbˈaʊt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/about__Adverb__1",
+        "sense": "nearly, approximately",
+        "translations": "yaklaşık",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/about__Preposition__1",
+        "sense": null,
+        "translations": "yaklaşık",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/about__Preposition__1",
+        "sense": "concerning",
+        "translations": "dair | hakkında",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/about__Preposition__1",
+        "sense": "on every side of",
+        "translations": "etrafında | çepeçevre | çevresinde",
+        "score": 100
+      },
+      {
+        "entry": "eng/about__Preposition__1",
+        "sense": "over or upon different parts of",
+        "translations": "etrafında | hakkında | tarafta | çevresinde",
+        "score": 100
+      }
+    ],
+    "existing": {
+      "translation": "hakkında, yaklaşık",
+      "ipa": "/əˈbaʊt/",
+      "example": "Tell me about your day.",
+      "exampleTr": "Bana gününü anlat.",
+      "approxTr": "ı-baut",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/əˈbaʊt/",
+          "approxTr": "ı-baut"
+        },
+        "en-GB": {
+          "ipa": "/əˈbaʊt/",
+          "approxTr": "ı-baut"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "above-21",
+    "headword": "above",
+    "lookupLemma": "above",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep., adv.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/əˈbəv/",
+      "en-GB": "/əbˈʌv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/above__Preposition__1",
+        "sense": "in or to a higher place",
+        "translations": "yukarıya",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/above__Preposition__1",
+        "sense": null,
+        "translations": "üstünde",
+        "score": 100
+      },
+      {
+        "entry": "eng/above__Preposition__1",
+        "sense": "more",
+        "translations": "daha",
+        "score": 100
+      },
+      {
+        "entry": "eng/above__Preposition__1",
+        "sense": "superior to, surpassing",
+        "translations": "üstünde",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "across-97",
+    "headword": "across",
+    "lookupLemma": "across",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep., adv.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/əˈkɹɔs/",
+      "en-GB": "/əkɹˈɒs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/across__Preposition__1",
+        "sense": "from the far side",
+        "translations": "üzerinde",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/across__Preposition__1",
+        "sense": "on the opposite side",
+        "translations": "-in karşısında",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/across__Adverb__1",
+        "sense": "crosswords: horizontally",
+        "translations": "yatay",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/across__Adverb__1",
+        "sense": "in a particular direction",
+        "translations": "başına",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/across__Preposition__1",
+        "sense": "from one side to another",
+        "translations": "bitti",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "id": "action-105",
+    "headword": "action",
+    "lookupLemma": "action",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈækʃən/",
+      "en-GB": "/ˈækʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/action__Noun__1",
+        "sense": "fast-paced activity",
+        "translations": "aksiyon",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/action__Noun__1",
+        "sense": "something done so as to accomplish a purpose",
+        "translations": "eylem | fiil | aksiyon | amel",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/action__Noun__1",
+        "sense": "slang: intercourse",
+        "translations": "münasebet",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "activity-113",
+    "headword": "activity",
+    "lookupLemma": "activity",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ækˈtɪvəti/, /ækˈtɪvɪti/",
+      "en-GB": "/æktˈɪvɪti/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/activity__Noun__1",
+        "sense": "something done for pleasure or entertainment",
+        "translations": "aktivite | etkinlik",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/activity__Noun__1",
+        "sense": "state or quality of being active",
+        "translations": "aktivite | faaliyet",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/activity__Noun__1",
+        "sense": "something done as an action or a movement",
+        "translations": "etkinlik | aktivite",
+        "score": 22.5
+      }
+    ]
+  },
+  {
+    "id": "actor-117",
+    "headword": "actor",
+    "lookupLemma": "actor",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈæktɝ/",
+      "en-GB": "/ˈæktɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/actor__Noun__1",
+        "sense": "dramatic performer",
+        "translations": "oyuncu | aktör | aktris",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/actor__Noun__1",
+        "sense": "one who takes part in action; a doer",
+        "translations": "aktör",
+        "score": 110.0
+      }
+    ]
+  },
+  {
+    "id": "actress-121",
+    "headword": "actress",
+    "lookupLemma": "actress",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈæktɹəs/",
+      "en-GB": "/ˈæktɹəs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/actress__Noun__1",
+        "sense": "female actor",
+        "translations": "aktris",
+        "score": 155.0
+      }
+    ]
+  },
+  {
+    "id": "add-141",
+    "headword": "add",
+    "lookupLemma": "add",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈæd/",
+      "en-GB": "/ˈæd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/add__Verb__1",
+        "sense": "to append (e.g. a statement); to say further information; to add on",
+        "translations": "eklemek",
+        "score": 111.0
+      },
+      {
+        "entry": "eng/add__Verb__1",
+        "sense": "to perform the arithmetical operation of addition, to add up",
+        "translations": "toplamak",
+        "score": 20.0
+      }
+    ],
+    "existing": {
+      "translation": "eklemek",
+      "ipa": "/æd/",
+      "example": "Add some water.",
+      "exampleTr": "Biraz su ekle.",
+      "approxTr": "ed",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/æd/",
+          "approxTr": "ed"
+        },
+        "en-GB": {
+          "ipa": "/æd/",
+          "approxTr": "ed"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "address-153",
+    "headword": "address",
+    "lookupLemma": "address",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈæˌdɹɛs/, /əˈdɹɛs/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/address__Noun__1",
+        "sense": null,
+        "translations": "adres | unvan | hitap | konuşma",
+        "score": 191.1
+      },
+      {
+        "entry": "eng/address__Noun__1",
+        "sense": "polite romantic advance",
+        "translations": "konuşma | hitabe | söylev",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/address__Noun__1",
+        "sense": "act of addressing oneself to a person or group",
+        "translations": "başvuru",
+        "score": 100
+      },
+      {
+        "entry": "eng/address__Noun__1",
+        "sense": "manner of speaking to another",
+        "translations": "tarz",
+        "score": 100
+      },
+      {
+        "entry": "eng/address__Noun__1",
+        "sense": "preparedness for a task, skill",
+        "translations": "beceri | hüner",
+        "score": 100
+      },
+      {
+        "entry": "eng/address__Verb__1",
+        "sense": "reflexively: to prepare oneself",
+        "translations": "kendini hazırlamak",
+        "score": 100
+      },
+      {
+        "entry": "eng/address__Noun__1",
+        "sense": "computing: location in computer memory",
+        "translations": "adres",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/address__Noun__1",
+        "sense": "string of characters identifying a node or range of nodes on the Internet or other network",
+        "translations": "adres",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/address__Noun__1",
+        "sense": "property",
+        "translations": "adres",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "id": "adult-173",
+    "headword": "adult",
+    "lookupLemma": "adult",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "adj.",
+        "level": "A2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈædəɫt/, /əˈdəɫt/",
+      "en-GB": "/ˈædʌlt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/adult__Noun__1",
+        "sense": "fully grown human",
+        "translations": "yetişkin",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/adult__Adjective__1",
+        "sense": "fully grown",
+        "translations": "yetişkin | ergin",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/adult__Adjective__1",
+        "sense": "intended for adults",
+        "translations": "yetişkin",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "advice-205",
+    "headword": "advice",
+    "lookupLemma": "advice",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ædˈvaɪs/, /ədˈvaɪs/",
+      "en-GB": "/ɐdvˈaɪs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/advice__Noun__1",
+        "sense": "opinion offered to guide behavior",
+        "translations": "öğüt | tavsiye | öneri",
+        "score": 140.0
+      }
+    ]
+  },
+  {
+    "id": "afraid-225",
+    "headword": "afraid",
+    "lookupLemma": "afraid",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/əˈfɹeɪd/",
+      "en-GB": "/ɐfɹˈeɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/afraid__Adjective__1",
+        "sense": "impressed with fear or apprehension; in fear; apprehensive",
+        "translations": "korkak",
+        "score": 100.0
+      }
+    ]
+  },
+  {
+    "id": "after-229",
+    "headword": "after",
+    "lookupLemma": "after",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "conj., adv.",
+        "level": "A2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈæftɝ/",
+      "en-GB": "/ˈɑːftɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/after__Adverb__1",
+        "sense": "behind; later in time; following",
+        "translations": "sonra",
+        "score": 111.2
+      },
+      {
+        "entry": "eng/after__Preposition__1",
+        "sense": "subsequently; following in time; later than",
+        "translations": "sonra",
+        "score": 110.6
+      },
+      {
+        "entry": "eng/after__Preposition__1",
+        "sense": "as a result of",
+        "translations": "sonrasında | sonucunda",
+        "score": 100
+      },
+      {
+        "entry": "eng/after__Preposition__1",
+        "sense": "behind",
+        "translations": "ardından | arkasında",
+        "score": 100
+      },
+      {
+        "entry": "eng/after__Preposition__1",
+        "sense": "in pursuit of, seeking",
+        "translations": "ardında | arkasında | peşinde",
+        "score": 100
+      },
+      {
+        "entry": "eng/after__Preposition__1",
+        "sense": "in spite of",
+        "translations": "yerine",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "afternoon-233",
+    "headword": "afternoon",
+    "lookupLemma": "afternoon",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˌæftɝˈnun/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/afternoon__Noun__1",
+        "sense": "part of the day between noon and evening",
+        "translations": "öğleden sonra | ikindi",
+        "score": 131.1
+      }
+    ],
+    "existing": {
+      "translation": "öğleden sonra",
+      "ipa": "/ˌɑːftəˈnuːn/",
+      "example": "See you this afternoon.",
+      "exampleTr": "Bu öğleden sonra görüşürüz.",
+      "approxTr": "ef-tır-nuun",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/ˌæftərˈnuːn/",
+          "approxTr": "ef-tır-nuun"
+        },
+        "en-GB": {
+          "ipa": "/ˌɑːftəˈnuːn/",
+          "approxTr": "aaf-tı-nuun"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "again-241",
+    "headword": "again",
+    "lookupLemma": "again",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/əˈɡeɪn/, /əˈɡɛn/",
+      "en-GB": "/ɐɡˈɛn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/again__Adverb__1",
+        "sense": null,
+        "translations": "yine | tekrar | yeniden | gene | bir daha",
+        "score": 122.5
+      }
+    ],
+    "existing": {
+      "translation": "tekrar, yeniden",
+      "ipa": "/əˈɡen/",
+      "example": "Please say it again.",
+      "exampleTr": "Lütfen tekrar söyle.",
+      "approxTr": "ı-gen",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/əˈɡen/",
+          "approxTr": "ı-gen"
+        },
+        "en-GB": {
+          "ipa": "/əˈɡen/",
+          "approxTr": "ı-gen"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "age-249",
+    "headword": "age",
+    "lookupLemma": "age",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈeɪdʒ/",
+      "en-GB": "/ˈeɪdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/age__Noun__1",
+        "sense": "one of the stages of life",
+        "translations": "yaş | çağ",
+        "score": 180.0
+      },
+      {
+        "entry": "eng/age__Noun__1",
+        "sense": "amount of time since the birth of a being or the beginning of a thing",
+        "translations": "yaş",
+        "score": 170.0
+      },
+      {
+        "entry": "eng/age__Verb__1",
+        "sense": "intransitive: become old",
+        "translations": "yaşlanmak",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/age__Noun__1",
+        "sense": "lifespan",
+        "translations": "ömür | yaşam",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/age__Noun__1",
+        "sense": "great period in the history of the Earth",
+        "translations": "çağ | çığır",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/age__Noun__1",
+        "sense": "a long time",
+        "translations": "devir | çağ",
+        "score": 100
+      },
+      {
+        "entry": "eng/age__Noun__1",
+        "sense": "generation",
+        "translations": "jenerasyon | kuşak | nesil",
+        "score": 100
+      },
+      {
+        "entry": "eng/age__Noun__1",
+        "sense": "particular period of time in history",
+        "translations": "çağ | çığır",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/age__Noun__1",
+        "sense": "state of being old; latter part of life",
+        "translations": "yaşlılık",
+        "score": 100
+      },
+      {
+        "entry": "eng/age__Noun__1",
+        "sense": "time of life at which one attains full personal rights and capacities",
+        "translations": "ergin | yetişkin",
+        "score": 100
+      },
+      {
+        "entry": "eng/age__Noun__1",
+        "sense": "time of life at which some particular power or capacity is understood to become vested",
+        "translations": "olgunluk",
+        "score": 100
+      },
+      {
+        "entry": "eng/age__Verb__1",
+        "sense": "transitive: cause to grow old",
+        "translations": "yaşlandırmak",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "ago-22",
+    "headword": "ago",
+    "lookupLemma": "ago",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/əˈɡoʊ/",
+      "en-GB": "/ɐɡˈəʊ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/ago__Postposition__1",
+        "sense": "past; gone by; since",
+        "translations": "önce",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "agree-26",
+    "headword": "agree",
+    "lookupLemma": "agree",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/əˈɡɹi/",
+      "en-GB": "/ɐɡɹˈiː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/agree__Verb__1",
+        "sense": null,
+        "translations": "onaylamak | anlaşmak | kabul etmek | katılmak",
+        "score": 110.0
+      }
+    ]
+  },
+  {
+    "id": "air-50",
+    "headword": "air",
+    "lookupLemma": "air",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɛɹ/",
+      "en-GB": "/ˈeə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/air__Noun__1",
+        "sense": "historical: one of the basic elements",
+        "translations": "hava | tenek",
+        "score": 192.5
+      },
+      {
+        "entry": "eng/air__Noun__1",
+        "sense": "mixture of gases making up the atmosphere of the Earth",
+        "translations": "hava",
+        "score": 192.5
+      },
+      {
+        "entry": "eng/air__Verb__1",
+        "sense": "to ventilate",
+        "translations": "havalandırmak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/air__Noun__1",
+        "sense": "music: a song, an aria",
+        "translations": "arya | hava",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/air__Verb__1",
+        "sense": "to broadcast",
+        "translations": "yayınlamak",
+        "score": 100
+      },
+      {
+        "entry": "eng/air__Noun__1",
+        "sense": "the apparently open space above the ground",
+        "translations": "hava",
+        "score": 20.0
+      }
+    ],
+    "existing": {
+      "translation": "hava",
+      "ipa": "/eə(r)/",
+      "example": "The air is cold.",
+      "exampleTr": "Hava soğuk.",
+      "approxTr": "er",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/er/",
+          "approxTr": "er"
+        },
+        "en-GB": {
+          "ipa": "/eə/",
+          "approxTr": "eı"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "airport-62",
+    "headword": "airport",
+    "lookupLemma": "airport",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɛɹˌpɔɹt/",
+      "en-GB": "/ˈeəpɔːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/airport__Noun__1",
+        "sense": "place designated for airplanes",
+        "translations": "havalimanı | havaalanı",
+        "score": 177.5
+      }
+    ],
+    "existing": {
+      "translation": "havalimanı",
+      "ipa": "/ˈeəpɔːt/",
+      "example": "We are at the airport.",
+      "exampleTr": "Havalimanındayız.",
+      "approxTr": "er-port",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/ˈerpɔːrt/",
+          "approxTr": "er-port"
+        },
+        "en-GB": {
+          "ipa": "/ˈeəpɔːt/",
+          "approxTr": "eı-poot"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "all-86",
+    "headword": "all",
+    "lookupLemma": "all",
+    "pos": "det.",
+    "senses": [
+      {
+        "partOfSpeech": "det., pron.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "adv.",
+        "level": "A2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɔɫ/",
+      "en-GB": "/ˈɔːl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/all__Determiner__1",
+        "sense": "throughout the whole of (a stated period of time)",
+        "translations": "bütün",
+        "score": 113.6
+      },
+      {
+        "entry": "eng/all__Determiner__1",
+        "sense": "every individual of the given class",
+        "translations": "bütün | tüm",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/all__Adverb__1",
+        "sense": null,
+        "translations": "tamamen",
+        "score": 100
+      },
+      {
+        "entry": "eng/all__Adverb__1",
+        "sense": "wholly",
+        "translations": "bütünüyle | tamamen | tümden",
+        "score": 100
+      },
+      {
+        "entry": "eng/all__Determiner__1",
+        "sense": null,
+        "translations": "hepsi | tamamı",
+        "score": 100
+      }
+    ],
+    "existing": {
+      "translation": "bütün, tüm",
+      "ipa": "/ɔːl/",
+      "example": "All the doors are open.",
+      "exampleTr": "Bütün kapılar açık.",
+      "approxTr": "ool",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/ɔːl/",
+          "approxTr": "ool"
+        },
+        "en-GB": {
+          "ipa": "/ɔːl/",
+          "approxTr": "ool"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "also-114",
+    "headword": "also",
+    "lookupLemma": "also",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɔɫsoʊ/",
+      "en-GB": "/ˈɒlsəʊ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/also__Adverb__1",
+        "sense": "in addition; besides; as well; further; too",
+        "translations": "ayrıca | de | da | hem",
+        "score": 110.3
+      }
+    ]
+  },
+  {
+    "id": "always-130",
+    "headword": "always",
+    "lookupLemma": "always",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɔɫˌweɪz/, /ˈɔɫwiz/",
+      "en-GB": "/ˈɔːlweɪz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/always__Adverb__1",
+        "sense": "at all times",
+        "translations": "daima | her zaman | hep",
+        "score": 136.5
+      },
+      {
+        "entry": "eng/always__Adverb__1",
+        "sense": null,
+        "translations": "her zaman",
+        "score": 100
+      },
+      {
+        "entry": "eng/always__Adverb__1",
+        "sense": "constantly during a certain period, or regularly at stated intervals",
+        "translations": "daima | her zaman",
+        "score": 33.6
+      }
+    ],
+    "existing": {
+      "translation": "her zaman",
+      "ipa": "/ˈɔːlweɪz/",
+      "example": "She always smiles.",
+      "exampleTr": "O her zaman gülümser.",
+      "approxTr": "ool-veyz",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/ˈɔːlweɪz/",
+          "approxTr": "ool-veyz"
+        },
+        "en-GB": {
+          "ipa": "/ˈɔːlweɪz/",
+          "approxTr": "ool-veyz"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "amazing-138",
+    "headword": "amazing",
+    "lookupLemma": "amazing",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/əˈmeɪzɪŋ/",
+      "en-GB": "/ɐmˈeɪzɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/amazing__Adjective__1",
+        "sense": "causing wonder and amazement",
+        "translations": "şaşırtıcı",
+        "score": 100.0
+      }
+    ],
+    "existing": {
+      "translation": "şaşırtıcı, harika",
+      "ipa": "/əˈmeɪzɪŋ/",
+      "example": "The view is amazing.",
+      "exampleTr": "Manzara harika.",
+      "approxTr": "ı-mey-zing",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/əˈmeɪzɪŋ/",
+          "approxTr": "ı-mey-zing"
+        },
+        "en-GB": {
+          "ipa": "/əˈmeɪzɪŋ/",
+          "approxTr": "ı-mey-zing"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "and-170",
+    "headword": "and",
+    "lookupLemma": "and",
+    "pos": "conj.",
+    "senses": [
+      {
+        "partOfSpeech": "conj.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈænd/, /ənd/",
+      "en-GB": "/ˈænd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/and__Conjunction__1",
+        "sense": "used to connect two similar words, phrases, et cetera",
+        "translations": "ve | ile",
+        "score": 193.5
+      },
+      {
+        "entry": "eng/and__Conjunction__1",
+        "sense": "used at the end of a list to indicate the last item",
+        "translations": "ve | ile",
+        "score": 83.5
+      },
+      {
+        "entry": "eng/and__Conjunction__1",
+        "sense": "used to string together sentences or sentence fragments in chronological order",
+        "translations": "ve | ile",
+        "score": 61.0
+      },
+      {
+        "entry": "eng/and__Conjunction__1",
+        "sense": "used to show causation",
+        "translations": "ve | ile",
+        "score": 30.0
+      }
+    ],
+    "existing": {
+      "translation": "ve",
+      "ipa": "/ænd; ən/",
+      "example": "Tea and coffee.",
+      "exampleTr": "Çay ve kahve.",
+      "approxTr": "end; ın",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/ænd; ən/",
+          "approxTr": "end; ın"
+        },
+        "en-GB": {
+          "ipa": "/ænd; ən/",
+          "approxTr": "end; ın"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "angry-182",
+    "headword": "angry",
+    "lookupLemma": "angry",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈæŋɡɹi/",
+      "en-GB": "/ˈæŋɡɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/angry__Adjective__1",
+        "sense": "displaying anger",
+        "translations": "kızgın | asabi | sinirli | öfkeli",
+        "score": 132.9
+      }
+    ],
+    "existing": {
+      "translation": "kızgın",
+      "ipa": "/ˈæŋɡri/",
+      "example": "He is not angry.",
+      "exampleTr": "O kızgın değil.",
+      "approxTr": "eng-gri",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/ˈæŋɡri/",
+          "approxTr": "eng-gri"
+        },
+        "en-GB": {
+          "ipa": "/ˈæŋɡri/",
+          "approxTr": "eng-gri"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "animal-186",
+    "headword": "animal",
+    "lookupLemma": "animal",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈænəməɫ/",
+      "en-GB": "/ˈænɪməl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/animal__Noun__1",
+        "sense": "organism",
+        "translations": "hayvan | döngül | töm | çer",
+        "score": 168.6
+      },
+      {
+        "entry": "eng/animal__Noun__1",
+        "sense": "organism other than human",
+        "translations": "hayvan",
+        "score": 156.1
+      },
+      {
+        "entry": "eng/animal__Noun__1",
+        "sense": "person who behaves wildly",
+        "translations": "hayvan | dingil",
+        "score": 143.6
+      },
+      {
+        "entry": "eng/animal__Adjective__1",
+        "sense": "of animals",
+        "translations": "hayvansal | hayvanca | hayvanî",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/animal__Adjective__1",
+        "sense": "unhindered by social codes",
+        "translations": "hayvanca | hayvanî",
+        "score": 100
+      }
+    ],
+    "existing": {
+      "translation": "hayvan",
+      "ipa": "/ˈænɪməl/",
+      "example": "A dog is an animal.",
+      "exampleTr": "Köpek bir hayvandır.",
+      "approxTr": "e-ni-mıl",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/ˈænɪməl/",
+          "approxTr": "e-ni-mıl"
+        },
+        "en-GB": {
+          "ipa": "/ˈænɪməl/",
+          "approxTr": "e-ni-mıl"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "another-222",
+    "headword": "another",
+    "lookupLemma": "another",
+    "pos": "det.",
+    "senses": [
+      {
+        "partOfSpeech": "det./pron.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/əˈnəðɝ/",
+      "en-GB": "/ɐnˈʌðɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/another__Determiner__1",
+        "sense": "not the same; different",
+        "translations": "başka | farklı",
+        "score": 103.1
+      },
+      {
+        "entry": "eng/another__Determiner__1",
+        "sense": "any or some",
+        "translations": "başka",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/another__Determiner__1",
+        "sense": "one more, in addition to a former number",
+        "translations": "bir | daha",
+        "score": 100.0
+      }
+    ]
+  },
+  {
+    "id": "answer-226",
+    "headword": "answer",
+    "lookupLemma": "answer",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈænsɝ/",
+      "en-GB": "/ˈɑːnsɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/answer__Noun__1",
+        "sense": "response",
+        "translations": "cevap | yanıt",
+        "score": 161.1
+      },
+      {
+        "entry": "eng/answer__Verb__1",
+        "sense": "to make a reply or response to",
+        "translations": "cevap vermek | cevaplamak | yanıt vermek | yanıtlamak",
+        "score": 122.2
+      },
+      {
+        "entry": "eng/answer__Verb__1",
+        "sense": "to respond to a call",
+        "translations": "açmak | bakmak | cevaplamak | yanıtlamak",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/answer__Noun__1",
+        "sense": "reply to email",
+        "translations": "cevap",
+        "score": 41.1
+      },
+      {
+        "entry": "eng/answer__Noun__1",
+        "sense": "solution",
+        "translations": "cevap",
+        "score": 31.1
+      }
+    ],
+    "existing": {
+      "translation": "cevap; cevaplamak",
+      "ipa": "/ˈɑːnsə(r)/",
+      "example": "I know the answer.",
+      "exampleTr": "Cevabı biliyorum.",
+      "approxTr": "en-sır",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/ˈænsər/",
+          "approxTr": "en-sır"
+        },
+        "en-GB": {
+          "ipa": "/ˈɑːnsə/",
+          "approxTr": "aan-sı"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "any-234",
+    "headword": "any",
+    "lookupLemma": "any",
+    "pos": "det.",
+    "senses": [
+      {
+        "partOfSpeech": "det., pron.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "adv.",
+        "level": "A2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɛni/",
+      "en-GB": "/ˈɛni/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/any__Determiner__1",
+        "sense": "no matter what kind",
+        "translations": "beher",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/any__Determiner__1",
+        "sense": "at least one (kind)",
+        "translations": "herhangi bir",
+        "score": 1.1
+      },
+      {
+        "entry": "eng/any__Adverb__1",
+        "sense": "at all",
+        "translations": "ulaşmak",
+        "score": 1
+      },
+      {
+        "entry": "eng/any__Pronoun__1",
+        "sense": "Any things or persons",
+        "translations": "her",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "id": "anyone-246",
+    "headword": "anyone",
+    "lookupLemma": "anyone",
+    "pos": "pron.",
+    "senses": [
+      {
+        "partOfSpeech": "pron.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɛniˌwən/, /ˈɛniwən/",
+      "en-GB": "/ˈɛnɪwˌɒn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/anyone__Pronoun__1",
+        "sense": "anybody",
+        "translations": "kim",
+        "score": 2.5
+      }
+    ]
+  },
+  {
+    "id": "anything-250",
+    "headword": "anything",
+    "lookupLemma": "anything",
+    "pos": "pron.",
+    "senses": [
+      {
+        "partOfSpeech": "pron.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɛniˌθɪŋ/",
+      "en-GB": "/ˈɛnɪθˌɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/anything__Pronoun__1",
+        "sense": "any thing of any kind",
+        "translations": "bir şey",
+        "score": 2.5
+      }
+    ]
+  },
+  {
+    "id": "apartment-15",
+    "headword": "apartment",
+    "lookupLemma": "apartment",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/əˈpɑɹtmənt/",
+      "en-GB": "/ɐpˈɑːtmənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/apartment__Noun__1",
+        "sense": "domicile occupying part of a building",
+        "translations": "daire | apartman | apartman dairesi",
+        "score": 103.1
+      }
+    ]
+  },
+  {
+    "id": "apple-47",
+    "headword": "apple",
+    "lookupLemma": "apple",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈæpəɫ/",
+      "en-GB": "/ˈæpəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/apple__Noun__1",
+        "sense": "fruit of Malus domestica",
+        "translations": "elma | tüffah",
+        "score": 230.0
+      }
+    ],
+    "existing": {
+      "translation": "elma",
+      "ipa": "/ˈæpəl/",
+      "example": "This apple is red.",
+      "exampleTr": "Bu elma kırmızı.",
+      "approxTr": "e-pıl",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/ˈæpəl/",
+          "approxTr": "e-pıl"
+        },
+        "en-GB": {
+          "ipa": "/ˈæpəl/",
+          "approxTr": "e-pıl"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "april-87",
+    "headword": "April",
+    "lookupLemma": "April",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈeɪpɹəɫ/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/April__Proper_noun__1",
+        "sense": "fourth month of the Gregorian calendar",
+        "translations": "nisan | açaray",
+        "score": 212.5
+      }
+    ]
+  },
+  {
+    "id": "area-99",
+    "headword": "area",
+    "lookupLemma": "area",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɛɹiə/",
+      "en-GB": "/ˈeəɹiə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/area__Noun__1",
+        "sense": "particular geographic region",
+        "translations": "alan | bölge",
+        "score": 121.7
+      },
+      {
+        "entry": "eng/area__Noun__1",
+        "sense": "maths: measure of extent of a surface",
+        "translations": "alan",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/area__Noun__1",
+        "sense": "any particular extent",
+        "translations": "alan",
+        "score": 20.0
+      }
+    ],
+    "existing": {
+      "translation": "alan, bölge",
+      "ipa": "/ˈeəriə/",
+      "example": "This is a quiet area.",
+      "exampleTr": "Burası sakin bir bölge.",
+      "approxTr": "e-ri-ı",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/ˈeriə/",
+          "approxTr": "e-ri-ı"
+        },
+        "en-GB": {
+          "ipa": "/ˈeəriə/",
+          "approxTr": "eı-ri-ı"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "arm-115",
+    "headword": "arm",
+    "lookupLemma": "arm",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɑɹm/",
+      "en-GB": "/ˈɑːm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/arm__Noun__1",
+        "sense": "upper appendage from shoulder to wrist",
+        "translations": "kol",
+        "score": 190.0
+      },
+      {
+        "entry": "eng/arm__Noun__2",
+        "sense": "weapon",
+        "translations": "silah",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/arm__Verb__2",
+        "sense": "to supply with armour or weapons",
+        "translations": "silahlandırmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/arm__Verb__2",
+        "sense": "to take up weapons; to arm oneself",
+        "translations": "silahlanmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/arm__Noun__1",
+        "sense": "part of a chromosome",
+        "translations": "kol",
+        "score": 60.0
+      },
+      {
+        "entry": "eng/arm__Noun__1",
+        "sense": "part of object",
+        "translations": "kol",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "id": "around-131",
+    "headword": "around",
+    "lookupLemma": "around",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep., adv.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ɝˈaʊn/, /ɝˈaʊnd/",
+      "en-GB": "/ɐɹˈaʊnd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/around__Preposition__1",
+        "sense": "forming a circle or closed curve containing",
+        "translations": "etrafında",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "arrive-151",
+    "headword": "arrive",
+    "lookupLemma": "arrive",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ɝˈaɪv/",
+      "en-GB": "/ɐɹˈaɪv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/arrive__Verb__1",
+        "sense": "to get to a certain place",
+        "translations": "varmak | ulaşmak",
+        "score": 111.3
+      },
+      {
+        "entry": "eng/arrive__Verb__1",
+        "sense": "to reach",
+        "translations": "varmak | ulaşmak",
+        "score": 111.3
+      }
+    ],
+    "existing": {
+      "translation": "varmak, ulaşmak",
+      "ipa": "/əˈraɪv/",
+      "example": "We arrive at six.",
+      "exampleTr": "Saat altıda varırız.",
+      "approxTr": "ı-rayv",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/əˈraɪv/",
+          "approxTr": "ı-rayv"
+        },
+        "en-GB": {
+          "ipa": "/əˈraɪv/",
+          "approxTr": "ı-rayv"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "art-155",
+    "headword": "art",
+    "lookupLemma": "art",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɑɹt/",
+      "en-GB": "/ˈɑːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/art__Noun__1",
+        "sense": "human effort",
+        "translations": "sanat | dörüt | elişi | epik | zanaat",
+        "score": 183.5
+      },
+      {
+        "entry": "eng/art__Noun__1",
+        "sense": "conscious production or arrangement",
+        "translations": "sanat | dörüt",
+        "score": 173.5
+      },
+      {
+        "entry": "eng/art__Noun__1",
+        "sense": "skillful creative activity",
+        "translations": "sanat | dörüt",
+        "score": 163.5
+      },
+      {
+        "entry": "eng/art__Noun__1",
+        "sense": "skill",
+        "translations": "sanat",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/art__Noun__1",
+        "sense": null,
+        "translations": "sanat",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/art__Noun__1",
+        "sense": "aesthetic value",
+        "translations": "sanatsallık | sanat",
+        "score": 100
+      },
+      {
+        "entry": "eng/art__Noun__1",
+        "sense": "artwork",
+        "translations": "eser | sanat eseri | yapıt",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/art__Noun__1",
+        "sense": "study",
+        "translations": "sanat",
+        "score": 41.0
+      },
+      {
+        "entry": "eng/art__Noun__1",
+        "sense": "field or category of art",
+        "translations": "sanat",
+        "score": 32.5
+      },
+      {
+        "entry": "eng/art__Noun__1",
+        "sense": "nonscientific branch of learning",
+        "translations": "sanat",
+        "score": 20.0
+      }
+    ],
+    "existing": {
+      "translation": "sanat",
+      "ipa": "/ɑːt/",
+      "example": "I enjoy modern art.",
+      "exampleTr": "Modern sanattan hoşlanırım.",
+      "approxTr": "aart",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/ɑːrt/",
+          "approxTr": "aart"
+        },
+        "en-GB": {
+          "ipa": "/ɑːt/",
+          "approxTr": "aat"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "article-159",
+    "headword": "article",
+    "lookupLemma": "article",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɑɹtəkəɫ/, /ˈɑɹtɪkəɫ/",
+      "en-GB": "/ˈɑːtɪkəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/article__Noun__1",
+        "sense": "story, report, or opinion piece",
+        "translations": "makale | betke",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/article__Noun__1",
+        "sense": "part of speech that specifies a noun",
+        "translations": "tanımlık | harfitarif",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/article__Noun__1",
+        "sense": "section of a legal document",
+        "translations": "madde | makale",
+        "score": 110.0
+      }
+    ]
+  },
+  {
+    "id": "artist-167",
+    "headword": "artist",
+    "lookupLemma": "artist",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɑɹtəst/, /ˈɑɹtɪst/",
+      "en-GB": "/ˈɑːtɪst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/artist__Noun__1",
+        "sense": "person who creates art",
+        "translations": "sanatçı | ressam | dörütmen | dörütçü",
+        "score": 141.1
+      },
+      {
+        "entry": "eng/artist__Noun__1",
+        "sense": "person who creates art as an occupation",
+        "translations": "sanatçı | dörütmen | dörütçü",
+        "score": 141.1
+      },
+      {
+        "entry": "eng/artist__Noun__1",
+        "sense": "skilled person",
+        "translations": "sanatçı",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "id": "as-175",
+    "headword": "as",
+    "lookupLemma": "as",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "adv., conj.",
+        "level": "A2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈæz/, /ˈɛz/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/as__Adverb__1",
+        "sense": "in the same way that",
+        "translations": "gibi",
+        "score": 113.6
+      },
+      {
+        "entry": "eng/as__Adverb__1",
+        "sense": "In the role of",
+        "translations": "olarak",
+        "score": 100
+      },
+      {
+        "entry": "eng/as__Adverb__1",
+        "sense": "Introducing a basis of comparison",
+        "translations": "kadar",
+        "score": 100
+      },
+      {
+        "entry": "eng/as__Adverb__1",
+        "sense": "to such an extent or degree",
+        "translations": "kadar",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "ask-183",
+    "headword": "ask",
+    "lookupLemma": "ask",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈæsk/",
+      "en-GB": "/ˈɑːsk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/ask__Verb__1",
+        "sense": "request an answer",
+        "translations": "sormak",
+        "score": 155.0
+      },
+      {
+        "entry": "eng/ask__Verb__1",
+        "sense": "make a request",
+        "translations": "dilemek",
+        "score": 110.0
+      }
+    ],
+    "existing": {
+      "translation": "sormak, istemek",
+      "ipa": "/ɑːsk/",
+      "example": "Ask a simple question.",
+      "exampleTr": "Basit bir soru sor.",
+      "approxTr": "esk",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/æsk/",
+          "approxTr": "esk"
+        },
+        "en-GB": {
+          "ipa": "/ɑːsk/",
+          "approxTr": "aask"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "at-231",
+    "headword": "at",
+    "lookupLemma": "at",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈæt/",
+      "en-GB": "/ˈæt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/at__Preposition__1",
+        "sense": "in or very near a particular place",
+        "translations": "-da | -de",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "august-32",
+    "headword": "August",
+    "lookupLemma": "August",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɑɡəst/, /ˈɔɡəst/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/August__Proper_noun__1",
+        "sense": "eighth month of the Gregorian calendar",
+        "translations": "ağustos | bozaran | cırcır | harman ayı | orakayı",
+        "score": 220.0
+      }
+    ]
+  },
+  {
+    "id": "aunt-36",
+    "headword": "aunt",
+    "lookupLemma": "aunt",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈænt/, /ˈɔnt/",
+      "en-GB": "/ˈɑːnt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/aunt__Noun__1",
+        "sense": "a parent's sister or sister-in-law",
+        "translations": "hala | teyze | yenge | bibi | eme",
+        "score": 140.6
+      },
+      {
+        "entry": "eng/aunt__Noun__1",
+        "sense": "affectionate term for an older woman, by means of fictive kin",
+        "translations": "teyze | hala",
+        "score": 110.6
+      }
+    ],
+    "existing": {
+      "translation": "teyze, hala, yenge",
+      "ipa": "/ɑːnt/",
+      "example": "My aunt lives here.",
+      "exampleTr": "Teyzem burada yaşıyor.",
+      "approxTr": "ent",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/ænt/",
+          "approxTr": "ent"
+        },
+        "en-GB": {
+          "ipa": "/ɑːnt/",
+          "approxTr": "aant"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "autumn-48",
+    "headword": "autumn",
+    "lookupLemma": "autumn",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɔtəm/",
+      "en-GB": "/ˈɔːtʌm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/autumn__Noun__1",
+        "sense": "season",
+        "translations": "sonbahar | güz | hazan",
+        "score": 142.5
+      }
+    ],
+    "existing": {
+      "translation": "sonbahar",
+      "ipa": "/ˈɔːtəm/",
+      "example": "Autumn is beautiful.",
+      "exampleTr": "Sonbahar güzeldir.",
+      "approxTr": "oo-tım",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/ˈɔːtəm/",
+          "approxTr": "oo-tım"
+        },
+        "en-GB": {
+          "ipa": "/ˈɔːtəm/",
+          "approxTr": "oo-tım"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "away-72",
+    "headword": "away",
+    "lookupLemma": "away",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/əˈweɪ/",
+      "en-GB": "/ɐwˈeɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/away__Adverb__1",
+        "sense": "from a place; hence",
+        "translations": "buradan",
+        "score": 1.1
+      },
+      {
+        "entry": "eng/away__Adjective__1",
+        "sense": "not here; gone",
+        "translations": "eksik",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/away__Adjective__1",
+        "sense": "unavailable",
+        "translations": "eksik",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/away__Adverb__1",
+        "sense": null,
+        "translations": "bağsız",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/away__Adverb__1",
+        "sense": "at a distance in time or space",
+        "translations": "uzak",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/away__Adverb__1",
+        "sense": "equivalent to an imperative: Go or come away; begone; take away",
+        "translations": "etek",
+        "score": 0.0
+      }
+    ],
+    "existing": {
+      "translation": "uzakta, dışarıda",
+      "ipa": "/əˈweɪ/",
+      "example": "The station is far away.",
+      "exampleTr": "İstasyon uzakta.",
+      "approxTr": "ı-vey",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/əˈweɪ/",
+          "approxTr": "ı-vey"
+        },
+        "en-GB": {
+          "ipa": "/əˈweɪ/",
+          "approxTr": "ı-vey"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "baby-80",
+    "headword": "baby",
+    "lookupLemma": "baby",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbeɪbi/",
+      "en-GB": "/bˈeɪbi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/baby__Noun__1",
+        "sense": null,
+        "translations": "bebek",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/baby__Noun__1",
+        "sense": "form of address to a man or a woman considered to be attractive",
+        "translations": "bebek",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/baby__Noun__1",
+        "sense": "young animal",
+        "translations": "yavru",
+        "score": 101.0
+      },
+      {
+        "entry": "eng/baby__Noun__1",
+        "sense": "term of endearment",
+        "translations": "bebeğim",
+        "score": 100
+      }
+    ],
+    "existing": {
+      "translation": "bebek",
+      "ipa": "/ˈbeɪbi/",
+      "example": "The baby is sleeping.",
+      "exampleTr": "Bebek uyuyor.",
+      "approxTr": "bey-bi",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/ˈbeɪbi/",
+          "approxTr": "bey-bi"
+        },
+        "en-GB": {
+          "ipa": "/ˈbeɪbi/",
+          "approxTr": "bey-bi"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "back-84",
+    "headword": "back",
+    "lookupLemma": "back",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., adv.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "adj.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbæk/",
+      "en-GB": "/bˈæk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/back__Noun__1",
+        "sense": null,
+        "translations": "sırt | arka",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/back__Adverb__1",
+        "sense": "to or in a previous condition or place",
+        "translations": "geri",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/back__Adjective__1",
+        "sense": "near the rear",
+        "translations": "arka",
+        "score": 100.0
+      }
+    ]
+  },
+  {
+    "id": "bad-100",
+    "headword": "bad",
+    "lookupLemma": "bad",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbæd/",
+      "en-GB": "/bˈæd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/bad__Adjective__3",
+        "sense": "unfavorable; negative",
+        "translations": "kötü | fena | yaman",
+        "score": 125.0
+      },
+      {
+        "entry": "eng/bad__Adjective__3",
+        "sense": "evil, wicked",
+        "translations": "kötü",
+        "score": 115.8
+      },
+      {
+        "entry": "eng/bad__Adjective__3",
+        "sense": "tricky; stressful; unpleasant",
+        "translations": "kötü",
+        "score": 15.0
+      }
+    ],
+    "existing": {
+      "translation": "kötü",
+      "ipa": "/bæd/",
+      "example": "That is a bad idea.",
+      "exampleTr": "Bu kötü bir fikir.",
+      "approxTr": "bed",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/bæd/",
+          "approxTr": "bed"
+        },
+        "en-GB": {
+          "ipa": "/bæd/",
+          "approxTr": "bed"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "bag-108",
+    "headword": "bag",
+    "lookupLemma": "bag",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbæɡ/",
+      "en-GB": "/bˈæɡ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/bag__Noun__1",
+        "sense": "flexible container",
+        "translations": "çanta | torba | poşet | paket",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/bag__Noun__1",
+        "sense": "paper (or plastic) container given or sold to shoppers",
+        "translations": "torba | poşet",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/bag__Verb__1",
+        "sense": "to put into a bag",
+        "translations": "poşetlemek | torbalamak | çuvallamak",
+        "score": 100
+      }
+    ],
+    "existing": {
+      "translation": "çanta",
+      "ipa": "/bæɡ/",
+      "example": "My bag is blue.",
+      "exampleTr": "Çantam mavi.",
+      "approxTr": "beg",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/bæɡ/",
+          "approxTr": "beg"
+        },
+        "en-GB": {
+          "ipa": "/bæɡ/",
+          "approxTr": "beg"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "ball-120",
+    "headword": "ball",
+    "lookupLemma": "ball",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɔɫ/",
+      "en-GB": "/bˈɔːl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/ball__Noun__1",
+        "sense": "object, generally spherical, used for playing games",
+        "translations": "top",
+        "score": 161.1
+      },
+      {
+        "entry": "eng/ball__Noun__2",
+        "sense": "formal dance",
+        "translations": "balo | top",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/ball__Noun__1",
+        "sense": "solid or hollow sphere",
+        "translations": "top",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/ball__Noun__1",
+        "sense": "quantity of string, thread, etc., wound into a spherical shape",
+        "translations": "yumak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/ball__Noun__1",
+        "sense": "mathematics: set of points in a metric space lying within a given distance of a given point",
+        "translations": "küre",
+        "score": 105.0
+      },
+      {
+        "entry": "eng/ball__Noun__1",
+        "sense": null,
+        "translations": "haya | taşak | yumurta",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/ball__Noun__1",
+        "sense": "ballistics: a solid nonexplosive missile",
+        "translations": "gülle | mermi",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "banana-128",
+    "headword": "banana",
+    "lookupLemma": "banana",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/bəˈnænə/",
+      "en-GB": "/bɐnˈɑːnɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/banana__Noun__1",
+        "sense": "fruit",
+        "translations": "muz",
+        "score": 183.5
+      }
+    ],
+    "existing": {
+      "translation": "muz",
+      "ipa": "/bəˈnɑːnə/",
+      "example": "I ate a banana.",
+      "exampleTr": "Bir muz yedim.",
+      "approxTr": "bı-ne-nı",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/bəˈnænə/",
+          "approxTr": "bı-ne-nı"
+        },
+        "en-GB": {
+          "ipa": "/bəˈnɑːnə/",
+          "approxTr": "bı-naa-nı"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "band-132",
+    "headword": "band",
+    "lookupLemma": "band",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbænd/",
+      "en-GB": "/bˈænd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/band__Noun__2",
+        "sense": "group of musicians",
+        "translations": "grup | bando",
+        "score": 101.0
+      },
+      {
+        "entry": "eng/band__Noun__1",
+        "sense": "narrow strip of cloth or other material on clothing, to bind, strengthen, or ornament it",
+        "translations": "şerit",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "bank-money--136",
+    "headword": "bank (money)",
+    "lookupLemma": "bank",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbæŋk/",
+      "en-GB": "/bˈæŋk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/bank__Noun__1",
+        "sense": "branch office",
+        "translations": "banka",
+        "score": 180.0
+      },
+      {
+        "entry": "eng/bank__Noun__1",
+        "sense": "institution",
+        "translations": "banka",
+        "score": 180.0
+      },
+      {
+        "entry": "eng/bank__Noun__1",
+        "sense": "storage for important goods",
+        "translations": "banka",
+        "score": 80.0
+      },
+      {
+        "entry": "eng/bank__Noun__1",
+        "sense": "gambling: banker's funds",
+        "translations": "banka",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/bank__Noun__2",
+        "sense": "an underwater area of higher elevation, a sandbank",
+        "translations": "banka",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/bank__Noun__1",
+        "sense": "controller of a card game",
+        "translations": "banka",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/bank__Noun__2",
+        "sense": "embankment, an earth slope",
+        "translations": "banka",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "id": "bath-180",
+    "headword": "bath",
+    "lookupLemma": "bath",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbæθ/",
+      "en-GB": "/bˈɑːθ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/bath__Noun__1",
+        "sense": "act of bathing",
+        "translations": "banyo | yunu",
+        "score": 160.0
+      },
+      {
+        "entry": "eng/bath__Noun__1",
+        "sense": "building or area where bathing occurs",
+        "translations": "banyo | hamam | yunak",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/bath__Noun__1",
+        "sense": "tub",
+        "translations": "küvet | banyo",
+        "score": 116.1
+      },
+      {
+        "entry": "eng/bath__Verb__1",
+        "sense": "to wash in a bath",
+        "translations": "banyo yaptırmak | yıkamak",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "bathroom-184",
+    "headword": "bathroom",
+    "lookupLemma": "bathroom",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbæˌθɹum/",
+      "en-GB": "/bˈɑːθɹuːm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/bathroom__Noun__1",
+        "sense": "a room with a bathtub",
+        "translations": "banyo",
+        "score": 135.0
+      }
+    ]
+  },
+  {
+    "id": "be-196",
+    "headword": "be",
+    "lookupLemma": "be",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., auxiliary v.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbi/, /bi/",
+      "en-GB": "/bˈiː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/be__Verb__1",
+        "sense": "to occupy a place",
+        "translations": "olmak | bulunmak",
+        "score": 152.5
+      },
+      {
+        "entry": "eng/be__Verb__1",
+        "sense": "to occur, take place",
+        "translations": "olmak | var olmak",
+        "score": 152.5
+      },
+      {
+        "entry": "eng/be__Verb__1",
+        "sense": "used to declare the subject and object identical or equivalent",
+        "translations": "imek | olmak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/be__Verb__1",
+        "sense": null,
+        "translations": "var | olmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/be__Verb__1",
+        "sense": "used to indicate that the subject has the qualities described by a noun or noun phrase",
+        "translations": "*imek | olmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/be__Verb__1",
+        "sense": "used to indicate that the subject has the qualities described by an adjective",
+        "translations": "*imek | olmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/be__Verb__1",
+        "sense": "used to indicate that the subject plays the role of the predicate nominal",
+        "translations": "olmak",
+        "score": 62.5
+      },
+      {
+        "entry": "eng/be__Verb__1",
+        "sense": "elliptical form of \"be here\", \"go to and return from\" or similar",
+        "translations": "olmak",
+        "score": 32.5
+      },
+      {
+        "entry": "eng/be__Verb__1",
+        "sense": "auxiliary: used to form the passive voice",
+        "translations": "olmak",
+        "score": 31.0
+      },
+      {
+        "entry": "eng/be__Verb__1",
+        "sense": "auxiliary (archaic in English): used to form the perfect aspect with certain intransitive verbs",
+        "translations": "olmak",
+        "score": 22.5
+      },
+      {
+        "entry": "eng/be__Verb__1",
+        "sense": "used to indicate ambient conditions such as weather, light, noise or air quality",
+        "translations": "olmak",
+        "score": 22.5
+      },
+      {
+        "entry": "eng/be__Verb__1",
+        "sense": "used to indicate that the values on either side of an equation are the same",
+        "translations": "olmak",
+        "score": 22.5
+      },
+      {
+        "entry": "eng/be__Verb__1",
+        "sense": "used to link a subject to a count or measurement",
+        "translations": "olmak",
+        "score": 22.5
+      },
+      {
+        "entry": "eng/be__Verb__1",
+        "sense": "auxiliary: used to express intent, obligation, appropriateness or relative future occurrence",
+        "translations": "olmak",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/be__Verb__1",
+        "sense": "used to state the age of a subject in years",
+        "translations": "olmak",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "id": "beach-200",
+    "headword": "beach",
+    "lookupLemma": "beach",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbitʃ/",
+      "en-GB": "/bˈiːtʃ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/beach__Noun__1",
+        "sense": "sandy shore",
+        "translations": "kumsal | plaj | kumbaşı | kumla | kumluk",
+        "score": 153.6
+      }
+    ]
+  },
+  {
+    "id": "beautiful-220",
+    "headword": "beautiful",
+    "lookupLemma": "beautiful",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbjutəfəɫ/",
+      "en-GB": "/bjˈuːtɪfəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/beautiful__Adjective__1",
+        "sense": null,
+        "translations": "güzel",
+        "score": 138.9
+      }
+    ],
+    "existing": {
+      "translation": "güzel",
+      "ipa": "/ˈbjuːtɪfəl/",
+      "example": "It is a beautiful day.",
+      "exampleTr": "Güzel bir gün.",
+      "approxTr": "byuu-ti-fıl",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/ˈbjuːtɪfəl/",
+          "approxTr": "byuu-ti-fıl"
+        },
+        "en-GB": {
+          "ipa": "/ˈbjuːtɪfəl/",
+          "approxTr": "byuu-ti-fıl"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "because-228",
+    "headword": "because",
+    "lookupLemma": "because",
+    "pos": "conj.",
+    "senses": [
+      {
+        "partOfSpeech": "conj.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/bɪˈkɑz/, /bɪˈkəz/, /bɪˈkɔz/, /bɪkəz/",
+      "en-GB": "/bɪkˈʌz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/because__Conjunction__1",
+        "sense": null,
+        "translations": "çünkü | zira",
+        "score": 113.7
+      },
+      {
+        "entry": "eng/because__Adverb__1",
+        "sense": null,
+        "translations": "yüzünden",
+        "score": 100
+      },
+      {
+        "entry": "eng/because__Interjection__1",
+        "sense": "word used in place of an answer to \"why\"",
+        "translations": "-dığı için | işte | öyle işte",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "become-232",
+    "headword": "become",
+    "lookupLemma": "become",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/bɪˈkəm/",
+      "en-GB": "/bɪkˈʌm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/become__Verb__1",
+        "sense": "to begin to be",
+        "translations": "olmak",
+        "score": 103.7
+      },
+      {
+        "entry": "eng/become__Verb__1",
+        "sense": null,
+        "translations": "yakışmak",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "bed-236",
+    "headword": "bed",
+    "lookupLemma": "bed",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɛd/",
+      "en-GB": "/bˈɛd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/bed__Noun__1",
+        "sense": null,
+        "translations": "yatak",
+        "score": 200.0
+      },
+      {
+        "entry": "eng/bed__Noun__1",
+        "sense": "prepared spot to spend the night in",
+        "translations": "yatak | döşek",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/bed__Noun__1",
+        "sense": "bed as general place or concept",
+        "translations": "döşek",
+        "score": 100
+      },
+      {
+        "entry": "eng/bed__Noun__1",
+        "sense": "flat surface or layer on which something else is to be placed",
+        "translations": "yatak",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/bed__Noun__1",
+        "sense": "garden plot",
+        "translations": "yatak",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/bed__Noun__1",
+        "sense": "the bottom of a lake or other body of water",
+        "translations": "yatak",
+        "score": 20.0
+      }
+    ],
+    "existing": {
+      "translation": "yatak",
+      "ipa": "/bed/",
+      "example": "The cat is on the bed.",
+      "exampleTr": "Kedi yatağın üzerinde.",
+      "approxTr": "bed",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/bed/",
+          "approxTr": "bed"
+        },
+        "en-GB": {
+          "ipa": "/bed/",
+          "approxTr": "bed"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "bedroom-240",
+    "headword": "bedroom",
+    "lookupLemma": "bedroom",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɛˌdɹum/",
+      "en-GB": "/bˈɛdɹuːm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/bedroom__Noun__1",
+        "sense": "room in a house where a bed is kept for sleeping",
+        "translations": "yatak odası",
+        "score": 162.5
+      }
+    ]
+  },
+  {
+    "id": "beer-252",
+    "headword": "beer",
+    "lookupLemma": "beer",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɪɹ/",
+      "en-GB": "/bˈiə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/beer__Noun__1",
+        "sense": "alcoholic drink made of malt",
+        "translations": "bira",
+        "score": 216.1
+      },
+      {
+        "entry": "eng/beer__Noun__1",
+        "sense": "glass of beer",
+        "translations": "bira",
+        "score": 83.6
+      },
+      {
+        "entry": "eng/beer__Noun__1",
+        "sense": "drink made from roots",
+        "translations": "bira",
+        "score": 31.1
+      }
+    ]
+  },
+  {
+    "id": "before-253",
+    "headword": "before",
+    "lookupLemma": "before",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "conj., adv.",
+        "level": "A2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˌbiˈfɔɹ/, /bɪˈfɔɹ/",
+      "en-GB": "/bɪfˈɔː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/before__Preposition__1",
+        "sense": "earlier than",
+        "translations": "önce | evvel",
+        "score": 110.0
+      }
+    ]
+  },
+  {
+    "id": "begin-261",
+    "headword": "begin",
+    "lookupLemma": "begin",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/bɪˈɡɪn/",
+      "en-GB": "/bɪɡˈɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/begin__Verb__1",
+        "sense": null,
+        "translations": "başlamak",
+        "score": 128.2
+      }
+    ],
+    "existing": {
+      "translation": "başlamak",
+      "ipa": "/bɪˈɡɪn/",
+      "example": "The lesson begins now.",
+      "exampleTr": "Ders şimdi başlıyor.",
+      "approxTr": "bi-gin",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/bɪˈɡɪn/",
+          "approxTr": "bi-gin"
+        },
+        "en-GB": {
+          "ipa": "/bɪˈɡɪn/",
+          "approxTr": "bi-gin"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "beginning-265",
+    "headword": "beginning",
+    "lookupLemma": "beginning",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/bɪˈɡɪnɪŋ/",
+      "en-GB": "/bɪɡˈɪnɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/beginning__Noun__1",
+        "sense": "act of doing that which begins anything",
+        "translations": "başlangıç | iptida",
+        "score": 113.6
+      },
+      {
+        "entry": "eng/beginning__Noun__1",
+        "sense": "that which begins or originates something",
+        "translations": "başlangıç",
+        "score": 102.2
+      },
+      {
+        "entry": "eng/beginning__Noun__1",
+        "sense": "initial portion of some extended thing",
+        "translations": "başlangıç",
+        "score": 101.2
+      },
+      {
+        "entry": "eng/beginning__Noun__1",
+        "sense": "that which is begun",
+        "translations": "başlanan",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "behind-277",
+    "headword": "behind",
+    "lookupLemma": "behind",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep., adv.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/bɪˈhaɪnd/",
+      "en-GB": "/bɪhˈaɪnd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/behind__Preposition__1",
+        "sense": "at the back of",
+        "translations": "arkasında",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/behind__Preposition__1",
+        "sense": null,
+        "translations": "arkada",
+        "score": 100
+      },
+      {
+        "entry": "eng/behind__Preposition__1",
+        "sense": "to the back of",
+        "translations": "arkasında",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "id": "believe-289",
+    "headword": "believe",
+    "lookupLemma": "believe",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/bɪˈɫiv/",
+      "en-GB": "/bɪlˈiːv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/believe__Verb__1",
+        "sense": "to accept as true",
+        "translations": "inanmak",
+        "score": 128.5
+      },
+      {
+        "entry": "eng/believe__Verb__1",
+        "sense": "to accept that someone is telling the truth (object: person)",
+        "translations": "inanmak",
+        "score": 128.5
+      },
+      {
+        "entry": "eng/believe__Verb__1",
+        "sense": "to have religious faith; to believe in a greater truth",
+        "translations": "inanmak",
+        "score": 126.0
+      },
+      {
+        "entry": "eng/believe__Verb__1",
+        "sense": "to consider likely",
+        "translations": "inanmak",
+        "score": 106.0
+      },
+      {
+        "entry": "eng/believe__Verb__1",
+        "sense": "to ascribe existence to",
+        "translations": "inanmak",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/believe__Verb__1",
+        "sense": "to believe that something is right or desirable",
+        "translations": "inanmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/believe__Verb__1",
+        "sense": "to have confidence in",
+        "translations": "güvenmek | inanmak",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "below-301",
+    "headword": "below",
+    "lookupLemma": "below",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv., prep.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/biˈɫoʊ/, /bɪˈɫoʊ/",
+      "en-GB": "/bɪlˈəʊ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/below__Adverb__1",
+        "sense": "in a lower place",
+        "translations": "aşağı",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/below__Preposition__1",
+        "sense": "lower in spatial position than",
+        "translations": "alt",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/below__Adverb__1",
+        "sense": null,
+        "translations": "eksi",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/below__Adverb__1",
+        "sense": "on a lower storey",
+        "translations": "alt",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/below__Preposition__1",
+        "sense": "lower in value than",
+        "translations": "mucize",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/below__Preposition__1",
+        "sense": "unsuitable to the rank or dignity of",
+        "translations": "mucize",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "id": "best-321",
+    "headword": "best",
+    "lookupLemma": "best",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "adv., n.",
+        "level": "A2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɛst/",
+      "en-GB": "/bˈɛst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/best__Noun__1",
+        "sense": "person",
+        "translations": "en iyisi",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/best__Noun__1",
+        "sense": "effort",
+        "translations": "en iyisi",
+        "score": 100
+      },
+      {
+        "entry": "eng/best__Verb__1",
+        "sense": "to beat",
+        "translations": "aşmak | geçmek",
+        "score": 100.0
+      }
+    ]
+  },
+  {
+    "id": "better-329",
+    "headword": "better",
+    "lookupLemma": "better",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "adv.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɛtɝ/",
+      "en-GB": "/bˈɛtɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/better__Adjective__1",
+        "sense": "comparative of the adjectives good or well",
+        "translations": "daha iyi",
+        "score": 100
+      },
+      {
+        "entry": "eng/better__Adverb__1",
+        "sense": "comparative of the adverb well",
+        "translations": "daha iyi | yakşırak",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "between-333",
+    "headword": "between",
+    "lookupLemma": "between",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "adv.",
+        "level": "A2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/bitˈwin/, /bɪtˈwin/",
+      "en-GB": "/bɪtwˈiːn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/between__Preposition__1",
+        "sense": "in the position or interval that separates two things",
+        "translations": "arasında",
+        "score": 110.0
+      }
+    ]
+  },
+  {
+    "id": "bicycle-341",
+    "headword": "bicycle",
+    "lookupLemma": "bicycle",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbaɪsɪkəɫ/",
+      "en-GB": "/bˈaɪsɪkəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/bicycle__Noun__1",
+        "sense": "vehicle",
+        "translations": "bisiklet | derrace | velespit | düçerha | çalınga",
+        "score": 145.3
+      }
+    ]
+  },
+  {
+    "id": "big-345",
+    "headword": "big",
+    "lookupLemma": "big",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɪɡ/",
+      "en-GB": "/bˈɪɡ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/big__Adjective__1",
+        "sense": "of a great size",
+        "translations": "büyük | ulu",
+        "score": 163.1
+      },
+      {
+        "entry": "eng/big__Adjective__1",
+        "sense": "adult",
+        "translations": "büyük",
+        "score": 25.0
+      }
+    ]
+  },
+  {
+    "id": "bike-349",
+    "headword": "bike",
+    "lookupLemma": "bike",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbaɪk/",
+      "en-GB": "/bˈaɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/bike__Noun__1",
+        "sense": "bicycle",
+        "translations": "bisiklet | derrace | velespit | çalınga",
+        "score": 122.8
+      }
+    ]
+  },
+  {
+    "id": "bill-353",
+    "headword": "bill",
+    "lookupLemma": "bill",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɪɫ/",
+      "en-GB": "/bˈɪl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/bill__Noun__1",
+        "sense": "invoice",
+        "translations": "hesap | fatura",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/bill__Noun__2",
+        "sense": "bird's beak",
+        "translations": "gaga",
+        "score": 108.3
+      },
+      {
+        "entry": "eng/bill__Noun__1",
+        "sense": "draft of a law",
+        "translations": "kanun layihası | kanun tasarısı | kanun teklifi | layiha | yasa tasarısı",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "bird-369",
+    "headword": "bird",
+    "lookupLemma": "bird",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɝd/",
+      "en-GB": "/bˈɜːd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/bird__Noun__1",
+        "sense": "animal",
+        "translations": "kuş",
+        "score": 232.5
+      },
+      {
+        "entry": "eng/bird__Noun__1",
+        "sense": "penis",
+        "translations": "kuş",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "id": "birthday-377",
+    "headword": "birthday",
+    "lookupLemma": "birthday",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɝθˌdeɪ/",
+      "en-GB": "/bˈɜːθdeɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/birthday__Noun__1",
+        "sense": "anniversary",
+        "translations": "doğum günü | yaş günü",
+        "score": 133.6
+      },
+      {
+        "entry": "eng/birthday__Noun__1",
+        "sense": "date of birth",
+        "translations": "doğum tarihi | yaş günü",
+        "score": 100.0
+      }
+    ]
+  },
+  {
+    "id": "black-397",
+    "headword": "black",
+    "lookupLemma": "black",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɫæk/",
+      "en-GB": "/blˈæk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/black__Adjective__1",
+        "sense": "absorbing all light",
+        "translations": "kara | siyah",
+        "score": 205.0
+      },
+      {
+        "entry": "eng/black__Noun__1",
+        "sense": "colour/color",
+        "translations": "kara | siyah",
+        "score": 175.0
+      },
+      {
+        "entry": "eng/black__Noun__1",
+        "sense": "dark-skinned person",
+        "translations": "siyah | zenci",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/black__Adjective__1",
+        "sense": "bad; evil",
+        "translations": "kara | siyah",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/black__Adjective__1",
+        "sense": "of coffee or tea, without milk or other whitener",
+        "translations": "katran | kara | siyah",
+        "score": 100
+      },
+      {
+        "entry": "eng/black__Adjective__1",
+        "sense": "relating to people with dark skin",
+        "translations": "siyahi | kara | siyah",
+        "score": 100
+      },
+      {
+        "entry": "eng/black__Adjective__1",
+        "sense": "without light",
+        "translations": "karanlık",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/black__Adjective__1",
+        "sense": "illegitimate, illegal or disgraced",
+        "translations": "kara | siyah",
+        "score": 50.0
+      },
+      {
+        "entry": "eng/black__Adjective__1",
+        "sense": "chess, checkers etc.: color opposing \"white\"",
+        "translations": "kara | siyah",
+        "score": 40.0
+      },
+      {
+        "entry": "eng/black__Noun__1",
+        "sense": "pen, pencil, etc. with black pigment",
+        "translations": "kara | siyah",
+        "score": 40.0
+      },
+      {
+        "entry": "eng/black__Noun__1",
+        "sense": "dye, pigment",
+        "translations": "kara | siyah",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/black__Noun__1",
+        "sense": "chess and similar games: person playing with the black set of pieces",
+        "translations": "kara",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "id": "blog-417",
+    "headword": "blog",
+    "lookupLemma": "blog",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɫɔɡ/",
+      "en-GB": "/blˈɒɡ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/blog__Noun__1",
+        "sense": "a personal or corporate website",
+        "translations": "blog | ağ günlüğü",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/blog__Verb__1",
+        "sense": "to contribute to a blog",
+        "translations": "bloglamak",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "blonde-421",
+    "headword": "blonde",
+    "lookupLemma": "blonde",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɫɑnd/",
+      "en-GB": "/blˈɒnd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "sarışın",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "id": "blue-433",
+    "headword": "blue",
+    "lookupLemma": "blue",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɫu/",
+      "en-GB": "/blˈuː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/blue__Adjective__1",
+        "sense": "blue-coloured",
+        "translations": "mavi | gökçe",
+        "score": 202.5
+      },
+      {
+        "entry": "eng/blue__Noun__1",
+        "sense": "colour",
+        "translations": "mavi | gök | gökçe | kök",
+        "score": 182.5
+      },
+      {
+        "entry": "eng/blue__Noun__1",
+        "sense": "anything blue",
+        "translations": "mavi | mavili",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/blue__Adjective__1",
+        "sense": "depressed",
+        "translations": "durgun | efkarlı | hüzünlü | sıkıntılı",
+        "score": 100
+      },
+      {
+        "entry": "eng/blue__Adjective__1",
+        "sense": "of or pertaining to US Democratic Party",
+        "translations": "demokrat",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/blue__Adjective__1",
+        "sense": "pornographic",
+        "translations": "kırmızı noktalı",
+        "score": 100
+      },
+      {
+        "entry": "eng/blue__Noun__1",
+        "sense": "blue clothing",
+        "translations": "maviler | mavili",
+        "score": 100
+      },
+      {
+        "entry": "eng/blue__Noun__1",
+        "sense": "liquid added to a laundry wash to prevent yellowing of white clothes",
+        "translations": "ağartıcı | çivit",
+        "score": 100
+      },
+      {
+        "entry": "eng/blue__Noun__1",
+        "sense": "ocean, deep waters",
+        "translations": "maviler | mavilik",
+        "score": 100
+      },
+      {
+        "entry": "eng/blue__Verb__1",
+        "sense": "to brighten (laundry)",
+        "translations": "ağartmak | çivitlemek",
+        "score": 100
+      },
+      {
+        "entry": "eng/blue__Verb__1",
+        "sense": "to make blue",
+        "translations": "gökçeleşmek | gökçeleştirmek | mavileşmek | mavileştirmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/blue__Verb__1",
+        "sense": "to turn blue",
+        "translations": "gökçeleşmek | mavileşmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/blue__Noun__1",
+        "sense": "blue pigment",
+        "translations": "mavi",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "id": "boat-441",
+    "headword": "boat",
+    "lookupLemma": "boat",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈboʊt/",
+      "en-GB": "/bˈəʊt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/boat__Noun__1",
+        "sense": null,
+        "translations": "kayık | sandal | bot | gemi | tekne",
+        "score": 150.0
+      }
+    ]
+  },
+  {
+    "id": "body-445",
+    "headword": "body",
+    "lookupLemma": "body",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɑdi/",
+      "en-GB": "/bˈɒdi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/body__Noun__1",
+        "sense": "physical structure of a human or animal",
+        "translations": "beden | vücut | gövde",
+        "score": 171.1
+      },
+      {
+        "entry": "eng/body__Noun__1",
+        "sense": "fleshly or corporeal nature of a human",
+        "translations": "beden",
+        "score": 151.1
+      },
+      {
+        "entry": "eng/body__Noun__1",
+        "sense": null,
+        "translations": "gövde | karoser",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/body__Noun__1",
+        "sense": "any physical object or material thing",
+        "translations": "cisim | beden",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/body__Noun__1",
+        "sense": "collection of knowledge",
+        "translations": "korpus",
+        "score": 100
+      },
+      {
+        "entry": "eng/body__Noun__1",
+        "sense": "organisation, company or other authoritative group",
+        "translations": "kuruluş | beden",
+        "score": 100
+      },
+      {
+        "entry": "eng/body__Noun__1",
+        "sense": "comparative viscosity, solidity or substance",
+        "translations": "beden",
+        "score": 21.1
+      },
+      {
+        "entry": "eng/body__Noun__1",
+        "sense": "substance, material presence",
+        "translations": "beden",
+        "score": 21.1
+      },
+      {
+        "entry": "eng/body__Noun__1",
+        "sense": "main content of a text",
+        "translations": "beden",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "id": "book-465",
+    "headword": "book",
+    "lookupLemma": "book",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "A2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbʊk/",
+      "en-GB": "/bˈʊk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/book__Noun__1",
+        "sense": "collection of sheets of paper bound together containing printed or written material",
+        "translations": "kitap | betik",
+        "score": 230.0
+      },
+      {
+        "entry": "eng/book__Verb__1",
+        "sense": null,
+        "translations": "yer ayırma",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/book__Noun__1",
+        "sense": "convenient collection of small paper items, such as stamps",
+        "translations": "albüm",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/book__Noun__1",
+        "sense": "major division of a published work, larger than a chapter",
+        "translations": "cilt | kitap",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/book__Noun__1",
+        "sense": "record of betting",
+        "translations": "kitap",
+        "score": 20.0
+      }
+    ],
+    "existing": {
+      "translation": "kitap; rezervasyon yapmak",
+      "ipa": "/bʊk/",
+      "example": "This book is easy.",
+      "exampleTr": "Bu kitap kolay.",
+      "approxTr": "buk",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/bʊk/",
+          "approxTr": "buk"
+        },
+        "en-GB": {
+          "ipa": "/bʊk/",
+          "approxTr": "buk"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "boot-469",
+    "headword": "boot",
+    "lookupLemma": "boot",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbut/",
+      "en-GB": "/bˈuːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/boot__Noun__1",
+        "sense": null,
+        "translations": "çizme | bot",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/boot__Verb__3",
+        "sense": "to start a system",
+        "translations": "başlatma",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "bored-477",
+    "headword": "bored",
+    "lookupLemma": "bored",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɔɹd/",
+      "en-GB": "/bˈɔːd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/bored__Adjective__1",
+        "sense": "suffering from boredom",
+        "translations": "sıkılan | sıkılmış",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "boring-481",
+    "headword": "boring",
+    "lookupLemma": "boring",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɔɹɪŋ/",
+      "en-GB": "/bˈɔːɹɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/boring__Adjective__1",
+        "sense": "causing boredom or tiredness",
+        "translations": "sıkıcı",
+        "score": 103.9
+      }
+    ]
+  },
+  {
+    "id": "born-485",
+    "headword": "born",
+    "lookupLemma": "born",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɔɹn/",
+      "en-GB": "/bˈɔːn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/born__Adjective__1",
+        "sense": "given birth to",
+        "translations": "doğan",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "id": "both-497",
+    "headword": "both",
+    "lookupLemma": "both",
+    "pos": "det.",
+    "senses": [
+      {
+        "partOfSpeech": "det./pron.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈboʊθ/",
+      "en-GB": "/bˈəʊθ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/both__Conjunction__1",
+        "sense": "both...and...",
+        "translations": "hem... hem...",
+        "score": 100
+      },
+      {
+        "entry": "eng/both__Determiner__1",
+        "sense": "each of two; one and the other",
+        "translations": "her ikisi (de) | ikisi (de)",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "bottle-505",
+    "headword": "bottle",
+    "lookupLemma": "bottle",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɑtəɫ/",
+      "en-GB": "/bˈɒtəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/bottle__Noun__1",
+        "sense": "container",
+        "translations": "şişe",
+        "score": 167.5
+      },
+      {
+        "entry": "eng/bottle__Noun__1",
+        "sense": "contents of such a container",
+        "translations": "şişe",
+        "score": 167.5
+      },
+      {
+        "entry": "eng/bottle__Verb__1",
+        "sense": "seal (a liquid) into a bottle for later consumption",
+        "translations": "şişelemek",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/bottle__Noun__1",
+        "sense": "figuratively: alcohol",
+        "translations": "şişe",
+        "score": 42.5
+      }
+    ]
+  },
+  {
+    "id": "box-517",
+    "headword": "box",
+    "lookupLemma": "box",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɑks/",
+      "en-GB": "/bˈɒks/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/box__Noun__1",
+        "sense": "cuboid space; container",
+        "translations": "kutu | sandık",
+        "score": 170.0
+      },
+      {
+        "entry": "eng/box__Noun__2",
+        "sense": "shrub or tree of the genus Buxus",
+        "translations": "şimşir",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/box__Noun__1",
+        "sense": "compartment to sit inside",
+        "translations": "loca",
+        "score": 100
+      },
+      {
+        "entry": "eng/box__Verb__1",
+        "sense": "to place inside a box",
+        "translations": "kutulamak",
+        "score": 100
+      },
+      {
+        "entry": "eng/box__Noun__1",
+        "sense": "as much as fills a box",
+        "translations": "kutu",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/box__Noun__1",
+        "sense": "compartment of an item of furniture",
+        "translations": "kutu",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/box__Noun__1",
+        "sense": "compartment or receptacle for receiving items",
+        "translations": "kutu",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "id": "boy-521",
+    "headword": "boy",
+    "lookupLemma": "boy",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɔɪ/",
+      "en-GB": "/bˈɔɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/boy__Noun__1",
+        "sense": "male child",
+        "translations": "oğlan",
+        "score": 136.1
+      },
+      {
+        "entry": "eng/boy__Noun__1",
+        "sense": "young man",
+        "translations": "oğlan",
+        "score": 22.5
+      },
+      {
+        "entry": "eng/boy__Noun__1",
+        "sense": "male of any age, used as a friendly diminutive",
+        "translations": "oğlan",
+        "score": 18.6
+      }
+    ]
+  },
+  {
+    "id": "boyfriend-525",
+    "headword": "boyfriend",
+    "lookupLemma": "boyfriend",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɔɪˌfɹɛnd/",
+      "en-GB": "/bˈɔɪfɹɛnd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/boyfriend__Noun__1",
+        "sense": "male partner in a romantic relationship",
+        "translations": "sevgili | erkek arkadaş",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/boyfriend__Noun__1",
+        "sense": "male friend",
+        "translations": "arkadaş",
+        "score": 100.0
+      }
+    ]
+  },
+  {
+    "id": "bread-266",
+    "headword": "bread",
+    "lookupLemma": "bread",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈbɹɛd/",
+      "en-GB": "/bɹˈɛd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/bread__Noun__1",
+        "sense": "baked dough made from cereals",
+        "translations": "ekmek | banak | nan",
+        "score": 220.0
+      },
+      {
+        "entry": "eng/bread__Noun__1",
+        "sense": "countable: any variety of bread",
+        "translations": "ekmek",
+        "score": 180.0
+      },
+      {
+        "entry": "eng/bread__Noun__1",
+        "sense": "slang: money",
+        "translations": "ekmek parası",
+        "score": 100
+      },
+      {
+        "entry": "eng/bread__Noun__1",
+        "sense": "food, sustenance, support of life, in general",
+        "translations": "ekmek",
+        "score": 50.0
+      }
+    ],
+    "existing": {
+      "translation": "ekmek",
+      "ipa": "/bred/",
+      "example": "We need some bread.",
+      "exampleTr": "Biraz ekmeğe ihtiyacımız var.",
+      "approxTr": "bred",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/bred/",
+          "approxTr": "bred"
+        },
+        "en-GB": {
+          "ipa": "/bred/",
+          "approxTr": "bred"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  }
+]

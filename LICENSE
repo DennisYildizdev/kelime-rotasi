@@ -1,0 +1,43 @@
+MIT License
+
+Copyright (c) 2026 DennisYildizdev
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Vocabulary data is not covered by this license
+
+This license applies to the source code in `src/`, `scripts/`, `tests/`,
+`index.html`, `styles.css` and `sw.js`.
+
+The word inventory in `data/words.json` derives from *The Oxford 3000* PDF
+supplied by the project owner. No Oxford affiliation, endorsement, or permission
+for public redistribution is asserted, and the source PDF is not part of the web
+distribution.
+
+The IPA, translation and example content in `data/enrichment.json` and
+`data/ipa.json` derives from third-party sources (ipa-dict, cmudict-ipa,
+WikDict, Wiktionary/DBnary) under their own licenses. See
+`THIRD-PARTY-NOTICES.md` and `licenses/`.
+
+## Content is not human-reviewed
+
+Enriched cards are AI-assisted drafts (`reviewStatus: draft`). Completeness of a
+card is not a claim of human linguistic or editorial review.

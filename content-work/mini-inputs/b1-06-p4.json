@@ -1,0 +1,1076 @@
+[
+  {
+    "sourceId": "similarly-2208",
+    "headword": "similarly",
+    "level": "B1",
+    "raw": "similarly adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "similarly",
+    "translationLookup": "similarly",
+    "ipaCandidates": {
+      "en-US": "/ˈsɪməɫɝɫi/",
+      "en-GB": "/sˈɪmɪləli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "hakeza",
+        "score": 2
+      },
+      {
+        "entry": "eng/similarly__Adverb__1",
+        "sense": "in a similar style or manner",
+        "translations": "benzer",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "simply-2216",
+    "headword": "simply",
+    "level": "B1",
+    "raw": "simply adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "simply",
+    "translationLookup": "simply",
+    "ipaCandidates": {
+      "en-US": "/ˈsɪmpɫi/",
+      "en-GB": "/sˈɪmpli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/simply__Adverb__1",
+        "sense": "in a simple manner",
+        "translations": "basitçe",
+        "score": 100
+      },
+      {
+        "entry": "eng/simply__Adverb__1",
+        "sense": "merely, solely",
+        "translations": "sadece",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sink-2244",
+    "headword": "sink",
+    "level": "B1",
+    "raw": "sink v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sink",
+    "translationLookup": "sink",
+    "ipaCandidates": {
+      "en-US": "/ˈsɪŋk/",
+      "en-GB": "/sˈɪŋk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sink__Verb__1",
+        "sense": "descend into liquid, etc",
+        "translations": "batmak",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/sink__Noun__1",
+        "sense": null,
+        "translations": "lavabo",
+        "score": 105.2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "slice-2316",
+    "headword": "slice",
+    "level": "B1",
+    "raw": "slice n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "slice",
+    "translationLookup": "slice",
+    "ipaCandidates": {
+      "en-US": "/ˈsɫaɪs/",
+      "en-GB": "/slˈaɪs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/slice__Noun__1",
+        "sense": "thin, broad piece cut off",
+        "translations": "dilim",
+        "score": 123.6
+      },
+      {
+        "entry": "eng/slice__Noun__1",
+        "sense": "a section of image taken of an internal organ",
+        "translations": "kesit",
+        "score": 100
+      },
+      {
+        "entry": "eng/slice__Verb__1",
+        "sense": "to cut into slices",
+        "translations": "dilimlemek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "slightly-2328",
+    "headword": "slightly",
+    "level": "B1",
+    "raw": "slightly adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "slightly",
+    "translationLookup": "slightly",
+    "ipaCandidates": {
+      "en-US": "/ˈsɫaɪtɫi/",
+      "en-GB": "/slˈaɪtli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/slightly__Adverb__1",
+        "sense": "slenderly",
+        "translations": "azıcık",
+        "score": 100
+      },
+      {
+        "entry": "eng/slightly__Adverb__1",
+        "sense": "to a small extent or degree",
+        "translations": "biraz | hafif | hafifçe",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "smart-2352",
+    "headword": "smart",
+    "level": "B1",
+    "raw": "smart adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "smart",
+    "translationLookup": "smart",
+    "ipaCandidates": {
+      "en-US": "/ˈsmɑɹt/",
+      "en-GB": "/smˈɑːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/smart__Adjective__1",
+        "sense": null,
+        "translations": "zeki | akıllı | becerikli",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/smart__Adjective__1",
+        "sense": "efficient; vigorous; brilliant",
+        "translations": "becerikli",
+        "score": 100
+      },
+      {
+        "entry": "eng/smart__Verb__1",
+        "sense": "to hurt or sting",
+        "translations": "acımak | ağrımak",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "smooth-2376",
+    "headword": "smooth",
+    "level": "B1",
+    "raw": "smooth adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "smooth",
+    "translationLookup": "smooth",
+    "ipaCandidates": {
+      "en-US": "/ˈsmuð/",
+      "en-GB": "/smˈuːð/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/smooth__Adjective__1",
+        "sense": "lacking friction, not rough",
+        "translations": "pürüzsüz | düz",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/smooth__Adjective__1",
+        "sense": "suave; sophisticated",
+        "translations": "kibar",
+        "score": 100
+      },
+      {
+        "entry": "eng/smooth__Adjective__1",
+        "sense": "bland; glib",
+        "translations": "pürüzsüz",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/smooth__Adjective__1",
+        "sense": "mathematics, of a function: Having derivatives of all finite orders at all points within the function’s domain",
+        "translations": "pürüzsüz",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "software-2413",
+    "headword": "software",
+    "level": "B1",
+    "raw": "software n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "software",
+    "translationLookup": "software",
+    "ipaCandidates": {
+      "en-US": "/ˈsɔfˌwɛɹ/, /ˈsɔftˌwɛɹ/",
+      "en-GB": "/sˈɒftweə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/software__Noun__1",
+        "sense": "encoded computer instructions",
+        "translations": "yazılım",
+        "score": 154.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "soil-2417",
+    "headword": "soil",
+    "level": "B1",
+    "raw": "soil n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "soil",
+    "translationLookup": "soil",
+    "ipaCandidates": {
+      "en-US": "/ˈsɔɪɫ/",
+      "en-GB": "/sˈɔɪl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/soil__Noun__1",
+        "sense": "country or territory",
+        "translations": "toprak",
+        "score": 113.5
+      },
+      {
+        "entry": "eng/soil__Noun__1",
+        "sense": "mixture of sand and organic material",
+        "translations": "toprak",
+        "score": 113.5
+      },
+      {
+        "entry": "eng/soil__Noun__1",
+        "sense": "mineral or organic material serving as a natural medium for the growth of land plants",
+        "translations": "toprak",
+        "score": 111.0
+      },
+      {
+        "entry": "eng/soil__Noun__1",
+        "sense": "unconsolidated mineral or organic material on the immediate surface of the earth",
+        "translations": "toprak",
+        "score": 101
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "solid-2429",
+    "headword": "solid",
+    "level": "B1",
+    "raw": "solid adj., n. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "solid",
+    "translationLookup": "solid",
+    "ipaCandidates": {
+      "en-US": "/ˈsɑɫəd/",
+      "en-GB": "/sˈɒlɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/solid__Adjective__1",
+        "sense": "in the solid state",
+        "translations": "katı",
+        "score": 121.1
+      },
+      {
+        "entry": "eng/solid__Noun__1",
+        "sense": null,
+        "translations": "katı",
+        "score": 100
+      },
+      {
+        "entry": "eng/solid__Noun__1",
+        "sense": "chemistry: fundamental state of matter",
+        "translations": "katı",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "southern-2507",
+    "headword": "southern",
+    "level": "B1",
+    "raw": "southern adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "southern",
+    "translationLookup": "southern",
+    "ipaCandidates": {
+      "en-US": "/ˈsəðɝn/",
+      "en-GB": "/sˈʌðən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/southern__Adjective__1",
+        "sense": "of the south",
+        "translations": "güney | güneyli",
+        "score": 105.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "specifically-2539",
+    "headword": "specifically",
+    "level": "B1",
+    "raw": "specifically adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "specifically",
+    "translationLookup": "specifically",
+    "ipaCandidates": {
+      "en-US": "/spəˈsɪfɪkɫi/",
+      "en-GB": "/spəsˈɪfɪkli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/specifically__Adverb__1",
+        "sense": null,
+        "translations": "özellikle",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "spending-2563",
+    "headword": "spending",
+    "level": "B1",
+    "raw": "spending n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "spending",
+    "translationLookup": "spend",
+    "ipaCandidates": {
+      "en-US": "/ˈspɛndɪŋ/",
+      "en-GB": "/spˈɛndɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/spend__Verb__1",
+        "sense": "to pay out",
+        "translations": "harcamak",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/spend__Verb__1",
+        "sense": "to consume, to use up (time)",
+        "translations": "geçirmek | harcamak",
+        "score": 100
+      }
+    ],
+    "externalEvidence": {
+      "headword": "spending",
+      "sourceUrl": "https://en.wiktionary.org/wiki/spending",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ˈspɛndɪŋ/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/spending"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "spicy-2567",
+    "headword": "spicy",
+    "level": "B1",
+    "raw": "spicy adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "spicy",
+    "translationLookup": "spicy",
+    "ipaCandidates": {
+      "en-US": "/ˈspaɪsi/",
+      "en-GB": "/spˈaɪsi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/spicy__Adjective__1",
+        "sense": "containing spice",
+        "translations": "baharatlı | baharlı",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/spicy__Adjective__1",
+        "sense": "tangy or pungent",
+        "translations": "baharatlı | acı | çeşnili",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "spirit-2575",
+    "headword": "spirit",
+    "level": "B1",
+    "raw": "spirit n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "spirit",
+    "translationLookup": "spirit",
+    "ipaCandidates": {
+      "en-US": "/ˈspɪɹət/, /ˈspɪɹɪt/",
+      "en-GB": "/spˈɪɹɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/spirit__Noun__1",
+        "sense": "soul",
+        "translations": "ruh | tin",
+        "score": 112.1
+      },
+      {
+        "entry": "eng/spirit__Noun__1",
+        "sense": "supernatural being",
+        "translations": "ruh | tin",
+        "score": 112.1
+      },
+      {
+        "entry": "eng/spirit__Noun__1",
+        "sense": "alcohol",
+        "translations": "ispirto",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/spirit__Noun__1",
+        "sense": "enthusiasm",
+        "translations": "ruh | tin",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "spoken-2587",
+    "headword": "spoken",
+    "level": "B1",
+    "raw": "spoken adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "spoken",
+    "translationLookup": "spoken",
+    "ipaCandidates": {
+      "en-US": "/ˈspoʊkən/",
+      "en-GB": "/spˈəʊkən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "ağızcıl",
+        "score": 2
+      },
+      {
+        "entry": "eng/spoken__Adjective__1",
+        "sense": "expressed in speech",
+        "translations": "konuşma",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "spot-2603",
+    "headword": "spot",
+    "level": "B1",
+    "raw": "spot n. B1, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "spot",
+    "translationLookup": "spot",
+    "ipaCandidates": {
+      "en-US": "/ˈspɑt/",
+      "en-GB": "/spˈɒt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/spot__Noun__1",
+        "sense": "stain",
+        "translations": "leke",
+        "score": 103.7
+      },
+      {
+        "entry": "eng/spot__Noun__1",
+        "sense": null,
+        "translations": "benek | spot",
+        "score": 101.4
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "spread-2607",
+    "headword": "spread",
+    "level": "B1",
+    "raw": "spread v. B1, n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "spread",
+    "translationLookup": "spread",
+    "ipaCandidates": {
+      "en-US": "/ˈspɹɛd/",
+      "en-GB": "/spɹˈɛd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/spread__Verb__1",
+        "sense": null,
+        "translations": "yaymak",
+        "score": 110.4
+      },
+      {
+        "entry": "eng/spread__Verb__1",
+        "sense": "(intransitive) to take up a larger area, expand",
+        "translations": "yayılmak",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/spread__Verb__1",
+        "sense": "to smear, distribute in a thin layer",
+        "translations": "sürmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "stadium-2623",
+    "headword": "stadium",
+    "level": "B1",
+    "raw": "stadium n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "stadium",
+    "translationLookup": "stadium",
+    "ipaCandidates": {
+      "en-US": "/ˈsteɪdiəm/",
+      "en-GB": "/stˈeɪdiəm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/stadium__Noun__1",
+        "sense": "venue where sporting events are held",
+        "translations": "stadyum | stat",
+        "score": 141.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "staff-2627",
+    "headword": "staff",
+    "level": "B1",
+    "raw": "staff n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "staff",
+    "translationLookup": "staff",
+    "ipaCandidates": {
+      "en-US": "/ˈstæf/",
+      "en-GB": "/stˈɑːf/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/staff__Noun__1",
+        "sense": null,
+        "translations": "personel",
+        "score": 116.1
+      },
+      {
+        "entry": "eng/staff__Noun__1",
+        "sense": "long, straight, thick rod or stick to assist in walking",
+        "translations": "asa | baston | çomak",
+        "score": 111.1
+      },
+      {
+        "entry": "eng/staff__Verb__1",
+        "sense": "to supply with employees",
+        "translations": "kadrolamak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "standard-2647",
+    "headword": "standard",
+    "level": "B1",
+    "raw": "standard n., adj. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "standard",
+    "translationLookup": "standard",
+    "ipaCandidates": {
+      "en-US": "/ˈstændɝd/",
+      "en-GB": "/stˈændəd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/standard__Noun__1",
+        "sense": null,
+        "translations": "standart | ölçün",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/standard__Adjective__1",
+        "sense": "falling within an accepted range",
+        "translations": "standart | ölçünlü",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/standard__Noun__1",
+        "sense": "a flag or ensign",
+        "translations": "flama | sancak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "statistic-2675",
+    "headword": "statistic",
+    "level": "B1",
+    "raw": "statistic n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "statistic",
+    "translationLookup": "statistic",
+    "ipaCandidates": {
+      "en-US": "/stəˈtɪstɪk/",
+      "en-GB": "/stɐtˈɪstɪk/"
+    },
+    "dictionaryCandidates": [],
+    "externalEvidence": {
+      "headword": "statistic",
+      "sourceUrl": "https://en.wiktionary.org/wiki/statistic",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/stəˈtɪs.tɪk/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/statistic"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "statue-2679",
+    "headword": "statue",
+    "level": "B1",
+    "raw": "statue n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "statue",
+    "translationLookup": "statue",
+    "ipaCandidates": {
+      "en-US": "/ˈstæˌtʃu/",
+      "en-GB": "/stˈætʃuː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/statue__Noun__1",
+        "sense": "three-dimensional work of art",
+        "translations": "heykel | kurçak | yontu",
+        "score": 163.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "stick-push-into-attach--2711",
+    "headword": "stick (push into/attach)",
+    "level": "B1",
+    "raw": "stick (push into/attach) v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "stick",
+    "translationLookup": "stick",
+    "ipaCandidates": {
+      "en-US": "/ˈstɪk/",
+      "en-GB": "/stˈɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": "twig or small branch",
+        "translations": "sopa | çubuk",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/stick__Verb__2",
+        "sense": "to become attached, to adhere (intransitive)",
+        "translations": "yapışmak",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/stick__Verb__2",
+        "sense": "to glue; to adhere (transitive)",
+        "translations": "yapıştırmak",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": null,
+        "translations": "baston",
+        "score": 100
+      },
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": "cane or walking stick",
+        "translations": "asa | baston | değnek | çomak",
+        "score": 100
+      },
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": "chewing gum",
+        "translations": "şerit sakız",
+        "score": 100
+      },
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": "control column of an aircraft",
+        "translations": "kol | kontrol kolu",
+        "score": 100
+      },
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": "cylindrical piece (of chalk, wax etc)",
+        "translations": "baston",
+        "score": 100
+      },
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": "gearstick, stickshift",
+        "translations": "kol | vites | vites kolu",
+        "score": 100
+      },
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": "hockey stick",
+        "translations": "hokey sopası",
+        "score": 100
+      },
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": "long piece of wood",
+        "translations": "dayak | çubuk",
+        "score": 100
+      },
+      {
+        "entry": "eng/stick__Verb__2",
+        "sense": "to press into with a sharp point",
+        "translations": "batırmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "stick-piece-of-wood--2715",
+    "headword": "stick (piece of wood)",
+    "level": "B1",
+    "raw": "stick (piece of wood) n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "stick",
+    "translationLookup": "stick",
+    "ipaCandidates": {
+      "en-US": "/ˈstɪk/",
+      "en-GB": "/stˈɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": "twig or small branch",
+        "translations": "sopa | çubuk",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/stick__Verb__2",
+        "sense": "to become attached, to adhere (intransitive)",
+        "translations": "yapışmak",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/stick__Verb__2",
+        "sense": "to glue; to adhere (transitive)",
+        "translations": "yapıştırmak",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": null,
+        "translations": "baston",
+        "score": 100
+      },
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": "cane or walking stick",
+        "translations": "asa | baston | değnek | çomak",
+        "score": 100
+      },
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": "chewing gum",
+        "translations": "şerit sakız",
+        "score": 100
+      },
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": "control column of an aircraft",
+        "translations": "kol | kontrol kolu",
+        "score": 100
+      },
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": "cylindrical piece (of chalk, wax etc)",
+        "translations": "baston",
+        "score": 100
+      },
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": "gearstick, stickshift",
+        "translations": "kol | vites | vites kolu",
+        "score": 100
+      },
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": "hockey stick",
+        "translations": "hokey sopası",
+        "score": 100
+      },
+      {
+        "entry": "eng/stick__Noun__1",
+        "sense": "long piece of wood",
+        "translations": "dayak | çubuk",
+        "score": 100
+      },
+      {
+        "entry": "eng/stick__Verb__2",
+        "sense": "to press into with a sharp point",
+        "translations": "batırmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  }
+]

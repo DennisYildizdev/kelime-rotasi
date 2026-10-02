@@ -1,0 +1,460 @@
+[
+  {
+    "sourceId": "hunt-1362",
+    "headword": "hunt",
+    "displayWord": "hunt",
+    "speechText": "hunt",
+    "translation": "avlamak",
+    "example": "Wolves hunt together at night.",
+    "exampleTr": "Kurtlar geceleri birlikte avlanır.",
+    "ipaUS": "/ˈhənt/",
+    "approxUS": "hınt",
+    "topicTags": [
+      "nature",
+      "actions"
+    ],
+    "selectedSense": "to chase and catch animals",
+    "translationEvidence": "eng/hunt__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hunt"
+  },
+  {
+    "sourceId": "hurricane-1370",
+    "headword": "hurricane",
+    "displayWord": "hurricane",
+    "speechText": "hurricane",
+    "translation": "kasırga",
+    "example": "The hurricane damaged several coastal homes.",
+    "exampleTr": "Kasırga kıyıdaki birkaç eve zarar verdi.",
+    "ipaUS": "/ˈhɝəˌkeɪn/",
+    "approxUS": "hör-ı-keyn",
+    "topicTags": [
+      "nature"
+    ],
+    "selectedSense": "a powerful tropical storm",
+    "translationEvidence": "eng/hurricane__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hurricane",
+    "contentNote": "Vurgulu ilk hecedeki r sesi Türkçe r'den farklıdır."
+  },
+  {
+    "sourceId": "hurry-1095",
+    "headword": "hurry",
+    "displayWord": "hurry",
+    "speechText": "hurry",
+    "translation": "acele etmek",
+    "example": "We must hurry before the gates close.",
+    "exampleTr": "Kapılar kapanmadan önce acele etmeliyiz.",
+    "ipaUS": "/ˈhɝi/",
+    "approxUS": "hö-ri",
+    "topicTags": [
+      "actions",
+      "time"
+    ],
+    "selectedSense": "to do something quickly",
+    "translationEvidence": "eng/hurry__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hurry"
+  },
+  {
+    "sourceId": "identity-1131",
+    "headword": "identity",
+    "displayWord": "identity",
+    "speechText": "identity",
+    "translation": "kimlik",
+    "example": "The police confirmed his identity yesterday.",
+    "exampleTr": "Polis dün onun kimliğini doğruladı.",
+    "ipaUS": "/aɪˈdɛntɪˌti/",
+    "approxUS": "ay-den-ti-ti",
+    "topicTags": [
+      "people"
+    ],
+    "selectedSense": "the name and personal details of someone",
+    "translationEvidence": "eng/identity__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:identity"
+  },
+  {
+    "sourceId": "ignore-1139",
+    "headword": "ignore",
+    "displayWord": "ignore",
+    "speechText": "ignore",
+    "translation": "görmezden gelmek",
+    "example": "Please do not ignore this warning.",
+    "exampleTr": "Lütfen bu uyarıyı görmezden gelme.",
+    "ipaUS": "/ˌɪɡˈnɔɹ/",
+    "approxUS": "ig-nor",
+    "topicTags": [
+      "actions",
+      "communication"
+    ],
+    "selectedSense": "to deliberately pay no attention",
+    "translationEvidence": "eng/ignore__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:ignore"
+  },
+  {
+    "sourceId": "illegal-1147",
+    "headword": "illegal",
+    "displayWord": "illegal",
+    "speechText": "illegal",
+    "translation": "yasa dışı",
+    "example": "Parking here is illegal after midnight.",
+    "exampleTr": "Gece yarısından sonra buraya park etmek yasa dışıdır.",
+    "ipaUS": "/ˌɪˈɫiɡəɫ/",
+    "approxUS": "i-li-gıl",
+    "topicTags": [
+      "descriptions",
+      "places"
+    ],
+    "selectedSense": "forbidden by law",
+    "translationEvidence": "eng/illegal__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:illegal"
+  },
+  {
+    "sourceId": "imaginary-1167",
+    "headword": "imaginary",
+    "displayWord": "imaginary",
+    "speechText": "imaginary",
+    "translation": "hayalî",
+    "example": "Mia writes stories about imaginary creatures.",
+    "exampleTr": "Mia hayalî yaratıklar hakkında hikâyeler yazıyor.",
+    "ipaUS": "/ˌɪˈmædʒəˌnɛɹi/",
+    "approxUS": "i-me-cı-ne-ri",
+    "topicTags": [
+      "culture",
+      "descriptions"
+    ],
+    "selectedSense": "existing only in the imagination",
+    "translationEvidence": "eng/imaginary__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:imaginary",
+    "contentNote": "Vurgulu ünlü Türkçedeki e ile a arasındadır."
+  },
+  {
+    "sourceId": "immediate-1179",
+    "headword": "immediate",
+    "displayWord": "immediate",
+    "speechText": "immediate",
+    "translation": "yakın",
+    "example": "Only immediate family may enter.",
+    "exampleTr": "Yalnızca yakın aile üyeleri girebilir.",
+    "ipaUS": "/ˌɪˈmiˌdiət/",
+    "approxUS": "i-mi-di-yıt",
+    "topicTags": [
+      "family",
+      "descriptions"
+    ],
+    "selectedSense": "closest in family relationship",
+    "translationEvidence": "eng/immediate__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:immediate",
+    "contentNote": "Burada immediate family, en yakın aile üyeleri anlamındadır."
+  },
+  {
+    "sourceId": "immigrant-1187",
+    "headword": "immigrant",
+    "displayWord": "immigrant",
+    "speechText": "immigrant",
+    "translation": "göçmen",
+    "example": "Each immigrant brought a different story.",
+    "exampleTr": "Her göçmen farklı bir hikâye getirdi.",
+    "ipaUS": "/ˈɪməɡɹənt/",
+    "approxUS": "i-mı-grınt",
+    "topicTags": [
+      "people",
+      "travel"
+    ],
+    "selectedSense": "a person who settles in another country",
+    "translationEvidence": "eng/immigrant__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:immigrant"
+  },
+  {
+    "sourceId": "impact-1191",
+    "headword": "impact",
+    "displayWord": "impact",
+    "speechText": "impact",
+    "translation": "etki",
+    "example": "The new law had little impact.",
+    "exampleTr": "Yeni yasanın etkisi az oldu.",
+    "ipaUS": "/ˈɪmpækt/",
+    "approxUS": "im-pekt",
+    "topicTags": [
+      "descriptions"
+    ],
+    "selectedSense": "a significant effect or influence",
+    "translationEvidence": "eng/impact__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:impact",
+    "contentNote": "Vurgulu ünlü Türkçedeki e ile a arasındadır."
+  },
+  {
+    "sourceId": "import-1203",
+    "headword": "import",
+    "displayWord": "import",
+    "speechText": "import",
+    "translation": "ithal ürün",
+    "example": "This import costs more than local rice.",
+    "exampleTr": "Bu ithal ürün yerli pirinçten daha pahalı.",
+    "ipaUS": "/ˈɪmˌpɔɹt/",
+    "approxUS": "im-port",
+    "topicTags": [
+      "money",
+      "work"
+    ],
+    "selectedSense": "a product brought from another country",
+    "translationEvidence": "eng/import__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:import",
+    "contentNote": "İsim olan import ilk hecede vurgulanır."
+  },
+  {
+    "sourceId": "importance-1207",
+    "headword": "importance",
+    "displayWord": "importance",
+    "speechText": "importance",
+    "translation": "önem",
+    "example": "Children understand the importance of kindness.",
+    "exampleTr": "Çocuklar nezaketin önemini anlar.",
+    "ipaUS": "/ˌɪmˈpɔɹtəns/",
+    "approxUS": "im-por-tıns",
+    "topicTags": [
+      "descriptions",
+      "feelings"
+    ],
+    "selectedSense": "the quality of being significant",
+    "translationEvidence": "eng/importance__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:importance"
+  },
+  {
+    "sourceId": "impression-1231",
+    "headword": "impression",
+    "displayWord": "impression",
+    "speechText": "impression",
+    "translation": "izlenim",
+    "example": "Her calm voice made a good impression.",
+    "exampleTr": "Sakin sesi iyi bir izlenim bıraktı.",
+    "ipaUS": "/ˌɪmˈpɹɛʃən/",
+    "approxUS": "im-pre-şın",
+    "topicTags": [
+      "feelings",
+      "communication"
+    ],
+    "selectedSense": "an overall effect on someone's opinion",
+    "translationEvidence": "eng/impression__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:impression",
+    "contentNote": "Kanıttaki intiba karşılığının modern Türkçedeki yaygın biçimi izlenimdir."
+  },
+  {
+    "sourceId": "impressive-1235",
+    "headword": "impressive",
+    "displayWord": "impressive",
+    "speechText": "impressive",
+    "translation": "etkileyici",
+    "example": "The team's recovery was truly impressive.",
+    "exampleTr": "Takımın toparlanması gerçekten etkileyiciydi.",
+    "ipaUS": "/ˌɪmˈpɹɛsɪv/",
+    "approxUS": "im-pre-siv",
+    "topicTags": [
+      "descriptions",
+      "sport"
+    ],
+    "selectedSense": "causing admiration through quality or skill",
+    "translationEvidence": "eng/impressive__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:impressive"
+  },
+  {
+    "sourceId": "improvement-1243",
+    "headword": "improvement",
+    "displayWord": "improvement",
+    "speechText": "improvement",
+    "translation": "düzelme",
+    "example": "We noticed a clear improvement this week.",
+    "exampleTr": "Bu hafta belirgin bir düzelme fark ettik.",
+    "ipaUS": "/ˌɪmˈpɹuvmənt/",
+    "approxUS": "im-pruuv-mınt",
+    "topicTags": [
+      "descriptions",
+      "time"
+    ],
+    "selectedSense": "a change that makes something better",
+    "translationEvidence": "eng/improvement__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:improvement"
+  },
+  {
+    "sourceId": "incredibly-1287",
+    "headword": "incredibly",
+    "displayWord": "incredibly",
+    "speechText": "incredibly",
+    "translation": "inanılmaz derecede",
+    "example": "The mountain road was incredibly narrow.",
+    "exampleTr": "Dağ yolu inanılmaz derecede dardı.",
+    "ipaUS": "/ˌɪnˈkɹɛdəbɫi/",
+    "approxUS": "in-kre-dıb-li",
+    "topicTags": [
+      "descriptions",
+      "travel"
+    ],
+    "selectedSense": "to an extremely great degree",
+    "translationEvidence": "eng/incredibly__Adverb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:incredibly"
+  },
+  {
+    "sourceId": "indeed-1291",
+    "headword": "indeed",
+    "displayWord": "indeed",
+    "speechText": "indeed",
+    "translation": "gerçekten",
+    "example": "The final exam was indeed difficult.",
+    "exampleTr": "Final sınavı gerçekten zordu.",
+    "ipaUS": "/ˌɪnˈdid/",
+    "approxUS": "in-diid",
+    "topicTags": [
+      "communication",
+      "school"
+    ],
+    "selectedSense": "used to emphasize that something is true",
+    "translationEvidence": "eng/indeed__Adverb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:indeed"
+  },
+  {
+    "sourceId": "indicate-1299",
+    "headword": "indicate",
+    "displayWord": "indicate",
+    "speechText": "indicate",
+    "translation": "göstermek",
+    "example": "Dark clouds indicate possible rain.",
+    "exampleTr": "Koyu bulutlar yağmur ihtimalini gösterir.",
+    "ipaUS": "/ˈɪndəˌkeɪt/",
+    "approxUS": "in-dı-keyt",
+    "topicTags": [
+      "communication",
+      "nature"
+    ],
+    "selectedSense": "to show that something exists or may happen",
+    "translationEvidence": "eng/indicate__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:indicate"
+  },
+  {
+    "sourceId": "indirect-1303",
+    "headword": "indirect",
+    "displayWord": "indirect",
+    "speechText": "indirect",
+    "translation": "dolaylı",
+    "example": "We took an indirect route home.",
+    "exampleTr": "Eve dolaylı bir yoldan gittik.",
+    "ipaUS": "/ˌɪndɝˈɛkt/",
+    "approxUS": "in-dör-ekt",
+    "topicTags": [
+      "travel",
+      "descriptions"
+    ],
+    "selectedSense": "not following the shortest or straightest way",
+    "translationEvidence": "eng/indirect__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:indirect"
+  },
+  {
+    "sourceId": "indoor-1311",
+    "headword": "indoor",
+    "displayWord": "indoor",
+    "speechText": "indoor",
+    "translation": "kapalı",
+    "example": "The hotel has an indoor pool.",
+    "exampleTr": "Otelde kapalı bir yüzme havuzu var.",
+    "ipaUS": "/ˈɪnˌdɔɹ/",
+    "approxUS": "in-dor",
+    "topicTags": [
+      "places",
+      "descriptions"
+    ],
+    "selectedSense": "happening, used, or existing in a building",
+    "translationEvidence": "https://dictionary.cambridge.org/dictionary/english-turkish/indoor",
+    "ipaEvidenceUS": "ipa-dict/en_US:indoor",
+    "contentNote": "B1 sıfat anlamı için Cambridge English–Turkish dış sözlük kanıtı kullanıldı."
+  },
+  {
+    "sourceId": "indoors-1315",
+    "headword": "indoors",
+    "displayWord": "indoors",
+    "speechText": "indoors",
+    "translation": "içeride",
+    "example": "We stayed indoors during the storm.",
+    "exampleTr": "Fırtına sırasında içeride kaldık.",
+    "ipaUS": "/ˈɪnˌdɔɹz/",
+    "approxUS": "in-dorz",
+    "topicTags": [
+      "home",
+      "places"
+    ],
+    "selectedSense": "in or into a building",
+    "translationEvidence": "eng/indoors__Adverb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:indoors",
+    "contentNote": "Kanıttaki içinde karşılığı cümlede doğal Türkçeyle içeride olarak verildi."
+  },
+  {
+    "sourceId": "influence-1331",
+    "headword": "influence",
+    "displayWord": "influence",
+    "speechText": "influence",
+    "translation": "etki",
+    "example": "Her grandmother was a strong influence.",
+    "exampleTr": "Büyükannesi güçlü bir etkiydi.",
+    "ipaUS": "/ˈɪnfɫuəns/",
+    "approxUS": "in-flu-ıns",
+    "topicTags": [
+      "people",
+      "descriptions"
+    ],
+    "selectedSense": "a person or force that affects someone",
+    "translationEvidence": "eng/influence__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:influence"
+  },
+  {
+    "sourceId": "ingredient-1347",
+    "headword": "ingredient",
+    "displayWord": "ingredient",
+    "speechText": "ingredient",
+    "translation": "malzeme",
+    "example": "Garlic is the main ingredient here.",
+    "exampleTr": "Buradaki ana malzeme sarımsaktır.",
+    "ipaUS": "/ˌɪnˈɡɹidiənt/",
+    "approxUS": "in-gri-di-yınt",
+    "topicTags": [
+      "food"
+    ],
+    "selectedSense": "a substance used in a mixture or recipe",
+    "translationEvidence": "eng/ingredient__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:ingredient"
+  },
+  {
+    "sourceId": "injure-1363",
+    "headword": "injure",
+    "displayWord": "injure",
+    "speechText": "injure",
+    "translation": "yaralamak",
+    "example": "Sharp tools can injure careless workers.",
+    "exampleTr": "Keskin aletler dikkatsiz işçileri yaralayabilir.",
+    "ipaUS": "/ˈɪndʒɝ/",
+    "approxUS": "in-cör",
+    "topicTags": [
+      "body",
+      "actions",
+      "work"
+    ],
+    "selectedSense": "to cause physical harm",
+    "translationEvidence": "eng/injure__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:injure",
+    "contentNote": "Ortadaki ses Türkçedeki c sesine yakındır."
+  },
+  {
+    "sourceId": "injured-1367",
+    "headword": "injured",
+    "displayWord": "injured",
+    "speechText": "injured",
+    "translation": "yaralı",
+    "example": "Two injured passengers needed medical help.",
+    "exampleTr": "İki yaralı yolcunun tıbbi yardıma ihtiyacı vardı.",
+    "ipaUS": "/ˈɪndʒɝd/",
+    "approxUS": "in-cörd",
+    "topicTags": [
+      "body",
+      "travel",
+      "descriptions"
+    ],
+    "selectedSense": "hurt or physically harmed",
+    "translationEvidence": "https://dictionary.cambridge.org/dictionary/english-turkish/injured",
+    "ipaEvidenceUS": "ipa-dict/en_US:injured",
+    "contentNote": "B1 sıfat anlamı için Cambridge English–Turkish dış sözlük kanıtı kullanıldı."
+  }
+]

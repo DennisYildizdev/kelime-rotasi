@@ -1,0 +1,985 @@
+[
+  {
+    "sourceId": "remark-2148",
+    "headword": "remark",
+    "level": "B2",
+    "raw": "remark n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "remark",
+    "translationLookup": "remark",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈmɑɹk/, /ɹɪˈmɑɹk/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/remark__Noun__1",
+        "sense": null,
+        "translations": "bakmak",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/remark__Verb__1",
+        "sense": null,
+        "translations": "farkına varmak",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/remark__Verb__1",
+        "sense": "to express in words or writing; to state, as an observation",
+        "translations": "farkına varmak",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/remark__Verb__1",
+        "sense": "to pay heed to; notice; to take notice of, to perceive",
+        "translations": "farkına varmak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "representative-2204",
+    "headword": "representative",
+    "level": "B2",
+    "raw": "representative n., adj. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "representative",
+    "translationLookup": "representative",
+    "ipaCandidates": {
+      "en-US": "/ˌɹɛpɹəˈzɛnətɪv/, /ˌɹɛpɹəˈzɛntətɪv/, /ˌɹɛpɹɪˈzɛnətɪv/, /ˌɹɛpɹɪˈzɛntətɪv/",
+      "en-GB": "/ɹˌɛpɹɪzˈɛntətˌɪv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/representative__Noun__1",
+        "sense": "one who speaks for another",
+        "translations": "mümessil | temsilci | vekil",
+        "score": 100.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "reputation-2205",
+    "headword": "reputation",
+    "level": "B2",
+    "raw": "reputation n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "reputation",
+    "translationLookup": "reputation",
+    "ipaCandidates": {
+      "en-US": "/ˌɹɛpjəˈteɪʃən/",
+      "en-GB": "/ɹˌɛpjuːtˈeɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/reputation__Noun__1",
+        "sense": "what somebody is known for",
+        "translations": "nam | ün | şan | şöhret | repütasyon",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "requirement-2217",
+    "headword": "requirement",
+    "level": "B2",
+    "raw": "requirement n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "requirement",
+    "translationLookup": "requirement",
+    "ipaCandidates": {
+      "en-US": "/ɹɪˈkwaɪɹmənt/",
+      "en-GB": "/ɹɪkwˈaɪəmənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/requirement__Noun__1",
+        "sense": "something asked",
+        "translations": "talep",
+        "score": 100.2
+      },
+      {
+        "entry": "eng/requirement__Noun__1",
+        "sense": "necessity",
+        "translations": "gereklilik | zaruret",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "rescue-2221",
+    "headword": "rescue",
+    "level": "B2",
+    "raw": "rescue v., n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "rescue",
+    "translationLookup": "rescue",
+    "ipaCandidates": {
+      "en-US": "/ˈɹɛskju/",
+      "en-GB": "/ɹˈɛskjuː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/rescue__Verb__1",
+        "sense": "to save from any danger or violence",
+        "translations": "kurtarmak",
+        "score": 102.2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "reserve-2237",
+    "headword": "reserve",
+    "level": "B2",
+    "raw": "reserve n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "reserve",
+    "translationLookup": "reserve",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈzɝv/, /ɹɪˈzɝv/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/reserve__Noun__1",
+        "sense": "military: body of troops in the rear of an army",
+        "translations": "rezerv",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/reserve__Noun__1",
+        "sense": "that which is reserved or kept back, as for future use",
+        "translations": "rezerv | yedek",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/reserve__Verb__1",
+        "sense": "to book in advance",
+        "translations": "ayırmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "resident-2241",
+    "headword": "resident",
+    "level": "B2",
+    "raw": "resident n., adj. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "resident",
+    "translationLookup": "resident",
+    "ipaCandidates": {
+      "en-US": "/ˈɹɛzɪdənt/",
+      "en-GB": "/ɹˈɛzɪdənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/resident__Noun__1",
+        "sense": "person living at a location or an area",
+        "translations": "sakin | durgun",
+        "score": 101.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "resist-2245",
+    "headword": "resist",
+    "level": "B2",
+    "raw": "resist v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "resist",
+    "translationLookup": "resist",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈzɪst/, /ɹɪˈzɪst/",
+      "en-GB": "/ɹɪsˈɪst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/resist__Verb__1",
+        "sense": "to withstand actions or effects of",
+        "translations": "direnmek",
+        "score": 111.1
+      },
+      {
+        "entry": "eng/resist__Verb__1",
+        "sense": null,
+        "translations": "direnmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "resolve-2249",
+    "headword": "resolve",
+    "level": "B2",
+    "raw": "resolve v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "resolve",
+    "translationLookup": "resolve",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈzɑɫv/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/resolve__Verb__1",
+        "sense": "to come to an agreement",
+        "translations": "halletmek",
+        "score": 5.0
+      },
+      {
+        "entry": "eng/resolve__Verb__1",
+        "sense": "to find a solution to",
+        "translations": "halletmek",
+        "score": 5.0
+      },
+      {
+        "entry": "eng/resolve__Verb__1",
+        "sense": "to reduce to simple or intelligible notions; to make clear or certain",
+        "translations": "halletmek",
+        "score": 5.0
+      },
+      {
+        "entry": "eng/resolve__Verb__1",
+        "sense": "to break down into constituent parts",
+        "translations": "halletmek",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/resolve__Verb__1",
+        "sense": "to cause to perceive or understand, to convince; to assure; to make certain",
+        "translations": "halletmek",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/resolve__Verb__1",
+        "sense": "to melt; to dissolve; to liquefy or soften",
+        "translations": "halletmek",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/resolve__Verb__1",
+        "sense": "to make a firm decision",
+        "translations": "anlamak",
+        "score": 1.1
+      },
+      {
+        "entry": "eng/resolve__Verb__1",
+        "sense": "to separate racemic compounds into their enantiomers",
+        "translations": "anlamak",
+        "score": 1.1
+      },
+      {
+        "entry": "eng/resolve__Verb__1",
+        "sense": "medicine: to disperse or scatter",
+        "translations": "sıçramak",
+        "score": 1
+      },
+      {
+        "entry": "eng/resolve__Verb__1",
+        "sense": "to melt; to dissolve; to become liquid",
+        "translations": "erimek",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "resort-2253",
+    "headword": "resort",
+    "level": "B2",
+    "raw": "resort n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "resort",
+    "translationLookup": "resort",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈsɔɹt/, /ɹiˈzɔɹt/, /ɹɪˈzɔɹt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/resort__Noun__1",
+        "sense": "a relaxing environment for people on vacation",
+        "translations": "tatil köyü",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "retain-2297",
+    "headword": "retain",
+    "level": "B2",
+    "raw": "retain v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "retain",
+    "translationLookup": "retain",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈteɪn/, /ɹɪˈteɪn/",
+      "en-GB": "/ɹɪtˈeɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/retain__Verb__1",
+        "sense": null,
+        "translations": "kaybetmemek | tutmak | alıkoymak | elinden kaçırmamak | unutmamak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/retain__Verb__1",
+        "sense": "to keep (someone) in one’s pay or service; (chiefly historical) to maintain (someone) as a dependent or follower",
+        "translations": "tutmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "reveal-2313",
+    "headword": "reveal",
+    "level": "B2",
+    "raw": "reveal v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "reveal",
+    "translationLookup": "reveal",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈviɫ/, /ɹɪˈviɫ/",
+      "en-GB": "/ɹɪvˈiːl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/reveal__Verb__1",
+        "sense": "to uncover",
+        "translations": "açığa vurmak",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "revolution-2325",
+    "headword": "revolution",
+    "level": "B2",
+    "raw": "revolution n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "revolution",
+    "translationLookup": "revolution",
+    "ipaCandidates": {
+      "en-US": "/ˌɹɛvəˈɫuʃən/",
+      "en-GB": "/ɹˌɛvəlˈuːʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/revolution__Noun__1",
+        "sense": "political upheaval",
+        "translations": "devrim | ihtilal",
+        "score": 183.5
+      },
+      {
+        "entry": "eng/revolution__Noun__1",
+        "sense": "sudden, vast change in a situation or discipline",
+        "translations": "devrim",
+        "score": 162.5
+      },
+      {
+        "entry": "eng/revolution__Noun__1",
+        "sense": "traversal of one body through an orbit around another body",
+        "translations": "döngü",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/revolution__Noun__1",
+        "sense": "removal and replacement of a government",
+        "translations": "darbe | devrim",
+        "score": 100
+      },
+      {
+        "entry": "eng/revolution__Noun__1",
+        "sense": "turning of an object around an axis",
+        "translations": "döngü | devrim",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "reward-2329",
+    "headword": "reward",
+    "level": "B2",
+    "raw": "reward n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "reward",
+    "translationLookup": "reward",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈwɔɹd/, /ɹɪˈwɔɹd/",
+      "en-GB": "/ɹɪwˈɔːd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/reward__Noun__1",
+        "sense": "something of value given in return for an act",
+        "translations": "ödül | mükafat",
+        "score": 131.1
+      },
+      {
+        "entry": "eng/reward__Verb__1",
+        "sense": "give a reward to",
+        "translations": "ödüllendirmek",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/reward__Noun__1",
+        "sense": "prize promised for a certain deed or catch",
+        "translations": "ödül",
+        "score": 21.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "rhythm-2333",
+    "headword": "rhythm",
+    "level": "B2",
+    "raw": "rhythm n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "rhythm",
+    "translationLookup": "rhythm",
+    "ipaCandidates": {
+      "en-US": "/ˈɹɪðəm/",
+      "en-GB": "/ɹˈɪðəm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/rhythm__Noun__1",
+        "sense": "variation of strong and weak elements of sounds over time",
+        "translations": "ritim | ritm",
+        "score": 151.1
+      },
+      {
+        "entry": "eng/rhythm__Noun__1",
+        "sense": "tempo or speed of a beat, song, or repeated event",
+        "translations": "ritim",
+        "score": 131.1
+      },
+      {
+        "entry": "eng/rhythm__Noun__1",
+        "sense": "flow, repetition or regularity",
+        "translations": "ritim",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "rid-2345",
+    "headword": "rid",
+    "level": "B2",
+    "raw": "rid v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "rid",
+    "translationLookup": "rid",
+    "ipaCandidates": {
+      "en-US": "/ˈɹɪd/",
+      "en-GB": "/ɹˈɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/rid__Noun__1",
+        "sense": "loose earth, rubble, etc., on the surface of a quarry which must be removed before digging can begin",
+        "translations": "gang",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/rid__Verb__1",
+        "sense": "to free (oneself or someone, or a place) from an annoyance or hindrance",
+        "translations": "işgalden kurtarmak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "root-2410",
+    "headword": "root",
+    "level": "B2",
+    "raw": "root n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "root",
+    "translationLookup": "root",
+    "ipaCandidates": {
+      "en-US": "/ˈɹut/",
+      "en-GB": "/ɹˈuːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/root__Noun__1",
+        "sense": "arithmetic: number or expression which when raised to a power gives the specified number or expression",
+        "translations": "kök",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/root__Noun__1",
+        "sense": "part of a plant",
+        "translations": "kök",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/root__Noun__1",
+        "sense": "of a tooth",
+        "translations": "kök",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/root__Noun__1",
+        "sense": "linguistic morphology: primary lexical unit of a word",
+        "translations": "kök",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/root__Noun__1",
+        "sense": "part of a hair under the skin",
+        "translations": "kök",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/root__Noun__1",
+        "sense": "primary source",
+        "translations": "kök | kaynak",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/root__Noun__1",
+        "sense": "philology: word from which another word or words are derived",
+        "translations": "köken | kök",
+        "score": 100
+      },
+      {
+        "entry": "eng/root__Verb__1",
+        "sense": "to cause to grow roots",
+        "translations": "köklendirmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/root__Verb__1",
+        "sense": "to grow roots",
+        "translations": "kök salmak | köklenmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/root__Noun__1",
+        "sense": "analysis: zero of a function",
+        "translations": "kök",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/root__Noun__1",
+        "sense": "graph theory: node in a tree that has no parent",
+        "translations": "kök",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "rub-2442",
+    "headword": "rub",
+    "level": "B2",
+    "raw": "rub v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "rub",
+    "translationLookup": "rub",
+    "ipaCandidates": {
+      "en-US": "/ˈɹəb/",
+      "en-GB": "/ɹˈʌb/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/rub__Verb__1",
+        "sense": "to move one object while maintaining contact with another object over some area",
+        "translations": "sürtmek | dokundurmak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/rub__Noun__1",
+        "sense": "act of rubbing",
+        "translations": "ovalama | ovma",
+        "score": 100
+      },
+      {
+        "entry": "eng/rub__Verb__1",
+        "sense": null,
+        "translations": "ovalamak | ovmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "rubber-2446",
+    "headword": "rubber",
+    "level": "B2",
+    "raw": "rubber n., adj. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "rubber",
+    "translationLookup": "rubber",
+    "ipaCandidates": {
+      "en-US": "/ˈɹəbɝ/",
+      "en-GB": "/ɹˈʌbɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/rubber__Noun__1",
+        "sense": "pliable material derived from the sap of the rubber tree",
+        "translations": "kauçuk",
+        "score": 113.6
+      },
+      {
+        "entry": "eng/rubber__Noun__1",
+        "sense": "condom",
+        "translations": "prezervatif | kondom | şapka",
+        "score": 102.9
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "rural-2478",
+    "headword": "rural",
+    "level": "B2",
+    "raw": "rural adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "rural",
+    "translationLookup": "rural",
+    "ipaCandidates": {
+      "en-US": "/ˈɹʊɹəɫ/",
+      "en-GB": "/ɹˈɔːɹəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/rural__Adjective__1",
+        "sense": "pertaining to non-urban areas",
+        "translations": "kırsal",
+        "score": 121.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "rush-2206",
+    "headword": "rush",
+    "level": "B2",
+    "raw": "rush v., n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "rush",
+    "translationLookup": "rush",
+    "ipaCandidates": {
+      "en-US": "/ˈɹəʃ/",
+      "en-GB": "/ɹˈʌʃ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/rush__Noun__1",
+        "sense": "haste",
+        "translations": "aldıraşlık | telaş",
+        "score": 100
+      },
+      {
+        "entry": "eng/rush__Verb__1",
+        "sense": "to hurry",
+        "translations": "acele etmek | aşıkmak",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "satellite-2270",
+    "headword": "satellite",
+    "level": "B2",
+    "raw": "satellite n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "satellite",
+    "translationLookup": "satellite",
+    "ipaCandidates": {
+      "en-US": "/ˈsætəˌɫaɪt/",
+      "en-GB": "/sˈætəlˌaɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/satellite__Noun__1",
+        "sense": "man-made apparatus designed to be placed in orbit around a celestial body",
+        "translations": "uydu | yapay uydu",
+        "score": 145.0
+      },
+      {
+        "entry": "eng/satellite__Noun__1",
+        "sense": "a body orbiting a larger one",
+        "translations": "uydu | peyk",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/satellite__Noun__1",
+        "sense": "colloquial: satellite TV",
+        "translations": "uydu",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "satisfied-2274",
+    "headword": "satisfied",
+    "level": "B2",
+    "raw": "satisfied adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "satisfied",
+    "translationLookup": "satisfied",
+    "ipaCandidates": {
+      "en-US": "/ˈsætəsˌfaɪd/, /ˈsætɪsˌfaɪd/",
+      "en-GB": "/sˈætɪsfˌaɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/satisfied__Adjective__1",
+        "sense": "in a state of satisfaction",
+        "translations": "memnun | hoşnut",
+        "score": 105.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "satisfy-2278",
+    "headword": "satisfy",
+    "level": "B2",
+    "raw": "satisfy v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "satisfy",
+    "translationLookup": "satisfy",
+    "ipaCandidates": {
+      "en-US": "/ˈsætəsˌfaɪ/, /ˈsætɪsˌfaɪ/",
+      "en-GB": "/sˈætɪsfˌaɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/satisfy__Verb__1",
+        "sense": "to be enough (for)",
+        "translations": "tatmin etmek | doyurmak | yetmek",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "saving-2294",
+    "headword": "saving",
+    "level": "B2",
+    "raw": "saving n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "saving",
+    "translationLookup": "saving",
+    "ipaCandidates": {
+      "en-US": "/ˈseɪvɪŋ/",
+      "en-GB": "/sˈeɪvɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/saving__Noun__1",
+        "sense": "reduction in cost",
+        "translations": "ekonomi",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/saving__Noun__1",
+        "sense": "something that is saved",
+        "translations": "ekonomi",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  }
+]

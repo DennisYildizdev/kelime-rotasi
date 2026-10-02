@@ -1,0 +1,947 @@
+[
+  {
+    "sourceId": "various-2864",
+    "headword": "various",
+    "level": "B1",
+    "raw": "various adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "various",
+    "translationLookup": "various",
+    "ipaCandidates": {
+      "en-US": "/ˈvɛɹiəs/",
+      "en-GB": "/vˈeəɹɪəs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/various__Adjective__1",
+        "sense": null,
+        "translations": "çeşitli",
+        "score": 101.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "version-2888",
+    "headword": "version",
+    "level": "B1",
+    "raw": "version n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "version",
+    "translationLookup": "version",
+    "ipaCandidates": {
+      "en-US": "/ˈvɝʒən/",
+      "en-GB": "/vˈɜːʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/version__Noun__1",
+        "sense": "a specific form or variation of something",
+        "translations": "versiyon",
+        "score": 113.5
+      },
+      {
+        "entry": "eng/version__Noun__1",
+        "sense": "computing: particular revision",
+        "translations": "versiyon | sürüm",
+        "score": 113.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "victim-2900",
+    "headword": "victim",
+    "level": "B1",
+    "raw": "victim n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "victim",
+    "translationLookup": "victim",
+    "ipaCandidates": {
+      "en-US": "/ˈvɪktəm/, /ˈvɪktɪm/",
+      "en-GB": "/vˈɪktɪm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/victim__Noun__1",
+        "sense": null,
+        "translations": "kurban",
+        "score": 115.0
+      },
+      {
+        "entry": "eng/victim__Noun__1",
+        "sense": "one who is harmed",
+        "translations": "kurban",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/victim__Noun__1",
+        "sense": "one who is harmed by a disaster or other adverse circumstance",
+        "translations": "kurban",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "viewer-2916",
+    "headword": "viewer",
+    "level": "B1",
+    "raw": "viewer n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "viewer",
+    "translationLookup": "viewer",
+    "ipaCandidates": {
+      "en-US": "/ˈvjuɝ/",
+      "en-GB": "/vjˈuːɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/viewer__Noun__1",
+        "sense": null,
+        "translations": "seyirci | izleyici",
+        "score": 103.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "violent-2928",
+    "headword": "violent",
+    "level": "B1",
+    "raw": "violent adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "violent",
+    "translationLookup": "violent",
+    "ipaCandidates": {
+      "en-US": "/ˈvaɪəɫənt/, /ˈvaɪɫənt/",
+      "en-GB": "/vˈaɪələnt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/violent__Adjective__1",
+        "sense": null,
+        "translations": "sert",
+        "score": 100
+      },
+      {
+        "entry": "eng/violent__Adjective__1",
+        "sense": "involving extreme force or motion",
+        "translations": "şiddetli",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "volunteer-2972",
+    "headword": "volunteer",
+    "level": "B1",
+    "raw": "volunteer n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "volunteer",
+    "translationLookup": "volunteer",
+    "ipaCandidates": {
+      "en-US": "/ˌvɑɫənˈtɪɹ/",
+      "en-GB": "/vˌɒləntˈiə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/volunteer__Noun__1",
+        "sense": "one who voluntarily offers themselves for service",
+        "translations": "gönüllü",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "vote-2976",
+    "headword": "vote",
+    "level": "B1",
+    "raw": "vote n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "vote",
+    "translationLookup": "vote",
+    "ipaCandidates": {
+      "en-US": "/ˈvoʊt/",
+      "en-GB": "/vˈəʊt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/vote__Noun__1",
+        "sense": "formalised choice",
+        "translations": "oy | oylama | rey",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/vote__Verb__1",
+        "sense": "assert a formalised choice",
+        "translations": "oylamak",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/vote__Noun__1",
+        "sense": "instance of voting",
+        "translations": "oylama",
+        "score": 15.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "warn-2777",
+    "headword": "warn",
+    "level": "B1",
+    "raw": "warn v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "warn",
+    "translationLookup": "warn",
+    "ipaCandidates": {
+      "en-US": "/ˈwɔɹn/",
+      "en-GB": "/wˈɔːn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/warn__Verb__1",
+        "sense": "to make someone aware of impending danger",
+        "translations": "uyarmak",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/warn__Verb__1",
+        "sense": null,
+        "translations": "uyarmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "warning-2781",
+    "headword": "warning",
+    "level": "B1",
+    "raw": "warning n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "warning",
+    "translationLookup": "warning",
+    "ipaCandidates": {
+      "en-US": "/ˈwɔɹnɪŋ/",
+      "en-GB": "/wˈɔːnɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/warning__Interjection__1",
+        "sense": "warning of danger in signs",
+        "translations": "uyarı",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/warning__Noun__1",
+        "sense": "instance of warning someone",
+        "translations": "ikaz | uyarı",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/warning__Noun__1",
+        "sense": "something spoken or written that is intended to warn",
+        "translations": "uyarı",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "waste-2793",
+    "headword": "waste",
+    "level": "B1",
+    "raw": "waste n., v., adj. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v., adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "waste",
+    "translationLookup": "waste",
+    "ipaCandidates": {
+      "en-US": "/ˈweɪst/",
+      "en-GB": "/wˈeɪst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/waste__Verb__1",
+        "sense": "to squander",
+        "translations": "harcamak | çarçur etmek",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/waste__Noun__1",
+        "sense": "useless by-products, garbage",
+        "translations": "atık",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/waste__Noun__1",
+        "sense": "action of wasting, ineffective use",
+        "translations": "israf",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "weapon-2833",
+    "headword": "weapon",
+    "level": "B1",
+    "raw": "weapon n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "weapon",
+    "translationLookup": "weapon",
+    "ipaCandidates": {
+      "en-US": "/ˈwɛpən/",
+      "en-GB": "/wˈɛpən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/weapon__Noun__1",
+        "sense": "instrument of attack or defense in combat",
+        "translations": "silah | yarak | savut",
+        "score": 147.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "weigh-2869",
+    "headword": "weigh",
+    "level": "B1",
+    "raw": "weigh v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "weigh",
+    "translationLookup": "weigh",
+    "ipaCandidates": {
+      "en-US": "/ˈweɪ/",
+      "en-GB": "/wˈeɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/weigh__Verb__1",
+        "sense": "to determine the weight of an object",
+        "translations": "tartmak",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/weigh__Verb__1",
+        "sense": "to weigh out",
+        "translations": "tartmak",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/weigh__Verb__1",
+        "sense": "to have a certain weight",
+        "translations": "gelmek | tartmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "western-2889",
+    "headword": "western",
+    "level": "B1",
+    "raw": "western adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "western",
+    "translationLookup": "western",
+    "ipaCandidates": {
+      "en-US": "/ˈhwɛstɝn/, /ˈwɛstɝn/",
+      "en-GB": "/wˈɛstən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/western__Adjective__1",
+        "sense": "pertaining to the west",
+        "translations": "batı | batısal",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/western__Adjective__1",
+        "sense": "blowing from the west",
+        "translations": "batı | batısal",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "whatever-2901",
+    "headword": "whatever",
+    "level": "B1",
+    "raw": "whatever det./pron. B1",
+    "pos": "det.",
+    "senses": [
+      {
+        "partOfSpeech": "det./pron.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "whatever",
+    "translationLookup": "whatever",
+    "ipaCandidates": {
+      "en-US": "/ˌhwəˈtɛvɝ/, /ˌwəˈtɛvɝ/",
+      "en-GB": "/wɒtˈɛvɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/whatever__Determiner__1",
+        "sense": null,
+        "translations": "her ne | her neyse",
+        "score": 100
+      },
+      {
+        "entry": "eng/whatever__Interjection__1",
+        "sense": null,
+        "translations": "neyse",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "whenever-2913",
+    "headword": "whenever",
+    "level": "B1",
+    "raw": "whenever conj. B1",
+    "pos": "conj.",
+    "senses": [
+      {
+        "partOfSpeech": "conj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "whenever",
+    "translationLookup": "whenever",
+    "ipaCandidates": {
+      "en-US": "/hwɛˈnɛvɝ/, /wɛˈnɛvɝ/",
+      "en-GB": "/wɛnˈɛvɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/whenever__Conjunction__1",
+        "sense": "at any time that",
+        "translations": "-iken",
+        "score": 10.0
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "her ne zaman",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "whether-2929",
+    "headword": "whether",
+    "level": "B1",
+    "raw": "whether conj. B1",
+    "pos": "conj.",
+    "senses": [
+      {
+        "partOfSpeech": "conj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "whether",
+    "translationLookup": "whether",
+    "ipaCandidates": {
+      "en-US": "/ˈhwɛðɝ/, /ˈwɛðɝ/",
+      "en-GB": "/wˈɛðɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/whether__Conjunction__1",
+        "sense": "if, whether or not",
+        "translations": "eğer",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/whether__Conjunction__1",
+        "sense": "introducing indirect questions",
+        "translations": "eğer",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/whether__Conjunction__1",
+        "sense": null,
+        "translations": "veya",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "wing-2778",
+    "headword": "wing",
+    "level": "B1",
+    "raw": "wing n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "wing",
+    "translationLookup": "wing",
+    "ipaCandidates": {
+      "en-US": "/ˈwɪŋ/",
+      "en-GB": "/wˈɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wing__Noun__1",
+        "sense": "part of an aircraft",
+        "translations": "kanat",
+        "score": 172.5
+      },
+      {
+        "entry": "eng/wing__Noun__1",
+        "sense": "part of an animal",
+        "translations": "kanat",
+        "score": 172.5
+      },
+      {
+        "entry": "eng/wing__Noun__1",
+        "sense": "sports: position in many team sports",
+        "translations": "kanat",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/wing__Noun__1",
+        "sense": null,
+        "translations": "kanat",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/wing__Noun__1",
+        "sense": "extension to a main body",
+        "translations": "kanat",
+        "score": 50.0
+      },
+      {
+        "entry": "eng/wing__Noun__1",
+        "sense": "faction of a political movement",
+        "translations": "kanat",
+        "score": 50.0
+      },
+      {
+        "entry": "eng/wing__Noun__1",
+        "sense": "sports: person in such position",
+        "translations": "kanat",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "within-2806",
+    "headword": "within",
+    "level": "B1",
+    "raw": "within prep. B1",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "within",
+    "translationLookup": "within",
+    "ipaCandidates": {
+      "en-US": "/wɪˈðɪn/, /wɪˈθɪn/",
+      "en-GB": "/wɪðˈɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/within__Preposition__1",
+        "sense": "spatial enclosure",
+        "translations": "içerisinde",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "wonder-2822",
+    "headword": "wonder",
+    "level": "B1",
+    "raw": "wonder v., n. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "wonder",
+    "translationLookup": "wonder",
+    "ipaCandidates": {
+      "en-US": "/ˈwəndɝ/",
+      "en-GB": "/wˈʌndɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wonder__Noun__1",
+        "sense": "something astonishing and seemingly inexplicable",
+        "translations": "mucize | tansık",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/wonder__Noun__1",
+        "sense": "something that causes amazement or awe, a marvel",
+        "translations": "harika | mucize",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/wonder__Noun__1",
+        "sense": "someone very talented at something, a genius",
+        "translations": "dahi | deha",
+        "score": 100
+      },
+      {
+        "entry": "eng/wonder__Verb__1",
+        "sense": "to ponder about something",
+        "translations": "kızıksınmak | merak etmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "wool-2838",
+    "headword": "wool",
+    "level": "B1",
+    "raw": "wool n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "wool",
+    "translationLookup": "wool",
+    "ipaCandidates": {
+      "en-US": "/ˈwʊɫ/",
+      "en-GB": "/wˈʊl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wool__Noun__1",
+        "sense": "hair of sheep, etc.",
+        "translations": "yün",
+        "score": 161.0
+      },
+      {
+        "entry": "eng/wool__Noun__1",
+        "sense": "cloth or yarn",
+        "translations": "yün",
+        "score": 41.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "worldwide-2862",
+    "headword": "worldwide",
+    "level": "B1",
+    "raw": "worldwide adj., adv. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "worldwide",
+    "translationLookup": "worldwide",
+    "ipaCandidates": {
+      "en-US": "/ˈwɝɫdˈwaɪd/",
+      "en-GB": "/wˈɜːldwaɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/worldwide__Adjective__1",
+        "sense": "spanning the world",
+        "translations": "global",
+        "score": 1.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "worth-2882",
+    "headword": "worth",
+    "level": "B1",
+    "raw": "worth adj. B1, n. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "worth",
+    "translationLookup": "worth",
+    "ipaCandidates": {
+      "en-US": "/ˈwɝθ/",
+      "en-GB": "/wˈɜːθ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/worth__Noun__1",
+        "sense": "value",
+        "translations": "değer",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/worth__Adjective__1",
+        "sense": "deserving of",
+        "translations": "layık",
+        "score": 100
+      },
+      {
+        "entry": "eng/worth__Adjective__1",
+        "sense": "equal in value to",
+        "translations": "değerinde | layık",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "written-2914",
+    "headword": "written",
+    "level": "B1",
+    "raw": "written adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "written",
+    "translationLookup": "written",
+    "ipaCandidates": {
+      "en-US": "/ˈɹɪtən/",
+      "en-GB": "/ɹˈɪtən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/written__Adjective__1",
+        "sense": "of, relating or characteristic of writing",
+        "translations": "yazılı",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "yard-2922",
+    "headword": "yard",
+    "level": "B1",
+    "raw": "yard n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "yard",
+    "translationLookup": "yard",
+    "ipaCandidates": {
+      "en-US": "/ˈjɑɹd/",
+      "en-GB": "/jˈɑːd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/yard__Noun__2",
+        "sense": "nautical: tapered timber from which square sails hang",
+        "translations": "seren",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/yard__Noun__2",
+        "sense": "three feet",
+        "translations": "yarda",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/yard__Noun__1",
+        "sense": "land around a house",
+        "translations": "avlu",
+        "score": 109.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "youth-2970",
+    "headword": "youth",
+    "level": "B1",
+    "raw": "youth n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "youth",
+    "translationLookup": "youth",
+    "ipaCandidates": {
+      "en-US": "/ˈjuθ/",
+      "en-GB": "/jˈuːθ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/youth__Noun__1",
+        "sense": "part of life following childhood",
+        "translations": "gençlik",
+        "score": 143.6
+      },
+      {
+        "entry": "eng/youth__Noun__1",
+        "sense": "quality or state of being young",
+        "translations": "gençlik",
+        "score": 143.6
+      },
+      {
+        "entry": "eng/youth__Noun__1",
+        "sense": "young persons, collectively",
+        "translations": "gençlik",
+        "score": 143.6
+      },
+      {
+        "entry": "eng/youth__Noun__1",
+        "sense": "young person",
+        "translations": "genç",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/youth__Noun__1",
+        "sense": "young man",
+        "translations": "delikanlı | genç erkek",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  }
+]

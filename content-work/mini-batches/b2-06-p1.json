@@ -1,0 +1,587 @@
+[
+  {
+    "sourceId": "significantly-2452",
+    "headword": "significantly",
+    "displayWord": "significantly",
+    "speechText": "significantly",
+    "translation": "belirgin şekilde",
+    "example": "Her recovery time was significantly shorter this year.",
+    "exampleTr": "Her iyileşme süresi bu yıl belirgin şekilde daha kısa oldu.",
+    "ipaUS": "/sɪɡˈnɪfɪkəntɫi/",
+    "approxUS": "sıg-nı-fı-kan-tli",
+    "ipaUK": "/sɪɡnˈɪfɪkəntli/",
+    "approxUK": "sıg-nı-fı-kan-tli",
+    "topicTags": [
+      "descriptions",
+      "work"
+    ],
+    "selectedSense": "in a way that makes a noticeable difference",
+    "translationEvidence": "eng/significant__Adjective__1",
+    "contentNote": "Bu batch'teki tek aday, -ly eki düşürülmüş gövde significant için \"anlamlı, kayda değer\" anlamını veriyor; sözlükte fiil biçimi (significantly adv.) için Türkçe karşılık yok. Anlam öğretilen fiil anlamıyla aynı kökten geldiği için aday bu kartta kullanıldı, ancak fiil biçiminin kendi sözlük kanıtı henüz yok. Zor ses: /ɡ/ kıfın arka tarafında \"g\" sesi, sondaki /ɫ/ Türkçede \"l\".",
+    "ipaEvidenceUS": "ipa-dict/en_US:significant",
+    "ipaEvidenceUK": "ipa-dict/en_GB:significant"
+  },
+  {
+    "sourceId": "silence-2456",
+    "headword": "silence",
+    "displayWord": "silence",
+    "speechText": "silence",
+    "translation": "sessizlik",
+    "example": "There was a long silence after the question.",
+    "exampleTr": "Sorudan sonra uzun bir sessizlik oldu.",
+    "ipaUS": "/ˈsaɪɫəns/",
+    "approxUS": "say-lans",
+    "ipaUK": "/sˈaɪləns/",
+    "approxUK": "say-lans",
+    "topicTags": [
+      "communication",
+      "descriptions"
+    ],
+    "selectedSense": "complete absence of sound or speech",
+    "translationEvidence": "eng/silence__Noun__1",
+    "contentNote": "Kart isim anlamını öğretir; aynı kelimenin \"susturmak\" fiil adayı (eng/silence__Verb__1) kullanılmadı, çünkü bu kartın takımı isim. Kısa \"a\" sesi \"ey\" ile okunur, \"l\" yumuşaktır.",
+    "ipaEvidenceUS": "ipa-dict/en_US:silence",
+    "ipaEvidenceUK": "ipa-dict/en_GB:silence"
+  },
+  {
+    "sourceId": "silk-2464",
+    "headword": "silk",
+    "displayWord": "silk",
+    "speechText": "silk",
+    "translation": "ipek",
+    "example": "This shirt is made of light silk.",
+    "exampleTr": "Bu gömlek hafif ipekten yapılmış.",
+    "ipaUS": "/ˈsɪɫk/",
+    "approxUS": "silk",
+    "ipaUK": "/sˈɪlk/",
+    "approxUK": "silk",
+    "topicTags": [
+      "clothes",
+      "home"
+    ],
+    "selectedSense": "the smooth fabric made from silkworm thread",
+    "translationEvidence": "eng/silk__Noun__1",
+    "contentNote": "İki aday da aynı girdiye (eng/silk__Noun__1) işaret ediyor: \"fabric\" ve \"fiber\". B2 için daha yararlı olan kumaş anlamı seçildi. Baştaki /ɪ/ kısa \"i\" gibi, sondaki /ɫ/ yumuşak \"l\".",
+    "ipaEvidenceUS": "ipa-dict/en_US:silk",
+    "ipaEvidenceUK": "ipa-dict/en_GB:silk"
+  },
+  {
+    "sourceId": "sincere-2224",
+    "headword": "sincere",
+    "displayWord": "sincere",
+    "speechText": "sincere",
+    "translation": "içten",
+    "example": "The doctor gave a sincere apology to the family.",
+    "exampleTr": "Doktor aileye içten bir özür diledi.",
+    "ipaUS": "/sɪnˈsɪɹ/",
+    "approxUS": "sin-sir",
+    "ipaUK": "/sɪnsˈiə/",
+    "approxUK": "sin-si-e",
+    "topicTags": [
+      "feelings",
+      "people"
+    ],
+    "selectedSense": "genuine, said without pretending",
+    "translationEvidence": "eng/sincere__Adjective__1",
+    "contentNote": "Amerikan İngilizcesinde ikinci hece \"siir\" gibi söylenir; Britanya adayında son ses \"ie\" ile biter, bu yüzden en-GB okunuşu farklı yazıldı. /ɹ/ Türkçe r'den daha dildir.",
+    "ipaEvidenceUS": "ipa-dict/en_US:sincere",
+    "ipaEvidenceUK": "ipa-dict/en_GB:sincere"
+  },
+  {
+    "sourceId": "slave-2308",
+    "headword": "slave",
+    "displayWord": "slave",
+    "speechText": "slave",
+    "translation": "köle",
+    "example": "Every owner treated a slave as property.",
+    "exampleTr": "Her sahibi bir köleyi mülk sayardı.",
+    "ipaUS": "/ˈsɫeɪv/",
+    "approxUS": "sleyv",
+    "ipaUK": "/slˈeɪv/",
+    "approxUK": "sleyv",
+    "topicTags": [
+      "people",
+      "descriptions"
+    ],
+    "selectedSense": "person owned as property by another",
+    "translationEvidence": "eng/slave__Noun__1",
+    "contentNote": "Bu tarihsel ve hassas bir terimdir; kart yalnızca sözlükteki \"person owned by another\" anlamını öğretir, güncel veya cinsel anlamlar (cariye, ikbal, BDSM ve cihaz anlamları) seçilmemiştir. Baştaki /s/ + /l/ Türkçede \"sl\" olarak okunur. Örnek cümle \"slave\" biçimini birebir içerir; çoğul \"slaves\" yazma alıştırmasında kabul edilir.",
+    "ipaEvidenceUS": "ipa-dict/en_US:slave",
+    "ipaEvidenceUK": "ipa-dict/en_GB:slave",
+    "acceptedAnswers": [
+      "slaves"
+    ]
+  },
+  {
+    "sourceId": "slide-2320",
+    "headword": "slide",
+    "displayWord": "slide",
+    "speechText": "slide",
+    "translation": "kaymak",
+    "example": "Watch the box slide down the ramp.",
+    "exampleTr": "Kutunun rampadan aşağı kaymasını izle.",
+    "ipaUS": "/ˈsɫaɪd/",
+    "approxUS": "sleyd",
+    "ipaUK": "/slˈaɪd/",
+    "approxUK": "sleyd",
+    "topicTags": [
+      "actions",
+      "descriptions"
+    ],
+    "selectedSense": "to move smoothly along a surface",
+    "translationEvidence": "eng/slide__Verb__1",
+    "contentNote": "Kaynak \"slide v., n.\" diyor; bu kart fiil anlamını öğretir, isim anlamları (kaydırak, saydam slayt) kullanılmadı. Düzensiz fiil: slide – slid – slid.",
+    "ipaEvidenceUS": "ipa-dict/en_US:slide",
+    "ipaEvidenceUK": "ipa-dict/en_GB:slide",
+    "acceptedAnswers": [
+      "slides",
+      "slid"
+    ]
+  },
+  {
+    "sourceId": "slight-2324",
+    "headword": "slight",
+    "displayWord": "slight",
+    "speechText": "slight",
+    "translation": "hafif",
+    "example": "A slight pain in my left knee remains.",
+    "exampleTr": "Sol dizimde hafif bir ağrı devam ediyor.",
+    "ipaUS": "/ˈsɫaɪt/",
+    "approxUS": "sleyt",
+    "ipaUK": "/slˈaɪt/",
+    "approxUK": "sleyt",
+    "topicTags": [
+      "body",
+      "descriptions"
+    ],
+    "selectedSense": "small in amount or degree",
+    "translationEvidence": "https://dictionary.cambridge.org/dictionary/english-turkish/slight",
+    "contentNote": "Cambridge English–Turkish dış sözlük kanıtı kullanıldı.",
+    "ipaEvidenceUS": "ipa-dict/en_US:slight",
+    "ipaEvidenceUK": "ipa-dict/en_GB:slight",
+    "acceptedAnswers": [
+      "slightly"
+    ]
+  },
+  {
+    "sourceId": "slip-2332",
+    "headword": "slip",
+    "displayWord": "slip",
+    "speechText": "slip",
+    "translation": "süzülerek girmek",
+    "example": "He could slip into the room unnoticed.",
+    "exampleTr": "Fark edilmeden odaya süzülebilirdi.",
+    "ipaUS": "/ˈsɫɪp/",
+    "approxUS": "slıp",
+    "ipaUK": "/slˈɪp/",
+    "approxUK": "slıp",
+    "topicTags": [
+      "actions",
+      "communication"
+    ],
+    "selectedSense": "to move quickly and quietly into a place",
+    "translationEvidence": "eng/slip__Verb__1",
+    "contentNote": "Aday listesi karışıktı: yüksek puanlı \"to move quickly / girmek\", ayrıca \"to err / aldanmak\", \"gizlice vermek\" ve isim anlamları (gaf, fiş, çelik) var. Kart, B2'de en yararlı \"süzülerek girmek / sızmak\" kullanımını öğretir. \"slightly\" (hafifçe) ile karıştırılmamalıdır.",
+    "ipaEvidenceUS": "ipa-dict/en_US:slip",
+    "ipaEvidenceUK": "ipa-dict/en_GB:slip",
+    "acceptedAnswers": [
+      "slips",
+      "slipped"
+    ]
+  },
+  {
+    "sourceId": "slope-2336",
+    "headword": "slope",
+    "displayWord": "slope",
+    "speechText": "slope",
+    "translation": "yamaç",
+    "example": "Snow covered the slope above our village.",
+    "exampleTr": "Köyümüzün üstündeki yamayı kar örttü.",
+    "ipaUS": "/ˈsɫoʊp/",
+    "approxUS": "sloup",
+    "ipaUK": "/slˈəʊp/",
+    "approxUK": "sloup",
+    "topicTags": [
+      "nature",
+      "places"
+    ],
+    "selectedSense": "a surface that rises or falls at an angle",
+    "translationEvidence": "eng/slope__Noun__1",
+    "contentNote": "İki aday da aynı girdide: \"yamaç\" ve matematikte \"eğim\". Coğrafi yamaç anlamı seçildi. Baştaki /sl/ Türkçede iki ayrı ses olarak söylenir.",
+    "ipaEvidenceUS": "ipa-dict/en_US:slope",
+    "ipaEvidenceUK": "ipa-dict/en_GB:slope"
+  },
+  {
+    "sourceId": "solar-2421",
+    "headword": "solar",
+    "displayWord": "solar",
+    "speechText": "solar",
+    "translation": "güneşe ait",
+    "example": "Solar panels cover the whole southern roof.",
+    "exampleTr": "Güneş panelleri güney cephedeki çatının tamamını kaplıyor.",
+    "ipaUS": "/ˈsoʊɫɝ/",
+    "approxUS": "soular",
+    "ipaUK": "/sˈəʊlɐ/",
+    "approxUK": "soular",
+    "topicTags": [
+      "technology",
+      "nature"
+    ],
+    "selectedSense": "concerning or using energy from the sun",
+    "translationEvidence": "eng/solar__Adjective__1",
+    "contentNote": "Sözlük çevirisi \"Güneş\" biçiminde bir isim veriyor; sıfat anlamı için Türkçede \"güneşe ait\" denmiştir. Amerikan söyleyişinde \"r\" sesi vardır (harmanlanmış \"er\"), Britanya adayında yoktur.",
+    "ipaEvidenceUS": "ipa-dict/en_US:solar",
+    "ipaEvidenceUK": "ipa-dict/en_GB:solar"
+  },
+  {
+    "sourceId": "somewhat-2461",
+    "headword": "somewhat",
+    "displayWord": "somewhat",
+    "speechText": "somewhat",
+    "translation": "biraz",
+    "example": "The results were somewhat better than last year.",
+    "exampleTr": "Sonuçlar geçen yılkine göre biraz daha iyiydi.",
+    "ipaUS": "/ˈsəmˈwət/",
+    "approxUS": "sım-vot",
+    "ipaUK": "/sˈʌmwɒt/",
+    "approxUK": "sam-vot",
+    "topicTags": [
+      "function-words",
+      "descriptions"
+    ],
+    "selectedSense": "to a limited degree",
+    "translationEvidence": "eng/somewhat__Adverb__1",
+    "contentNote": "en-US için iki aday vardı (/ˈsəmˈwət/ ve /ˈsəmhˈwət/); ikinci heceyi vurgulayan ilki seçildi. Britanya adayı bununla belirgin şekilde farklıdır (\"sam-vot\") ve Türkçe okunuşu ayrı yazıldı. somewhat değişmez, sık sık kullanılan \"biraz\" anlamıyla sıfat ve zarf biçimlerinde kullanılır.",
+    "ipaEvidenceUS": "ipa-dict/en_US:somewhat",
+    "ipaEvidenceUK": "ipa-dict/en_GB:somewhat"
+  },
+  {
+    "sourceId": "soul-2487",
+    "headword": "soul",
+    "displayWord": "soul",
+    "speechText": "soul",
+    "translation": "ruh",
+    "example": "He poured his whole soul into the song.",
+    "exampleTr": "Şarkıya bütün ruhunu koydu.",
+    "ipaUS": "/ˈsoʊɫ/",
+    "approxUS": "soul",
+    "ipaUK": "/sˈəʊl/",
+    "approxUK": "soul",
+    "topicTags": [
+      "feelings",
+      "descriptions"
+    ],
+    "selectedSense": "the inner self of a person",
+    "translationEvidence": "eng/soul__Noun__1",
+    "contentNote": "Üç aday da aynı girdide: ölümden sonra yaşayan ruh, \"bir kişi\" anlamı ve \"can, enerji\". En yüksek puanlı (ölümden sonra yaşayan ruh) yerine B2'de deyimlerde çok kullanılan \"bir insanın iç dünyası\" anlamı öğretildi; bu da aynı girdinin birinci anlamıyla aynı sözlük kaydına dayanır.",
+    "ipaEvidenceUS": "ipa-dict/en_US:soul",
+    "ipaEvidenceUK": "ipa-dict/en_GB:soul"
+  },
+  {
+    "sourceId": "specialist-2527",
+    "headword": "specialist",
+    "displayWord": "specialist",
+    "speechText": "specialist",
+    "translation": "uzman",
+    "example": "She is a specialist in medieval history.",
+    "exampleTr": "Ortaçağ tarihi konusunda bir uzman.",
+    "ipaUS": "/ˈspɛʃəɫɪst/",
+    "approxUS": "spe-şal-ıst",
+    "ipaUK": "/spˈɛʃəlˌɪst/",
+    "approxUK": "spe-şal-ıst",
+    "topicTags": [
+      "people",
+      "work"
+    ],
+    "selectedSense": "a person with deep knowledge of one narrow field",
+    "translationEvidence": "eng/specialist__Noun__1",
+    "contentNote": "İki aday da aynı girdide ve ikisi de \"uzman\" veriyor. en-US için iki telaffuz adayı vardı; ikinci hecesi \"ist\" okunan varyant seçildi. /ʃ/ Türkçede \"ş\" sesidir.",
+    "ipaEvidenceUS": "ipa-dict/en_US:specialist",
+    "ipaEvidenceUK": "ipa-dict/en_GB:specialist",
+    "acceptedAnswers": [
+      "specialists"
+    ]
+  },
+  {
+    "sourceId": "species-2531",
+    "headword": "species",
+    "displayWord": "species",
+    "speechText": "species",
+    "translation": "tür",
+    "example": "This species of bird returns every spring.",
+    "exampleTr": "Bu kuş türü her ilkbaharda geri gelir.",
+    "ipaUS": "/ˈspiʃiz/",
+    "approxUS": "spi-şiz",
+    "ipaUK": "/spˈiːsiːz/",
+    "approxUK": "spi-siz",
+    "topicTags": [
+      "nature",
+      "school"
+    ],
+    "selectedSense": "a group of living things that share the same characteristics",
+    "translationEvidence": "eng/species__Noun__1",
+    "contentNote": "Kelime hem tekil hem çoğul yerine geçer: bir tür de \"several species\" de türler anlamına gelir, bu yüzden çoğul -s eklenmez. Amerikan telaffuzunda \"i\" kısadır ve /ʃ/ vardır; Britanya adayında \"i\" uzatılmıştır.",
+    "ipaEvidenceUS": "ipa-dict/en_US:species",
+    "ipaEvidenceUK": "ipa-dict/en_GB:species",
+    "acceptedAnswers": [
+      "species"
+    ]
+  },
+  {
+    "sourceId": "spiritual-2579",
+    "headword": "spiritual",
+    "displayWord": "spiritual",
+    "speechText": "spiritual",
+    "translation": "manevi",
+    "example": "He found the old ceremony deeply spiritual.",
+    "exampleTr": "Eski töreni derinlemesine manevi buldu.",
+    "ipaUS": "/ˈspɪɹɪˌtʃuəɫ/",
+    "approxUS": "spı-rı-tçu-al",
+    "ipaUK": "/spˈɪɹɪtʃˌuːəl/",
+    "approxUK": "spı-rı-tçu-al",
+    "topicTags": [
+      "culture",
+      "feelings"
+    ],
+    "selectedSense": "relating to the soul rather than to physical things",
+    "translationEvidence": "eng/spiritual__Adjective__1",
+    "contentNote": "Dört aday da aynı girdide (manevi, ruhani, tinsel) ve aralarında ince bir ayrım var; kart ruh ile ilgili en genel anlamı öğretir. Sonda \"-al\" yumuşak \"l\" ile, /tʃ/ \"ç\" ile okunur.",
+    "ipaEvidenceUS": "ipa-dict/en_US:spiritual",
+    "ipaEvidenceUK": "ipa-dict/en_GB:spiritual"
+  },
+  {
+    "sourceId": "split-2583",
+    "headword": "split",
+    "displayWord": "split",
+    "speechText": "split",
+    "translation": "ayrılmak",
+    "example": "The class will split into two groups after lunch.",
+    "exampleTr": "Sınıf öğle yemeğinden sonra iki gruba ayrılacak.",
+    "ipaUS": "/ˈspɫɪt/",
+    "approxUS": "splıt",
+    "ipaUK": "/splˈɪt/",
+    "approxUK": "splıt",
+    "topicTags": [
+      "actions",
+      "people"
+    ],
+    "selectedSense": "to divide into separate parts or groups",
+    "translationEvidence": "eng/split__Verb__1",
+    "contentNote": "Kaynak \"split v., n.\"; bu kart fiil anlamını öğretir. İsim adayları (şpagat, bölünme, yarık) seçilmedi. Düzensiz çekim yok: split – split – split; \"split\" hem fiil hem isim olarak aynıdır.",
+    "ipaEvidenceUS": "ipa-dict/en_US:split",
+    "ipaEvidenceUK": "ipa-dict/en_GB:split",
+    "acceptedAnswers": [
+      "splits",
+      "splitting"
+    ]
+  },
+  {
+    "sourceId": "sponsor-2591",
+    "headword": "sponsor",
+    "displayWord": "sponsor",
+    "speechText": "sponsor",
+    "translation": "sponsor",
+    "example": "The team found a new sponsor for the season.",
+    "exampleTr": "Takım sezon için yeni bir sponsor buldu.",
+    "ipaUS": "/ˈspɑnsɝ/",
+    "approxUS": "span-sır",
+    "ipaUK": "/spˈɒnsɐ/",
+    "approxUK": "spon-sa",
+    "topicTags": [
+      "money",
+      "sport"
+    ],
+    "selectedSense": "person or company that pays the costs of an event or team",
+    "translationEvidence": "eng/sponsor__Noun__1",
+    "contentNote": "Sözlükte yalnızca isim anlamı var (\"cost of an event, publication\"), bu yüzden kart isim olarak öğretildi; kaynak \"v., n.\" dese de fiil biçimi için ayrı kanıt sunulmamış. Türkçede sponsor hem isim hem fiildir. Amerikan söyleyişinde \"r\", Britanya adayında \"a\" ile biten \"a\" sesi var.",
+    "ipaEvidenceUS": "ipa-dict/en_US:sponsor",
+    "ipaEvidenceUK": "ipa-dict/en_GB:sponsor"
+  },
+  {
+    "sourceId": "stable-2619",
+    "headword": "stable",
+    "displayWord": "stable",
+    "speechText": "stable",
+    "translation": "stabil",
+    "example": "Prices have stayed stable for six months.",
+    "exampleTr": "Fiyatlar altı aydır stabil seyrediyor.",
+    "ipaUS": "/ˈsteɪbəɫ/",
+    "approxUS": "stey-bel",
+    "ipaUK": "/stˈeɪbəl/",
+    "approxUK": "stey-bel",
+    "topicTags": [
+      "work",
+      "descriptions"
+    ],
+    "selectedSense": "not changing or fluctuating much",
+    "translationEvidence": "eng/stable__Adjective__1",
+    "contentNote": "En yüksek puanlı aday \"ahır\" (isim) idi; kaynak sıfat (adj.) olduğu için sıfat adayı \"stabil\" seçildi. Türkçede aynı kelime hem isim hem sıfat olarak kullanılır, bu yüzden karta uyaran not eklendi.",
+    "ipaEvidenceUS": "ipa-dict/en_US:stable",
+    "ipaEvidenceUK": "ipa-dict/en_GB:stable"
+  },
+  {
+    "sourceId": "stare-2655",
+    "headword": "stare",
+    "displayWord": "stare",
+    "speechText": "stare",
+    "translation": "dik dik bakmak",
+    "example": "Do not stare at the board during the test.",
+    "exampleTr": "Sınav sırasında tahtaya dik dik bakmayın.",
+    "ipaUS": "/ˈstɛɹ/",
+    "approxUS": "ster",
+    "ipaUK": "/stˈeə/",
+    "approxUK": "ster",
+    "topicTags": [
+      "actions",
+      "communication"
+    ],
+    "selectedSense": "to look fixedly at something for a long time",
+    "translationEvidence": "eng/stare__Verb__1",
+    "contentNote": "İki ayrı fiil karışmasına dikkat: stare (uzun süre bakmak) ile glare (sertçe/kıskanç bakmak) aynı değildir. Amerikan söyleyişinde \"r\" vardır, Britanya adayında \"ie\" sesi görülür.",
+    "ipaEvidenceUS": "ipa-dict/en_US:stare",
+    "ipaEvidenceUK": "ipa-dict/en_GB:stare",
+    "acceptedAnswers": [
+      "stares",
+      "stared",
+      "staring"
+    ]
+  },
+  {
+    "sourceId": "status-2683",
+    "headword": "status",
+    "displayWord": "status",
+    "speechText": "status",
+    "translation": "durum",
+    "example": "The flight status changed twice yesterday.",
+    "exampleTr": "Uçuşun durumu dün iki kez değişti.",
+    "ipaUS": "/ˈstætəs/",
+    "approxUS": "stet-es",
+    "ipaUK": "/stˈeɪtəs/",
+    "approxUK": "stey-tüs",
+    "topicTags": [
+      "descriptions",
+      "travel"
+    ],
+    "selectedSense": "the current condition or position of something",
+    "translationEvidence": "eng/status__Noun__1",
+    "contentNote": "Amerikan adayları arasından kısa \"a\" sesi olan /ˈstætəs/ seçildi; Britanya adayı \"stey-tüs\" ile okunur, bu yüzden Türkçe okunuşlar farklı yazıldı. \"status\" ve \"statü\" karışmasına dikkat: kart bir durumu anlatır, toplumsal \"statü\" değil.",
+    "ipaEvidenceUS": "ipa-dict/en_US:status",
+    "ipaEvidenceUK": "ipa-dict/en_GB:status"
+  },
+  {
+    "sourceId": "steady-2691",
+    "headword": "steady",
+    "displayWord": "steady",
+    "speechText": "steady",
+    "translation": "sabit",
+    "example": "Keep a steady hand while you pour.",
+    "exampleTr": "Dökerken elini sabit tut.",
+    "ipaUS": "/ˈstɛdi/",
+    "approxUS": "stedi",
+    "ipaUK": "/stˈɛdi/",
+    "approxUK": "stedi",
+    "topicTags": [
+      "descriptions",
+      "actions"
+    ],
+    "selectedSense": "holding firm, not shaking or changing",
+    "translationEvidence": "eng/steady__Adjective__1",
+    "contentNote": "Sözlükte tek aday var ve anlamı geniş (\"sabit\"). steady adı olumlu yönde \"istikrarlı, güvenilir\" anlamında da sık kullanılır; örnek elle ilgili somut anlamı gösterir.",
+    "ipaEvidenceUS": "ipa-dict/en_US:steady",
+    "ipaEvidenceUK": "ipa-dict/en_GB:steady",
+    "acceptedAnswers": [
+      "steadily"
+    ]
+  },
+  {
+    "sourceId": "steel-2699",
+    "headword": "steel",
+    "displayWord": "steel",
+    "speechText": "steel",
+    "translation": "çelik",
+    "example": "The new bridge is made entirely of steel.",
+    "exampleTr": "Yeni köprü tamamen çelikten yapılmış.",
+    "ipaUS": "/ˈstiɫ/",
+    "approxUS": "stil",
+    "ipaUK": "/stˈiːl/",
+    "approxUK": "stil",
+    "topicTags": [
+      "technology",
+      "work"
+    ],
+    "selectedSense": "a hard metal made from iron",
+    "translationEvidence": "eng/steel__Noun__1",
+    "contentNote": "Sözlükte tek anlam var. Britanya telaffuzunda \"i\" uzatılmıştır ama Türkçe okunuş \"stil\" olarak kalır; yumuşak \"l\" için ek yazılmadı.",
+    "ipaEvidenceUS": "ipa-dict/en_US:steel",
+    "ipaEvidenceUK": "ipa-dict/en_GB:steel"
+  },
+  {
+    "sourceId": "steep-2703",
+    "headword": "steep",
+    "displayWord": "steep",
+    "speechText": "steep",
+    "translation": "dik",
+    "example": "The path becomes steep just past the bridge.",
+    "exampleTr": "Patika, köprünün hemen ötesinde dikleşiyor.",
+    "ipaUS": "/ˈstip/",
+    "approxUS": "stip",
+    "ipaUK": "/stˈiːp/",
+    "approxUK": "stip",
+    "topicTags": [
+      "nature",
+      "places"
+    ],
+    "selectedSense": "rising or falling at a sharp angle",
+    "translationEvidence": "eng/steep__Adjective__1",
+    "contentNote": "En yüksek puanlı aday \"dik\" (sıfat) idi ve kaynak da sıfat; isim (\"çözelti\") ve fiil (\"demlemek\", \"daldırmak\") adayları kullanılmadı. Britanya adayında \"i\" uzatılmıştır.",
+    "ipaEvidenceUS": "ipa-dict/en_US:steep",
+    "ipaEvidenceUK": "ipa-dict/en_GB:steep"
+  },
+  {
+    "sourceId": "sticky-2719",
+    "headword": "sticky",
+    "displayWord": "sticky",
+    "speechText": "sticky",
+    "translation": "yapışkan",
+    "example": "The syrup is too sticky to pour.",
+    "exampleTr": "Şurup dökülmeyecek kadar yapışkan.",
+    "ipaUS": "/ˈstɪki/",
+    "approxUS": "stıki",
+    "ipaUK": "/stˈɪki/",
+    "approxUK": "stıki",
+    "topicTags": [
+      "food",
+      "descriptions"
+    ],
+    "selectedSense": "tending to attach to a surface",
+    "translationEvidence": "eng/sticky__Adjective__1",
+    "contentNote": "Sözlükte tek aday var. \"sticky\" ayrıca \"sıkıcı, sorunlu\" anlamında da kullanılır, ancak bu ek anlam kaynak girdisinde karşılık verilmediği için öğretilmedi.",
+    "ipaEvidenceUS": "ipa-dict/en_US:sticky",
+    "ipaEvidenceUK": "ipa-dict/en_GB:sticky"
+  },
+  {
+    "sourceId": "stiff-2723",
+    "headword": "stiff",
+    "displayWord": "stiff",
+    "speechText": "stiff",
+    "translation": "sert",
+    "example": "My neck feels stiff after the flight.",
+    "exampleTr": "Uçaktan sonra boynum sert ağrıyor.",
+    "ipaUS": "/ˈstɪf/",
+    "approxUS": "stıf",
+    "ipaUK": "/stˈɪf/",
+    "approxUK": "stıf",
+    "topicTags": [
+      "body",
+      "feelings"
+    ],
+    "selectedSense": "rigid and not bending easily",
+    "translationEvidence": "eng/stiff__Adjective__1",
+    "contentNote": "Adaylar karışıktı: en yüksek puanlı kayıt girdisizdi (\"çetin\"), onun altında \"sert\", \"katı\", \"ağırbaşlı\" çevirileri geliyordu. Sıkat ve sert kalan vücut uzuvları anlamı seçildi; \"beden\" (argo, ölü bedeni) ve \"kurban\" (argo) anlamları kullanılmadı. Son iki ses \"stıf\" gibi kısa ve serttir.",
+    "ipaEvidenceUS": "ipa-dict/en_US:stiff",
+    "ipaEvidenceUK": "ipa-dict/en_GB:stiff",
+    "acceptedAnswers": [
+      "stiffly"
+    ]
+  }
+]

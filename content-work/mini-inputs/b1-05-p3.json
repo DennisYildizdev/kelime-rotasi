@@ -1,0 +1,937 @@
+[
+  {
+    "sourceId": "port-2161",
+    "headword": "port",
+    "level": "B1",
+    "raw": "port n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "port",
+    "translationLookup": "port",
+    "ipaCandidates": {
+      "en-US": "/ˈpɔɹt/",
+      "en-GB": "/pˈɔːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/port__Adjective__1",
+        "sense": "dock or harbour",
+        "translations": "liman",
+        "score": 119.6
+      },
+      {
+        "entry": "eng/port__Adjective__1",
+        "sense": "left-hand side of a vessel when facing the front",
+        "translations": "iskele",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/port__Adjective__1",
+        "sense": "computing: logical or physical construct into and from which data are transferred",
+        "translations": "port",
+        "score": 100
+      },
+      {
+        "entry": "eng/port__Adjective__1",
+        "sense": "computing: to adapt a program so that it works on a different platform",
+        "translations": "uyarlamak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "portrait-2165",
+    "headword": "portrait",
+    "level": "B1",
+    "raw": "portrait n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "portrait",
+    "translationLookup": "portrait",
+    "ipaCandidates": {
+      "en-US": "/ˈpɔɹtɹət/",
+      "en-GB": "/pˈɔːtɹeɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/portrait__Noun__1",
+        "sense": "painting of a person",
+        "translations": "portre",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/portrait__Noun__1",
+        "sense": "print mode",
+        "translations": "portre",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/portrait__Noun__1",
+        "sense": "an accurate depiction of a person, a mood, etc.",
+        "translations": "tasvir | portre",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "possibly-2197",
+    "headword": "possibly",
+    "level": "B1",
+    "raw": "possibly adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "possibly",
+    "translationLookup": "possibly",
+    "ipaCandidates": {
+      "en-US": "/ˈpɑsəbɫi/",
+      "en-GB": "/pˈɒsəbli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/possibly__Adverb__1",
+        "sense": null,
+        "translations": "belki",
+        "score": 2.2
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "olabildiğince",
+        "score": 2
+      },
+      {
+        "entry": "eng/possibly__Adverb__1",
+        "sense": "adverb indicating that an action may successfully be performed",
+        "translations": "belki",
+        "score": 1.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "pot-1930",
+    "headword": "pot",
+    "level": "B1",
+    "raw": "pot n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "pot",
+    "translationLookup": "pot",
+    "ipaCandidates": {
+      "en-US": "/ˈpɑt/",
+      "en-GB": "/pˈɒt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/pot__Noun__1",
+        "sense": "vessel for cooking or storing food etc.",
+        "translations": "tencere",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/pot__Noun__1",
+        "sense": "money wagered",
+        "translations": "pot",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "pour-1946",
+    "headword": "pour",
+    "level": "B1",
+    "raw": "pour v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "pour",
+    "translationLookup": "pour",
+    "ipaCandidates": {
+      "en-US": "/ˈpɔɹ/",
+      "en-GB": "/pˈɔː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/pour__Verb__1",
+        "sense": "to cause to flow in a stream",
+        "translations": "dökmek",
+        "score": 121.1
+      },
+      {
+        "entry": "eng/pour__Verb__1",
+        "sense": "to flow, pass or issue in or as a stream",
+        "translations": "dökmek",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "poverty-1950",
+    "headword": "poverty",
+    "level": "B1",
+    "raw": "poverty n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "poverty",
+    "translationLookup": "poverty",
+    "ipaCandidates": {
+      "en-US": "/ˈpɑvɝti/",
+      "en-GB": "/pˈɒvəti/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/poverty__Noun__1",
+        "sense": "quality or state of being poor",
+        "translations": "yoksulluk | fakirlik",
+        "score": 142.5
+      },
+      {
+        "entry": "eng/poverty__Noun__1",
+        "sense": "deficiency of elements",
+        "translations": "yoksulluk",
+        "score": 30.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "powder-1954",
+    "headword": "powder",
+    "level": "B1",
+    "raw": "powder n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "powder",
+    "translationLookup": "powder",
+    "ipaCandidates": {
+      "en-US": "/ˈpaʊdɝ/",
+      "en-GB": "/pˈaʊdɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/powder__Noun__1",
+        "sense": "fine particles of any dry substance",
+        "translations": "toz | pudra",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/powder__Noun__1",
+        "sense": "cosmetic product",
+        "translations": "pudra",
+        "score": 100
+      },
+      {
+        "entry": "eng/powder__Verb__1",
+        "sense": "to use powder on the hair or skin",
+        "translations": "pudralamak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "powerful-1962",
+    "headword": "powerful",
+    "level": "B1",
+    "raw": "powerful adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "powerful",
+    "translationLookup": "powerful",
+    "ipaCandidates": {
+      "en-US": "/ˈpaʊɝfəɫ/",
+      "en-GB": "/pˈaʊəfəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/powerful__Adjective__1",
+        "sense": "having or capable of exerting power, potency or influence",
+        "translations": "güçlü",
+        "score": 115.2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "practical-1966",
+    "headword": "practical",
+    "level": "B1",
+    "raw": "practical adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "practical",
+    "translationLookup": "practical",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹæktəkəɫ/, /ˈpɹæktɪkəɫ/",
+      "en-GB": "/pɹˈæktɪkəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "kılgısal",
+        "score": 2
+      },
+      {
+        "entry": "eng/practical__Adjective__1",
+        "sense": "being likely to be effective and applicable to a real situation",
+        "translations": "faydalı",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/practical__Noun__1",
+        "sense": "a part of an exam or series of exams in which the candidate has to demonstrate their practical ability",
+        "translations": "staj",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "pray-1982",
+    "headword": "pray",
+    "level": "B1",
+    "raw": "pray v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "pray",
+    "translationLookup": "pray",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹeɪ/",
+      "en-GB": "/pɹˈeɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/pray__Verb__1",
+        "sense": "to petition a higher being",
+        "translations": "dua etmek",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/pray__Verb__1",
+        "sense": null,
+        "translations": "dua etmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/pray__Verb__1",
+        "sense": "to talk to God",
+        "translations": "Hüda'ya dua etmek | dua etmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/pray__Verb__1",
+        "sense": "to beg humbly for aid",
+        "translations": "dua etmek",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "prayer-1986",
+    "headword": "prayer",
+    "level": "B1",
+    "raw": "prayer n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "prayer",
+    "translationLookup": "prayer",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹeɪɝ/, /ˈpɹɛɹ/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/prayer__Noun__1",
+        "sense": "practice of communicating with one's God",
+        "translations": "dua | namaz",
+        "score": 170.0
+      },
+      {
+        "entry": "eng/prayer__Noun__1",
+        "sense": "the specific words or methods used for praying",
+        "translations": "dua | namaz",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/prayer__Noun__1",
+        "sense": "the act of praying",
+        "translations": "dua",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/prayer__Noun__1",
+        "sense": "a meeting held for the express purpose of praying",
+        "translations": "dua",
+        "score": 100
+      },
+      {
+        "entry": "eng/prayer__Noun__2",
+        "sense": "one who prays",
+        "translations": "duacı",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "prediction-1994",
+    "headword": "prediction",
+    "level": "B1",
+    "raw": "prediction n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "prediction",
+    "translationLookup": "prediction",
+    "ipaCandidates": {
+      "en-US": "/pɹiˈdɪkʃən/",
+      "en-GB": "/pɹɪdˈɪkʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/prediction__Noun__1",
+        "sense": "a statement about the future",
+        "translations": "tahmin",
+        "score": 11.1
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "kestirim",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "prepared-2014",
+    "headword": "prepared",
+    "level": "B1",
+    "raw": "prepared adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "prepared",
+    "translationLookup": "prepared",
+    "ipaCandidates": {
+      "en-US": "/pɹiˈpɛɹd/",
+      "en-GB": "/pɹɪpˈeəd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/prepared__Adjective__1",
+        "sense": "ready, willing",
+        "translations": "hazır",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "presentation-2026",
+    "headword": "presentation",
+    "level": "B1",
+    "raw": "presentation n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "presentation",
+    "translationLookup": "presentation",
+    "ipaCandidates": {
+      "en-US": "/ˌpɹɛzənˈteɪʃən/",
+      "en-GB": "/pɹˌɛzəntˈeɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/presentation__Noun__1",
+        "sense": "act of presenting",
+        "translations": "takdim | sunma",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/presentation__Noun__1",
+        "sense": "something presented to an audience",
+        "translations": "takdim | sunum",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "press-2038",
+    "headword": "press",
+    "level": "B1",
+    "raw": "press v., n. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "press",
+    "translationLookup": "press",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹɛs/",
+      "en-GB": "/pɹˈɛs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/press__Verb__1",
+        "sense": null,
+        "translations": "basmak",
+        "score": 110.6
+      },
+      {
+        "entry": "eng/press__Noun__1",
+        "sense": "printed media",
+        "translations": "basın | matbuat",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/press__Noun__1",
+        "sense": "printing machine",
+        "translations": "baskı makinesi",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "pressure-2042",
+    "headword": "pressure",
+    "level": "B1",
+    "raw": "pressure n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "pressure",
+    "translationLookup": "pressure",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹɛʃɝ/",
+      "en-GB": "/pɹˈɛʃɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/pressure__Noun__1",
+        "sense": "physics: amount of force divided by area",
+        "translations": "basınç",
+        "score": 152.5
+      },
+      {
+        "entry": "eng/pressure__Noun__1",
+        "sense": "mental strain",
+        "translations": "baskı | basınç",
+        "score": 103.5
+      },
+      {
+        "entry": "eng/pressure__Noun__1",
+        "sense": "a pressing; force applied to a surface",
+        "translations": "basınç",
+        "score": 42.5
+      },
+      {
+        "entry": "eng/pressure__Noun__1",
+        "sense": "a contrasting force or impulse of any kind",
+        "translations": "basınç",
+        "score": 30.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "pretend-2046",
+    "headword": "pretend",
+    "level": "B1",
+    "raw": "pretend v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "pretend",
+    "translationLookup": "pretend",
+    "ipaCandidates": {
+      "en-US": "/pɹiˈtɛnd/",
+      "en-GB": "/pɹɪtˈɛnd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/pretend__Verb__1",
+        "sense": null,
+        "translations": "kandırmak | numara yapmak | rol yapmak | uydurmak | üç kağıda getirmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "previous-2058",
+    "headword": "previous",
+    "level": "B1",
+    "raw": "previous adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "previous",
+    "translationLookup": "previous",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹiviəs/",
+      "en-GB": "/pɹˈiːvɪəs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/previous__Adjective__1",
+        "sense": null,
+        "translations": "evvelki | önceki",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "previously-2062",
+    "headword": "previously",
+    "level": "B1",
+    "raw": "previously adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "previously",
+    "translationLookup": "previously",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹiviəsɫi/",
+      "en-GB": "/pɹˈiːvɪəsli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/previously__Adverb__1",
+        "sense": "at an earlier time",
+        "translations": "bundan önce",
+        "score": 1.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "priest-2070",
+    "headword": "priest",
+    "level": "B1",
+    "raw": "priest n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "priest",
+    "translationLookup": "priest",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹist/",
+      "en-GB": "/pɹˈiːst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/priest__Noun__1",
+        "sense": "clergyman (clergywoman, clergyperson)",
+        "translations": "papaz | din adamı | keşiş | rahip",
+        "score": 141.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "primary-2074",
+    "headword": "primary",
+    "level": "B1",
+    "raw": "primary adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "primary",
+    "translationLookup": "primary",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹaɪˌmɛɹi/",
+      "en-GB": "/pɹˈaɪməɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/primary__Adjective__1",
+        "sense": "first in a group or series",
+        "translations": "birinci",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/primary__Adjective__1",
+        "sense": "that which is placed ahead of others",
+        "translations": "asıl",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/primary__Noun__1",
+        "sense": "preliminary election",
+        "translations": "alan kodu",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "prince-2082",
+    "headword": "prince",
+    "level": "B1",
+    "raw": "prince n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "prince",
+    "translationLookup": "prince",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹɪns/",
+      "en-GB": "/pɹˈɪns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/prince__Noun__1",
+        "sense": "son or male-line grandson of a reigning monarch",
+        "translations": "prens | beyrek | şehzade",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/prince__Noun__1",
+        "sense": "male ruler or head of a principality",
+        "translations": "prens | şehzade",
+        "score": 140.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "princess-2086",
+    "headword": "princess",
+    "level": "B1",
+    "raw": "princess n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "princess",
+    "translationLookup": "princess",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹɪnsɛs/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/princess__Noun__1",
+        "sense": "female member of royal family",
+        "translations": "prenses",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/princess__Noun__1",
+        "sense": "female monarch, or wife of a ruler",
+        "translations": "prenses",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "printing-2102",
+    "headword": "printing",
+    "level": "B1",
+    "raw": "printing n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "printing",
+    "translationLookup": "printing",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹɪnɪŋ/, /ˈpɹɪntɪŋ/",
+      "en-GB": "/pɹˈɪntɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/printing__Noun__1",
+        "sense": "the process or business of producing printed material",
+        "translations": "matbaacılık",
+        "score": 10.0
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "basılış",
+        "score": 2
+      },
+      {
+        "entry": "eng/printing__Noun__1",
+        "sense": "all the copies of a publication that have been printed in one batch",
+        "translations": "baskı",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "prisoner-2114",
+    "headword": "prisoner",
+    "level": "B1",
+    "raw": "prisoner n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "prisoner",
+    "translationLookup": "prisoner",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹɪzənɝ/, /ˈpɹɪznɝ/",
+      "en-GB": "/pɹˈɪzənɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/prisoner__Noun__1",
+        "sense": "figurative: any person held against his or her will",
+        "translations": "tutsak | esir",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/prisoner__Noun__1",
+        "sense": "person incarcerated in a prison",
+        "translations": "mahkum | esir | mahpus",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  }
+]

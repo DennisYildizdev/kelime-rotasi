@@ -1,0 +1,879 @@
+[
+  {
+    "sourceId": "glove-1109",
+    "headword": "glove",
+    "level": "B1",
+    "raw": "glove n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "glove",
+    "translationLookup": "glove",
+    "ipaCandidates": {
+      "en-US": "/ˈɡɫəv/",
+      "en-GB": "/ɡlˈʌv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/glove__Noun__1",
+        "sense": "item of clothing",
+        "translations": "eldiven",
+        "score": 143.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "goods-1141",
+    "headword": "goods",
+    "level": "B1",
+    "raw": "goods n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "goods",
+    "translationLookup": "goods",
+    "ipaCandidates": {
+      "en-US": "/ˈɡʊdz/",
+      "en-GB": "/ɡˈʊdz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/goods__Noun__2",
+        "sense": "that which is produced, traded, bought or sold",
+        "translations": "mal",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "grade-1157",
+    "headword": "grade",
+    "level": "B1",
+    "raw": "grade n. B1, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "grade",
+    "translationLookup": "grade",
+    "ipaCandidates": {
+      "en-US": "/ˈɡɹeɪd/",
+      "en-GB": "/ɡɹˈeɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/grade__Noun__1",
+        "sense": "level of pre-collegiate education",
+        "translations": "derece",
+        "score": 100
+      },
+      {
+        "entry": "eng/grade__Noun__1",
+        "sense": "performance expressed by a number, letter, or other symbol",
+        "translations": "not",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "graduate-1165",
+    "headword": "graduate",
+    "level": "B1",
+    "raw": "graduate n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "graduate",
+    "translationLookup": "graduate",
+    "ipaCandidates": {
+      "en-US": "/ˈɡɹædʒəˌweɪt/, /ˈɡɹædʒəwət/, /ˈɡɹædʒuˌeɪt/, /ˈɡɹædʒuwət/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/graduate__Noun__1",
+        "sense": "from a university",
+        "translations": "mezun",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/graduate__Verb__1",
+        "sense": "US: to be recognized by a high school as having completed the requirements of a course of study",
+        "translations": "mezun olmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/graduate__Verb__1",
+        "sense": "to be recognized by a university as having completed the requirements of a degree",
+        "translations": "mezun olmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/graduate__Verb__1",
+        "sense": "transitive: to certify (a student) as having earned a degree",
+        "translations": "mezun etmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "grain-1169",
+    "headword": "grain",
+    "level": "B1",
+    "raw": "grain n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "grain",
+    "translationLookup": "grain",
+    "ipaCandidates": {
+      "en-US": "/ˈɡɹeɪn/",
+      "en-GB": "/ɡɹˈeɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/grain__Noun__1",
+        "sense": "harvested seeds of various grass-related food crops",
+        "translations": "tahıl",
+        "score": 105.0
+      },
+      {
+        "entry": "eng/grain__Noun__1",
+        "sense": null,
+        "translations": "tane | tara",
+        "score": 100
+      },
+      {
+        "entry": "eng/grain__Noun__1",
+        "sense": "single seed of grain",
+        "translations": "habbe",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "grateful-1197",
+    "headword": "grateful",
+    "level": "B1",
+    "raw": "grateful adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "grateful",
+    "translationLookup": "grateful",
+    "ipaCandidates": {
+      "en-US": "/ˈɡɹeɪtfəɫ/",
+      "en-GB": "/ɡɹˈeɪtfəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/grateful__Adjective__1",
+        "sense": "of a person or their actions, feelings, etc.: expressing gratitude or appreciation",
+        "translations": "müteşekkir | minnettar",
+        "score": 115.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "growth-1229",
+    "headword": "growth",
+    "level": "B1",
+    "raw": "growth n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "growth",
+    "translationLookup": "growth",
+    "ipaCandidates": {
+      "en-US": "/ˈɡɹoʊθ/",
+      "en-GB": "/ɡɹˈəʊθ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/growth__Noun__1",
+        "sense": "act of growing",
+        "translations": "büyüme",
+        "score": 115.0
+      },
+      {
+        "entry": "eng/growth__Noun__1",
+        "sense": "increase in size",
+        "translations": "büyüme",
+        "score": 105.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "guard-1237",
+    "headword": "guard",
+    "level": "B1",
+    "raw": "guard n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "guard",
+    "translationLookup": "guard",
+    "ipaCandidates": {
+      "en-US": "/ˈɡɑɹd/",
+      "en-GB": "/ɡˈɑːd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/guard__Noun__1",
+        "sense": "person who or thing that protects something",
+        "translations": "bekçi",
+        "score": 121.2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "guilty-1253",
+    "headword": "guilty",
+    "level": "B1",
+    "raw": "guilty adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "guilty",
+    "translationLookup": "guilty",
+    "ipaCandidates": {
+      "en-US": "/ˈɡɪɫti/",
+      "en-GB": "/ɡˈɪlti/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/guilty__Adjective__1",
+        "sense": "judged to have committed a crime",
+        "translations": "suçlu",
+        "score": 111.1
+      },
+      {
+        "entry": "eng/guilty__Adjective__1",
+        "sense": "responsible for a dishonest act",
+        "translations": "suçlu",
+        "score": 111.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "hang-1297",
+    "headword": "hang",
+    "level": "B1",
+    "raw": "hang v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "hang",
+    "translationLookup": "hang",
+    "ipaCandidates": {
+      "en-US": "/ˈhæŋ/",
+      "en-GB": "/hˈæŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/hang__Verb__1",
+        "sense": "to execute by suspension from the neck",
+        "translations": "asmak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/hang__Verb__1",
+        "sense": "to cause to be suspended",
+        "translations": "asmak",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/hang__Verb__1",
+        "sense": "chess: to cause to become vulnerable to capture",
+        "translations": "boşa koymak",
+        "score": 100
+      },
+      {
+        "entry": "eng/hang__Verb__1",
+        "sense": "to be or remain suspended",
+        "translations": "asılı durmak | asılı olmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "happiness-1309",
+    "headword": "happiness",
+    "level": "B1",
+    "raw": "happiness n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "happiness",
+    "translationLookup": "happiness",
+    "ipaCandidates": {
+      "en-US": "/ˈhæpinəs/",
+      "en-GB": "/hˈæpɪnəs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/happiness__Noun__1",
+        "sense": "emotion of being happy",
+        "translations": "mutluluk | saadet | bahtiyarlık",
+        "score": 171.0
+      },
+      {
+        "entry": "eng/happiness__Noun__1",
+        "sense": "agreeable feeling",
+        "translations": "mutluluk",
+        "score": 40.0
+      },
+      {
+        "entry": "eng/happiness__Noun__1",
+        "sense": "good luck",
+        "translations": "mutluluk",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "hardly-1321",
+    "headword": "hardly",
+    "level": "B1",
+    "raw": "hardly adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "hardly",
+    "translationLookup": "hardly",
+    "ipaCandidates": {
+      "en-US": "/ˈhɑɹdɫi/",
+      "en-GB": "/hˈɑːdli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "güçlükle",
+        "score": 2
+      },
+      {
+        "entry": "eng/hardly__Adverb__1",
+        "sense": "barely, only just",
+        "translations": "fena halde",
+        "score": 1
+      },
+      {
+        "entry": "eng/hardly__Adverb__1",
+        "sense": "harshly",
+        "translations": "katı",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "headline-1361",
+    "headword": "headline",
+    "level": "B1",
+    "raw": "headline n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "headline",
+    "translationLookup": "headline",
+    "ipaCandidates": {
+      "en-US": "/ˈhɛdˌɫaɪn/",
+      "en-GB": "/hˈɛdlaɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/headline__Noun__1",
+        "sense": "journalism: heading or title of an article",
+        "translations": "başlık | manşet",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "heating-1110",
+    "headword": "heating",
+    "level": "B1",
+    "raw": "heating n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "heating",
+    "translationLookup": "heating",
+    "ipaCandidates": {
+      "en-US": "/ˈhitɪŋ/",
+      "en-GB": "/hˈiːtɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/heating__Noun__1",
+        "sense": "system",
+        "translations": "ısıtma",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "heavily-1118",
+    "headword": "heavily",
+    "level": "B1",
+    "raw": "heavily adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "heavily",
+    "translationLookup": "heavily",
+    "ipaCandidates": {
+      "en-US": "/ˈhɛvəɫi/",
+      "en-GB": "/hˈɛvili/"
+    },
+    "dictionaryCandidates": [],
+    "externalEvidence": {
+      "headword": "heavily",
+      "sourceUrl": "https://en.wiktionary.org/wiki/heavily",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ˈhɛvɪli/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/heavily"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "helicopter-1134",
+    "headword": "helicopter",
+    "level": "B1",
+    "raw": "helicopter n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "helicopter",
+    "translationLookup": "helicopter",
+    "ipaCandidates": {
+      "en-US": "/ˈhɛɫɪˌkɑptɝ/",
+      "en-GB": "/hˈɛlɪkˌɒptɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/helicopter__Noun__1",
+        "sense": "aircraft",
+        "translations": "helikopter",
+        "score": 163.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "highlight-1194",
+    "headword": "highlight",
+    "level": "B1",
+    "raw": "highlight v., n. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "highlight",
+    "translationLookup": "highlight",
+    "ipaCandidates": {
+      "en-US": "/ˈhaɪˌɫaɪt/",
+      "en-GB": "/hˈaɪlaɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/highlight__Verb__1",
+        "sense": "to mark with a fluorescent marker",
+        "translations": "altını çizmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "highly-1198",
+    "headword": "highly",
+    "level": "B1",
+    "raw": "highly adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "highly",
+    "translationLookup": "highly",
+    "ipaCandidates": {
+      "en-US": "/ˈhaɪɫi/",
+      "en-GB": "/hˈaɪli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/highly__Adverb__1",
+        "sense": "extremely, greatly, awfully",
+        "translations": "aşırı",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "hire-1214",
+    "headword": "hire",
+    "level": "B1",
+    "raw": "hire v. B1, n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "hire",
+    "translationLookup": "hire",
+    "ipaCandidates": {
+      "en-US": "/ˈhaɪɝ/, /ˈhaɪɹ/",
+      "en-GB": "/hˈaɪə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/hire__Verb__1",
+        "sense": "to employ",
+        "translations": "işe almak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/hire__Verb__1",
+        "sense": "to exchange the services of for remuneration",
+        "translations": "kiraya vermek",
+        "score": 100
+      },
+      {
+        "entry": "eng/hire__Verb__1",
+        "sense": "to obtain the services of in return for fixed payment",
+        "translations": "kiralamak",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "historic-1222",
+    "headword": "historic",
+    "level": "B1",
+    "raw": "historic adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "historic",
+    "translationLookup": "historic",
+    "ipaCandidates": {
+      "en-US": "/hɪˈstɔɹɪk/",
+      "en-GB": "/hɪstˈɒɹɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/historic__Adjective__1",
+        "sense": "having significance in history",
+        "translations": "tarihsel | tarihî",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "historical-1226",
+    "headword": "historical",
+    "level": "B1",
+    "raw": "historical adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "historical",
+    "translationLookup": "historical",
+    "ipaCandidates": {
+      "en-US": "/hɪˈstɔɹɪkəɫ/",
+      "en-GB": "/hɪstˈɒɹɪkəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/historical__Adjective__1",
+        "sense": "pertaining to history",
+        "translations": "tarihî | tarihsel",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "honest-1274",
+    "headword": "honest",
+    "level": "B1",
+    "raw": "honest adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "honest",
+    "translationLookup": "honest",
+    "ipaCandidates": {
+      "en-US": "/ˈɑnəst/",
+      "en-GB": "/ˈɒnɪst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/honest__Adjective__1",
+        "sense": "scrupulous with regard to telling the truth",
+        "translations": "dürüst",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "horrible-1286",
+    "headword": "horrible",
+    "level": "B1",
+    "raw": "horrible adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "horrible",
+    "translationLookup": "horrible",
+    "ipaCandidates": {
+      "en-US": "/ˈhɔɹəbəɫ/",
+      "en-GB": "/hˈɒɹɪbəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/horrible__Adjective__1",
+        "sense": null,
+        "translations": "korkunç",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/horrible__Adjective__1",
+        "sense": "tremendously bad",
+        "translations": "berbat",
+        "score": 100
+      },
+      {
+        "entry": "eng/horrible__Noun__1",
+        "sense": "terrifying thing",
+        "translations": "berbat | korkunç",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "horror-1290",
+    "headword": "horror",
+    "level": "B1",
+    "raw": "horror n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "horror",
+    "translationLookup": "horror",
+    "ipaCandidates": {
+      "en-US": "/ˈhɔɹɝ/",
+      "en-GB": "/hˈɒɹɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/horror__Noun__1",
+        "sense": null,
+        "translations": "dehşet | korku | yılgı",
+        "score": 100
+      },
+      {
+        "entry": "eng/horror__Noun__1",
+        "sense": "intense distressing fear or repugnance",
+        "translations": "dehşet | korku",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/horror__Noun__1",
+        "sense": "literary genre",
+        "translations": "korku",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "host-1302",
+    "headword": "host",
+    "level": "B1",
+    "raw": "host n. B1, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "host",
+    "translationLookup": "host",
+    "ipaCandidates": {
+      "en-US": "/ˈhoʊst/",
+      "en-GB": "/hˈəʊst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/host__Noun__1",
+        "sense": "person who receives or entertains a guest",
+        "translations": "ev sahibi",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  }
+]

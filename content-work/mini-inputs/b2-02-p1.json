@@ -1,0 +1,907 @@
+[
+  {
+    "sourceId": "concerned-553",
+    "headword": "concerned",
+    "level": "B2",
+    "raw": "concerned adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "concerned",
+    "translationLookup": "concerned",
+    "ipaCandidates": {
+      "en-US": "/kənˈsɝnd/",
+      "en-GB": "/kənsˈɜːnd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/concerned__Adjective__1",
+        "sense": "showing concern",
+        "translations": "acı acı",
+        "score": 2.5
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "ilgili",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "conduct-573",
+    "headword": "conduct",
+    "level": "B2",
+    "raw": "conduct v., n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "conduct",
+    "translationLookup": "conduct",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑndəkt/, /kɑnˈdəkt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "iletmek",
+        "score": 2
+      },
+      {
+        "entry": "eng/conduct__Verb__1",
+        "sense": null,
+        "translations": "bulundurmak",
+        "score": 1
+      },
+      {
+        "entry": "eng/conduct__Noun__1",
+        "sense": null,
+        "translations": "idare",
+        "score": 0.4
+      },
+      {
+        "entry": "eng/conduct__Noun__1",
+        "sense": "manner of guiding or carrying oneself",
+        "translations": "davranış",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "confidence-581",
+    "headword": "confidence",
+    "level": "B2",
+    "raw": "confidence n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "confidence",
+    "translationLookup": "confidence",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑnfədəns/",
+      "en-GB": "/kˈɒnfɪdəns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/confidence__Noun__1",
+        "sense": "expression or feeling of certainty",
+        "translations": "güven | itimat",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/confidence__Noun__1",
+        "sense": "quality of trusting",
+        "translations": "güven | itimat",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/confidence__Noun__1",
+        "sense": "information held in secret",
+        "translations": "samimiyet | teklifsizlik",
+        "score": 100
+      },
+      {
+        "entry": "eng/confidence__Noun__1",
+        "sense": "self-assurance",
+        "translations": "kendine itimat | öz güven",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "conflict-593",
+    "headword": "conflict",
+    "level": "B2",
+    "raw": "conflict n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "conflict",
+    "translationLookup": "conflict",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑnfɫɪkt/, /kənˈfɫɪkt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/conflict__Noun__1",
+        "sense": "clash or disagreement",
+        "translations": "çatışma | anlaşmazlık",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "confusing-605",
+    "headword": "confusing",
+    "level": "B2",
+    "raw": "confusing adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "confusing",
+    "translationLookup": "confusing",
+    "ipaCandidates": {
+      "en-US": "/kənˈfjuzɪŋ/",
+      "en-GB": "/kənfjˈuːzɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/confusing__Adjective__1",
+        "sense": "difficult to understand",
+        "translations": "kafa karıştırıcı",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "conscious-621",
+    "headword": "conscious",
+    "level": "B2",
+    "raw": "conscious adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "conscious",
+    "translationLookup": "conscious",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑnʃəs/",
+      "en-GB": "/kˈɒnʃəs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/conscious__Adjective__1",
+        "sense": "alert, awake",
+        "translations": "ayık | farkında | uyanık",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/conscious__Adjective__1",
+        "sense": null,
+        "translations": "bilinçli",
+        "score": 100
+      },
+      {
+        "entry": "eng/conscious__Adjective__1",
+        "sense": "aware of or alert to, sensitive to",
+        "translations": "farkında",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "conservative-629",
+    "headword": "conservative",
+    "level": "B2",
+    "raw": "conservative adj., n. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "conservative",
+    "translationLookup": "conservative",
+    "ipaCandidates": {
+      "en-US": "/kənˈsɝvətɪv/",
+      "en-GB": "/kənsˈɜːvətˌɪv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/conservative__Noun__1",
+        "sense": "one who favors the status quo",
+        "translations": "muhafazakâr",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/conservative__Noun__1",
+        "sense": "political conservative",
+        "translations": "konservatör | muhafazakar | tutucu",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "consideration-637",
+    "headword": "consideration",
+    "level": "B2",
+    "raw": "consideration n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "consideration",
+    "translationLookup": "consideration",
+    "ipaCandidates": {
+      "en-US": "/kənˌsɪdɝˈeɪʃən/",
+      "en-GB": "/kənsˌɪdəɹˈeɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/consideration__Noun__1",
+        "sense": "something considered as a reason or ground for a decision",
+        "translations": "esas",
+        "score": 1
+      },
+      {
+        "entry": "eng/consideration__Noun__1",
+        "sense": null,
+        "translations": "mükâfat",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/consideration__Noun__1",
+        "sense": "legal: something valuable given as recompense for a promise",
+        "translations": "bedel",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/consideration__Noun__1",
+        "sense": "recompense for something done",
+        "translations": "tazminat",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "consistent-645",
+    "headword": "consistent",
+    "level": "B2",
+    "raw": "consistent adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "consistent",
+    "translationLookup": "consistent",
+    "ipaCandidates": {
+      "en-US": "/kənˈsɪstənt/",
+      "en-GB": "/kənsˈɪstənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "devamlı",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "constant-649",
+    "headword": "constant",
+    "level": "B2",
+    "raw": "constant adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "constant",
+    "translationLookup": "constant",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑnstənt/",
+      "en-GB": "/kˈɒnstənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/constant__Adjective__1",
+        "sense": "unchanged through time",
+        "translations": "kalıcı | sabit",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/constant__Noun__1",
+        "sense": "science: property that does not change",
+        "translations": "sabit",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "constantly-653",
+    "headword": "constantly",
+    "level": "B2",
+    "raw": "constantly adv. B2",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "constantly",
+    "translationLookup": "constantly",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑnstəntɫi/",
+      "en-GB": "/kˈɒnstəntli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "sürekli",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "construct-657",
+    "headword": "construct",
+    "level": "B2",
+    "raw": "construct v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "construct",
+    "translationLookup": "construct",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑnstɹəkt/, /kənˈstɹəkt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/construct__Verb__1",
+        "sense": "build or form by assembling parts",
+        "translations": "etmek",
+        "score": 1.1
+      },
+      {
+        "entry": "eng/construct__Verb__1",
+        "sense": "draw (a geometric figure)",
+        "translations": "etmek",
+        "score": 1.1
+      },
+      {
+        "entry": "eng/construct__Noun__1",
+        "sense": "concept or model",
+        "translations": "fikik",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/construct__Noun__1",
+        "sense": "something constructed from parts",
+        "translations": "montaj",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/construct__Verb__1",
+        "sense": "build (a sentence or argument)",
+        "translations": "yapmak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "construction-661",
+    "headword": "construction",
+    "level": "B2",
+    "raw": "construction n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "construction",
+    "translationLookup": "construction",
+    "ipaCandidates": {
+      "en-US": "/kənˈstɹəkʃən/",
+      "en-GB": "/kənstɹˈʌkʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/construction__Noun__1",
+        "sense": "process of constructing",
+        "translations": "inşaat | inşa | konstrüksiyon | yapım",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/construction__Noun__1",
+        "sense": "structure",
+        "translations": "konstrüksiyon | yapı",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "contemporary-685",
+    "headword": "contemporary",
+    "level": "B2",
+    "raw": "contemporary adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "contemporary",
+    "translationLookup": "contemporary",
+    "ipaCandidates": {
+      "en-US": "/kənˈtɛmpɝˌɛɹi/",
+      "en-GB": "/kəntˈɛmpəɹəɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/contemporary__Adjective__1",
+        "sense": null,
+        "translations": "modern | zamandaş | çağcıl | çağdaş",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "contest-693",
+    "headword": "contest",
+    "level": "B2",
+    "raw": "contest n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "contest",
+    "translationLookup": "contest",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑntɛst/, /kənˈtɛst/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/contest__Noun__1",
+        "sense": "competition",
+        "translations": "yarışma | müsabaka | yarış",
+        "score": 115.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "contract-713",
+    "headword": "contract",
+    "level": "B2",
+    "raw": "contract n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "contract",
+    "translationLookup": "contract",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑnˌtɹækt/, /kənˈtɹækt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/contract__Noun__1",
+        "sense": "agreement that is legally binding",
+        "translations": "sözleşme | kontrat",
+        "score": 113.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "contribute-721",
+    "headword": "contribute",
+    "level": "B2",
+    "raw": "contribute v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "contribute",
+    "translationLookup": "contribute",
+    "ipaCandidates": {
+      "en-US": "/kənˈtɹɪbjut/",
+      "en-GB": "/kˈɒntɹɪbjˌuːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/contribute__Verb__1",
+        "sense": null,
+        "translations": "katkıda bulunmak",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "contribution-725",
+    "headword": "contribution",
+    "level": "B2",
+    "raw": "contribution n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "contribution",
+    "translationLookup": "contribution",
+    "ipaCandidates": {
+      "en-US": "/ˌkɑntɹəbˈjuʃən/",
+      "en-GB": "/kˌɒntɹɪbjˈuːʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/contribution__Noun__1",
+        "sense": "something given or offered that adds to a larger whole",
+        "translations": "katkı | katılım payı",
+        "score": 131.0
+      },
+      {
+        "entry": "eng/contribution__Noun__1",
+        "sense": "an amount of money given toward something",
+        "translations": "katkı",
+        "score": 21.0
+      },
+      {
+        "entry": "eng/contribution__Noun__1",
+        "sense": "the act of contributing",
+        "translations": "katkı",
+        "score": 21.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "convert-739",
+    "headword": "convert",
+    "level": "B2",
+    "raw": "convert v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "convert",
+    "translationLookup": "convert",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑnvɝt/, /kənˈvɝt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/convert__Verb__1",
+        "sense": "transform (something) into another form, substance, state, or product",
+        "translations": "dönüştürmek",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/convert__Verb__1",
+        "sense": "change (something) from one use, function, or purpose to another",
+        "translations": "değiştirmek",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/convert__Verb__1",
+        "sense": "express (a quantity) in alternative units",
+        "translations": "çevirmek",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "convinced-747",
+    "headword": "convinced",
+    "level": "B2",
+    "raw": "convinced adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "convinced",
+    "translationLookup": "convinced",
+    "ipaCandidates": {
+      "en-US": "/kənˈvɪnst/",
+      "en-GB": "/kənvˈɪnst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/convinced__Adjective__1",
+        "sense": "in a state of believing, especially from evidence",
+        "translations": "emin | inanmış",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "core-771",
+    "headword": "core",
+    "level": "B2",
+    "raw": "core n., adj. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "core",
+    "translationLookup": "core",
+    "ipaCandidates": {
+      "en-US": "/ˈkɔɹ/",
+      "en-GB": "/kˈɔː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/core__Noun__1",
+        "sense": "central part of fruit, containing the kernels or seeds",
+        "translations": "eşelek",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/core__Noun__1",
+        "sense": "center or inner part",
+        "translations": "çekirdek",
+        "score": 103.6
+      },
+      {
+        "entry": "eng/core__Noun__1",
+        "sense": "one of several parts in a computer processor",
+        "translations": "çekirdek",
+        "score": 103.6
+      },
+      {
+        "entry": "eng/core__Noun__1",
+        "sense": null,
+        "translations": "öz | ana | nüve",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/core__Noun__1",
+        "sense": "heart of a thing",
+        "translations": "öz",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/core__Noun__1",
+        "sense": "computing: magnetic memory",
+        "translations": "çekirdek bellek",
+        "score": 100
+      },
+      {
+        "entry": "eng/core__Noun__1",
+        "sense": "something that produces a hollow space in a casting",
+        "translations": "maça",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "corporate-779",
+    "headword": "corporate",
+    "level": "B2",
+    "raw": "corporate adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "corporate",
+    "translationLookup": "corporate",
+    "ipaCandidates": {
+      "en-US": "/ˈkɔɹpɝət/, /ˈkɔɹpɹət/",
+      "en-GB": "/kˈɔːpəɹət/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/corporate__Adjective__1",
+        "sense": "of, or relating to the whole company",
+        "translations": "kurumsal | tüzel",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "council-534",
+    "headword": "council",
+    "level": "B2",
+    "raw": "council n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "council",
+    "translationLookup": "council",
+    "ipaCandidates": {
+      "en-US": "/ˈkaʊnsəɫ/",
+      "en-GB": "/kˈaʊnsəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/council__Noun__1",
+        "sense": "committee that leads or governs",
+        "translations": "konsey | meclis",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "county-550",
+    "headword": "county",
+    "level": "B2",
+    "raw": "county n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "county",
+    "translationLookup": "county",
+    "ipaCandidates": {
+      "en-US": "/ˈkaʊni/, /ˈkaʊnti/",
+      "en-GB": "/kˈaʊnti/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/county__Noun__1",
+        "sense": "land ruled by a count or countess",
+        "translations": "kontluk",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/county__Noun__1",
+        "sense": "administrative region of various countries",
+        "translations": "ilçe",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "courage-558",
+    "headword": "courage",
+    "level": "B2",
+    "raw": "courage n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "courage",
+    "translationLookup": "courage",
+    "ipaCandidates": {
+      "en-US": "/ˈkɝədʒ/, /ˈkɝɪdʒ/",
+      "en-GB": "/kˈʌɹɪdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/courage__Noun__1",
+        "sense": "quality of a confident character",
+        "translations": "cesaret | yüreklilik",
+        "score": 125.2
+      }
+    ],
+    "needsExternal": []
+  }
+]

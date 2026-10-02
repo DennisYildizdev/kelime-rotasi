@@ -1,0 +1,872 @@
+[
+  {
+    "sourceId": "hunt-1362",
+    "headword": "hunt",
+    "level": "B1",
+    "raw": "hunt v. B1, n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "hunt",
+    "translationLookup": "hunt",
+    "ipaCandidates": {
+      "en-US": "/ˈhənt/",
+      "en-GB": "/hˈʌnt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/hunt__Noun__1",
+        "sense": null,
+        "translations": "av",
+        "score": 127.5
+      },
+      {
+        "entry": "eng/hunt__Verb__1",
+        "sense": "to chase down prey",
+        "translations": "avlamak",
+        "score": 116.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "hurricane-1370",
+    "headword": "hurricane",
+    "level": "B1",
+    "raw": "hurricane n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "hurricane",
+    "translationLookup": "hurricane",
+    "ipaCandidates": {
+      "en-US": "/ˈhəɹəˌkeɪnz/, /ˈhɝəˌkeɪn/",
+      "en-GB": "/hˈʌɹɪkˌeɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/hurricane__Noun__1",
+        "sense": "weather phenomenon",
+        "translations": "kasırga | urağan",
+        "score": 133.6
+      },
+      {
+        "entry": "eng/hurricane__Noun__1",
+        "sense": "meteorology: a wind scale for quite strong wind",
+        "translations": "kasırga",
+        "score": 113.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "hurry-1095",
+    "headword": "hurry",
+    "level": "B1",
+    "raw": "hurry n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "hurry",
+    "translationLookup": "hurry",
+    "ipaCandidates": {
+      "en-US": "/ˈhɝi/",
+      "en-GB": "/hˈʌɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/hurry__Verb__1",
+        "sense": "to do things quickly",
+        "translations": "acele etmek | aşıkmak | ivmek | telesmek",
+        "score": 111.1
+      },
+      {
+        "entry": "eng/hurry__Noun__1",
+        "sense": "rushed action",
+        "translations": "acele",
+        "score": 105.0
+      },
+      {
+        "entry": "eng/hurry__Verb__1",
+        "sense": "to speed up the rate",
+        "translations": "ivmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "identity-1131",
+    "headword": "identity",
+    "level": "B1",
+    "raw": "identity n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "identity",
+    "translationLookup": "identity",
+    "ipaCandidates": {
+      "en-US": "/aɪˈdɛntɪˌti/",
+      "en-GB": "/aɪdˈɛntɪti/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/identity__Noun__1",
+        "sense": null,
+        "translations": "kimlik",
+        "score": 100
+      },
+      {
+        "entry": "eng/identity__Noun__1",
+        "sense": "the difference or character that marks off an individual or group from the rest",
+        "translations": "hüviyyet | kimlik",
+        "score": 100
+      },
+      {
+        "entry": "eng/identity__Noun__1",
+        "sense": "name or persona",
+        "translations": "kimlik | hüviyet",
+        "score": 32.5
+      },
+      {
+        "entry": "eng/identity__Noun__1",
+        "sense": "the sameness some individuals share to make up the same kind or universal",
+        "translations": "kimlik | hüviyet",
+        "score": 32.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "ignore-1139",
+    "headword": "ignore",
+    "level": "B1",
+    "raw": "ignore v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "ignore",
+    "translationLookup": "ignore",
+    "ipaCandidates": {
+      "en-US": "/ˌɪɡˈnɔɹ/",
+      "en-GB": "/ɪɡnˈɔː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/ignore__Verb__1",
+        "sense": "to deliberately pay no attention to",
+        "translations": "görmezden gelmek",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "illegal-1147",
+    "headword": "illegal",
+    "level": "B1",
+    "raw": "illegal adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "illegal",
+    "translationLookup": "illegal",
+    "ipaCandidates": {
+      "en-US": "/ˌɪˈɫiɡəɫ/",
+      "en-GB": "/ɪlˈiːɡəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/illegal__Adjective__1",
+        "sense": "contrary to or forbidden by law",
+        "translations": "illegal | yasa dışı",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "imaginary-1167",
+    "headword": "imaginary",
+    "level": "B1",
+    "raw": "imaginary adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "imaginary",
+    "translationLookup": "imaginary",
+    "ipaCandidates": {
+      "en-US": "/ˌɪˈmædʒəˌnɛɹi/",
+      "en-GB": "/ɪmˈædʒɪnəɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/imaginary__Adjective__1",
+        "sense": "existing in the imagination",
+        "translations": "sanal | hayalî",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "immediate-1179",
+    "headword": "immediate",
+    "level": "B1",
+    "raw": "immediate adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "immediate",
+    "translationLookup": "immediate",
+    "ipaCandidates": {
+      "en-US": "/ˌɪˈmiˌdiət/",
+      "en-GB": "/ɪmˈiːdɪət/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "birincil",
+        "score": 2
+      },
+      {
+        "entry": "eng/immediate__Adjective__1",
+        "sense": "very close",
+        "translations": "yakın",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "immigrant-1187",
+    "headword": "immigrant",
+    "level": "B1",
+    "raw": "immigrant n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "immigrant",
+    "translationLookup": "immigrant",
+    "ipaCandidates": {
+      "en-US": "/ˈɪməɡɹənt/",
+      "en-GB": "/ˈɪmɪɡɹənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/immigrant__Noun__1",
+        "sense": "person who comes to a country to settle",
+        "translations": "göçmen | muhacir",
+        "score": 142.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "impact-1191",
+    "headword": "impact",
+    "level": "B1",
+    "raw": "impact n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "impact",
+    "translationLookup": "impact",
+    "ipaCandidates": {
+      "en-US": "/ˈɪmpækt/, /ˌɪmˈpækt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/impact__Noun__1",
+        "sense": "the force or energy of a collision of two objects",
+        "translations": "çarpma",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/impact__Noun__1",
+        "sense": "a significant or strong influence",
+        "translations": "etki | tesir",
+        "score": 101.4
+      },
+      {
+        "entry": "eng/impact__Noun__1",
+        "sense": "a forced impinging",
+        "translations": "vuruş",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "import-1203",
+    "headword": "import",
+    "level": "B1",
+    "raw": "import n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "import",
+    "translationLookup": "import",
+    "ipaCandidates": {
+      "en-US": "/ˈɪmˌpɔɹt/, /ˌɪmˈpɔɹt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/import__Noun__1",
+        "sense": "practice of importing",
+        "translations": "ithalat",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/import__Noun__1",
+        "sense": "something brought in from a foreign country",
+        "translations": "ithal",
+        "score": 100
+      },
+      {
+        "entry": "eng/import__Verb__1",
+        "sense": "to bring in from a foreign country",
+        "translations": "ithal etmek",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "importance-1207",
+    "headword": "importance",
+    "level": "B1",
+    "raw": "importance n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "importance",
+    "translationLookup": "importance",
+    "ipaCandidates": {
+      "en-US": "/ˌɪmˈpɔɹtəns/",
+      "en-GB": "/ɪmpˈɔːtəns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/importance__Noun__1",
+        "sense": "quality or condition of being important or worthy of note",
+        "translations": "önem | ehemmiyet",
+        "score": 140.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "impression-1231",
+    "headword": "impression",
+    "level": "B1",
+    "raw": "impression n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "impression",
+    "translationLookup": "impression",
+    "ipaCandidates": {
+      "en-US": "/ˌɪmˈpɹɛʃən/",
+      "en-GB": "/ɪmpɹˈɛʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/impression__Noun__1",
+        "sense": "overall effect of something",
+        "translations": "intiba | tesir",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "impressive-1235",
+    "headword": "impressive",
+    "level": "B1",
+    "raw": "impressive adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "impressive",
+    "translationLookup": "impressive",
+    "ipaCandidates": {
+      "en-US": "/ˌɪmˈpɹɛsɪv/",
+      "en-GB": "/ɪmpɹˈɛsɪv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/impressive__Adjective__1",
+        "sense": "making, or tending to make, an impression; having power to impress",
+        "translations": "etkileyici",
+        "score": 121.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "improvement-1243",
+    "headword": "improvement",
+    "level": "B1",
+    "raw": "improvement n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "improvement",
+    "translationLookup": "improvement",
+    "ipaCandidates": {
+      "en-US": "/ˌɪmˈpɹuvmənt/",
+      "en-GB": "/ɪmpɹˈuːvmənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/improvement__Noun__1",
+        "sense": null,
+        "translations": "düzelme",
+        "score": 10.0
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "imar",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "incredibly-1287",
+    "headword": "incredibly",
+    "level": "B1",
+    "raw": "incredibly adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "incredibly",
+    "translationLookup": "incredibly",
+    "ipaCandidates": {
+      "en-US": "/ˌɪnˈkɹɛdəbɫi/",
+      "en-GB": "/ɪnkɹˈɛdɪbli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/incredibly__Adverb__1",
+        "sense": "To a great extent; extremely",
+        "translations": "inanılmaz",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "indeed-1291",
+    "headword": "indeed",
+    "level": "B1",
+    "raw": "indeed adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "indeed",
+    "translationLookup": "indeed",
+    "ipaCandidates": {
+      "en-US": "/ˌɪnˈdid/",
+      "en-GB": "/ˌɪndˈiːd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/indeed__Adverb__1",
+        "sense": null,
+        "translations": "gerçekten",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/indeed__Interjection__1",
+        "sense": "indication of agreement",
+        "translations": "elbette",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "indicate-1299",
+    "headword": "indicate",
+    "level": "B1",
+    "raw": "indicate v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "indicate",
+    "translationLookup": "indicate",
+    "ipaCandidates": {
+      "en-US": "/ˈɪndəˌkeɪt/",
+      "en-GB": "/ˈɪndɪkˌeɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/indicate__Verb__1",
+        "sense": "to point out; to discover; to direct to a knowledge of; to show; to make known",
+        "translations": "belirtmek | göstermek | işâret etmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "indirect-1303",
+    "headword": "indirect",
+    "level": "B1",
+    "raw": "indirect adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "indirect",
+    "translationLookup": "indirect",
+    "ipaCandidates": {
+      "en-US": "/ˌɪndɝˈɛkt/",
+      "en-GB": "/ɪndaɪɹˈɛkt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/indirect__Adjective__1",
+        "sense": "not direct",
+        "translations": "dolaylı",
+        "score": 22.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "indoor-1311",
+    "headword": "indoor",
+    "level": "B1",
+    "raw": "indoor adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "indoor",
+    "translationLookup": "indoor",
+    "ipaCandidates": {
+      "en-US": "/ˈɪnˌdɔɹ/",
+      "en-GB": "/ˈɪndɔː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/indoor__Adjective__1",
+        "sense": "situated in, or designed to be used in, or carried on within the interior of a building",
+        "translations": "oda",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "indoors-1315",
+    "headword": "indoors",
+    "level": "B1",
+    "raw": "indoors adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "indoors",
+    "translationLookup": "indoors",
+    "ipaCandidates": {
+      "en-US": "/ˈɪnˌdɔɹz/",
+      "en-GB": "/ɪndˈɔːz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/indoors__Adverb__1",
+        "sense": "in or into a building",
+        "translations": "içinde",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "influence-1331",
+    "headword": "influence",
+    "level": "B1",
+    "raw": "influence n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "influence",
+    "translationLookup": "influence",
+    "ipaCandidates": {
+      "en-US": "/ˈɪnfɫuəns/",
+      "en-GB": "/ˈɪnfluːəns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/influence__Noun__1",
+        "sense": "action exerted by a person or thing with power to cause change",
+        "translations": "etki | tesir",
+        "score": 103.1
+      },
+      {
+        "entry": "eng/influence__Noun__1",
+        "sense": "person or thing exerting such power or action",
+        "translations": "influencer",
+        "score": 100
+      },
+      {
+        "entry": "eng/influence__Noun__1",
+        "sense": "power to affect, control or manipulate",
+        "translations": "nüfuz | tesir",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "ingredient-1347",
+    "headword": "ingredient",
+    "level": "B1",
+    "raw": "ingredient n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "ingredient",
+    "translationLookup": "ingredient",
+    "ipaCandidates": {
+      "en-US": "/ˌɪnˈɡɹidiənt/",
+      "en-GB": "/ɪnɡɹˈiːdiənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/ingredient__Noun__1",
+        "sense": "substance present in a mixture",
+        "translations": "içerik | malzeme",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "injure-1363",
+    "headword": "injure",
+    "level": "B1",
+    "raw": "injure v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "injure",
+    "translationLookup": "injure",
+    "ipaCandidates": {
+      "en-US": "/ˈɪndʒɝ/",
+      "en-GB": "/ˈɪndʒɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/injure__Verb__1",
+        "sense": null,
+        "translations": "yaralamak",
+        "score": 1.7000000000000002
+      },
+      {
+        "entry": "eng/injure__Verb__1",
+        "sense": "to cause damage or impair",
+        "translations": "yaralamak",
+        "score": 1.7000000000000002
+      },
+      {
+        "entry": "eng/injure__Verb__1",
+        "sense": "to do injustice to",
+        "translations": "hakaret etmek",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "injured-1367",
+    "headword": "injured",
+    "level": "B1",
+    "raw": "injured adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "injured",
+    "translationLookup": "injure",
+    "ipaCandidates": {
+      "en-US": "/ˈɪndʒɝd/",
+      "en-GB": "/ˈɪndʒəd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/injure__Verb__1",
+        "sense": null,
+        "translations": "yaralamak",
+        "score": 1.7000000000000002
+      },
+      {
+        "entry": "eng/injure__Verb__1",
+        "sense": "to cause damage or impair",
+        "translations": "yaralamak",
+        "score": 1.7000000000000002
+      },
+      {
+        "entry": "eng/injure__Verb__1",
+        "sense": "to do injustice to",
+        "translations": "hakaret etmek",
+        "score": 0.0
+      }
+    ],
+    "externalEvidence": {
+      "headword": "injured",
+      "sourceUrl": "https://en.wiktionary.org/wiki/injured",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ˈɪnd͡ʒɚd/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/injured"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  }
+]

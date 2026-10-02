@@ -1,0 +1,906 @@
+[
+  {
+    "sourceId": "stranger-2488",
+    "headword": "stranger",
+    "level": "B1",
+    "raw": "stranger n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "stranger",
+    "translationLookup": "stranger",
+    "ipaCandidates": {
+      "en-US": "/ˈstɹeɪndʒɝ/",
+      "en-GB": "/stɹˈeɪndʒɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/stranger__Noun__1",
+        "sense": "outsider or foreigner",
+        "translations": "yabancı",
+        "score": 110.3
+      },
+      {
+        "entry": "eng/stranger__Noun__1",
+        "sense": "person whom one does not know",
+        "translations": "yabancı",
+        "score": 100.3
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "strength-2504",
+    "headword": "strength",
+    "level": "B1",
+    "raw": "strength n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "strength",
+    "translationLookup": "strength",
+    "ipaCandidates": {
+      "en-US": "/ˈstɹɛŋkθ/, /ˈstɹɛŋθ/",
+      "en-GB": "/stɹˈɛŋθ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/strength__Noun__1",
+        "sense": "quality of being strong",
+        "translations": "güç | kuvvet",
+        "score": 105.0
+      },
+      {
+        "entry": "eng/strength__Noun__1",
+        "sense": "intensity of a force or power",
+        "translations": "güç | şiddet",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "string-2524",
+    "headword": "string",
+    "level": "B1",
+    "raw": "string n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "string",
+    "translationLookup": "string",
+    "ipaCandidates": {
+      "en-US": "/ˈstɹɪŋ/",
+      "en-GB": "/stɹˈɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/string__Noun__1",
+        "sense": "string of a musical instrument",
+        "translations": "tel",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/string__Noun__1",
+        "sense": null,
+        "translations": "tel | dizgi | ip",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/string__Noun__1",
+        "sense": "physics: subject of study in string theory",
+        "translations": "ip | tel",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "strongly-2532",
+    "headword": "strongly",
+    "level": "B1",
+    "raw": "strongly adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "strongly",
+    "translationLookup": "strongly",
+    "ipaCandidates": {
+      "en-US": "/ˈstɹɔŋɫi/",
+      "en-GB": "/stɹˈɒŋli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/strongly__Adverb__1",
+        "sense": "in a strong or powerful manner",
+        "translations": "sert",
+        "score": 1.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "studio-2548",
+    "headword": "studio",
+    "level": "B1",
+    "raw": "studio n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "studio",
+    "translationLookup": "studio",
+    "ipaCandidates": {
+      "en-US": "/ˈstudiˌoʊ/",
+      "en-GB": "/stjˈuːdɪˌəʊ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/studio__Noun__1",
+        "sense": "place where radio or television programs, records or films are made",
+        "translations": "stüdyo",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/studio__Noun__1",
+        "sense": "artist’s or photographer’s workshop",
+        "translations": "atölye | stüdyo | işlik",
+        "score": 113.6
+      },
+      {
+        "entry": "eng/studio__Noun__1",
+        "sense": "studio flat/apartment",
+        "translations": "stüdyo daıre | stüdyo",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "stuff-2556",
+    "headword": "stuff",
+    "level": "B1",
+    "raw": "stuff n. B1, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "stuff",
+    "translationLookup": "stuff",
+    "ipaCandidates": {
+      "en-US": "/ˈstəf/",
+      "en-GB": "/stˈʌf/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/stuff__Noun__1",
+        "sense": null,
+        "translations": "hammadde",
+        "score": 100
+      },
+      {
+        "entry": "eng/stuff__Noun__1",
+        "sense": "miscellaneous items; things",
+        "translations": "şey | şeyler",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/stuff__Verb__1",
+        "sense": "to fill by crowding into",
+        "translations": "tıkmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "substance-2576",
+    "headword": "substance",
+    "level": "B1",
+    "raw": "substance n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "substance",
+    "translationLookup": "substance",
+    "ipaCandidates": {
+      "en-US": "/ˈsəbstəns/",
+      "en-GB": "/sˈʌbstəns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/substance__Noun__1",
+        "sense": "physical matter; material",
+        "translations": "madde",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/substance__Noun__1",
+        "sense": null,
+        "translations": "madde",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/substance__Noun__1",
+        "sense": "essential part",
+        "translations": "maya | madde",
+        "score": 100
+      },
+      {
+        "entry": "eng/substance__Noun__1",
+        "sense": "material possessions",
+        "translations": "mal",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "successfully-2592",
+    "headword": "successfully",
+    "level": "B1",
+    "raw": "successfully adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "successfully",
+    "translationLookup": "successful",
+    "ipaCandidates": {
+      "en-US": "/səkˈsɛsfəɫi/",
+      "en-GB": "/səksˈɛsfəli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/successful__Adjective__1",
+        "sense": "resulting in success",
+        "translations": "başarılı | muvaffak",
+        "score": 110.0
+      }
+    ],
+    "externalEvidence": {
+      "headword": "successfully",
+      "sourceUrl": "https://en.wiktionary.org/wiki/successfully",
+      "note": "",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/səkˈses.fə.li/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/successfully"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sudden-2600",
+    "headword": "sudden",
+    "level": "B1",
+    "raw": "sudden adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "sudden",
+    "translationLookup": "sudden",
+    "ipaCandidates": {
+      "en-US": "/ˈsədən/",
+      "en-GB": "/sˈʌdən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sudden__Adjective__1",
+        "sense": "happening quickly and with little or no warning",
+        "translations": "ani",
+        "score": 113.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "suffer-2608",
+    "headword": "suffer",
+    "level": "B1",
+    "raw": "suffer v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "suffer",
+    "translationLookup": "suffer",
+    "ipaCandidates": {
+      "en-US": "/ˈsəfɝ/",
+      "en-GB": "/sˈʌfɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/suffer__Verb__1",
+        "sense": "undergo hardship",
+        "translations": "acı çekmek | çekmek",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/suffer__Verb__1",
+        "sense": "become worse",
+        "translations": "kötüleşmek | kötüye gitmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/suffer__Verb__1",
+        "sense": "feel pain",
+        "translations": "acı çekmek",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "suitable-2628",
+    "headword": "suitable",
+    "level": "B1",
+    "raw": "suitable adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "suitable",
+    "translationLookup": "suitable",
+    "ipaCandidates": {
+      "en-US": "/ˈsutəbəɫ/",
+      "en-GB": "/sˈuːtəbəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/suitable__Adjective__1",
+        "sense": null,
+        "translations": "uygun | yerinde",
+        "score": 104.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "summarize-2636",
+    "headword": "summarize",
+    "level": "B1",
+    "raw": "summarize v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "summarize",
+    "translationLookup": "summarize",
+    "ipaCandidates": {
+      "en-US": "/ˈsəmɝˌaɪz/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/summarize__Verb__1",
+        "sense": "to prepare a summary",
+        "translations": "özetlemek",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "summary-2640",
+    "headword": "summary",
+    "level": "B1",
+    "raw": "summary n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "summary",
+    "translationLookup": "summary",
+    "ipaCandidates": {
+      "en-US": "/ˈsəmɝi/",
+      "en-GB": "/sˈʌməɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/summary__Noun__1",
+        "sense": null,
+        "translations": "fezleke | özet",
+        "score": 115.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "supply-2660",
+    "headword": "supply",
+    "level": "B1",
+    "raw": "supply n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "supply",
+    "translationLookup": "supply",
+    "ipaCandidates": {
+      "en-US": "/səˈpɫaɪ/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/supply__Noun__1",
+        "sense": "act of supplying",
+        "translations": "arz | teklif",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/supply__Verb__1",
+        "sense": null,
+        "translations": "saglamak",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/supply__Noun__1",
+        "sense": "amount supplied",
+        "translations": "arz",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "supporter-2668",
+    "headword": "supporter",
+    "level": "B1",
+    "raw": "supporter n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "supporter",
+    "translationLookup": "supporter",
+    "ipaCandidates": {
+      "en-US": "/səˈpɔɹtɝ/",
+      "en-GB": "/səpˈɔːtɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/supporter__Noun__1",
+        "sense": null,
+        "translations": "taraftar",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "surely-2680",
+    "headword": "surely",
+    "level": "B1",
+    "raw": "surely adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "surely",
+    "translationLookup": "surely",
+    "ipaCandidates": {
+      "en-US": "/ˈʃʊɹɫi/",
+      "en-GB": "/ʃˈɔːli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "kesinlikle",
+        "score": 2
+      },
+      {
+        "entry": "eng/surely__Adverb__1",
+        "sense": "without fail",
+        "translations": "kat'î",
+        "score": 1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "surface-2684",
+    "headword": "surface",
+    "level": "B1",
+    "raw": "surface n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "surface",
+    "translationLookup": "surface",
+    "ipaCandidates": {
+      "en-US": "/ˈsɝfəs/",
+      "en-GB": "/sˈɜːfɪs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/surface__Noun__1",
+        "sense": "locus of an equation in a more-than-two-dimensional space",
+        "translations": "yüzey",
+        "score": 142.5
+      },
+      {
+        "entry": "eng/surface__Noun__1",
+        "sense": "up-side of a flat object",
+        "translations": "yüzey | satıh",
+        "score": 140.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "survive-2716",
+    "headword": "survive",
+    "level": "B1",
+    "raw": "survive v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "survive",
+    "translationLookup": "survive",
+    "ipaCandidates": {
+      "en-US": "/sɝˈvaɪv/",
+      "en-GB": "/səvˈaɪv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/survive__Verb__1",
+        "sense": "person: continue to live",
+        "translations": "hayatta kalmak",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/survive__Verb__1",
+        "sense": "live longer than",
+        "translations": "hayatta kalmak",
+        "score": 22.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "switch-2748",
+    "headword": "switch",
+    "level": "B1",
+    "raw": "switch v. B1, n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "switch",
+    "translationLookup": "switch",
+    "ipaCandidates": {
+      "en-US": "/ˈswɪtʃ/",
+      "en-GB": "/swˈɪtʃ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/switch__Noun__1",
+        "sense": "device to turn electric current on and off",
+        "translations": "şalter | anahtar",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/switch__Noun__1",
+        "sense": "movable section of railroad track",
+        "translations": "nokta",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "symptom-2760",
+    "headword": "symptom",
+    "level": "B1",
+    "raw": "symptom n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "symptom",
+    "translationLookup": "symptom",
+    "ipaCandidates": {
+      "en-US": "/ˈsɪmptəm/",
+      "en-GB": "/sˈɪmptəm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/symptom__Noun__1",
+        "sense": "figuratively: indicator of something",
+        "translations": "belirti | semptom | araz | sendrom",
+        "score": 152.5
+      },
+      {
+        "entry": "eng/symptom__Noun__1",
+        "sense": "something that indicates a disease or disorder",
+        "translations": "belirti | semptom | belgi | bulgu",
+        "score": 150.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "tail-2497",
+    "headword": "tail",
+    "level": "B1",
+    "raw": "tail n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "tail",
+    "translationLookup": "tail",
+    "ipaCandidates": {
+      "en-US": "/ˈteɪɫ/",
+      "en-GB": "/tˈeɪl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tail__Noun__1",
+        "sense": "appendage of an animal",
+        "translations": "kuyruk",
+        "score": 146.0
+      },
+      {
+        "entry": "eng/tail__Noun__1",
+        "sense": "rear of an aircraft",
+        "translations": "kuyruk",
+        "score": 143.5
+      },
+      {
+        "entry": "eng/tail__Noun__1",
+        "sense": "tail-end of a creature",
+        "translations": "kuyruk",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/tail__Noun__1",
+        "sense": "reverse side of a coin",
+        "translations": "yazı",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/tail__Noun__1",
+        "sense": "comet tail",
+        "translations": "kuyruk",
+        "score": 42.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "talent-2509",
+    "headword": "talent",
+    "level": "B1",
+    "raw": "talent n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "talent",
+    "translationLookup": "talent",
+    "ipaCandidates": {
+      "en-US": "/ˈtæɫənt/",
+      "en-GB": "/tˈælənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/talent__Noun__1",
+        "sense": "marked ability or skill",
+        "translations": "yetenek",
+        "score": 131.5
+      },
+      {
+        "entry": "eng/talent__Noun__1",
+        "sense": "unit of weight and money",
+        "translations": "yetenek",
+        "score": 21.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "talented-2513",
+    "headword": "talented",
+    "level": "B1",
+    "raw": "talented adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "talented",
+    "translationLookup": "talented",
+    "ipaCandidates": {
+      "en-US": "/ˈtæɫəntɪd/",
+      "en-GB": "/tˈæləntɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/talented__Adjective__1",
+        "sense": "endowed with talents",
+        "translations": "yetenekli | kabiliyetli",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "tape-2529",
+    "headword": "tape",
+    "level": "B1",
+    "raw": "tape n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "tape",
+    "translationLookup": "tape",
+    "ipaCandidates": {
+      "en-US": "/ˈteɪp/",
+      "en-GB": "/tˈeɪp/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tape__Noun__1",
+        "sense": "video or audiocassette tape",
+        "translations": "bant",
+        "score": 100.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "tax-2545",
+    "headword": "tax",
+    "level": "B1",
+    "raw": "tax n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "tax",
+    "translationLookup": "tax",
+    "ipaCandidates": {
+      "en-US": "/ˈtæks/",
+      "en-GB": "/tˈæks/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tax__Noun__1",
+        "sense": "money paid to the government",
+        "translations": "vergi | salma",
+        "score": 162.5
+      }
+    ],
+    "needsExternal": []
+  }
+]

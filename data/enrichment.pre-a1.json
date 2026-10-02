@@ -1,0 +1,1781 @@
+{
+  "a, an": {
+    "translation": "bir",
+    "ipa": "/ə; eɪ/",
+    "example": "I have a book.",
+    "exampleTr": "Bir kitabım var.",
+    "approxTr": "ı; ey",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ə; eɪ/",
+        "approxTr": "ı; ey"
+      },
+      "en-GB": {
+        "ipa": "/ə; eɪ/",
+        "approxTr": "ı; ey"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır.",
+    "displayWord": "a",
+    "speechText": "a",
+    "contentNote": "Kaynak başlık a, an olarak korunur. Bu pilot kart yalnızca a biçimini öğretir; an için ayrı içerik henüz yoktur."
+  },
+  "about": {
+    "translation": "hakkında, yaklaşık",
+    "ipa": "/əˈbaʊt/",
+    "example": "Tell me about your day.",
+    "exampleTr": "Bana gününü anlat.",
+    "approxTr": "ı-baut",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/əˈbaʊt/",
+        "approxTr": "ı-baut"
+      },
+      "en-GB": {
+        "ipa": "/əˈbaʊt/",
+        "approxTr": "ı-baut"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "add": {
+    "translation": "eklemek",
+    "ipa": "/æd/",
+    "example": "Add some water.",
+    "exampleTr": "Biraz su ekle.",
+    "approxTr": "ed",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/æd/",
+        "approxTr": "ed"
+      },
+      "en-GB": {
+        "ipa": "/æd/",
+        "approxTr": "ed"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "afternoon": {
+    "translation": "öğleden sonra",
+    "ipa": "/ˌɑːftəˈnuːn/",
+    "example": "See you this afternoon.",
+    "exampleTr": "Bu öğleden sonra görüşürüz.",
+    "approxTr": "ef-tır-nuun",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ˌæftərˈnuːn/",
+        "approxTr": "ef-tır-nuun"
+      },
+      "en-GB": {
+        "ipa": "/ˌɑːftəˈnuːn/",
+        "approxTr": "aaf-tı-nuun"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "again": {
+    "translation": "tekrar, yeniden",
+    "ipa": "/əˈɡen/",
+    "example": "Please say it again.",
+    "exampleTr": "Lütfen tekrar söyle.",
+    "approxTr": "ı-gen",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/əˈɡen/",
+        "approxTr": "ı-gen"
+      },
+      "en-GB": {
+        "ipa": "/əˈɡen/",
+        "approxTr": "ı-gen"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "air": {
+    "translation": "hava",
+    "ipa": "/eə(r)/",
+    "example": "The air is cold.",
+    "exampleTr": "Hava soğuk.",
+    "approxTr": "er",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/er/",
+        "approxTr": "er"
+      },
+      "en-GB": {
+        "ipa": "/eə/",
+        "approxTr": "eı"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "airport": {
+    "translation": "havalimanı",
+    "ipa": "/ˈeəpɔːt/",
+    "example": "We are at the airport.",
+    "exampleTr": "Havalimanındayız.",
+    "approxTr": "er-port",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ˈerpɔːrt/",
+        "approxTr": "er-port"
+      },
+      "en-GB": {
+        "ipa": "/ˈeəpɔːt/",
+        "approxTr": "eı-poot"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "all": {
+    "translation": "bütün, tüm",
+    "ipa": "/ɔːl/",
+    "example": "All the doors are open.",
+    "exampleTr": "Bütün kapılar açık.",
+    "approxTr": "ool",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ɔːl/",
+        "approxTr": "ool"
+      },
+      "en-GB": {
+        "ipa": "/ɔːl/",
+        "approxTr": "ool"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "always": {
+    "translation": "her zaman",
+    "ipa": "/ˈɔːlweɪz/",
+    "example": "She always smiles.",
+    "exampleTr": "O her zaman gülümser.",
+    "approxTr": "ool-veyz",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ˈɔːlweɪz/",
+        "approxTr": "ool-veyz"
+      },
+      "en-GB": {
+        "ipa": "/ˈɔːlweɪz/",
+        "approxTr": "ool-veyz"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "amazing": {
+    "translation": "şaşırtıcı, harika",
+    "ipa": "/əˈmeɪzɪŋ/",
+    "example": "The view is amazing.",
+    "exampleTr": "Manzara harika.",
+    "approxTr": "ı-mey-zing",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/əˈmeɪzɪŋ/",
+        "approxTr": "ı-mey-zing"
+      },
+      "en-GB": {
+        "ipa": "/əˈmeɪzɪŋ/",
+        "approxTr": "ı-mey-zing"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "and": {
+    "translation": "ve",
+    "ipa": "/ænd; ən/",
+    "example": "Tea and coffee.",
+    "exampleTr": "Çay ve kahve.",
+    "approxTr": "end; ın",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ænd; ən/",
+        "approxTr": "end; ın"
+      },
+      "en-GB": {
+        "ipa": "/ænd; ən/",
+        "approxTr": "end; ın"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "angry": {
+    "translation": "kızgın",
+    "ipa": "/ˈæŋɡri/",
+    "example": "He is not angry.",
+    "exampleTr": "O kızgın değil.",
+    "approxTr": "eng-gri",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ˈæŋɡri/",
+        "approxTr": "eng-gri"
+      },
+      "en-GB": {
+        "ipa": "/ˈæŋɡri/",
+        "approxTr": "eng-gri"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "animal": {
+    "translation": "hayvan",
+    "ipa": "/ˈænɪməl/",
+    "example": "A dog is an animal.",
+    "exampleTr": "Köpek bir hayvandır.",
+    "approxTr": "e-ni-mıl",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ˈænɪməl/",
+        "approxTr": "e-ni-mıl"
+      },
+      "en-GB": {
+        "ipa": "/ˈænɪməl/",
+        "approxTr": "e-ni-mıl"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "answer": {
+    "translation": "cevap; cevaplamak",
+    "ipa": "/ˈɑːnsə(r)/",
+    "example": "I know the answer.",
+    "exampleTr": "Cevabı biliyorum.",
+    "approxTr": "en-sır",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ˈænsər/",
+        "approxTr": "en-sır"
+      },
+      "en-GB": {
+        "ipa": "/ˈɑːnsə/",
+        "approxTr": "aan-sı"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "apple": {
+    "translation": "elma",
+    "ipa": "/ˈæpəl/",
+    "example": "This apple is red.",
+    "exampleTr": "Bu elma kırmızı.",
+    "approxTr": "e-pıl",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ˈæpəl/",
+        "approxTr": "e-pıl"
+      },
+      "en-GB": {
+        "ipa": "/ˈæpəl/",
+        "approxTr": "e-pıl"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "area": {
+    "translation": "alan, bölge",
+    "ipa": "/ˈeəriə/",
+    "example": "This is a quiet area.",
+    "exampleTr": "Burası sakin bir bölge.",
+    "approxTr": "e-ri-ı",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ˈeriə/",
+        "approxTr": "e-ri-ı"
+      },
+      "en-GB": {
+        "ipa": "/ˈeəriə/",
+        "approxTr": "eı-ri-ı"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "arrive": {
+    "translation": "varmak, ulaşmak",
+    "ipa": "/əˈraɪv/",
+    "example": "We arrive at six.",
+    "exampleTr": "Saat altıda varırız.",
+    "approxTr": "ı-rayv",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/əˈraɪv/",
+        "approxTr": "ı-rayv"
+      },
+      "en-GB": {
+        "ipa": "/əˈraɪv/",
+        "approxTr": "ı-rayv"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "art": {
+    "translation": "sanat",
+    "ipa": "/ɑːt/",
+    "example": "I enjoy modern art.",
+    "exampleTr": "Modern sanattan hoşlanırım.",
+    "approxTr": "aart",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ɑːrt/",
+        "approxTr": "aart"
+      },
+      "en-GB": {
+        "ipa": "/ɑːt/",
+        "approxTr": "aat"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "ask": {
+    "translation": "sormak, istemek",
+    "ipa": "/ɑːsk/",
+    "example": "Ask a simple question.",
+    "exampleTr": "Basit bir soru sor.",
+    "approxTr": "esk",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/æsk/",
+        "approxTr": "esk"
+      },
+      "en-GB": {
+        "ipa": "/ɑːsk/",
+        "approxTr": "aask"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "aunt": {
+    "translation": "teyze, hala, yenge",
+    "ipa": "/ɑːnt/",
+    "example": "My aunt lives here.",
+    "exampleTr": "Teyzem burada yaşıyor.",
+    "approxTr": "ent",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ænt/",
+        "approxTr": "ent"
+      },
+      "en-GB": {
+        "ipa": "/ɑːnt/",
+        "approxTr": "aant"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "autumn": {
+    "translation": "sonbahar",
+    "ipa": "/ˈɔːtəm/",
+    "example": "Autumn is beautiful.",
+    "exampleTr": "Sonbahar güzeldir.",
+    "approxTr": "oo-tım",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ˈɔːtəm/",
+        "approxTr": "oo-tım"
+      },
+      "en-GB": {
+        "ipa": "/ˈɔːtəm/",
+        "approxTr": "oo-tım"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "away": {
+    "translation": "uzakta, dışarıda",
+    "ipa": "/əˈweɪ/",
+    "example": "The station is far away.",
+    "exampleTr": "İstasyon uzakta.",
+    "approxTr": "ı-vey",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/əˈweɪ/",
+        "approxTr": "ı-vey"
+      },
+      "en-GB": {
+        "ipa": "/əˈweɪ/",
+        "approxTr": "ı-vey"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "baby": {
+    "translation": "bebek",
+    "ipa": "/ˈbeɪbi/",
+    "example": "The baby is sleeping.",
+    "exampleTr": "Bebek uyuyor.",
+    "approxTr": "bey-bi",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ˈbeɪbi/",
+        "approxTr": "bey-bi"
+      },
+      "en-GB": {
+        "ipa": "/ˈbeɪbi/",
+        "approxTr": "bey-bi"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "bad": {
+    "translation": "kötü",
+    "ipa": "/bæd/",
+    "example": "That is a bad idea.",
+    "exampleTr": "Bu kötü bir fikir.",
+    "approxTr": "bed",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/bæd/",
+        "approxTr": "bed"
+      },
+      "en-GB": {
+        "ipa": "/bæd/",
+        "approxTr": "bed"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "bag": {
+    "translation": "çanta",
+    "ipa": "/bæɡ/",
+    "example": "My bag is blue.",
+    "exampleTr": "Çantam mavi.",
+    "approxTr": "beg",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/bæɡ/",
+        "approxTr": "beg"
+      },
+      "en-GB": {
+        "ipa": "/bæɡ/",
+        "approxTr": "beg"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "banana": {
+    "translation": "muz",
+    "ipa": "/bəˈnɑːnə/",
+    "example": "I ate a banana.",
+    "exampleTr": "Bir muz yedim.",
+    "approxTr": "bı-ne-nı",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/bəˈnænə/",
+        "approxTr": "bı-ne-nı"
+      },
+      "en-GB": {
+        "ipa": "/bəˈnɑːnə/",
+        "approxTr": "bı-naa-nı"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "beautiful": {
+    "translation": "güzel",
+    "ipa": "/ˈbjuːtɪfəl/",
+    "example": "It is a beautiful day.",
+    "exampleTr": "Güzel bir gün.",
+    "approxTr": "byuu-ti-fıl",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ˈbjuːtɪfəl/",
+        "approxTr": "byuu-ti-fıl"
+      },
+      "en-GB": {
+        "ipa": "/ˈbjuːtɪfəl/",
+        "approxTr": "byuu-ti-fıl"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "bed": {
+    "translation": "yatak",
+    "ipa": "/bed/",
+    "example": "The cat is on the bed.",
+    "exampleTr": "Kedi yatağın üzerinde.",
+    "approxTr": "bed",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/bed/",
+        "approxTr": "bed"
+      },
+      "en-GB": {
+        "ipa": "/bed/",
+        "approxTr": "bed"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "begin": {
+    "translation": "başlamak",
+    "ipa": "/bɪˈɡɪn/",
+    "example": "The lesson begins now.",
+    "exampleTr": "Ders şimdi başlıyor.",
+    "approxTr": "bi-gin",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/bɪˈɡɪn/",
+        "approxTr": "bi-gin"
+      },
+      "en-GB": {
+        "ipa": "/bɪˈɡɪn/",
+        "approxTr": "bi-gin"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "book": {
+    "translation": "kitap; rezervasyon yapmak",
+    "ipa": "/bʊk/",
+    "example": "This book is easy.",
+    "exampleTr": "Bu kitap kolay.",
+    "approxTr": "buk",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/bʊk/",
+        "approxTr": "buk"
+      },
+      "en-GB": {
+        "ipa": "/bʊk/",
+        "approxTr": "buk"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "bread": {
+    "translation": "ekmek",
+    "ipa": "/bred/",
+    "example": "We need some bread.",
+    "exampleTr": "Biraz ekmeğe ihtiyacımız var.",
+    "approxTr": "bred",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/bred/",
+        "approxTr": "bred"
+      },
+      "en-GB": {
+        "ipa": "/bred/",
+        "approxTr": "bred"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "cat": {
+    "translation": "kedi",
+    "ipa": "/kæt/",
+    "example": "The cat is small.",
+    "exampleTr": "Kedi küçük.",
+    "approxTr": "ket",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/kæt/",
+        "approxTr": "ket"
+      },
+      "en-GB": {
+        "ipa": "/kæt/",
+        "approxTr": "ket"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "coffee": {
+    "translation": "kahve",
+    "ipa": "/ˈkɒfi/",
+    "example": "The coffee is hot.",
+    "exampleTr": "Kahve sıcak.",
+    "approxTr": "koo-fi",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ˈkɔːfi/",
+        "approxTr": "koo-fi"
+      },
+      "en-GB": {
+        "ipa": "/ˈkɒfi/",
+        "approxTr": "ko-fi"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "day": {
+    "translation": "gün",
+    "ipa": "/deɪ/",
+    "example": "Have a good day.",
+    "exampleTr": "İyi günler.",
+    "approxTr": "dey",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/deɪ/",
+        "approxTr": "dey"
+      },
+      "en-GB": {
+        "ipa": "/deɪ/",
+        "approxTr": "dey"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "dog": {
+    "translation": "köpek",
+    "ipa": "/dɒɡ/",
+    "example": "The dog can run.",
+    "exampleTr": "Köpek koşabilir.",
+    "approxTr": "doog",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/dɔːɡ/",
+        "approxTr": "doog"
+      },
+      "en-GB": {
+        "ipa": "/dɒɡ/",
+        "approxTr": "dog"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "family": {
+    "translation": "aile",
+    "ipa": "/ˈfæməli/",
+    "example": "My family is here.",
+    "exampleTr": "Ailem burada.",
+    "approxTr": "fe-mı-li",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ˈfæməli/",
+        "approxTr": "fe-mı-li"
+      },
+      "en-GB": {
+        "ipa": "/ˈfæməli/",
+        "approxTr": "fe-mı-li"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "friend": {
+    "translation": "arkadaş",
+    "ipa": "/frend/",
+    "example": "She is my friend.",
+    "exampleTr": "O benim arkadaşım.",
+    "approxTr": "frend",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/frend/",
+        "approxTr": "frend"
+      },
+      "en-GB": {
+        "ipa": "/frend/",
+        "approxTr": "frend"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "happy": {
+    "translation": "mutlu",
+    "ipa": "/ˈhæpi/",
+    "example": "I feel happy today.",
+    "exampleTr": "Bugün mutlu hissediyorum.",
+    "approxTr": "he-pi",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ˈhæpi/",
+        "approxTr": "he-pi"
+      },
+      "en-GB": {
+        "ipa": "/ˈhæpi/",
+        "approxTr": "he-pi"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "hello": {
+    "translation": "merhaba",
+    "ipa": "/həˈləʊ/",
+    "example": "Hello, how are you?",
+    "exampleTr": "Merhaba, nasılsın?",
+    "approxTr": "hı-lou",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/həˈloʊ/",
+        "approxTr": "hı-lou"
+      },
+      "en-GB": {
+        "ipa": "/həˈləʊ/",
+        "approxTr": "hı-lıu"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "house": {
+    "translation": "ev",
+    "ipa": "/haʊs/",
+    "example": "Their house is old.",
+    "exampleTr": "Onların evi eski.",
+    "approxTr": "haus",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/haʊs/",
+        "approxTr": "haus"
+      },
+      "en-GB": {
+        "ipa": "/haʊs/",
+        "approxTr": "haus"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "learn": {
+    "translation": "öğrenmek",
+    "ipa": "/lɜːn/",
+    "example": "We learn every day.",
+    "exampleTr": "Her gün öğreniriz.",
+    "approxTr": "lörn",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/lɜːrn/",
+        "approxTr": "lörn"
+      },
+      "en-GB": {
+        "ipa": "/lɜːn/",
+        "approxTr": "löön"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "love": {
+    "translation": "sevmek; sevgi",
+    "ipa": "/lʌv/",
+    "example": "I love this song.",
+    "exampleTr": "Bu şarkıyı seviyorum.",
+    "approxTr": "lav",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/lʌv/",
+        "approxTr": "lav"
+      },
+      "en-GB": {
+        "ipa": "/lʌv/",
+        "approxTr": "lav"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "morning": {
+    "translation": "sabah",
+    "ipa": "/ˈmɔːnɪŋ/",
+    "example": "Good morning!",
+    "exampleTr": "Günaydın!",
+    "approxTr": "mor-ning",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ˈmɔːrnɪŋ/",
+        "approxTr": "mor-ning"
+      },
+      "en-GB": {
+        "ipa": "/ˈmɔːnɪŋ/",
+        "approxTr": "moo-ning"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "music": {
+    "translation": "müzik",
+    "ipa": "/ˈmjuːzɪk/",
+    "example": "The music is soft.",
+    "exampleTr": "Müzik hafif.",
+    "approxTr": "myuu-zik",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ˈmjuːzɪk/",
+        "approxTr": "myuu-zik"
+      },
+      "en-GB": {
+        "ipa": "/ˈmjuːzɪk/",
+        "approxTr": "myuu-zik"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "school": {
+    "translation": "okul",
+    "ipa": "/skuːl/",
+    "example": "The school is nearby.",
+    "exampleTr": "Okul yakında.",
+    "approxTr": "skuul",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/skuːl/",
+        "approxTr": "skuul"
+      },
+      "en-GB": {
+        "ipa": "/skuːl/",
+        "approxTr": "skuul"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "water": {
+    "translation": "su",
+    "ipa": "/ˈwɔːtə(r)/",
+    "example": "Drink more water.",
+    "exampleTr": "Daha fazla su iç.",
+    "approxTr": "voo-tır",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/ˈwɔːtər/",
+        "approxTr": "voo-tır"
+      },
+      "en-GB": {
+        "ipa": "/ˈwɔːtə/",
+        "approxTr": "voo-tı"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "word": {
+    "translation": "kelime, sözcük",
+    "ipa": "/wɜːd/",
+    "example": "This word is new.",
+    "exampleTr": "Bu kelime yeni.",
+    "approxTr": "vörd",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/wɜːrd/",
+        "approxTr": "vörd"
+      },
+      "en-GB": {
+        "ipa": "/wɜːd/",
+        "approxTr": "vööd"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  },
+  "work": {
+    "translation": "çalışmak; iş",
+    "ipa": "/wɜːk/",
+    "example": "I work at home.",
+    "exampleTr": "Evde çalışıyorum.",
+    "approxTr": "vörk",
+    "pronunciations": {
+      "en-US": {
+        "ipa": "/wɜːrk/",
+        "approxTr": "vörk"
+      },
+      "en-GB": {
+        "ipa": "/wɜːk/",
+        "approxTr": "vöök"
+      }
+    },
+    "topicTags": [
+      "pilot",
+      "daily-life"
+    ],
+    "reviewStatus": "draft",
+    "contentVersion": "2",
+    "sourceLevel": "A1",
+    "provenance": [
+      {
+        "source": "Legacy src/app.js ENRICHED",
+        "scope": "translation, legacy ipa, example, exampleTr",
+        "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+      },
+      {
+        "source": "AI-assisted editorial draft, individually authored entries",
+        "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+        "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+      }
+    ],
+    "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+  }
+}

@@ -1,0 +1,33 @@
+# Bağımlılıklar ve derleme çıktısı
+node_modules/
+dist/
+.wrangler/
+
+# Python araç önbellekleri
+__pycache__/
+*.py[cod]
+
+# Yerel sırlar — bu depoya asla girmemeli
+.env
+.env.*
+!.env.example
+
+# Ekran görüntüleri (yalnız ikonlar sürümde tutulur)
+/home.png
+/mobile-lesson.png
+/before-*.png
+/after-*.png
+
+# Yedekler ve paketler
+/before-*.zip
+/Kelime-Rotasi-web.zip
+content-work/backups/
+
+# Kaynak PDF metni: Oxford 3000 dağıtımının parçası değil, depoda da tutulmaz
+/data/oxford3000.txt
+
+# Editör / işletim sistemi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

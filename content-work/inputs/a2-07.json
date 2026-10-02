@@ -1,0 +1,4162 @@
+[
+  {
+    "sourceId": "role-2390",
+    "headword": "role",
+    "level": "A2",
+    "raw": "role n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "role",
+    "translationLookup": "role",
+    "ipaCandidates": {
+      "en-US": "/ˈɹoʊɫ/",
+      "en-GB": "/ɹˈəʊl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/role__Noun__1",
+        "sense": "character or part",
+        "translations": "rol",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/role__Noun__1",
+        "sense": "the function or position of something",
+        "translations": "rol | görev | işlev",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/role__Noun__1",
+        "sense": "the expected behavior of an individual in a society",
+        "translations": "rol",
+        "score": 30.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "roof-2402",
+    "headword": "roof",
+    "level": "A2",
+    "raw": "roof n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "roof",
+    "translationLookup": "roof",
+    "ipaCandidates": {
+      "en-US": "/ˈɹuf/, /ˈɹʊf/",
+      "en-GB": "/ɹˈuːf/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/roof__Noun__1",
+        "sense": "the cover at the top of a building",
+        "translations": "çatı | dam | örtü",
+        "score": 190.0
+      },
+      {
+        "entry": "eng/roof__Noun__1",
+        "sense": "the upper part of a cavity",
+        "translations": "tavan | çatı",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "round-2422",
+    "headword": "round",
+    "level": "A2",
+    "raw": "round adj., adv., prep. A2, n. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., adv., prep.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "round",
+    "translationLookup": "round",
+    "ipaCandidates": {
+      "en-US": "/ˈɹaʊnd/",
+      "en-GB": "/ɹˈaʊnd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/round__Adjective__1",
+        "sense": "circular or cylindrical",
+        "translations": "yuvarlak",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/round__Adjective__1",
+        "sense": "spherical",
+        "translations": "yuvarlak | küresel",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/round__Noun__1",
+        "sense": "segment of a sport event",
+        "translations": "raunt",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/round__Noun__1",
+        "sense": "stage of a sports competition",
+        "translations": "raunt | tur",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/round__Adjective__1",
+        "sense": "complete, not lacking",
+        "translations": "tam | yuvarlak",
+        "score": 101
+      },
+      {
+        "entry": "eng/round__Noun__1",
+        "sense": "circular object",
+        "translations": "çember",
+        "score": 101.0
+      },
+      {
+        "entry": "eng/round__Adjective__1",
+        "sense": "of a number that has been rounded off",
+        "translations": "tam",
+        "score": 100
+      },
+      {
+        "entry": "eng/round__Adjective__1",
+        "sense": "of corners that lack sharp angles",
+        "translations": "yumuşak",
+        "score": 100
+      },
+      {
+        "entry": "eng/round__Adjective__1",
+        "sense": "pronounced with the mouth in the shape of an \"O\"",
+        "translations": "yuvarlak",
+        "score": 100
+      },
+      {
+        "entry": "eng/round__Noun__1",
+        "sense": "card games: moment from the deal until the players are finished with the cards",
+        "translations": "el",
+        "score": 100
+      },
+      {
+        "entry": "eng/round__Noun__1",
+        "sense": "hindquarters of a bovine for butchering",
+        "translations": "sokum",
+        "score": 100
+      },
+      {
+        "entry": "eng/round__Noun__1",
+        "sense": "individual ammunition shell",
+        "translations": "kurşun | mermi",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "route-2426",
+    "headword": "route",
+    "level": "A2",
+    "raw": "route n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "route",
+    "translationLookup": "route",
+    "ipaCandidates": {
+      "en-US": "/ˈɹaʊt/, /ˈɹut/",
+      "en-GB": "/ɹˈuːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/route__Noun__1",
+        "sense": "course or way traveled",
+        "translations": "rota | yol",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "rubbish-2450",
+    "headword": "rubbish",
+    "level": "A2",
+    "raw": "rubbish n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "rubbish",
+    "translationLookup": "rubbish",
+    "ipaCandidates": {
+      "en-US": "/ˈɹəbɪʃ/",
+      "en-GB": "/ɹˈʌbɪʃ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/rubbish__Noun__1",
+        "sense": "nonsense",
+        "translations": "saçma",
+        "score": 1.1
+      },
+      {
+        "entry": "eng/rubbish__Interjection__1",
+        "sense": "used to express that something is exceedingly bad",
+        "translations": "çöp",
+        "score": 0.4
+      },
+      {
+        "entry": "eng/rubbish__Adjective__1",
+        "sense": "exceedingly bad",
+        "translations": "sefil",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/rubbish__Verb__1",
+        "sense": "to criticize, denigrate",
+        "translations": "eleştirmek",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "rude-2454",
+    "headword": "rude",
+    "level": "A2",
+    "raw": "rude adj. A2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "rude",
+    "translationLookup": "rude",
+    "ipaCandidates": {
+      "en-US": "/ˈɹud/",
+      "en-GB": "/ɹˈuːd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/rude__Adjective__1",
+        "sense": null,
+        "translations": "kaba | küstah",
+        "score": 104.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "runner-2470",
+    "headword": "runner",
+    "level": "A2",
+    "raw": "runner n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "runner",
+    "translationLookup": "runner",
+    "ipaCandidates": {
+      "en-US": "/ˈɹənɝ/",
+      "en-GB": "/ɹˈʌnɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/runner__Noun__1",
+        "sense": "somebody who runs, who moves at a fast pace",
+        "translations": "koşucu",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "running-2474",
+    "headword": "running",
+    "level": "A2",
+    "raw": "running n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "running",
+    "translationLookup": "running",
+    "ipaCandidates": {
+      "en-US": "/ˈɹənɪŋ/",
+      "en-GB": "/ɹˈʌnɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/running__Noun__1",
+        "sense": "the action of the verb to run",
+        "translations": "koşu | koşma",
+        "score": 102
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sadly-2214",
+    "headword": "sadly",
+    "level": "A2",
+    "raw": "sadly adv. A2",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sadly",
+    "translationLookup": "sadly",
+    "ipaCandidates": {
+      "en-US": "/ˈsædɫi/",
+      "en-GB": "/sˈædli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sadly__Adverb__1",
+        "sense": "in a sad manner",
+        "translations": "üzgünce",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "safe-2218",
+    "headword": "safe",
+    "level": "A2",
+    "raw": "safe adj. A2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "safe",
+    "translationLookup": "safe",
+    "ipaCandidates": {
+      "en-US": "/ˈseɪf/",
+      "en-GB": "/sˈeɪf/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/safe__Adjective__1",
+        "sense": null,
+        "translations": "emin | güvenli | güvenilir",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/safe__Adjective__1",
+        "sense": "providing protection from danger",
+        "translations": "emin | güvenilir",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/safe__Noun__1",
+        "sense": "box in which valuables can be locked for safekeeping",
+        "translations": "kasa | çelik kasa",
+        "score": 111.1
+      },
+      {
+        "entry": "eng/safe__Adjective__1",
+        "sense": "properly secured",
+        "translations": "emin",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sail-2226",
+    "headword": "sail",
+    "level": "A2",
+    "raw": "sail v. A2, n. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sail",
+    "translationLookup": "sail",
+    "ipaCandidates": {
+      "en-US": "/ˈseɪɫ/",
+      "en-GB": "/sˈeɪl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sail__Noun__1",
+        "sense": "a piece of fabric attached to a boat",
+        "translations": "yelken",
+        "score": 132.2
+      },
+      {
+        "entry": "eng/sail__Noun__1",
+        "sense": null,
+        "translations": "yelken",
+        "score": 100
+      },
+      {
+        "entry": "eng/sail__Verb__1",
+        "sense": "to ride in a boat, especially sailboat",
+        "translations": "açılmak | denize açılmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sailing-2230",
+    "headword": "sailing",
+    "level": "A2",
+    "raw": "sailing n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sailing",
+    "translationLookup": "sailing",
+    "ipaCandidates": {
+      "en-US": "/ˈseɪɫɪŋ/",
+      "en-GB": "/sˈeɪlɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sailing__Noun__1",
+        "sense": "motion across water",
+        "translations": "yatçılık",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/sailing__Adjective__1",
+        "sense": "travelling by ship",
+        "translations": "yelken (sporu)",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/sailing__Noun__1",
+        "sense": "scheduled voyage",
+        "translations": "yelken (sporu)",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "salary-2242",
+    "headword": "salary",
+    "level": "A2",
+    "raw": "salary n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "salary",
+    "translationLookup": "salary",
+    "ipaCandidates": {
+      "en-US": "/ˈsæɫɝi/",
+      "en-GB": "/sˈæləɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/salary__Noun__1",
+        "sense": "fixed amount of money paid on monthly or annual basis",
+        "translations": "aylık | maaş | ücret",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sale-2246",
+    "headword": "sale",
+    "level": "A2",
+    "raw": "sale n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sale",
+    "translationLookup": "sale",
+    "ipaCandidates": {
+      "en-US": "/ˈseɪɫ/",
+      "en-GB": "/sˈeɪl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sale__Noun__1",
+        "sense": "exchange of goods or services for currency or credit",
+        "translations": "satış",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/sale__Noun__1",
+        "sense": "sale of goods at reduced prices",
+        "translations": "indirim",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sauce-2286",
+    "headword": "sauce",
+    "level": "A2",
+    "raw": "sauce n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sauce",
+    "translationLookup": "sauce",
+    "ipaCandidates": {
+      "en-US": "/ˈsɔs/",
+      "en-GB": "/sˈɔːs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sauce__Noun__1",
+        "sense": "liquid condiment",
+        "translations": "sos | salça",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "save-2290",
+    "headword": "save",
+    "level": "A2",
+    "raw": "save v. A2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "save",
+    "translationLookup": "save",
+    "ipaCandidates": {
+      "en-US": "/ˈseɪv/",
+      "en-GB": "/sˈeɪv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/save__Verb__1",
+        "sense": null,
+        "translations": "kurtarmak",
+        "score": 131.1
+      },
+      {
+        "entry": "eng/save__Verb__1",
+        "sense": "computing: to write a file to a storage medium",
+        "translations": "kaydetmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/save__Verb__1",
+        "sense": "to accumulate money",
+        "translations": "para biriktirmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/save__Verb__1",
+        "sense": "to conserve or prevent the wasting of",
+        "translations": "tasarruf etmek",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/save__Verb__1",
+        "sense": "to economize",
+        "translations": "tasarruf etmek",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/save__Verb__1",
+        "sense": "to keep safe; to safeguard",
+        "translations": "korumak",
+        "score": 100
+      },
+      {
+        "entry": "eng/save__Verb__1",
+        "sense": "to store for future use",
+        "translations": "saklamak",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/save__Verb__1",
+        "sense": "Christianity: to redeem or protect someone from eternal damnation",
+        "translations": "kurtarmak",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "scared-2310",
+    "headword": "scared",
+    "level": "A2",
+    "raw": "scared adj. A2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "scared",
+    "translationLookup": "scared",
+    "ipaCandidates": {
+      "en-US": "/ˈskɛɹd/",
+      "en-GB": "/skˈeəd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/scared__Adjective__1",
+        "sense": "afraid, frightened",
+        "translations": "korkak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "scary-2314",
+    "headword": "scary",
+    "level": "A2",
+    "raw": "scary adj. A2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "scary",
+    "translationLookup": "scary",
+    "ipaCandidates": {
+      "en-US": "/ˈskɛɹi/",
+      "en-GB": "/skˈeəɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/scary__Adjective__1",
+        "sense": null,
+        "translations": "korkunç",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "scene-2318",
+    "headword": "scene",
+    "level": "A2",
+    "raw": "scene n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "scene",
+    "translationLookup": "scene",
+    "ipaCandidates": {
+      "en-US": "/ˈsin/",
+      "en-GB": "/sˈiːn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/scene__Noun__1",
+        "sense": "(theater, film, television, radio) part of a dramatic work that is set in the same place or time",
+        "translations": "sahne",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/scene__Noun__1",
+        "sense": "the location of an event that attracts attention",
+        "translations": "sahne",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/scene__Noun__1",
+        "sense": "exhibition of passionate or strong feeling before others",
+        "translations": "kriz",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "schedule-2322",
+    "headword": "schedule",
+    "level": "A2",
+    "raw": "schedule n. A2, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "schedule",
+    "translationLookup": "schedule",
+    "ipaCandidates": {
+      "en-US": "/ˈskɛdʒuɫ/, /ˈskɛdʒʊɫ/",
+      "en-GB": "/ʃˈɛdjuːl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/schedule__Noun__1",
+        "sense": "a procedural plan, usually but not necessarily tabular in nature, indicating a sequence of operations and the planned times at which those operations are to occur",
+        "translations": "program | tarife | bağdarlama | cetvel",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "score-2346",
+    "headword": "score",
+    "level": "A2",
+    "raw": "score v., n. A2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "score",
+    "translationLookup": "score",
+    "ipaCandidates": {
+      "en-US": "/ˈskɔɹ/",
+      "en-GB": "/skˈɔː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/score__Noun__1",
+        "sense": "performance of an individual or group on an examination or test",
+        "translations": "not",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "screen-2354",
+    "headword": "screen",
+    "level": "A2",
+    "raw": "screen n. A2, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "screen",
+    "translationLookup": "screen",
+    "ipaCandidates": {
+      "en-US": "/ˈskɹin/",
+      "en-GB": "/skɹˈiːn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/screen__Noun__1",
+        "sense": "viewing area of electronic output device",
+        "translations": "ekran",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/screen__Noun__1",
+        "sense": "movie viewing area",
+        "translations": "ekran",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/screen__Noun__1",
+        "sense": "physical divider",
+        "translations": "paravan | ekran",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "search-2370",
+    "headword": "search",
+    "level": "A2",
+    "raw": "search n., v. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "search",
+    "translationLookup": "search",
+    "ipaCandidates": {
+      "en-US": "/ˈsɝtʃ/",
+      "en-GB": "/sˈɜːtʃ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/search__Verb__1",
+        "sense": null,
+        "translations": "aramak",
+        "score": 122.2
+      },
+      {
+        "entry": "eng/search__Noun__1",
+        "sense": "an attempt to find something",
+        "translations": "arama",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/search__Verb__1",
+        "sense": "(followed by \"for\") to look thoroughly",
+        "translations": "aramak",
+        "score": 32.2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "season-2374",
+    "headword": "season",
+    "level": "A2",
+    "raw": "season n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "season",
+    "translationLookup": "season",
+    "ipaCandidates": {
+      "en-US": "/ˈsizən/",
+      "en-GB": "/sˈiːzən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/season__Noun__1",
+        "sense": "quarter of a year",
+        "translations": "mevsim | sezon",
+        "score": 155.0
+      },
+      {
+        "entry": "eng/season__Noun__1",
+        "sense": "a group of episodes",
+        "translations": "sezon | mevsim",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/season__Noun__1",
+        "sense": "part of year with something special",
+        "translations": "sezon | mevsim",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/season__Noun__1",
+        "sense": "(obsolete) that which gives relish",
+        "translations": "çeşni",
+        "score": 100
+      },
+      {
+        "entry": "eng/season__Verb__2",
+        "sense": null,
+        "translations": "baharat katmak | çeşni katmak | çeşnilemek | çeşnilendirmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "seat-2378",
+    "headword": "seat",
+    "level": "A2",
+    "raw": "seat n. A2, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "seat",
+    "translationLookup": "seat",
+    "ipaCandidates": {
+      "en-US": "/ˈsit/",
+      "en-GB": "/sˈiːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/seat__Noun__1",
+        "sense": "membership in a representative body",
+        "translations": "sandalye",
+        "score": 12.5
+      },
+      {
+        "entry": "eng/seat__Noun__1",
+        "sense": "location of a governing body",
+        "translations": "oturak",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/seat__Noun__1",
+        "sense": "part of an object or individual directly involved in sitting",
+        "translations": "sandalye",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/seat__Noun__1",
+        "sense": "piece of furniture",
+        "translations": "sandalye",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/seat__Noun__1",
+        "sense": "place in which to sit",
+        "translations": "koltuk",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/seat__Noun__1",
+        "sense": "electoral district",
+        "translations": "seçim bölgesi",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/seat__Noun__1",
+        "sense": "part of clothing",
+        "translations": "at",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "secondly-2399",
+    "headword": "secondly",
+    "level": "A2",
+    "raw": "secondly adv. A2",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "secondly",
+    "translationLookup": "secondly",
+    "ipaCandidates": {
+      "en-US": "/ˈsɛkəndɫi/",
+      "en-GB": "/sˈɛkəndli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/secondly__Adverb__1",
+        "sense": "in the second place",
+        "translations": "ikinci olarak",
+        "score": 10.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "secret-2403",
+    "headword": "secret",
+    "level": "A2",
+    "raw": "secret adj., n. A2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "secret",
+    "translationLookup": "secret",
+    "ipaCandidates": {
+      "en-US": "/ˈsikɹət/, /ˈsikɹɪt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/secret__Noun__1",
+        "sense": "knowledge that is hidden",
+        "translations": "sır | giz",
+        "score": 160.0
+      },
+      {
+        "entry": "eng/secret__Adjective__1",
+        "sense": "being or kept hidden",
+        "translations": "gizli | saklı",
+        "score": 130.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "secretary-2407",
+    "headword": "secretary",
+    "level": "A2",
+    "raw": "secretary n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "secretary",
+    "translationLookup": "secretary",
+    "ipaCandidates": {
+      "en-US": "/ˈsɛkɹəˌtɛɹi/",
+      "en-GB": "/sˈɛkɹətɹˌi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/secretary__Noun__1",
+        "sense": "person keeping records and handling clerical work",
+        "translations": "sekreter | katip",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/secretary__Noun__1",
+        "sense": "head of a department of government",
+        "translations": "sekreter",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/secretary__Noun__1",
+        "sense": "leading or managerial position in certain organizations",
+        "translations": "sekreter",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/secretary__Noun__1",
+        "sense": "sagittarius serpentarius",
+        "translations": "sekreter",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/secretary__Noun__1",
+        "sense": "type of desk",
+        "translations": "sekreter",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "seem-2439",
+    "headword": "seem",
+    "level": "A2",
+    "raw": "seem v. A2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "seem",
+    "translationLookup": "seem",
+    "ipaCandidates": {
+      "en-US": "/ˈsim/",
+      "en-GB": "/sˈiːm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/seem__Verb__1",
+        "sense": null,
+        "translations": "görünmek | gözükmek",
+        "score": 110.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sense-2467",
+    "headword": "sense",
+    "level": "A2",
+    "raw": "sense n. A2, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sense",
+    "translationLookup": "sense",
+    "ipaCandidates": {
+      "en-US": "/ˈsɛns/",
+      "en-GB": "/sˈɛns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sense__Noun__1",
+        "sense": null,
+        "translations": "anlam | deme | valör",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/sense__Noun__1",
+        "sense": "manner by which living beings perceive the physical world",
+        "translations": "duyu",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/sense__Noun__1",
+        "sense": "meaning or reason",
+        "translations": "mana | anlam",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/sense__Noun__1",
+        "sense": "conscious awareness",
+        "translations": "algı | idrak",
+        "score": 100
+      },
+      {
+        "entry": "eng/sense__Noun__1",
+        "sense": "natural ability",
+        "translations": "yetenek | yeti",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/sense__Noun__1",
+        "sense": "sound judgement",
+        "translations": "aklıselimlik | sağduyu",
+        "score": 100
+      },
+      {
+        "entry": "eng/sense__Verb__1",
+        "sense": null,
+        "translations": "algılamak | duyumsamak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "separate-2482",
+    "headword": "separate",
+    "level": "A2",
+    "raw": "separate adj. A2, v. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "separate",
+    "translationLookup": "separate",
+    "ipaCandidates": {
+      "en-US": "/ˈsɛpɝˌeɪt/, /ˈsɛpɝɪt/, /ˈsɛpɹət/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/separate__Verb__1",
+        "sense": "to cause to be separate",
+        "translations": "ayırmak",
+        "score": 112.8
+      },
+      {
+        "entry": "eng/separate__Verb__1",
+        "sense": "to disunite, disconnect",
+        "translations": "ayırmak",
+        "score": 112.8
+      },
+      {
+        "entry": "eng/separate__Adjective__1",
+        "sense": "apart from; not connected to",
+        "translations": "ayrı",
+        "score": 100
+      },
+      {
+        "entry": "eng/separate__Adjective__1",
+        "sense": "followed by \"from\": not together with",
+        "translations": "-den ayrı",
+        "score": 100
+      },
+      {
+        "entry": "eng/separate__Verb__1",
+        "sense": "to divide itself",
+        "translations": "bölmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "series-2215",
+    "headword": "series",
+    "level": "A2",
+    "raw": "series n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "series",
+    "translationLookup": "series",
+    "ipaCandidates": {
+      "en-US": "/ˈsɪɹiz/",
+      "en-GB": "/sˈiəɹiz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/series__Noun__1",
+        "sense": null,
+        "translations": "seri | silsile",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/series__Noun__1",
+        "sense": "television or radio program",
+        "translations": "dizi | seri",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/series__Noun__1",
+        "sense": "in analysis: sum of the terms of a sequence",
+        "translations": "seri",
+        "score": 30.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "serious-2219",
+    "headword": "serious",
+    "level": "A2",
+    "raw": "serious adj. A2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "serious",
+    "translationLookup": "serious",
+    "ipaCandidates": {
+      "en-US": "/ˈsɪɹiəs/",
+      "en-GB": "/sˈiəɹɪəs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/serious__Adjective__1",
+        "sense": "important; weighty; not trifling; leaving no room for play",
+        "translations": "ciddi | salmaklı",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/serious__Adjective__1",
+        "sense": "without humor or expression of happiness",
+        "translations": "ciddi | salmaklı | vezmin",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "serve-2231",
+    "headword": "serve",
+    "level": "A2",
+    "raw": "serve v. A2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "serve",
+    "translationLookup": "serve",
+    "ipaCandidates": {
+      "en-US": "/ˈsɝv/",
+      "en-GB": "/sˈɜːv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/serve__Verb__1",
+        "sense": "to bring food to",
+        "translations": "servis etmek | servis yapmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "service-2235",
+    "headword": "service",
+    "level": "A2",
+    "raw": "service n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "service",
+    "translationLookup": "service",
+    "ipaCandidates": {
+      "en-US": "/ˈsɝvəs/, /ˈsɝvɪs/",
+      "en-GB": "/sˈɜːvɪs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/service__Noun__1",
+        "sense": "practice of providing services as economic activity",
+        "translations": "hizmet | servis",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/service__Noun__1",
+        "sense": "shared taxi",
+        "translations": "servis",
+        "score": 100
+      },
+      {
+        "entry": "eng/service__Noun__1",
+        "sense": "the military",
+        "translations": "askerlik | hizmet",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/service__Noun__1",
+        "sense": "act of being of assistance to someone",
+        "translations": "hizmet",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/service__Noun__1",
+        "sense": "computing: function provided by one program or machine for another",
+        "translations": "hizmet",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/service__Noun__1",
+        "sense": "religious rite or ritual",
+        "translations": "ibadet",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/service__Noun__1",
+        "sense": "set of dishes or utensils",
+        "translations": "servis",
+        "score": 15.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "several-2271",
+    "headword": "several",
+    "level": "A2",
+    "raw": "several det./pron. A2",
+    "pos": "det.",
+    "senses": [
+      {
+        "partOfSpeech": "det./pron.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "several",
+    "translationLookup": "several",
+    "ipaCandidates": {
+      "en-US": "/ˈsɛvɝəɫ/, /ˈsɛvɹəɫ/",
+      "en-GB": "/sˈɛvɹəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/several__Determiner__1",
+        "sense": null,
+        "translations": "birkaç",
+        "score": 100
+      },
+      {
+        "entry": "eng/several__Determiner__1",
+        "sense": "diverse; different; various",
+        "translations": "muhtelif | çeşitli",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shake-2295",
+    "headword": "shake",
+    "level": "A2",
+    "raw": "shake v. A2, n. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shake",
+    "translationLookup": "shake",
+    "ipaCandidates": {
+      "en-US": "/ˈʃeɪk/",
+      "en-GB": "/ʃˈeɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "çalkamak",
+        "score": 2
+      },
+      {
+        "entry": "eng/shake__Noun__1",
+        "sense": "crack or splint in wood",
+        "translations": "çatlak",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/shake__Noun__1",
+        "sense": "milkshake",
+        "translations": "milkşeyk",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/shake__Verb__1",
+        "sense": "intransitive: to dance",
+        "translations": "dans etmek",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/shake__Verb__1",
+        "sense": "transitive: to cause to move",
+        "translations": "çalkalamak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shall-2299",
+    "headword": "shall",
+    "level": "A2",
+    "raw": "shall modal v. A2",
+    "pos": "modal v.",
+    "senses": [
+      {
+        "partOfSpeech": "modal v.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shall",
+    "translationLookup": "shall",
+    "ipaCandidates": {
+      "en-US": "/ˈʃæɫ/",
+      "en-GB": "/ʃˈæl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shall__Verb__1",
+        "sense": "indicating determination or obligation",
+        "translations": "gereksinim duymak",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/shall__Verb__1",
+        "sense": "indicating the simple future tense",
+        "translations": "olmak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shape-2311",
+    "headword": "shape",
+    "level": "A2",
+    "raw": "shape n. A2, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shape",
+    "translationLookup": "shape",
+    "ipaCandidates": {
+      "en-US": "/ˈʃeɪp/",
+      "en-GB": "/ʃˈeɪp/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shape__Noun__1",
+        "sense": "appearance or outline",
+        "translations": "şekil | görünüş",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/shape__Noun__1",
+        "sense": "status or condition",
+        "translations": "şekil | durum | vaziyet",
+        "score": 105.0
+      },
+      {
+        "entry": "eng/shape__Noun__1",
+        "sense": null,
+        "translations": "şekil",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/shape__Noun__1",
+        "sense": "condition of personal health, especially muscular health",
+        "translations": "form",
+        "score": 100
+      },
+      {
+        "entry": "eng/shape__Verb__1",
+        "sense": null,
+        "translations": "biçimlendirmek | şekillendirmek",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sheet-2331",
+    "headword": "sheet",
+    "level": "A2",
+    "raw": "sheet n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sheet",
+    "translationLookup": "sheet",
+    "ipaCandidates": {
+      "en-US": "/ˈʃit/",
+      "en-GB": "/ʃˈiːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sheet__Noun__1",
+        "sense": "sheet of paper",
+        "translations": "sayfa | varak",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "ship-2359",
+    "headword": "ship",
+    "level": "A2",
+    "raw": "ship n. A2, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "ship",
+    "translationLookup": "ship",
+    "ipaCandidates": {
+      "en-US": "/ˈʃɪp/",
+      "en-GB": "/ʃˈɪp/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/ship__Noun__1",
+        "sense": null,
+        "translations": "gemi",
+        "score": 183.1
+      },
+      {
+        "entry": "eng/ship__Verb__1",
+        "sense": "to send a parcel or container",
+        "translations": "göndermek",
+        "score": 100.4
+      },
+      {
+        "entry": "eng/ship__Verb__2",
+        "sense": "to support fictional relationship",
+        "translations": "shiplemek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shoulder-2404",
+    "headword": "shoulder",
+    "level": "A2",
+    "raw": "shoulder n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shoulder",
+    "translationLookup": "shoulder",
+    "ipaCandidates": {
+      "en-US": "/ˈʃoʊɫdɝ/",
+      "en-GB": "/ʃˈəʊldɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shoulder__Noun__1",
+        "sense": "joint between arm and torso",
+        "translations": "omuz | çiğin",
+        "score": 160.0
+      },
+      {
+        "entry": "eng/shoulder__Noun__1",
+        "sense": "top of the torso, away from the neck",
+        "translations": "omuz",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shout-2408",
+    "headword": "shout",
+    "level": "A2",
+    "raw": "shout v., n. A2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shout",
+    "translationLookup": "shout",
+    "ipaCandidates": {
+      "en-US": "/ˈʃaʊt/",
+      "en-GB": "/ʃˈaʊt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shout__Verb__1",
+        "sense": "to utter a sudden and loud outcry",
+        "translations": "bağırmak | haykırmak | kışkırmak",
+        "score": 126.7
+      },
+      {
+        "entry": "eng/shout__Verb__1",
+        "sense": "to utter with a shout",
+        "translations": "bağırmak",
+        "score": 105.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shut-2420",
+    "headword": "shut",
+    "level": "A2",
+    "raw": "shut v., adj. A2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., adj.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shut",
+    "translationLookup": "shut",
+    "ipaCandidates": {
+      "en-US": "/ˈʃət/",
+      "en-GB": "/ʃˈʌt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shut__Verb__1",
+        "sense": "(transitive) to close",
+        "translations": "kapatmak",
+        "score": 101.7
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "side-2432",
+    "headword": "side",
+    "level": "A2",
+    "raw": "side n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "side",
+    "translationLookup": "side",
+    "ipaCandidates": {
+      "en-US": "/ˈsaɪd/",
+      "en-GB": "/sˈaɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/side__Noun__1",
+        "sense": "bounding straight edge of an object",
+        "translations": "yan | taraf",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/side__Noun__1",
+        "sense": "flat surface of an object",
+        "translations": "yüz",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/side__Noun__1",
+        "sense": "one possible aspect of a concept",
+        "translations": "yan",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sign-2440",
+    "headword": "sign",
+    "level": "A2",
+    "raw": "sign n., v. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sign",
+    "translationLookup": "sign",
+    "ipaCandidates": {
+      "en-US": "/ˈsaɪn/",
+      "en-GB": "/sˈaɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sign__Noun__1",
+        "sense": "a fact that shows that something exists or may happen",
+        "translations": "işaret | alamet | gösterge",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/sign__Verb__1",
+        "sense": "to write one's signature on a document",
+        "translations": "imzalamak | kol çekmek",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/sign__Verb__1",
+        "sense": "to make (a document) official by writing one's signature",
+        "translations": "imzalamak | kol çekmek",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/sign__Verb__1",
+        "sense": "to write one's signature somewhere",
+        "translations": "imzalamak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/sign__Noun__1",
+        "sense": null,
+        "translations": "tabela | işaret",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/sign__Noun__1",
+        "sense": "omen",
+        "translations": "işaret",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/sign__Noun__1",
+        "sense": "linguistic unit in sign language",
+        "translations": "işaret",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/sign__Noun__1",
+        "sense": "meaningful gesture",
+        "translations": "işaret",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "silver-2472",
+    "headword": "silver",
+    "level": "A2",
+    "raw": "silver n., adj. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., adj.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "silver",
+    "translationLookup": "silver",
+    "ipaCandidates": {
+      "en-US": "/ˈsɪɫvɝ/",
+      "en-GB": "/sˈɪlvɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/silver__Noun__1",
+        "sense": "metal",
+        "translations": "gümüş",
+        "score": 202.5
+      },
+      {
+        "entry": "eng/silver__Noun__1",
+        "sense": "color/colour",
+        "translations": "gümüş rengi | gümüş",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/silver__Adjective__1",
+        "sense": "made from silver",
+        "translations": "gümüş",
+        "score": 100
+      },
+      {
+        "entry": "eng/silver__Noun__1",
+        "sense": "coins",
+        "translations": "gümüş",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "simple-2212",
+    "headword": "simple",
+    "level": "A2",
+    "raw": "simple adj. A2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "simple",
+    "translationLookup": "simple",
+    "ipaCandidates": {
+      "en-US": "/ˈsɪmpəɫ/",
+      "en-GB": "/sˈɪmpəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/simple__Adjective__1",
+        "sense": "uncomplicated",
+        "translations": "basit | sade",
+        "score": 132.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "since-2220",
+    "headword": "since",
+    "level": "A2",
+    "raw": "since prep., conj. A2, adv. B1",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep., conj.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "since",
+    "translationLookup": "since",
+    "ipaCandidates": {
+      "en-US": "/ˈsɪns/",
+      "en-GB": "/sˈɪns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/since__Preposition__1",
+        "sense": "from (time)",
+        "translations": "beri",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/since__Conjunction__1",
+        "sense": "from the time that",
+        "translations": "beri",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/since__Conjunction__1",
+        "sense": "because",
+        "translations": "-den | için",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "singing-2236",
+    "headword": "singing",
+    "level": "A2",
+    "raw": "singing n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "singing",
+    "translationLookup": "singing",
+    "ipaCandidates": {
+      "en-US": "/ˈsɪŋɪŋ/",
+      "en-GB": "/sˈɪŋɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/singing__Noun__1",
+        "sense": "the act of using the voice to produce musical sounds; vocalizing",
+        "translations": "şarkı söylemek",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "single-2240",
+    "headword": "single",
+    "level": "A2",
+    "raw": "single adj., n. A2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "single",
+    "translationLookup": "single",
+    "ipaCandidates": {
+      "en-US": "/ˈsɪŋɡəɫ/",
+      "en-GB": "/sˈɪŋɡəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/single__Adjective__1",
+        "sense": null,
+        "translations": "tek | bütün | yegane | yekpare",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/single__Adjective__1",
+        "sense": "designed for the use of only one",
+        "translations": "tek kişilik",
+        "score": 100
+      },
+      {
+        "entry": "eng/single__Adjective__1",
+        "sense": "not married nor dating",
+        "translations": "bekâr | boydak",
+        "score": 100
+      },
+      {
+        "entry": "eng/single__Noun__1",
+        "sense": "45 RPM vinyl record",
+        "translations": "single",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/single__Noun__1",
+        "sense": "popular song",
+        "translations": "single",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sir-2248",
+    "headword": "sir",
+    "level": "A2",
+    "raw": "sir n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sir",
+    "translationLookup": "sir",
+    "ipaCandidates": {
+      "en-US": "/ˈsɝ/",
+      "en-GB": "/sˈɜː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sir__Noun__1",
+        "sense": "address to any male, especially if his name or proper address is unknown",
+        "translations": "efendim | beyefendi | ağa | efendi",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/sir__Noun__1",
+        "sense": "address to a military superior",
+        "translations": "komutanım",
+        "score": 100
+      },
+      {
+        "entry": "eng/sir__Noun__1",
+        "sense": "man of a higher rank or position",
+        "translations": "efendim",
+        "score": 100
+      },
+      {
+        "entry": "eng/sir__Noun__1",
+        "sense": "title of a nobleman",
+        "translations": "efendi",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "site-2260",
+    "headword": "site",
+    "level": "A2",
+    "raw": "site n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "site",
+    "translationLookup": "site",
+    "ipaCandidates": {
+      "en-US": "/ˈsaɪt/",
+      "en-GB": "/sˈaɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/site__Noun__1",
+        "sense": "a website",
+        "translations": "Web bölgesi | Web sitesi",
+        "score": 100
+      },
+      {
+        "entry": "eng/site__Noun__1",
+        "sense": "place where anything is fixed; situation; local position",
+        "translations": "yer",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "size-2280",
+    "headword": "size",
+    "level": "A2",
+    "raw": "size n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "size",
+    "translationLookup": "size",
+    "ipaCandidates": {
+      "en-US": "/ˈsaɪz/",
+      "en-GB": "/sˈaɪz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/size__Noun__1",
+        "sense": "dimensions or magnitude of a thing",
+        "translations": "boyut | boy | çap",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/size__Noun__1",
+        "sense": "a specific set of dimensions for clothing",
+        "translations": "beden | boy | ölçü",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/size__Noun__2",
+        "sense": "wallpaper paste",
+        "translations": "çiriş",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "ski-2284",
+    "headword": "ski",
+    "level": "A2",
+    "raw": "ski v., n. A2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "ski",
+    "translationLookup": "ski",
+    "ipaCandidates": {
+      "en-US": "/ˈski/",
+      "en-GB": "/skˈiː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/ski__Noun__1",
+        "sense": "one of a pair of long flat runners designed for gliding over snow",
+        "translations": "kayak",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/ski__Verb__1",
+        "sense": "move on skis",
+        "translations": "kaymak",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "skiing-2288",
+    "headword": "skiing",
+    "level": "A2",
+    "raw": "skiing n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "skiing",
+    "translationLookup": "skiing",
+    "ipaCandidates": {
+      "en-US": "/ˈskiɪŋ/",
+      "en-GB": "/skˈiːɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/skiing__Noun__1",
+        "sense": "sport or activity",
+        "translations": "kayak | kayakçılık",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "skin-2296",
+    "headword": "skin",
+    "level": "A2",
+    "raw": "skin n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "skin",
+    "translationLookup": "skin",
+    "ipaCandidates": {
+      "en-US": "/ˈskɪn/",
+      "en-GB": "/skˈɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/skin__Noun__1",
+        "sense": "outer protective layer of the body of a person or animal",
+        "translations": "cilt | deri",
+        "score": 172.5
+      },
+      {
+        "entry": "eng/skin__Noun__1",
+        "sense": "skin and fur of an animal used by humans",
+        "translations": "deri | post | cilt",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/skin__Verb__1",
+        "sense": "to remove the skin of",
+        "translations": "yüzmek | derisini yüzmek",
+        "score": 123.1
+      },
+      {
+        "entry": "eng/skin__Noun__1",
+        "sense": "image used as the background of graphical user interface",
+        "translations": "deri",
+        "score": 100
+      },
+      {
+        "entry": "eng/skin__Noun__1",
+        "sense": "outer protective layer of fruit",
+        "translations": "cilt",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sky-2304",
+    "headword": "sky",
+    "level": "A2",
+    "raw": "sky n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sky",
+    "translationLookup": "sky",
+    "ipaCandidates": {
+      "en-US": "/ˈskaɪ/",
+      "en-GB": "/skˈaɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sky__Noun__1",
+        "sense": "atmosphere above a given point, especially as visible from the surface of the Earth as the place where the sun, moon, stars, and clouds are seen",
+        "translations": "gökyüzü | gök",
+        "score": 152.5
+      },
+      {
+        "entry": "eng/sky__Noun__1",
+        "sense": null,
+        "translations": "gökyüzü | sema",
+        "score": 100
+      },
+      {
+        "entry": "eng/sky__Noun__1",
+        "sense": "the abode of God or the gods, etc.",
+        "translations": "cennet | gökyüzü",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/sky__Noun__1",
+        "sense": "part of the sky which can be seen from a specific place or at a specific time",
+        "translations": "gökyüzü | gök",
+        "score": 52.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "slowly-2344",
+    "headword": "slowly",
+    "level": "A2",
+    "raw": "slowly adv. A2",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "slowly",
+    "translationLookup": "slowly",
+    "ipaCandidates": {
+      "en-US": "/ˈsɫoʊɫi/",
+      "en-GB": "/slˈəʊli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/slowly__Adverb__1",
+        "sense": "at a slow pace",
+        "translations": "yavaş | yavaş yavaş | aheste aheste | yavaşça",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "smartphone-2356",
+    "headword": "smartphone",
+    "level": "A2",
+    "raw": "smartphone n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "smartphone",
+    "translationLookup": "smartphone",
+    "ipaCandidates": {
+      "en-US": "/ˈsmɑɹtˌfoʊn/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/smartphone__Noun__1",
+        "sense": "electronic handheld device",
+        "translations": "akıllı telefon",
+        "score": 142.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "smell-2360",
+    "headword": "smell",
+    "level": "A2",
+    "raw": "smell v., n. A2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "smell",
+    "translationLookup": "smell",
+    "ipaCandidates": {
+      "en-US": "/ˈsmɛɫ/",
+      "en-GB": "/smˈɛl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/smell__Verb__1",
+        "sense": "sense with nose",
+        "translations": "koklamak | koku almak",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/smell__Noun__1",
+        "sense": "sensation",
+        "translations": "koku",
+        "score": 115.8
+      },
+      {
+        "entry": "eng/smell__Verb__1",
+        "sense": "to have a particular smell, whether good or bad; if descriptive, followed by \"like\" or \"of\"",
+        "translations": "kokmak | koklamak",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/smell__Noun__1",
+        "sense": "sense of smell",
+        "translations": "koklama",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "smile-2364",
+    "headword": "smile",
+    "level": "A2",
+    "raw": "smile v., n. A2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "smile",
+    "translationLookup": "smile",
+    "ipaCandidates": {
+      "en-US": "/ˈsmaɪɫ/",
+      "en-GB": "/smˈaɪl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/smile__Noun__1",
+        "sense": "a happy face expression using mouth, but without producing voice",
+        "translations": "gülümseme | gülüş | tebessüm | gülme",
+        "score": 142.5
+      },
+      {
+        "entry": "eng/smile__Verb__1",
+        "sense": "to have a smile on one's face",
+        "translations": "gülümsemek | tebessüm etmek",
+        "score": 142.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "smoke-2368",
+    "headword": "smoke",
+    "level": "A2",
+    "raw": "smoke n., v. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "smoke",
+    "translationLookup": "smoke",
+    "ipaCandidates": {
+      "en-US": "/ˈsmoʊk/",
+      "en-GB": "/smˈəʊk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/smoke__Noun__1",
+        "sense": "visible particles and vapour given off by burning material",
+        "translations": "duman | sis",
+        "score": 136.1
+      },
+      {
+        "entry": "eng/smoke__Verb__1",
+        "sense": "to inhale and exhale smoke from a burning cigarette",
+        "translations": "içmek | sigara içmek",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/smoke__Verb__1",
+        "sense": "to preserve or prepare by treating with smoke",
+        "translations": "tütsülemek | fümelemek | islemek",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/smoke__Verb__1",
+        "sense": "to give off smoke",
+        "translations": "tütmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "smoking-2372",
+    "headword": "smoking",
+    "level": "A2",
+    "raw": "smoking n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "smoking",
+    "translationLookup": "smoking",
+    "ipaCandidates": {
+      "en-US": "/ˈsmoʊkɪŋ/",
+      "en-GB": "/smˈəʊkɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/smoking__Noun__1",
+        "sense": "smoking of tobacco",
+        "translations": "tüttürmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "soap-2389",
+    "headword": "soap",
+    "level": "A2",
+    "raw": "soap n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "soap",
+    "translationLookup": "soap",
+    "ipaCandidates": {
+      "en-US": "/ˈsoʊp/",
+      "en-GB": "/sˈəʊp/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/soap__Noun__1",
+        "sense": "substance",
+        "translations": "sabun",
+        "score": 190.0
+      },
+      {
+        "entry": "eng/soap__Verb__1",
+        "sense": "apply soap in washing / cover with soap as a prank",
+        "translations": "sabunlamak",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "soccer-2393",
+    "headword": "soccer",
+    "level": "A2",
+    "raw": "soccer n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "soccer",
+    "translationLookup": "soccer",
+    "ipaCandidates": {
+      "en-US": "/ˈsɑkɝ/",
+      "en-GB": "/sˈɒkɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/soccer__Noun__1",
+        "sense": "game",
+        "translations": "futbol | ayak topu",
+        "score": 125.8
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "social-2397",
+    "headword": "social",
+    "level": "A2",
+    "raw": "social adj. A2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "social",
+    "translationLookup": "social",
+    "ipaCandidates": {
+      "en-US": "/ˈsoʊʃəɫ/",
+      "en-GB": "/sˈəʊʃəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/social__Adjective__1",
+        "sense": "relating to society",
+        "translations": "toplumsal | sosyal",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "society-2401",
+    "headword": "society",
+    "level": "A2",
+    "raw": "society n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "society",
+    "translationLookup": "society",
+    "ipaCandidates": {
+      "en-US": "/səˈsaɪəti/",
+      "en-GB": "/səsˈaɪəti/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/society__Noun__1",
+        "sense": "group of people sharing culture",
+        "translations": "toplum | cemiyet | sosyete",
+        "score": 162.5
+      },
+      {
+        "entry": "eng/society__Noun__1",
+        "sense": "people of one’s country or community as a whole",
+        "translations": "toplum",
+        "score": 32.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sock-2405",
+    "headword": "sock",
+    "level": "A2",
+    "raw": "sock n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sock",
+    "translationLookup": "sock",
+    "ipaCandidates": {
+      "en-US": "/ˈsɑk/",
+      "en-GB": "/sˈɒk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sock__Noun__1",
+        "sense": "covering for the foot",
+        "translations": "çorap",
+        "score": 143.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "soft-2409",
+    "headword": "soft",
+    "level": "A2",
+    "raw": "soft adj. A2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "soft",
+    "translationLookup": "soft",
+    "ipaCandidates": {
+      "en-US": "/ˈsɑft/, /ˈsɔft/",
+      "en-GB": "/sˈɒft/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/soft__Adjective__1",
+        "sense": "easily giving way under pressure",
+        "translations": "yumuşak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/soft__Adjective__1",
+        "sense": null,
+        "translations": "yumuşak",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "soldier-2425",
+    "headword": "soldier",
+    "level": "A2",
+    "raw": "soldier n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "soldier",
+    "translationLookup": "soldier",
+    "ipaCandidates": {
+      "en-US": "/ˈsoʊɫdʒɝ/",
+      "en-GB": "/sˈəʊldʒɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/soldier__Noun__1",
+        "sense": "member of an army",
+        "translations": "asker | sü | çeri",
+        "score": 152.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "solution-2433",
+    "headword": "solution",
+    "level": "A2",
+    "raw": "solution n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "solution",
+    "translationLookup": "solution",
+    "ipaCandidates": {
+      "en-US": "/səˈɫuʃən/",
+      "en-GB": "/səlˈuːʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/solution__Noun__1",
+        "sense": "liquid mixture",
+        "translations": "çözelti | eriyik | solüsyon",
+        "score": 151.0
+      },
+      {
+        "entry": "eng/solution__Noun__1",
+        "sense": "an act, plan or other means, used or proposed, to solve a problem.",
+        "translations": "çözüm | çare",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/solution__Noun__1",
+        "sense": "answer to a problem (mathematics)",
+        "translations": "çözüm | çözelti",
+        "score": 140.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "solve-2437",
+    "headword": "solve",
+    "level": "A2",
+    "raw": "solve v. A2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "solve",
+    "translationLookup": "solve",
+    "ipaCandidates": {
+      "en-US": "/ˈsɑɫv/",
+      "en-GB": "/sˈɒlv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/solve__Verb__1",
+        "sense": "to find an answer or solution",
+        "translations": "çözmek | halletmek",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "somewhere-2465",
+    "headword": "somewhere",
+    "level": "A2",
+    "raw": "somewhere adv., pron. A2",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv., pron.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "somewhere",
+    "translationLookup": "somewhere",
+    "ipaCandidates": {
+      "en-US": "/ˈsəmˌwɛɹ/",
+      "en-GB": "/sˈʌmweə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/somewhere__Adverb__1",
+        "sense": "in some place",
+        "translations": "bir yerde",
+        "score": 100
+      },
+      {
+        "entry": "eng/somewhere__Adverb__1",
+        "sense": "to some place",
+        "translations": "bir yerde",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sort-2483",
+    "headword": "sort",
+    "level": "A2",
+    "raw": "sort n. A2, v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "sort",
+    "translationLookup": "sort",
+    "ipaCandidates": {
+      "en-US": "/ˈsɔɹt/",
+      "en-GB": "/sˈɔːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sort__Noun__1",
+        "sense": null,
+        "translations": "cins | soy",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "source-2499",
+    "headword": "source",
+    "level": "A2",
+    "raw": "source n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "source",
+    "translationLookup": "source",
+    "ipaCandidates": {
+      "en-US": "/ˈsɔɹs/",
+      "en-GB": "/sˈɔːs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/source__Noun__1",
+        "sense": "spring etc.",
+        "translations": "kaynak",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/source__Noun__1",
+        "sense": "the person, place or thing from which something (information, goods, etc.) comes or is acquired",
+        "translations": "kaynak | memba",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/source__Noun__1",
+        "sense": null,
+        "translations": "kaynak",
+        "score": 100
+      },
+      {
+        "entry": "eng/source__Noun__1",
+        "sense": "informant",
+        "translations": "kaynak",
+        "score": 22.5
+      },
+      {
+        "entry": "eng/source__Noun__1",
+        "sense": "(electronics) terminal",
+        "translations": "kaynak",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "speaker-2519",
+    "headword": "speaker",
+    "level": "A2",
+    "raw": "speaker n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "speaker",
+    "translationLookup": "speaker",
+    "ipaCandidates": {
+      "en-US": "/ˈspikɝ/",
+      "en-GB": "/spˈiːkɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/speaker__Noun__1",
+        "sense": "one who speaks",
+        "translations": "konuşmacı",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/speaker__Noun__1",
+        "sense": "loudspeaker",
+        "translations": "hoparlör",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/speaker__Noun__1",
+        "sense": "one who makes a speech to an audience",
+        "translations": "spiker | sunucu",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "specific-2535",
+    "headword": "specific",
+    "level": "A2",
+    "raw": "specific adj. A2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "specific",
+    "translationLookup": "specific",
+    "ipaCandidates": {
+      "en-US": "/spəˈsɪfɪk/, /spɪˈsɪfɪk/",
+      "en-GB": "/spəsˈɪfɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/specific__Adjective__1",
+        "sense": null,
+        "translations": "bağıl",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/specific__Adjective__1",
+        "sense": "intended for, or applying to a particular thing",
+        "translations": "bağıl",
+        "score": 10.0
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "belirli",
+        "score": 2
+      },
+      {
+        "entry": "eng/specific__Adjective__1",
+        "sense": "of a measure compared to a standard reference",
+        "translations": "göreli",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/specific__Adjective__1",
+        "sense": "of, or relating to a species",
+        "translations": "dal",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/specific__Adjective__1",
+        "sense": "pertaining to a taxon at the rank of species",
+        "translations": "dal",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "speech-2543",
+    "headword": "speech",
+    "level": "A2",
+    "raw": "speech n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "speech",
+    "translationLookup": "speech",
+    "ipaCandidates": {
+      "en-US": "/ˈspitʃ/",
+      "en-GB": "/spˈiːtʃ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/speech__Noun__1",
+        "sense": null,
+        "translations": "konuşma",
+        "score": 142.5
+      },
+      {
+        "entry": "eng/speech__Noun__1",
+        "sense": "vocal communication",
+        "translations": "konuşma | söz",
+        "score": 125.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "speed-2547",
+    "headword": "speed",
+    "level": "A2",
+    "raw": "speed n. A2, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "speed",
+    "translationLookup": "speed",
+    "ipaCandidates": {
+      "en-US": "/ˈspid/",
+      "en-GB": "/spˈiːd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/speed__Noun__1",
+        "sense": "rapidity",
+        "translations": "hız | sürat",
+        "score": 126.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "spider-2571",
+    "headword": "spider",
+    "level": "A2",
+    "raw": "spider n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "spider",
+    "translationLookup": "spider",
+    "ipaCandidates": {
+      "en-US": "/ˈspaɪdɝ/",
+      "en-GB": "/spˈaɪdɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/spider__Noun__1",
+        "sense": "arthropod",
+        "translations": "örümcek",
+        "score": 230.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "spoon-2595",
+    "headword": "spoon",
+    "level": "A2",
+    "raw": "spoon n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "spoon",
+    "translationLookup": "spoon",
+    "ipaCandidates": {
+      "en-US": "/ˈspun/",
+      "en-GB": "/spˈuːn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/spoon__Noun__1",
+        "sense": "scooped utensil for eating (or serving)",
+        "translations": "kaşık",
+        "score": 176.1
+      },
+      {
+        "entry": "eng/spoon__Noun__1",
+        "sense": "metal lure for fishing",
+        "translations": "kaşık",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "square-2615",
+    "headword": "square",
+    "level": "A2",
+    "raw": "square adj., n. A2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "square",
+    "translationLookup": "square",
+    "ipaCandidates": {
+      "en-US": "/ˈskwɛɹ/",
+      "en-GB": "/skwˈeə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/square__Noun__1",
+        "sense": "type of polygon",
+        "translations": "kare | dörtgen | murabba",
+        "score": 160.0
+      },
+      {
+        "entry": "eng/square__Noun__1",
+        "sense": "second power",
+        "translations": "kare",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/square__Noun__1",
+        "sense": "open space in a town",
+        "translations": "meydan",
+        "score": 126.7
+      },
+      {
+        "entry": "eng/square__Noun__1",
+        "sense": "the # symbol on a telephone",
+        "translations": "kare",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/square__Noun__1",
+        "sense": null,
+        "translations": "iyilik timsali | muhallebi çocuğu | süt kuzusu",
+        "score": 100
+      },
+      {
+        "entry": "eng/square__Noun__1",
+        "sense": "body of troops in a square formation",
+        "translations": "kale",
+        "score": 100
+      },
+      {
+        "entry": "eng/square__Noun__1",
+        "sense": "cell in a grid",
+        "translations": "alan | hane",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/square__Noun__1",
+        "sense": "slang: cigarette",
+        "translations": "cigara",
+        "score": 100
+      },
+      {
+        "entry": "eng/square__Noun__1",
+        "sense": "tool",
+        "translations": "gönye",
+        "score": 100
+      },
+      {
+        "entry": "eng/square__Adjective__1",
+        "sense": "shaped like a square",
+        "translations": "kare",
+        "score": 32.5
+      },
+      {
+        "entry": "eng/square__Adjective__1",
+        "sense": "used in the names of units",
+        "translations": "kare",
+        "score": 30.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "stage-2631",
+    "headword": "stage",
+    "level": "A2",
+    "raw": "stage n. A2, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "stage",
+    "translationLookup": "stage",
+    "ipaCandidates": {
+      "en-US": "/ˈsteɪdʒ/",
+      "en-GB": "/stˈeɪdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/stage__Noun__1",
+        "sense": "in theatre",
+        "translations": "sahne | plato | staj",
+        "score": 121.1
+      },
+      {
+        "entry": "eng/stage__Noun__1",
+        "sense": "phase",
+        "translations": "evre | safha",
+        "score": 100.6
+      },
+      {
+        "entry": "eng/stage__Verb__1",
+        "sense": "to demonstrate in a deceptive manner",
+        "translations": "canlandırmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/stage__Verb__1",
+        "sense": "to produce on a stage",
+        "translations": "sahnelemek | sahneye koymak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "stair-2635",
+    "headword": "stair",
+    "level": "A2",
+    "raw": "stair n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "stair",
+    "translationLookup": "stair",
+    "ipaCandidates": {
+      "en-US": "/ˈstɛɹ/",
+      "en-GB": "/stˈeə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/stair__Noun__1",
+        "sense": "series of steps",
+        "translations": "merdiven",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/stair__Noun__1",
+        "sense": "single step",
+        "translations": "merdiven",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "stamp-2639",
+    "headword": "stamp",
+    "level": "A2",
+    "raw": "stamp n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "stamp",
+    "translationLookup": "stamp",
+    "ipaCandidates": {
+      "en-US": "/ˈstæmp/",
+      "en-GB": "/stˈæmp/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/stamp__Noun__1",
+        "sense": "device for stamping designs",
+        "translations": "mühür",
+        "score": 100
+      },
+      {
+        "entry": "eng/stamp__Noun__1",
+        "sense": "indentation or imprint made by stamping",
+        "translations": "mühür",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "state-2663",
+    "headword": "state",
+    "level": "A2",
+    "raw": "state n. A2, adj., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "adj., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "state",
+    "translationLookup": "state",
+    "ipaCandidates": {
+      "en-US": "/ˈsteɪt/",
+      "en-GB": "/stˈeɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/state__Noun__1",
+        "sense": "a/the State, the sovereign country or city state with the central government as its visible instrument",
+        "translations": "devlet",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/state__Noun__1",
+        "sense": "a political division of a federation retaining a degree of autonomy",
+        "translations": "devlet | eyalet | il | vilayet",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/state__Noun__1",
+        "sense": "a condition",
+        "translations": "durum | hâl",
+        "score": 113.6
+      },
+      {
+        "entry": "eng/state__Verb__1",
+        "sense": null,
+        "translations": "belirtmek | bildirmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/state__Verb__1",
+        "sense": "declare to be a fact",
+        "translations": "bildirmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "steal-2695",
+    "headword": "steal",
+    "level": "A2",
+    "raw": "steal v. A2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "steal",
+    "translationLookup": "steal",
+    "ipaCandidates": {
+      "en-US": "/ˈstiɫ/",
+      "en-GB": "/stˈiːl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/steal__Verb__1",
+        "sense": null,
+        "translations": "çalmak",
+        "score": 162.9
+      },
+      {
+        "entry": "eng/steal__Noun__1",
+        "sense": null,
+        "translations": "kelepir | malaka | okazyon",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "step-2707",
+    "headword": "step",
+    "level": "A2",
+    "raw": "step n. A2, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "step",
+    "translationLookup": "step",
+    "ipaCandidates": {
+      "en-US": "/ˈstɛp/",
+      "en-GB": "/stˈɛp/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/step__Noun__1",
+        "sense": "pace",
+        "translations": "adım",
+        "score": 142.5
+      },
+      {
+        "entry": "eng/step__Noun__1",
+        "sense": null,
+        "translations": "adım",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/step__Verb__1",
+        "sense": null,
+        "translations": "adım atmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/step__Verb__1",
+        "sense": "intransitive: to move the foot in walking",
+        "translations": "adım | atmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/step__Noun__1",
+        "sense": "manner of walking",
+        "translations": "adım",
+        "score": 22.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "stomach-2735",
+    "headword": "stomach",
+    "level": "A2",
+    "raw": "stomach n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "stomach",
+    "translationLookup": "stomach",
+    "ipaCandidates": {
+      "en-US": "/ˈstəmək/",
+      "en-GB": "/stˈʌmək/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/stomach__Noun__1",
+        "sense": "digestive organ",
+        "translations": "mide | karın | aşkazan",
+        "score": 187.5
+      },
+      {
+        "entry": "eng/stomach__Noun__1",
+        "sense": "belly",
+        "translations": "karın",
+        "score": 107.2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "stone-2739",
+    "headword": "stone",
+    "level": "A2",
+    "raw": "stone n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "stone",
+    "translationLookup": "stone",
+    "ipaCandidates": {
+      "en-US": "/ˈstoʊn/",
+      "en-GB": "/stˈəʊn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/stone__Noun__1",
+        "sense": "small piece of stone",
+        "translations": "taş",
+        "score": 173.6
+      },
+      {
+        "entry": "eng/stone__Noun__1",
+        "sense": "substance",
+        "translations": "taş",
+        "score": 171.1
+      },
+      {
+        "entry": "eng/stone__Verb__1",
+        "sense": "To pelt with stones",
+        "translations": "taşlamak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/stone__Noun__1",
+        "sense": "centre of some fruits",
+        "translations": "nüve | çekirdek",
+        "score": 100
+      },
+      {
+        "entry": "eng/stone__Noun__1",
+        "sense": "medical: hard, stone-like deposit",
+        "translations": "taş",
+        "score": 51.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "store-2747",
+    "headword": "store",
+    "level": "A2",
+    "raw": "store n. A2, v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "store",
+    "translationLookup": "store",
+    "ipaCandidates": {
+      "en-US": "/ˈstɔɹ/",
+      "en-GB": "/stˈɔː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/store__Verb__1",
+        "sense": "computing: write (something) into memory or registers",
+        "translations": "saklamak",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/store__Noun__1",
+        "sense": "supply held in storage",
+        "translations": "stok",
+        "score": 2.9
+      },
+      {
+        "entry": "eng/store__Noun__1",
+        "sense": "place where items may be kept",
+        "translations": "stok",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/store__Verb__1",
+        "sense": "keep (something) while not in use",
+        "translations": "depolamak",
+        "score": 2.5
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "depo etmek",
+        "score": 2
+      },
+      {
+        "entry": "eng/store__Noun__1",
+        "sense": "in computing: memory",
+        "translations": "bellek",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "storm-2751",
+    "headword": "storm",
+    "level": "A2",
+    "raw": "storm n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "storm",
+    "translationLookup": "storm",
+    "ipaCandidates": {
+      "en-US": "/ˈstɔɹm/",
+      "en-GB": "/stˈɔːm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/storm__Noun__1",
+        "sense": "disturbed state of the atmosphere causing destructive or unpleasant weather",
+        "translations": "fırtına",
+        "score": 127.3
+      },
+      {
+        "entry": "eng/storm__Noun__1",
+        "sense": null,
+        "translations": "fırtına | bora",
+        "score": 111.1
+      },
+      {
+        "entry": "eng/storm__Verb__1",
+        "sense": "to have strong winds and usually lightning and thunder, and/or hail, rain, or snow",
+        "translations": "esmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/storm__Verb__1",
+        "sense": "to violently assault (a fortified position or stronghold, a building, etc.) with the aim of gaining control of it",
+        "translations": "hücum etmek | hücuma kalkmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "straight-2759",
+    "headword": "straight",
+    "level": "A2",
+    "raw": "straight adv., adj. A2",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv., adj.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "straight",
+    "translationLookup": "straight",
+    "ipaCandidates": {
+      "en-US": "/ˈstɹeɪt/",
+      "en-GB": "/stɹˈeɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/straight__Adjective__1",
+        "sense": "not crooked or bent",
+        "translations": "düz | doğru | dürüst",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/straight__Adjective__1",
+        "sense": "as it should be",
+        "translations": "doğru | olması gerektiği gibi",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "strange-2484",
+    "headword": "strange",
+    "level": "A2",
+    "raw": "strange adj. A2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "strange",
+    "translationLookup": "strange",
+    "ipaCandidates": {
+      "en-US": "/ˈstɹeɪndʒ/",
+      "en-GB": "/stɹˈeɪndʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/strange__Adjective__1",
+        "sense": null,
+        "translations": "garip | tuhaf | yadırgatıcı",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/strange__Adjective__1",
+        "sense": "belonging to another country, foreign",
+        "translations": "yabancı",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "strategy-2492",
+    "headword": "strategy",
+    "level": "A2",
+    "raw": "strategy n. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "strategy",
+    "translationLookup": "strategy",
+    "ipaCandidates": {
+      "en-US": "/ˈstɹætədʒi/",
+      "en-GB": "/stɹˈætədʒi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/strategy__Noun__1",
+        "sense": "science and art of military command",
+        "translations": "strateji | sevkülceyş",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/strategy__Noun__1",
+        "sense": "plan of action",
+        "translations": "strateji | izlem",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/strategy__Noun__1",
+        "sense": "techniques in politics or business",
+        "translations": "strateji",
+        "score": 30.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "stress-2508",
+    "headword": "stress",
+    "level": "A2",
+    "raw": "stress n., v. A2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "stress",
+    "translationLookup": "stress",
+    "ipaCandidates": {
+      "en-US": "/ˈstɹɛs/",
+      "en-GB": "/stɹˈɛs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/stress__Noun__1",
+        "sense": "emotional pressure",
+        "translations": "stres | feşer | sıkıntı",
+        "score": 117.2
+      },
+      {
+        "entry": "eng/stress__Noun__1",
+        "sense": null,
+        "translations": "vurgu",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/stress__Verb__1",
+        "sense": "to emphasise (a point)",
+        "translations": "altını çizmek | vurgulamak",
+        "score": 100
+      },
+      {
+        "entry": "eng/stress__Verb__1",
+        "sense": "to emphasise (a syllable)",
+        "translations": "vurgulamak",
+        "score": 100
+      },
+      {
+        "entry": "eng/stress__Verb__1",
+        "sense": "to emphasise (words in speaking)",
+        "translations": "altını çizmek | vurgulamak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "structure-2536",
+    "headword": "structure",
+    "level": "A2",
+    "raw": "structure n. A2, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "structure",
+    "translationLookup": "structure",
+    "ipaCandidates": {
+      "en-US": "/ˈstɹəktʃɝ/",
+      "en-GB": "/stɹˈʌktʃɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/structure__Noun__1",
+        "sense": "cohesive whole built up of distinct parts",
+        "translations": "yapı",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/structure__Noun__1",
+        "sense": "overall form or organization of something",
+        "translations": "yapı",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/structure__Noun__1",
+        "sense": "computing: several pieces of data treated as a unit",
+        "translations": "yapı | veri yapısı",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/structure__Verb__1",
+        "sense": "(transitive) to give structure to; to arrange",
+        "translations": "yapılandırmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "stupid-2560",
+    "headword": "stupid",
+    "level": "A2",
+    "raw": "stupid adj. A2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "stupid",
+    "translationLookup": "stupid",
+    "ipaCandidates": {
+      "en-US": "/ˈstupəd/, /ˈstupɪd/",
+      "en-GB": "/stjˈuːpɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/stupid__Adjective__1",
+        "sense": "lacking in intelligence",
+        "translations": "aptal | bön | ahmak | salak | ahmaklar",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "succeed-2580",
+    "headword": "succeed",
+    "level": "A2",
+    "raw": "succeed v. A2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "succeed",
+    "translationLookup": "succeed",
+    "ipaCandidates": {
+      "en-US": "/səkˈsid/",
+      "en-GB": "/səksˈiːd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/succeed__Verb__1",
+        "sense": null,
+        "translations": "başarmak",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/succeed__Verb__1",
+        "sense": "To obtain the object desired; to accomplish what is attempted or intended; to have a prosperous issue or termination; to be successful",
+        "translations": "başarmak",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/succeed__Verb__1",
+        "sense": "Specifically: To ascend the throne after the removal the death of the occupant",
+        "translations": "tevarüs etmek",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/succeed__Verb__1",
+        "sense": "To come after; to be subsequent or consequent to; to follow; to pursue",
+        "translations": "izlemek",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/succeed__Verb__1",
+        "sense": "To come in the place of another person, thing, or event; to come next in the usual, natural, or prescribed course of things",
+        "translations": "tevarüs etmek",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/succeed__Verb__1",
+        "sense": "To fall heir to; to inherit",
+        "translations": "kalıt almak",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/succeed__Verb__1",
+        "sense": "To follow in order; to come next after; hence, to take the place of",
+        "translations": "izlemek",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "sourceId": "mixed-1711",
+    "headword": "mixed",
+    "displayWord": "mixed",
+    "speechText": "mixed",
+    "translation": "karma",
+    "example": "The team's reaction to the news was mixed.",
+    "exampleTr": "Habere takımın tepkisi kararsızdı.",
+    "ipaUS": "/ˈmɪkst/",
+    "approxUS": "miks-ted",
+    "ipaUK": "/mˈɪkst/",
+    "approxUK": "miks-ted",
+    "topicTags": [
+      "descriptions",
+      "feelings"
+    ],
+    "selectedSense": "having two or more separate aspects or qualities together",
+    "translationEvidence": "eng/mixed__Adjective__1",
+    "contentNote": "Tek aday 'karma' çevirisi veriyor ve kaynak kayıt sıfat listeliyor; 'birbiriyle karışık' anlamı öğretiliyor. Amerikan okunuşunda vurgu ilk hecede, İngiliz okunuşunda ikinci hecede. /ks/ Türkçede 'k' gibi, /t/ 't' olarak okunur.",
+    "ipaEvidenceUS": "ipa-dict/en_US:mixed",
+    "ipaEvidenceUK": "ipa-dict/en_GB:mixed"
+  },
+  {
+    "sourceId": "modify-1731",
+    "headword": "modify",
+    "displayWord": "modify",
+    "speechText": "modify",
+    "translation": "değiştirmek",
+    "example": "We had to modify the plan before Friday.",
+    "exampleTr": "Planı cumaya kadar değiştirmek zorunda kaldık.",
+    "ipaUS": "/ˈmɑdəˌfaɪ/",
+    "approxUS": "mo-di-fay",
+    "ipaUK": "/mˈɒdɪfˌaɪ/",
+    "approxUK": "mo-di-fay",
+    "topicTags": [
+      "work",
+      "communication"
+    ],
+    "selectedSense": "to change part of something rather than change it completely",
+    "translationEvidence": "eng/modify__Verb__1",
+    "contentNote": "İki adaydan yüksek puanlısı 'to change part of' anlamı, yani 'kısmen değiştirmek'; düşük puanlı 'değişmek' (dönüşüm) anlamı öğretilmiyor. /aɪ/ Türkçede 'ay' gibi, ikinci /i/ 'i' olarak okunur. Fiil: modified / modifying.",
+    "ipaEvidenceUS": "ipa-dict/en_US:modify",
+    "ipaEvidenceUK": "ipa-dict/en_GB:modify",
+    "acceptedAnswers": [
+      "modifies",
+      "modified",
+      "modifying"
+    ]
+  },
+  {
+    "sourceId": "monitor-1747",
+    "headword": "monitor",
+    "displayWord": "monitor",
+    "speechText": "monitor",
+    "translation": "ekran",
+    "example": "The nurse kept her eyes on the monitor.",
+    "exampleTr": "Hemşire gözlerini ekrandan ayırmadı.",
+    "ipaUS": "/ˈmɑnətɝ/",
+    "approxUS": "mo-ni-tor",
+    "ipaUK": "/mˈɒnɪtɐ/",
+    "approxUK": "mo-ni-ter",
+    "topicTags": [
+      "technology",
+      "work"
+    ],
+    "selectedSense": "a screen that displays information from a computer or machine",
+    "translationEvidence": "eng/monitor__Noun__1",
+    "contentNote": "Kaynak kayıt 'n., v.' diyor ama çevrimiçi sözlük adayları arasında yalnızca 'computer display' (ekran) anlamı var; bu yüzden isim anlamı öğretiliyor. Fiil anlamı ('izlemek') kanıtsız kaldığı için eklenmedi. /ɑ/ Türkçede 'a' gibi, /ɝ/ kısa ve Türkçe 'r'ye yakın.",
+    "ipaEvidenceUS": "ipa-dict/en_US:monitor",
+    "ipaEvidenceUK": "ipa-dict/en_GB:monitor"
+  },
+  {
+    "sourceId": "moral-1767",
+    "headword": "moral",
+    "displayWord": "moral",
+    "speechText": "moral",
+    "translation": "ahlaki",
+    "example": "She refused to tell a lie on moral grounds.",
+    "exampleTr": "Yalan söylemeyi ahlaki nedenlerle reddetti.",
+    "ipaUS": "/ˈmɔɹəɫ/",
+    "approxUS": "mo-ral",
+    "ipaUK": "/mˈɒɹəl/",
+    "approxUK": "mo-ral",
+    "topicTags": [
+      "descriptions",
+      "culture"
+    ],
+    "selectedSense": "conforming to a standard of right behaviour",
+    "translationEvidence": "eng/moral__Adjective__1",
+    "contentNote": "Adaylar arasında hem sıfat hem isim anlamları var; kaynak kayıt önce sıfatı listelediği için 110 puanlı 'doğru davranış ölçüsüne uygun' anlamı seçildi. Aynı satırdaki 'ahlaksal' çevirisi 'ahlaksız'la karışabileceği için kullanılmadı. /ɫ/ Türkçede dişin ön tarafına temas eden 'l' benzeri bir sestir.",
+    "ipaEvidenceUS": "ipa-dict/en_US:moral",
+    "ipaEvidenceUK": "ipa-dict/en_GB:moral"
+  },
+  {
+    "sourceId": "motor-1791",
+    "headword": "motor",
+    "displayWord": "motor",
+    "speechText": "motor",
+    "translation": "motor",
+    "example": "The motor in the fan makes a loud noise.",
+    "exampleTr": "Fanın motoru çok gürültü çıkarıyor.",
+    "ipaUS": "/ˈmoʊtɝ/",
+    "approxUS": "mo-tor",
+    "ipaUK": "/mˈəʊtɐ/",
+    "approxUK": "mo-tor",
+    "topicTags": [
+      "technology",
+      "home"
+    ],
+    "selectedSense": "a machine that converts energy into mechanical movement",
+    "translationEvidence": "eng/motor__Noun__1",
+    "contentNote": "Çeviri Türkçede de aynı yazılıyor; tek aday makine anlamını veriyor. /oʊ/ Türkçede iki noktalı 'u' gibi okunur, /tɝ/ kısaldır.",
+    "ipaEvidenceUS": "ipa-dict/en_US:motor",
+    "ipaEvidenceUK": "ipa-dict/en_GB:motor"
+  },
+  {
+    "sourceId": "mount-1799",
+    "headword": "mount",
+    "displayWord": "mount",
+    "speechText": "mount",
+    "translation": "binek hayvanı",
+    "example": "The young mount was tied to a wooden post.",
+    "exampleTr": "Genç binek hayvanı ahşap kazığa bağlanmıştı.",
+    "ipaUS": "/ˈmaʊnt/",
+    "approxUS": "maunt",
+    "ipaUK": "/mˈaʊnt/",
+    "approxUK": "maunt",
+    "topicTags": [
+      "nature",
+      "sport"
+    ],
+    "selectedSense": "a horse used for riding (noun sense)",
+    "translationEvidence": "eng/mount__Noun__2",
+    "contentNote": "UYARI: Kaynak kayıt 'mount v.' diyor ve fiil anlamı ('binmek, mountsuz yere tırmanmak') B2 için daha faydalı olurdu, ancak sağlanan tek sözlük adayı isim anlamı 'horse / binek hayvanı'. Sadece kanıta dayanarak isim anlamı öğretildi; eğer parent fiil anlamı için harici sözlük kanıtı sağlarsa kart değiştirilebilir. /aʊ/ Türkçede 'av' gibi, /nt/ sonu 'nt' olarak okunur.",
+    "ipaEvidenceUS": "ipa-dict/en_US:mount",
+    "ipaEvidenceUK": "ipa-dict/en_GB:mount"
+  },
+  {
+    "sourceId": "multiple-1835",
+    "headword": "multiple",
+    "displayWord": "multiple",
+    "speechText": "multiple",
+    "translation": "çoklu",
+    "example": "She asked multiple questions during the interview.",
+    "exampleTr": "Mülakatta birden fazla soru sordu.",
+    "ipaUS": "/ˈməɫtəpəɫ/",
+    "approxUS": "mıl-ti-pıl",
+    "ipaUK": "/mˈʌltɪpəl/",
+    "approxUK": "mıl-ti-pıl",
+    "topicTags": [
+      "numbers",
+      "work"
+    ],
+    "selectedSense": "consisting of more than one element or part",
+    "translationEvidence": "eng/multiple__Adjective__1",
+    "contentNote": "Adaylar arasında sıfat 'çoklu' ve isim 'kat' (matematik) var; kaynak kayıt sıfat listelediği için 'çoklu' seçildi. /ˈməɫ/ Türkçede 'ı' ile yumuşak 'l'; unutulması kolaydır. Amerikan okunuşu ilk hece, İngiliz okunuşu ikinci hece vurgulu.",
+    "ipaEvidenceUS": "ipa-dict/en_US:multiple",
+    "ipaEvidenceUK": "ipa-dict/en_GB:multiple"
+  },
+  {
+    "sourceId": "multiply-1839",
+    "headword": "multiply",
+    "displayWord": "multiply",
+    "speechText": "multiply",
+    "translation": "çarpmak",
+    "example": "If you multiply four by six, you get twenty-four.",
+    "exampleTr": "Dört ile altıyı çarparsan yirmi dört elde edersin.",
+    "ipaUS": "/ˈməɫtəˌpɫaɪ/",
+    "approxUS": "mıl-ti-play",
+    "ipaUK": "",
+    "approxUK": "",
+    "topicTags": [
+      "numbers",
+      "school"
+    ],
+    "selectedSense": "to perform multiplication on a number",
+    "translationEvidence": "eng/multiply__Verb__1",
+    "contentNote": "Tek aday matematik çarpma anlamını veriyor. Aynı sözcük 'çoğalmak' anlamında da kullanılır ama o anlam için kanıt yok. en-GB adayı boş olduğu için üç alan da boş bırakıldı. Fiil: multiplied / multiplying.",
+    "ipaEvidenceUS": "ipa-dict/en_US:multiply",
+    "ipaEvidenceUK": "unavailable",
+    "acceptedAnswers": [
+      "multiplies",
+      "multiplied",
+      "multiplying"
+    ]
+  },
+  {
+    "sourceId": "mysterious-1882",
+    "headword": "mysterious",
+    "displayWord": "mysterious",
+    "speechText": "mysterious",
+    "translation": "gizemli",
+    "example": "A mysterious noise came from the empty room.",
+    "exampleTr": "Boş odadan gizemli bir gürültü geldi.",
+    "ipaUS": "/mɪˈstɪɹiəs/",
+    "approxUS": "mis-ti-ri-es",
+    "ipaUK": "/mɪstˈiəɹɪəs/",
+    "approxUK": "mis-ti-ri-es",
+    "topicTags": [
+      "descriptions",
+      "daily-life"
+    ],
+    "selectedSense": "of unknown origin, not able to be explained",
+    "translationEvidence": "eng/mysterious__Adjective__1",
+    "contentNote": "Tek aday 'gizemli | esrarlı' veriyor; kart bir anlam seçiyor. /ɹ/ Türkçe 'r' ile aynı değildir, dil ucu hafifçe kıvrılır; /ɪ/ kısa 'i'. Amerikan okunuşunda vurgu ikinci hecede.",
+    "ipaEvidenceUS": "ipa-dict/en_US:mysterious",
+    "ipaEvidenceUK": "ipa-dict/en_GB:mysterious"
+  },
+  {
+    "sourceId": "neat-1660",
+    "headword": "neat",
+    "displayWord": "neat",
+    "speechText": "neat",
+    "translation": "temiz",
+    "example": "He kept his desk neat even during exams.",
+    "exampleTr": "Sınav dönemlerinde bile masasını temiz tutardı.",
+    "ipaUS": "/ˈnit/",
+    "approxUS": "nit",
+    "ipaUK": "/nˈiːt/",
+    "approxUK": "niit",
+    "topicTags": [
+      "home",
+      "descriptions"
+    ],
+    "selectedSense": "clean and tidy in appearance",
+    "translationEvidence": "eng/neat__Adjective__1",
+    "contentNote": "Yüksek puanlı adayın anlam alanı boş ve çevirisi iki kelime ('temiz | muntazam'); kart tek anlam olarak 'temiz'i alıyor. İkinci aday içecekler için 'katkısız' anlamında. /i/ Amerikan okunuşunda 'i', İngiliz okunuşunda uzun 'i'.",
+    "ipaEvidenceUS": "ipa-dict/en_US:neat",
+    "ipaEvidenceUK": "ipa-dict/en_GB:neat"
+  },
+  {
+    "sourceId": "nerve-1700",
+    "headword": "nerve",
+    "displayWord": "nerve",
+    "speechText": "nerve",
+    "translation": "sinir",
+    "example": "She lost her nerve before the final question.",
+    "exampleTr": "Son sorudan önce cesaretini kaybetti.",
+    "ipaUS": "/ˈnɝv/",
+    "approxUS": "nerv",
+    "ipaUK": "/nˈɜːv/",
+    "approxUK": "nerv",
+    "topicTags": [
+      "body",
+      "feelings"
+    ],
+    "selectedSense": "a bundle of neurons carrying signals in the body",
+    "translationEvidence": "eng/nerve__Noun__1",
+    "contentNote": "İki aday da aynı çeviriyi ('sinir') veriyor ama düşük puanlı olan 'kolaydil' anlamını tarif ediyor; 150 puanlı anatomik anlam seçildi. B2'de 'cesaret' anlamı da çok yaygındır, ancak o çeviri adaylarda yok. /ɜː/ İngiliz okunuşunda 'er' gibi uzun, /nɝv/ Amerikan okunuşunda 'nerv'.",
+    "ipaEvidenceUS": "ipa-dict/en_US:nerve",
+    "ipaEvidenceUK": "ipa-dict/en_GB:nerve"
+  },
+  {
+    "sourceId": "nevertheless-1720",
+    "headword": "nevertheless",
+    "displayWord": "nevertheless",
+    "speechText": "nevertheless",
+    "translation": "buna rağmen",
+    "example": "The road was long; nevertheless, we finished on time.",
+    "exampleTr": "Yol uzundu; buna rağmen zamanında bitirdik.",
+    "ipaUS": "/ˌnɛvɝðəˈɫɛs/",
+    "approxUS": "nev-er-de-les",
+    "ipaUK": "/nˌɛvəðəlˈɛs/",
+    "approxUK": "nev-e-del-es",
+    "topicTags": [
+      "function-words",
+      "communication"
+    ],
+    "selectedSense": "in spite of that; despite the fact",
+    "translationEvidence": "eng/nevertheless__Adverb__1",
+    "contentNote": "Aday dört eş anlamlı çeviri listeliyor; kart tek ifade 'buna rağmen' ile sınırlandı. /ð/ dil ucunda 'd' gibi, /ɫ/ yumuşak 'l'. Cümle içinde noktalı virgül sonrası bağlaç olarak kullanıldı.",
+    "ipaEvidenceUS": "ipa-dict/en_US:nevertheless",
+    "ipaEvidenceUK": "ipa-dict/en_GB:nevertheless"
+  },
+  {
+    "sourceId": "nightmare-1752",
+    "headword": "nightmare",
+    "displayWord": "nightmare",
+    "speechText": "nightmare",
+    "translation": "kâbus",
+    "example": "I had a terrible nightmare about falling.",
+    "exampleTr": "Düşmekle ilgili korkutucu bir kâbus gördüm.",
+    "ipaUS": "/ˈnaɪtˌmɛɹ/",
+    "approxUS": "nayt-mer",
+    "ipaUK": "/nˈaɪtmeə/",
+    "approxUK": "nayt-me-er",
+    "topicTags": [
+      "feelings",
+      "daily-life"
+    ],
+    "selectedSense": "a bad dream that causes fear",
+    "translationEvidence": "eng/nightmare__Noun__1",
+    "contentNote": "İki aday da aynı çeviriyi veriyor; biri 'dream', diğeri 'experience' tanımlı, kart rüya anlamını esas alıyor. /aɪ/ 'ay' gibi okunur. İngiliz okunuşunda son bölüm 'me-ə' olarak söylenir.",
+    "ipaEvidenceUS": "ipa-dict/en_US:nightmare",
+    "ipaEvidenceUK": "ipa-dict/en_GB:nightmare"
+  },
+  {
+    "sourceId": "notion-1832",
+    "headword": "notion",
+    "displayWord": "notion",
+    "speechText": "notion",
+    "translation": "kavram",
+    "example": "He rejected the notion that talent is fixed.",
+    "exampleTr": "Yeteneğin değişmez olduğu kavramını reddetti.",
+    "ipaUS": "/ˈnoʊʃən/",
+    "approxUS": "no-şen",
+    "ipaUK": "/nˈəʊʃən/",
+    "approxUK": "no-şen",
+    "topicTags": [
+      "communication",
+      "descriptions"
+    ],
+    "selectedSense": "an idea or conception held in the mind",
+    "translationEvidence": "eng/notion__Noun__1",
+    "contentNote": "Üç adaydan 101 puanlısı 'kavram | fikir | mefhum | nosyon' ile zihinsel tasarım anlamını veriyor; düşük puanlı 'eğilim' ve 'görüş' anlamları seçilmedi. /ʃ/ Türkçede 'ş'. Vurgu Amerikan okunuşunda ilk, İngiliz okunuşunda son hecede.",
+    "ipaEvidenceUS": "ipa-dict/en_US:notion",
+    "ipaEvidenceUK": "ipa-dict/en_GB:notion"
+  },
+  {
+    "sourceId": "numerous-1859",
+    "headword": "numerous",
+    "displayWord": "numerous",
+    "speechText": "numerous",
+    "translation": "çok sayıda",
+    "example": "Numerous studies have linked sugar to poor sleep.",
+    "exampleTr": "Çok sayıda çalışma şekeri kötü uykuyla ilişkilendirdi.",
+    "ipaUS": "/ˈnumɝəs/",
+    "approxUS": "nu-me-rus",
+    "ipaUK": "/njˈuːməɹəs/",
+    "approxUK": "nu-me-rus",
+    "topicTags": [
+      "numbers",
+      "school"
+    ],
+    "selectedSense": "existing in a very large number",
+    "translationEvidence": "eng/numerous__Adjective__1",
+    "contentNote": "Tek aday üç eş anlamlı çeviri veriyor; kart 'çok sayıda' ile sınırlandı. Sıfat sayıdan önce gelir: numerous studies. /nj/ İngiliz okunuşunda 'ny' gibi yumuşak 'n'.",
+    "ipaEvidenceUS": "ipa-dict/en_US:numerous",
+    "ipaEvidenceUK": "ipa-dict/en_GB:numerous"
+  },
+  {
+    "sourceId": "obey-1871",
+    "headword": "obey",
+    "displayWord": "obey",
+    "speechText": "obey",
+    "translation": "itaat etmek",
+    "example": "The soldiers refused to obey the officer.",
+    "exampleTr": "Askerler subayın emrine itaat etmeyi reddetti.",
+    "ipaUS": "/oʊˈbeɪ/",
+    "approxUS": "o-bey",
+    "ipaUK": "/əʊbˈeɪ/",
+    "approxUK": "o-bey",
+    "topicTags": [
+      "actions",
+      "work"
+    ],
+    "selectedSense": "to do as one is told or as an order requires",
+    "translationEvidence": "eng/obey__Verb__1",
+    "contentNote": "Yüksek puanlı aday 'to do as one is told' anlamını veriyor; düşük puanlı ikinci aday aynı çeviriyi paylaşıyor ama anlam alanı 'emir veren' kişiye işaret ediyor. /oʊ/ 'u' gibi, /beɪ/ 'bey' gibi. Fiil: obeyed / obeying.",
+    "ipaEvidenceUS": "ipa-dict/en_US:obey",
+    "ipaEvidenceUK": "ipa-dict/en_GB:obey",
+    "acceptedAnswers": [
+      "obeys",
+      "obeyed",
+      "obeying"
+    ]
+  },
+  {
+    "sourceId": "objective-1879",
+    "headword": "objective",
+    "displayWord": "objective",
+    "speechText": "objective",
+    "translation": "nesnel",
+    "example": "The judge must remain objective during the trial.",
+    "exampleTr": "Yargıç duruşma boyunca nesnel kalmalı.",
+    "ipaUS": "/əbˈdʒɛktɪv/",
+    "approxUS": "ob-jek-tiv",
+    "ipaUK": "/ɒbdʒˈɛktɪv/",
+    "approxUK": "ob-jek-tiv",
+    "topicTags": [
+      "work",
+      "descriptions"
+    ],
+    "selectedSense": "not influenced by personal feelings or prejudice",
+    "translationEvidence": "eng/objective__Adjective__1",
+    "contentNote": "Kaynak kayıt 'n., adj.' diyor. Altı adaydan 111 puanlı sıfat anlamı (duygudan etkilenmeyen) seçildi; 'lens / objektif' ve 'goal / hedef' isim anlamları da adaylarda var ama kart tek anlam tutuyor. /dʒ/ Türkçede 'c'.",
+    "ipaEvidenceUS": "ipa-dict/en_US:objective",
+    "ipaEvidenceUK": "ipa-dict/en_GB:objective"
+  },
+  {
+    "sourceId": "obligation-1883",
+    "headword": "obligation",
+    "displayWord": "obligation",
+    "speechText": "obligation",
+    "translation": "yükümlülük",
+    "example": "Paying the rent is her main obligation.",
+    "exampleTr": "Kiranın ödenmesi onun başlıca yükümlülüğü.",
+    "ipaUS": "/ˌɑbɫəˈɡeɪʃən/",
+    "approxUS": "ob-li-ge-şen",
+    "ipaUK": "/ˌɒblɪɡˈeɪʃən/",
+    "approxUK": "ob-li-ge-şen",
+    "topicTags": [
+      "work",
+      "money"
+    ],
+    "selectedSense": "a social, legal or moral requirement binding one",
+    "translationEvidence": "eng/obligation__Noun__1",
+    "contentNote": "İki adaydan düşük puanlısı 'bağlılık eylemi', yüksek puanlısı 'sosyal, hukuki veya ahlaki gereklilik' anlamını veriyor; kart bu ikincisini öğretiyor. /ɡ/ yumuşak 'g', /ʃ/ 'ş'. Vurgu ikinci heceye düşüyor.",
+    "ipaEvidenceUS": "ipa-dict/en_US:obligation",
+    "ipaEvidenceUK": "ipa-dict/en_GB:obligation"
+  },
+  {
+    "sourceId": "observation-1887",
+    "headword": "observation",
+    "displayWord": "observation",
+    "speechText": "observation",
+    "translation": "gözlem",
+    "example": "Her careful observation changed the final result.",
+    "exampleTr": "Dikkatli gözlemi sonucu değiştirdi.",
+    "ipaUS": "/ˌɑbzɝˈveɪʃən/",
+    "approxUS": "ob-zer-ve-şen",
+    "ipaUK": "/ɒbzəvˈeɪʃən/",
+    "approxUK": "ob-ze-ve-şen",
+    "topicTags": [
+      "nature",
+      "work"
+    ],
+    "selectedSense": "the act of watching or noticing something carefully",
+    "translationEvidence": "eng/observation__Noun__1",
+    "contentNote": "Tek aday 'gözlem' çevirisi veriyor. /ɑ/ 'a' gibi; vurgu sonun iki hecesinden birine düşüyor ('gözlem' vurgusuz, '-syon' vurgulu).",
+    "ipaEvidenceUS": "ipa-dict/en_US:observation",
+    "ipaEvidenceUK": "ipa-dict/en_GB:observation"
+  },
+  {
+    "sourceId": "observe-1891",
+    "headword": "observe",
+    "displayWord": "observe",
+    "speechText": "observe",
+    "translation": "gözlemlemek",
+    "example": "We often observe birds near the river.",
+    "exampleTr": "Nehre yakında sık sık kuş gözlemliyoruz.",
+    "ipaUS": "/əbˈzɝv/",
+    "approxUS": "ob-zerv",
+    "ipaUK": "/ɒbzˈɜːv/",
+    "approxUK": "ob-zerv",
+    "topicTags": [
+      "nature",
+      "actions"
+    ],
+    "selectedSense": "to notice or watch something attentively",
+    "translationEvidence": "eng/observe__Verb__1",
+    "contentNote": "UYARI: Üç aday da aynı satıra işaret ediyor ve puanlar çok düşük (10, 10, 0.2); 'to comment' anlamı için verilen 'bakmak' çevirisi yanlış eşleşme görünüyor. Kart, ikinci adaydaki 'to notice, to watch' anlamını modern Türkçede 'gözlemlemek' olarak öğretiyor; puanların düşüklüğü nedeniyle parent sözlük kanıtını yeniden denetlemeli. Fiil: observed / observing.",
+    "ipaEvidenceUS": "ipa-dict/en_US:observe",
+    "ipaEvidenceUK": "ipa-dict/en_GB:observe",
+    "acceptedAnswers": [
+      "observes",
+      "observed",
+      "observing"
+    ]
+  },
+  {
+    "sourceId": "obtain-1894",
+    "headword": "obtain",
+    "displayWord": "obtain",
+    "speechText": "obtain",
+    "translation": "elde etmek",
+    "example": "You must obtain permission before entering the lab.",
+    "exampleTr": "Lab'ye girmeden önce izin almalısın.",
+    "ipaUS": "/əbˈteɪn/",
+    "approxUS": "ob-ten",
+    "ipaUK": "/ɒbtˈeɪn/",
+    "approxUK": "ob-ten",
+    "topicTags": [
+      "work",
+      "school"
+    ],
+    "selectedSense": "to get something that one wants or needs",
+    "translationEvidence": "eng/obtain__Verb__1",
+    "contentNote": "Tek aday iki eş anlamlı çeviri veriyor; kart 'elde etmek' ile sınırlandı. Türkçede 'obtain' çoğu zaman 'almak' biçiminde telaffuz edilir, /b/ vurgusuz hecede yumuşaktır. Fiil: obtained / obtaining.",
+    "ipaEvidenceUS": "ipa-dict/en_US:obtain",
+    "ipaEvidenceUK": "ipa-dict/en_GB:obtain",
+    "acceptedAnswers": [
+      "obtains",
+      "obtained",
+      "obtaining"
+    ]
+  },
+  {
+    "sourceId": "occasionally-1909",
+    "headword": "occasionally",
+    "displayWord": "occasionally",
+    "speechText": "occasionally",
+    "translation": "ara sıra",
+    "example": "We occasionally meet for coffee on Sundays.",
+    "exampleTr": "Ara sıra pazar günleri kahve için buluşuyoruz.",
+    "ipaUS": "/əˈkeɪʒənəɫi/",
+    "approxUS": "o-kay-çe-ne-li",
+    "ipaUK": "/əkˈeɪʒənəli/",
+    "approxUK": "o-kay-çe-ne-li",
+    "topicTags": [
+      "time",
+      "daily-life"
+    ],
+    "selectedSense": "at relatively infrequent intervals",
+    "translationEvidence": "eng/occasionally__Adverb__1",
+    "contentNote": "Amerikan adayları arasında üç varyant var; /əˈkeɪʒənəɫi/ seçildi çünkü ikinci şanda tam 'n' sesi var. Türkçe okunuşta ɫ yumuşak 'l' olarak verilir. Zaman ifadeleriyle kullanılır: occasionally meet.",
+    "ipaEvidenceUS": "ipa-dict/en_US:occasionally",
+    "ipaEvidenceUK": "ipa-dict/en_GB:occasionally"
+  },
+  {
+    "sourceId": "offence-1665",
+    "headword": "offence",
+    "displayWord": "offence",
+    "speechText": "offence",
+    "translation": "suç",
+    "example": "Shouting at the referee was a serious offence.",
+    "exampleTr": "Hakeme bağırmak ciddi bir suçtu.",
+    "ipaUS": "/əˈfɛns/",
+    "approxUS": "o-fens",
+    "ipaUK": "",
+    "approxUK": "",
+    "topicTags": [
+      "sport",
+      "descriptions"
+    ],
+    "selectedSense": "an illegal or unacceptable act",
+    "translationEvidence": "https://dictionary.cambridge.org/dictionary/english-turkish/offence",
+    "contentNote": "Cambridge English–Turkish dış sözlük kanıtı kullanıldı.",
+    "ipaEvidenceUS": "external-dictionary",
+    "ipaEvidenceUK": "unavailable"
+  },
+  {
+    "sourceId": "offend-1669",
+    "headword": "offend",
+    "displayWord": "offend",
+    "speechText": "offend",
+    "translation": "hakaret etmek",
+    "example": "Please do not offend anyone with your jokes.",
+    "exampleTr": "Lütfen fıkralarınla kimseye hakaret etme.",
+    "ipaUS": "/əˈfɛnd/",
+    "approxUS": "o-fend",
+    "ipaUK": "/əfˈɛnd/",
+    "approxUK": "o-fend",
+    "topicTags": [
+      "communication",
+      "feelings"
+    ],
+    "selectedSense": "to hurt someone's feelings by insulting them",
+    "translationEvidence": "eng/offend__Verb__1",
+    "contentNote": "Beş adayın hepsi aynı çeviriyi ('hakaret etmek') veriyor; en yüksek puanlı olan 'to hurt the feelings' anlamına sahip. Puanlar çok düşük (0.0-2.5), bu yüzden kart yalnızca bu duyu anlamını öğretiyor; 'suça uğramak' ve 'rahatsız etmek' anlamlarına kanıt yok. /fɛ/ 'e' gibi kısa 'e'. Fiil: offended / offending.",
+    "ipaEvidenceUS": "ipa-dict/en_US:offend",
+    "ipaEvidenceUK": "ipa-dict/en_GB:offend",
+    "acceptedAnswers": [
+      "offends",
+      "offended",
+      "offending"
+    ]
+  },
+  {
+    "sourceId": "offensive-1673",
+    "headword": "offensive",
+    "displayWord": "offensive",
+    "speechText": "offensive",
+    "translation": "saldırı",
+    "example": "The team launched an offensive in the second half.",
+    "exampleTr": "Takım ikinci yarıda saldırıya geçti.",
+    "ipaUS": "/əˈfɛnsɪv/",
+    "approxUS": "o-fen-siv",
+    "ipaUK": "/əfˈɛnsɪv/",
+    "approxUK": "o-fen-siv",
+    "topicTags": [
+      "sport",
+      "actions"
+    ],
+    "selectedSense": "an attack carried out with the aim of gaining advantage (noun sense)",
+    "translationEvidence": "eng/offensive__Noun__1",
+    "contentNote": "UYARI: Kaynak kayıt 'offensive adj.' diyor ve B2 sıfat anlamı ('hakaret edici, küçük düşürücü') için hiç sözlük adayı yok. Sağlanan tek aday isim anlamı 'an attack / saldırı'. Sadece kanıta dayanarak bu isim anlamı öğretildi; parent sıfat anlamı için kanıt sağlarsa kart güncellenmelidir. /ɪ/ kısa 'i'.",
+    "ipaEvidenceUS": "ipa-dict/en_US:offensive",
+    "ipaEvidenceUK": "ipa-dict/en_GB:offensive"
+  }
+]

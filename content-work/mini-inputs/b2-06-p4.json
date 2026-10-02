@@ -1,0 +1,889 @@
+[
+  {
+    "sourceId": "violence-2924",
+    "headword": "violence",
+    "level": "B2",
+    "raw": "violence n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "violence",
+    "translationLookup": "violence",
+    "ipaCandidates": {
+      "en-US": "/ˈvaɪəɫəns/",
+      "en-GB": "/vˈaɪələns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/violence__Noun__1",
+        "sense": "action intended to cause destruction, pain or suffering",
+        "translations": "şiddet",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/violence__Noun__1",
+        "sense": "extreme force",
+        "translations": "şiddet",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/violence__Noun__1",
+        "sense": null,
+        "translations": "şiddet",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "virtual-2932",
+    "headword": "virtual",
+    "level": "B2",
+    "raw": "virtual adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "virtual",
+    "translationLookup": "virtual",
+    "ipaCandidates": {
+      "en-US": "/ˈvɝtʃuəɫ/",
+      "en-GB": "/vˈɜːtʃuːəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/virtual__Adjective__1",
+        "sense": "in effect or essence, rather than in fact or reality",
+        "translations": "sanal",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/virtual__Adjective__1",
+        "sense": "simulated in a computer and/or online",
+        "translations": "sanal",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/virtual__Adjective__1",
+        "sense": "for practical purposes, though not technically",
+        "translations": "neredeyse",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "vision-2940",
+    "headword": "vision",
+    "level": "B2",
+    "raw": "vision n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "vision",
+    "translationLookup": "vision",
+    "ipaCandidates": {
+      "en-US": "/ˈvɪʒən/",
+      "en-GB": "/vˈɪʒən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/vision__Noun__1",
+        "sense": "sense or ability of sight",
+        "translations": "görme",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "visual-2952",
+    "headword": "visual",
+    "level": "B2",
+    "raw": "visual adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "visual",
+    "translationLookup": "visual",
+    "ipaCandidates": {
+      "en-US": "/ˈvɪʒəwəɫ/",
+      "en-GB": "/vˈɪʒuːəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/visual__Adjective__1",
+        "sense": "related to or affecting the vision",
+        "translations": "görsel",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "vital-2956",
+    "headword": "vital",
+    "level": "B2",
+    "raw": "vital adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "vital",
+    "translationLookup": "vital",
+    "ipaCandidates": {
+      "en-US": "/ˈvaɪtəɫ/",
+      "en-GB": "/vˈaɪtəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/vital__Adjective__1",
+        "sense": "necessary to the continuation of life",
+        "translations": "hayati",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/vital__Adjective__1",
+        "sense": "relating to, or characteristic of life",
+        "translations": "yaşamsal",
+        "score": 100
+      },
+      {
+        "entry": "eng/vital__Adjective__1",
+        "sense": "very important",
+        "translations": "hayati",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "vitamin-2960",
+    "headword": "vitamin",
+    "level": "B2",
+    "raw": "vitamin n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "vitamin",
+    "translationLookup": "vitamin",
+    "ipaCandidates": {
+      "en-US": "/ˈvaɪtəmən/",
+      "en-GB": "/vˈɪtəmɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/vitamin__Noun__1",
+        "sense": "organic compound essential to human health",
+        "translations": "vitamin",
+        "score": 140.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "volume-2968",
+    "headword": "volume",
+    "level": "B2",
+    "raw": "volume n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "volume",
+    "translationLookup": "volume",
+    "ipaCandidates": {
+      "en-US": "/ˈvɑɫjum/",
+      "en-GB": "/vˈɒljuːm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/volume__Noun__1",
+        "sense": "three-dimensional measure of space",
+        "translations": "hacim",
+        "score": 135.0
+      },
+      {
+        "entry": "eng/volume__Noun__1",
+        "sense": "single book of a publication issued in multi-book format, such as an encyclopedia",
+        "translations": "cilt | hacim",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/volume__Noun__1",
+        "sense": "strength of sound",
+        "translations": "ses | hacim",
+        "score": 100
+      },
+      {
+        "entry": "eng/volume__Noun__1",
+        "sense": "synonym for quantity",
+        "translations": "hacim",
+        "score": 22.5
+      },
+      {
+        "entry": "eng/volume__Noun__1",
+        "sense": "issues of a periodical over a period of one year",
+        "translations": "hacim",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "wage-2980",
+    "headword": "wage",
+    "level": "B2",
+    "raw": "wage n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "wage",
+    "translationLookup": "wage",
+    "ipaCandidates": {
+      "en-US": "/ˈweɪdʒ/",
+      "en-GB": "/wˈeɪdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wage__Noun__1",
+        "sense": "money paid to a worker",
+        "translations": "ücret | maaş | aylık | gündelik | yevmiye",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "weakness-2821",
+    "headword": "weakness",
+    "level": "B2",
+    "raw": "weakness n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "weakness",
+    "translationLookup": "weakness",
+    "ipaCandidates": {
+      "en-US": "/ˈwiknəs/",
+      "en-GB": "/wˈiːknəs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/weakness__Noun__1",
+        "sense": "condition of being weak",
+        "translations": "zayıflık | argınlık | sıskalık | çelimsizlik",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/weakness__Noun__1",
+        "sense": "special fondness",
+        "translations": "zayıflık",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "wealth-2825",
+    "headword": "wealth",
+    "level": "B2",
+    "raw": "wealth n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "wealth",
+    "translationLookup": "wealth",
+    "ipaCandidates": {
+      "en-US": "/ˈwɛɫθ/",
+      "en-GB": "/wˈɛlθ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wealth__Noun__1",
+        "sense": "great amount; an abundance or plenty, usually of money",
+        "translations": "bolluk | varlıklılık",
+        "score": 100.4
+      },
+      {
+        "entry": "eng/wealth__Noun__1",
+        "sense": "riches; valuable material possessions",
+        "translations": "servet | varlık",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "wealthy-2829",
+    "headword": "wealthy",
+    "level": "B2",
+    "raw": "wealthy adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "wealthy",
+    "translationLookup": "wealthy",
+    "ipaCandidates": {
+      "en-US": "/ˈwɛɫθi/",
+      "en-GB": "/wˈɛlθi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wealthy__Adjective__1",
+        "sense": "rich",
+        "translations": "varlıklı | zengin | varsıl",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/wealthy__Adjective__1",
+        "sense": "abundant",
+        "translations": "bol | zengin",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "whereas-2921",
+    "headword": "whereas",
+    "level": "B2",
+    "raw": "whereas conj. B2",
+    "pos": "conj.",
+    "senses": [
+      {
+        "partOfSpeech": "conj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "whereas",
+    "translationLookup": "whereas",
+    "ipaCandidates": {
+      "en-US": "/hwɛˈɹæz/, /wɛˈɹæz/",
+      "en-GB": "/wˈeəɹəz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/whereas__Conjunction__1",
+        "sense": "but in contrast; whilst on the contrary…",
+        "translations": "buna karşı",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/whereas__Conjunction__1",
+        "sense": "it being the case that…",
+        "translations": "fakat",
+        "score": 1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "wherever-2925",
+    "headword": "wherever",
+    "level": "B2",
+    "raw": "wherever conj. B2",
+    "pos": "conj.",
+    "senses": [
+      {
+        "partOfSpeech": "conj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "wherever",
+    "translationLookup": "wherever",
+    "ipaCandidates": {
+      "en-US": "/hwɛˈɹɛvɝ/, /wɛˈɹɛvɝ/",
+      "en-GB": "/weəɹˈɛvɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wherever__Adverb__1",
+        "sense": "emphatic form of \"where\"",
+        "translations": "nerede",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/wherever__Conjunction__1",
+        "sense": "in all places, everywhere",
+        "translations": "her yerde",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/wherever__Conjunction__1",
+        "sense": "in any place, anywhere",
+        "translations": "nerede",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "whisper-2941",
+    "headword": "whisper",
+    "level": "B2",
+    "raw": "whisper v., n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "whisper",
+    "translationLookup": "whisper",
+    "ipaCandidates": {
+      "en-US": "/ˈhwɪspɝ/, /ˈwɪspɝ/",
+      "en-GB": "/wˈɪspɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/whisper__Noun__1",
+        "sense": "act of speaking in a quiet voice",
+        "translations": "fısıltı",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/whisper__Verb__1",
+        "sense": "talk in a quiet voice",
+        "translations": "fısıldamak",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/whisper__Noun__1",
+        "sense": "rumor",
+        "translations": "fısıltı",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "whom-2957",
+    "headword": "whom",
+    "level": "B2",
+    "raw": "whom pron. B2",
+    "pos": "pron.",
+    "senses": [
+      {
+        "partOfSpeech": "pron.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "whom",
+    "translationLookup": "whom",
+    "ipaCandidates": {
+      "en-US": "/ˈhum/",
+      "en-GB": "/hˈuːm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/whom__Pronoun__1",
+        "sense": "what person; object of a verb (accusative)",
+        "translations": "kimi",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "widely-2973",
+    "headword": "widely",
+    "level": "B2",
+    "raw": "widely adv. B2",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "widely",
+    "translationLookup": "widely",
+    "ipaCandidates": {
+      "en-US": "/ˈwaɪdɫi/",
+      "en-GB": "/wˈaɪdli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/widely__Adverb__1",
+        "sense": "commonly, generally",
+        "translations": "geniş",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/widely__Adverb__1",
+        "sense": "separated by a large distance",
+        "translations": "uzak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "wildlife-2984",
+    "headword": "wildlife",
+    "level": "B2",
+    "raw": "wildlife n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "wildlife",
+    "translationLookup": "wildlife",
+    "ipaCandidates": {
+      "en-US": "/ˈwaɪɫdˌɫaɪf/",
+      "en-GB": "/wˈaɪldlaɪf/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wildlife__Noun__1",
+        "sense": "animals and plants in their natural environment",
+        "translations": "vahşi doğa | vahşi hayat | vahşi yaşam",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "willing-2990",
+    "headword": "willing",
+    "level": "B2",
+    "raw": "willing adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "willing",
+    "translationLookup": "willing",
+    "ipaCandidates": {
+      "en-US": "/ˈwɪɫɪŋ/",
+      "en-GB": "/wˈɪlɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/willing__Adjective__1",
+        "sense": null,
+        "translations": "arzulu",
+        "score": 10.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "wind2-2766",
+    "headword": "wind2",
+    "level": "B2",
+    "raw": "wind2 v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "wind",
+    "translationLookup": "wind",
+    "ipaCandidates": {
+      "en-US": "/ˈwaɪnd/, /ˈwɪnd/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wind__Noun__1",
+        "sense": "movement of air",
+        "translations": "rüzgâr | yel | esin | esinti",
+        "score": 190.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "wire-2790",
+    "headword": "wire",
+    "level": "B2",
+    "raw": "wire n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "wire",
+    "translationLookup": "wire",
+    "ipaCandidates": {
+      "en-US": "/ˈwaɪɝ/, /ˈwaɪɹ/",
+      "en-GB": "/wˈaɪə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wire__Noun__1",
+        "sense": "thin thread of metal",
+        "translations": "tel",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/wire__Verb__1",
+        "sense": "informal: to send a message or a money value to another person through a telecommunications system",
+        "translations": "havale etmek",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "wise-2794",
+    "headword": "wise",
+    "level": "B2",
+    "raw": "wise adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "wise",
+    "translationLookup": "wise",
+    "ipaCandidates": {
+      "en-US": "/ˈwaɪz/",
+      "en-GB": "/wˈaɪz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wise__Adjective__1",
+        "sense": "showing good judgement",
+        "translations": "bilge | akıllı",
+        "score": 105.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "witness-2814",
+    "headword": "witness",
+    "level": "B2",
+    "raw": "witness n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "witness",
+    "translationLookup": "witness",
+    "ipaCandidates": {
+      "en-US": "/ˈwɪtnəs/",
+      "en-GB": "/wˈɪtnəs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/witness__Noun__1",
+        "sense": "one who has a personal knowledge of something",
+        "translations": "şahit | tanık",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/witness__Noun__1",
+        "sense": "someone called to give evidence in a court",
+        "translations": "şahit | tanık",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/witness__Noun__1",
+        "sense": "attestation of a fact or event",
+        "translations": "tanıklık",
+        "score": 101
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "wound-2890",
+    "headword": "wound",
+    "level": "B2",
+    "raw": "wound n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "wound",
+    "translationLookup": "wound",
+    "ipaCandidates": {
+      "en-US": "/ˈwaʊnd/, /ˈwund/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wound__Noun__1",
+        "sense": "injury",
+        "translations": "yara",
+        "score": 127.2
+      },
+      {
+        "entry": "eng/wound__Verb__1",
+        "sense": "hurt or injure",
+        "translations": "yaralamak",
+        "score": 111.7
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "wrap-2898",
+    "headword": "wrap",
+    "level": "B2",
+    "raw": "wrap v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "wrap",
+    "translationLookup": "wrap",
+    "ipaCandidates": {
+      "en-US": "/ˈɹæp/",
+      "en-GB": "/ɹˈæp/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wrap__Noun__1",
+        "sense": "food",
+        "translations": "dürüm",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "zone-2978",
+    "headword": "zone",
+    "level": "B2",
+    "raw": "zone n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "zone",
+    "translationLookup": "zone",
+    "ipaCandidates": {
+      "en-US": "/ˈzoʊn/",
+      "en-GB": "/zˈəʊn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/zone__Noun__1",
+        "sense": "area distinguished on the basis of a particular characteristic etc",
+        "translations": "bölge",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/zone__Noun__1",
+        "sense": "computing: logical group of network devices on AppleTalk",
+        "translations": "bölge",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/zone__Noun__1",
+        "sense": "networking: that collection of a domain's DNS resource records that are not delegated to another authority",
+        "translations": "bölge",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/zone__Noun__1",
+        "sense": "any given region or area of the world",
+        "translations": "alan",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/zone__Noun__1",
+        "sense": "religion: belt worn by priests in the Greek Orthodox church",
+        "translations": "kemer",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  }
+]

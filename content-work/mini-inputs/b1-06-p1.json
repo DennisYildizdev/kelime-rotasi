@@ -1,0 +1,1012 @@
+[
+  {
+    "sourceId": "rarely-2167",
+    "headword": "rarely",
+    "level": "B1",
+    "raw": "rarely adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "rarely",
+    "translationLookup": "rarely",
+    "ipaCandidates": {
+      "en-US": "/ˈɹɛɹɫi/",
+      "en-GB": "/ɹˈeəli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/rarely__Adverb__1",
+        "sense": null,
+        "translations": "az",
+        "score": 7.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "reaction-2191",
+    "headword": "reaction",
+    "level": "B1",
+    "raw": "reaction n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "reaction",
+    "translationLookup": "reaction",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈækʃən/",
+      "en-GB": "/ɹɪˈækʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/reaction__Noun__1",
+        "sense": "action in response to an event",
+        "translations": "tepki | reaksiyon",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/reaction__Noun__1",
+        "sense": "chemical transformation",
+        "translations": "tepkime | tepki",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "reality-1940",
+    "headword": "reality",
+    "level": "B1",
+    "raw": "reality n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "reality",
+    "translationLookup": "reality",
+    "ipaCandidates": {
+      "en-US": "/ˌɹiˈæɫəˌti/",
+      "en-GB": "/ɹɪˈælɪti/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/reality__Noun__1",
+        "sense": "state of being actual or real",
+        "translations": "gerçeklik | hakikat | realite",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/reality__Noun__1",
+        "sense": "an individual observer's subjective perception",
+        "translations": "realite | gerçeklik",
+        "score": 100
+      },
+      {
+        "entry": "eng/reality__Noun__1",
+        "sense": "entirety of all that is real",
+        "translations": "gerçeklik",
+        "score": 40.0
+      },
+      {
+        "entry": "eng/reality__Noun__1",
+        "sense": "a real entity, event etc.",
+        "translations": "gerçeklik | gerçek",
+        "score": 30.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "receipt-1964",
+    "headword": "receipt",
+    "level": "B1",
+    "raw": "receipt n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "receipt",
+    "translationLookup": "receipt",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈsit/, /ɹɪˈsit/",
+      "en-GB": "/ɹɪsˈiːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/receipt__Noun__1",
+        "sense": null,
+        "translations": "makbuz | fiş",
+        "score": 122.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "recommendation-1996",
+    "headword": "recommendation",
+    "level": "B1",
+    "raw": "recommendation n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "recommendation",
+    "translationLookup": "recommendation",
+    "ipaCandidates": {
+      "en-US": "/ˌɹɛkəmənˈdeɪʃən/",
+      "en-GB": "/ɹˌɛkəmɛndˈeɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/recommendation__Noun__1",
+        "sense": "act of recommending",
+        "translations": "tavsiye",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/recommendation__Noun__1",
+        "sense": "that which is recommended",
+        "translations": "tavsiye",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "reference-2032",
+    "headword": "reference",
+    "level": "B1",
+    "raw": "reference n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "reference",
+    "translationLookup": "reference",
+    "ipaCandidates": {
+      "en-US": "/ˈɹɛfɝəns/, /ˈɹɛfɹəns/",
+      "en-GB": "/ɹˈɛfɹəns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/reference__Noun__1",
+        "sense": "information about a person",
+        "translations": "referans",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/reference__Noun__1",
+        "sense": "measurement one can compare to",
+        "translations": "referans",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/reference__Noun__1",
+        "sense": "academic writing: source",
+        "translations": "kaynak",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "reflect-2036",
+    "headword": "reflect",
+    "level": "B1",
+    "raw": "reflect v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "reflect",
+    "translationLookup": "reflect",
+    "ipaCandidates": {
+      "en-US": "/ɹɪˈfɫɛkt/",
+      "en-GB": "/ɹɪflˈɛkt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/reflect__Verb__1",
+        "sense": "to be bent back from a surface",
+        "translations": "yansımak",
+        "score": 100
+      },
+      {
+        "entry": "eng/reflect__Verb__1",
+        "sense": "to bend back from a surface",
+        "translations": "yansıtmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/reflect__Verb__1",
+        "sense": "to mirror, or show the image of something",
+        "translations": "yansıtmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "regularly-2068",
+    "headword": "regularly",
+    "level": "B1",
+    "raw": "regularly adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "regularly",
+    "translationLookup": "regular",
+    "ipaCandidates": {
+      "en-US": "/ˈɹɛɡjəɫɝɫi/",
+      "en-GB": "/ɹˈɛɡjuːləli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/regular__Adjective__1",
+        "sense": "grammar",
+        "translations": "düzenli",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/regular__Adjective__1",
+        "sense": "having a constant pattern",
+        "translations": "düzenli",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/regular__Adjective__1",
+        "sense": "having expected characteristics",
+        "translations": "normal",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/regular__Adjective__1",
+        "sense": "demonstrating consistent set of rules",
+        "translations": "düzenli",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/regular__Adjective__1",
+        "sense": "happening at constant intervals",
+        "translations": "düzenli",
+        "score": 20.0
+      }
+    ],
+    "externalEvidence": {
+      "headword": "regularly",
+      "sourceUrl": "https://en.wiktionary.org/wiki/regularly",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ˈɹɛɡ.jʊ.lə.li/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/regularly"
+        },
+        "en-GB": {
+          "ipa": "/ˈɹɛɡ.jə.li/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/regularly"
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "reject-2076",
+    "headword": "reject",
+    "level": "B1",
+    "raw": "reject v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "reject",
+    "translationLookup": "reject",
+    "ipaCandidates": {
+      "en-US": "/ˈɹidʒɛkt/, /ɹɪˈdʒɛkt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/reject__Verb__1",
+        "sense": "to refuse to accept",
+        "translations": "reddetmek",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "relate-2080",
+    "headword": "relate",
+    "level": "B1",
+    "raw": "relate v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "relate",
+    "translationLookup": "relate",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈɫeɪt/, /ɹɪˈɫeɪt/",
+      "en-GB": "/ɹɪlˈeɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/relate__Verb__1",
+        "sense": "to identify with, understand",
+        "translations": "anlamak",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/relate__Verb__1",
+        "sense": "to tell in a descriptive manner",
+        "translations": "anlatmak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "related-2084",
+    "headword": "related",
+    "level": "B1",
+    "raw": "related adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "related",
+    "translationLookup": "related",
+    "ipaCandidates": {
+      "en-US": "/ˌɹiˈɫeɪtɪd/, /ɹiˈɫeɪtɪd/, /ɹɪˈɫeɪtɪd/",
+      "en-GB": "/ɹɪlˈeɪtɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/related__Adjective__1",
+        "sense": "being a relative of",
+        "translations": "akraba",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/related__Adjective__1",
+        "sense": "narrated; told",
+        "translations": "anlatılan | bahsedilen",
+        "score": 100
+      },
+      {
+        "entry": "eng/related__Adjective__1",
+        "sense": "standing in relation or connection",
+        "translations": "alakalı | bağlantılı | ilgili | ilintili | ilişkili",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "relation-2088",
+    "headword": "relation",
+    "level": "B1",
+    "raw": "relation n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "relation",
+    "translationLookup": "relation",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈɫeɪʃən/",
+      "en-GB": "/ɹɪlˈeɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/relation__Noun__1",
+        "sense": "member of one's family",
+        "translations": "akraba",
+        "score": 100.4
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "relative-2096",
+    "headword": "relative",
+    "level": "B1",
+    "raw": "relative adj., n. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "relative",
+    "translationLookup": "relative",
+    "ipaCandidates": {
+      "en-US": "/ˈɹɛɫətɪv/",
+      "en-GB": "/ɹˈɛlətˌɪv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/relative__Noun__1",
+        "sense": "someone connected by blood, marriage, or adoption; someone in the same family",
+        "translations": "akraba",
+        "score": 122.9
+      },
+      {
+        "entry": "eng/relative__Adjective__1",
+        "sense": "conditional; depending on something else",
+        "translations": "bağıl | görece | izafi",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "relaxed-2108",
+    "headword": "relaxed",
+    "level": "B1",
+    "raw": "relaxed adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "relaxed",
+    "translationLookup": "relaxed",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈɫækst/, /ɹɪˈɫækst/",
+      "en-GB": "/ɹɪlˈækst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/relaxed__Adjective__1",
+        "sense": "having an easy-going mood",
+        "translations": "asude",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "relaxing-2112",
+    "headword": "relaxing",
+    "level": "B1",
+    "raw": "relaxing adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "relaxing",
+    "translationLookup": "relax",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈɫæksɪŋ/, /ɹɪˈɫæksɪŋ/",
+      "en-GB": "/ɹɪlˈæksɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/relax__Verb__1",
+        "sense": null,
+        "translations": "dinlenmek",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/relax__Verb__1",
+        "sense": "(intransitive) to become less severe or tense",
+        "translations": "dinlenmek",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/relax__Verb__1",
+        "sense": "(transitive) to make something less severe or tense",
+        "translations": "dinlenmek",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/relax__Verb__1",
+        "sense": "(transitive) to relieve (someone or someone's mind) of stress",
+        "translations": "dinlenmek",
+        "score": 10.0
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "dinlenme",
+        "score": 2
+      },
+      {
+        "entry": "eng/relax__Verb__1",
+        "sense": "(intransitive) to become loose",
+        "translations": "rahat olmak",
+        "score": 0.0
+      }
+    ],
+    "externalEvidence": {
+      "headword": "relaxing",
+      "sourceUrl": "https://en.wiktionary.org/wiki/relaxing",
+      "note": "Taken from ipa-dict en_US.txt (first listed variant). Not human-reviewed.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ɹiˈɫæksɪŋ/",
+          "sourceUrl": "https://github.com/open-dict-data/ipa-dict/en_US.txt"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "release-2116",
+    "headword": "release",
+    "level": "B1",
+    "raw": "release v., n. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "release",
+    "translationLookup": "release",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈɫis/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/release__Verb__1",
+        "sense": "to free or liberate",
+        "translations": "serbest bırakmak | hürriyetine kavuşturmak",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/release__Verb__1",
+        "sense": "to let go of",
+        "translations": "bırakmak | salıvermek | tahliye etmek",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/release__Noun__1",
+        "sense": "event of setting free",
+        "translations": "serbest bırakma",
+        "score": 100
+      },
+      {
+        "entry": "eng/release__Verb__1",
+        "sense": "to discharge",
+        "translations": "dışarı vermek",
+        "score": 100
+      },
+      {
+        "entry": "eng/release__Verb__1",
+        "sense": "to make available to the public",
+        "translations": "neşretmek | yayımlamak | yayınlamak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "reliable-2124",
+    "headword": "reliable",
+    "level": "B1",
+    "raw": "reliable adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "reliable",
+    "translationLookup": "reliable",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈɫaɪəbəɫ/, /ɹɪˈɫaɪəbəɫ/",
+      "en-GB": "/ɹɪlˈaɪəbəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/reliable__Adjective__1",
+        "sense": null,
+        "translations": "güvenilir",
+        "score": 105.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "religion-2132",
+    "headword": "religion",
+    "level": "B1",
+    "raw": "religion n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "religion",
+    "translationLookup": "religion",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈɫɪdʒən/, /ɹɪˈɫɪdʒən/",
+      "en-GB": "/ɹɪlˈɪdʒən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/religion__Noun__1",
+        "sense": "system of beliefs dealing with soul, deity and/or life after death",
+        "translations": "din | inanç | bağlanç | mezhep",
+        "score": 173.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "religious-2136",
+    "headword": "religious",
+    "level": "B1",
+    "raw": "religious adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "religious",
+    "translationLookup": "religious",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈɫɪdʒəs/, /ɹɪˈɫɪdʒəs/",
+      "en-GB": "/ɹɪlˈɪdʒəs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/religious__Adjective__1",
+        "sense": "committed to the practice of religion",
+        "translations": "dindar | inançlı",
+        "score": 100
+      },
+      {
+        "entry": "eng/religious__Adjective__1",
+        "sense": "concerning religion",
+        "translations": "dini | dinsel | dinî",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "remain-2144",
+    "headword": "remain",
+    "level": "B1",
+    "raw": "remain v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "remain",
+    "translationLookup": "remain",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈmeɪn/, /ɹɪˈmeɪn/",
+      "en-GB": "/ɹɪmˈeɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/remain__Verb__1",
+        "sense": "to stay behind while others withdraw",
+        "translations": "kalmak | artakalmak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/remain__Verb__1",
+        "sense": "to continue unchanged",
+        "translations": "kalmak | korumak",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/remain__Verb__1",
+        "sense": null,
+        "translations": "sürdürmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/remain__Verb__1",
+        "sense": "to be left over after a portion is removed",
+        "translations": "artakalmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "remind-2156",
+    "headword": "remind",
+    "level": "B1",
+    "raw": "remind v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "remind",
+    "translationLookup": "remind",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈmaɪnd/",
+      "en-GB": "/ɹɪmˈaɪnd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/remind__Verb__1",
+        "sense": "cause one to experience a memory; bring to a person's notice",
+        "translations": "hatırlatmak | anımsatmak",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "remote-2160",
+    "headword": "remote",
+    "level": "B1",
+    "raw": "remote adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "remote",
+    "translationLookup": "remote",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈmoʊt/, /ɹɪˈmoʊt/",
+      "en-GB": "/ɹɪmˈəʊt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/remote__Adjective__1",
+        "sense": "distant or otherwise unaccessible",
+        "translations": "ücra",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/remote__Noun__1",
+        "sense": "remote control",
+        "translations": "kumanda",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/remote__Adjective__1",
+        "sense": "at a distance",
+        "translations": "uzak | uzaktan kontrol | ırak",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "rent-2168",
+    "headword": "rent",
+    "level": "B1",
+    "raw": "rent n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "rent",
+    "translationLookup": "rent",
+    "ipaCandidates": {
+      "en-US": "/ˈɹɛnt/",
+      "en-GB": "/ɹˈɛnt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/rent__Verb__1",
+        "sense": "to occupy premises in exchange for rent",
+        "translations": "kiralamak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/rent__Verb__1",
+        "sense": "to grant occupation in return for rent",
+        "translations": "kiraya vermek",
+        "score": 100
+      },
+      {
+        "entry": "eng/rent__Noun__1",
+        "sense": "payment made by a tenant",
+        "translations": "kira",
+        "score": 22.5
+      },
+      {
+        "entry": "eng/rent__Noun__1",
+        "sense": "payment made for the use of equipment or a service",
+        "translations": "kira",
+        "score": 22.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "repeated-2180",
+    "headword": "repeated",
+    "level": "B1",
+    "raw": "repeated adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "repeated",
+    "translationLookup": "repeat",
+    "ipaCandidates": {
+      "en-US": "/ɹiˈpitɪd/, /ɹɪˈpitɪd/",
+      "en-GB": "/ɹɪpˈiːtɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/repeat__Verb__1",
+        "sense": "do or say again",
+        "translations": "tekrarlamak | tekrar etmek | yinelemek",
+        "score": 111.1
+      }
+    ],
+    "externalEvidence": {
+      "headword": "repeated",
+      "sourceUrl": "https://en.wiktionary.org/wiki/repeated",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ɹɪˈpiːtɪd/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/repeated"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "represent-2200",
+    "headword": "represent",
+    "level": "B1",
+    "raw": "represent v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "represent",
+    "translationLookup": "represent",
+    "ipaCandidates": {
+      "en-US": "/ˌɹɛpɹɪˈzɛnt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "cisimlendirmek",
+        "score": 2
+      },
+      {
+        "entry": "eng/represent__Verb__1",
+        "sense": "to stand in the place of, act on behalf of",
+        "translations": "temsil etmek",
+        "score": 1.1
+      },
+      {
+        "entry": "eng/represent__Verb__1",
+        "sense": "to portray by mimicry or action of any kind",
+        "translations": "oynamak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  }
+]

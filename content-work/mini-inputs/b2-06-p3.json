@@ -1,0 +1,889 @@
+[
+  {
+    "sourceId": "tough-2650",
+    "headword": "tough",
+    "level": "B2",
+    "raw": "tough adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "tough",
+    "translationLookup": "tough",
+    "ipaCandidates": {
+      "en-US": "/ˈtəf/",
+      "en-GB": "/tˈʌf/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tough__Adjective__1",
+        "sense": "difficult to chew",
+        "translations": "sert",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "transfer-2718",
+    "headword": "transfer",
+    "level": "B2",
+    "raw": "transfer v., n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "transfer",
+    "translationLookup": "transfer",
+    "ipaCandidates": {
+      "en-US": "/ˈtɹænsfɝ/, /tɹænsˈfɝ/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/transfer__Verb__1",
+        "sense": "to move or pass from one place, person or thing to another",
+        "translations": "aktarmak | transfer etmek | yollamak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/transfer__Noun__1",
+        "sense": null,
+        "translations": "aktarma | transfer",
+        "score": 100
+      },
+      {
+        "entry": "eng/transfer__Noun__1",
+        "sense": "act",
+        "translations": "iletme | transfer",
+        "score": 100
+      },
+      {
+        "entry": "eng/transfer__Noun__1",
+        "sense": "design",
+        "translations": "dizayn",
+        "score": 100
+      },
+      {
+        "entry": "eng/transfer__Noun__1",
+        "sense": "genetics",
+        "translations": "genetik",
+        "score": 100
+      },
+      {
+        "entry": "eng/transfer__Noun__1",
+        "sense": "instance",
+        "translations": "etkin",
+        "score": 100
+      },
+      {
+        "entry": "eng/transfer__Verb__1",
+        "sense": null,
+        "translations": "aktarmak | transfer etmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "transform-2722",
+    "headword": "transform",
+    "level": "B2",
+    "raw": "transform v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "transform",
+    "translationLookup": "transform",
+    "ipaCandidates": {
+      "en-US": "/ˈtɹænsfɔɹm/, /tɹænsˈfɔɹm/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/transform__Verb__1",
+        "sense": "change greatly the appearance or form of",
+        "translations": "başkalaşmak",
+        "score": 12.5
+      },
+      {
+        "entry": "eng/transform__Verb__1",
+        "sense": "change the nature, condition or function of",
+        "translations": "başkalaşmak",
+        "score": 12.5
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "dönüşke",
+        "score": 2
+      },
+      {
+        "entry": "eng/transform__Verb__1",
+        "sense": "undergo a transformation",
+        "translations": "değişmek",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "transition-2726",
+    "headword": "transition",
+    "level": "B2",
+    "raw": "transition n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "transition",
+    "translationLookup": "transition",
+    "ipaCandidates": {
+      "en-US": "/tɹænˈzɪʃən/",
+      "en-GB": "/tɹænsˈɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/transition__Noun__1",
+        "sense": "process of change from one form, state, style or place to another",
+        "translations": "geçiş",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "trial-2763",
+    "headword": "trial",
+    "level": "B2",
+    "raw": "trial n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "trial",
+    "translationLookup": "trial",
+    "ipaCandidates": {
+      "en-US": "/ˈtɹaɪəɫ/, /ˈtɹaɪɫ/",
+      "en-GB": "/tɹˈaɪəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/trial__Noun__1",
+        "sense": "meeting in a court of law",
+        "translations": "duruşma | muhakeme",
+        "score": 112.9
+      },
+      {
+        "entry": "eng/trial__Noun__1",
+        "sense": null,
+        "translations": "deney | tecrübe",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "tropical-2775",
+    "headword": "tropical",
+    "level": "B2",
+    "raw": "tropical adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "tropical",
+    "translationLookup": "tropical",
+    "ipaCandidates": {
+      "en-US": "/ˈtɹɑpɪkəɫ/",
+      "en-GB": "/tɹˈɒpɪkəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tropical__Adjective__1",
+        "sense": "of or pertaining to the tropics",
+        "translations": "tropikal",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "truly-2795",
+    "headword": "truly",
+    "level": "B2",
+    "raw": "truly adv. B2",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "truly",
+    "translationLookup": "truly",
+    "ipaCandidates": {
+      "en-US": "/ˈtɹuɫi/",
+      "en-GB": "/tɹˈuːli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/truly__Adverb__1",
+        "sense": null,
+        "translations": "hakikat",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/truly__Adverb__1",
+        "sense": "in accordance with the facts",
+        "translations": "açıkça",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "trust-2799",
+    "headword": "trust",
+    "level": "B2",
+    "raw": "trust n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "trust",
+    "translationLookup": "trust",
+    "ipaCandidates": {
+      "en-US": "/ˈtɹəst/",
+      "en-GB": "/tɹˈʌst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/trust__Noun__1",
+        "sense": "confidence in or reliance on some person or quality",
+        "translations": "güven | itimat | güvenç | itibar",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/trust__Verb__1",
+        "sense": "to place confidence in",
+        "translations": "güvenmek",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/trust__Noun__1",
+        "sense": "a group of businessmen or traders",
+        "translations": "tröst",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "tune-2823",
+    "headword": "tune",
+    "level": "B2",
+    "raw": "tune n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "tune",
+    "translationLookup": "tune",
+    "ipaCandidates": {
+      "en-US": "/ˈtun/",
+      "en-GB": "/tjˈuːn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tune__Verb__1",
+        "sense": "to adjust a musical instrument",
+        "translations": "akort etmek | akortlamak",
+        "score": 111.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "tunnel-2827",
+    "headword": "tunnel",
+    "level": "B2",
+    "raw": "tunnel n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "tunnel",
+    "translationLookup": "tunnel",
+    "ipaCandidates": {
+      "en-US": "/ˈtənəɫ/",
+      "en-GB": "/tˈʌnəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tunnel__Noun__1",
+        "sense": "an underground or underwater passage",
+        "translations": "tünel",
+        "score": 160.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "ultimately-2879",
+    "headword": "ultimately",
+    "level": "B2",
+    "raw": "ultimately adv. B2",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "ultimately",
+    "translationLookup": "ultimately",
+    "ipaCandidates": {
+      "en-US": "/ˈəɫtəmətɫi/",
+      "en-GB": "/ˈʌltɪmətli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/ultimately__Adverb__1",
+        "sense": null,
+        "translations": "nihayet",
+        "score": 100
+      },
+      {
+        "entry": "eng/ultimately__Adverb__1",
+        "sense": "indicating the most important action",
+        "translations": "sonunda",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "unconscious-2899",
+    "headword": "unconscious",
+    "level": "B2",
+    "raw": "unconscious adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "unconscious",
+    "translationLookup": "unconscious",
+    "ipaCandidates": {
+      "en-US": "/ˌənˈkɑnʃəs/",
+      "en-GB": "/ʌnkˈɒnʃəs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/unconscious__Adjective__1",
+        "sense": "not awake",
+        "translations": "bilinçsiz",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/unconscious__Noun__1",
+        "sense": "that part of mind that is not consciously perceived",
+        "translations": "bilinçaltı",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "unexpected-2931",
+    "headword": "unexpected",
+    "level": "B2",
+    "raw": "unexpected adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "unexpected",
+    "translationLookup": "unexpected",
+    "ipaCandidates": {
+      "en-US": "/ˌənɪkˈspɛktɪd/",
+      "en-GB": "/ˌʌnɛkspˈɛktɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/unexpected__Adjective__1",
+        "sense": "not expected, anticipated or foreseen",
+        "translations": "beklenmedik | umulmadık",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "unique-2955",
+    "headword": "unique",
+    "level": "B2",
+    "raw": "unique adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "unique",
+    "translationLookup": "unique",
+    "ipaCandidates": {
+      "en-US": "/juˈnik/",
+      "en-GB": "/juːnˈiːk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/unique__Adjective__1",
+        "sense": null,
+        "translations": "eşsiz | benzersiz | özgün | ünik",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "universe-2967",
+    "headword": "universe",
+    "level": "B2",
+    "raw": "universe n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "universe",
+    "translationLookup": "universe",
+    "ipaCandidates": {
+      "en-US": "/ˈjunəˌvɝs/",
+      "en-GB": "/jˈuːnɪvˌɜːs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/universe__Noun__1",
+        "sense": "the Universe",
+        "translations": "evren | kâinat | uzay | cihan",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/universe__Noun__1",
+        "sense": "an entity similar to our universe",
+        "translations": "evren",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/universe__Noun__1",
+        "sense": "an imaginary collection of worlds",
+        "translations": "evren",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/universe__Noun__1",
+        "sense": "everything under consideration",
+        "translations": "evren",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/universe__Noun__1",
+        "sense": "intense form of world in the sense of perspective or social setting",
+        "translations": "evren",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "unknown-2975",
+    "headword": "unknown",
+    "level": "B2",
+    "raw": "unknown adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "unknown",
+    "translationLookup": "unknown",
+    "ipaCandidates": {
+      "en-US": "/ənˈnoʊn/",
+      "en-GB": "/ʌnnˈəʊn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/unknown__Adjective__1",
+        "sense": "not known",
+        "translations": "bilinmez | bilinmeyen | meçhul",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/unknown__Noun__1",
+        "sense": "algebra: a variable whose value is to be found",
+        "translations": "değişken",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "upper-2780",
+    "headword": "upper",
+    "level": "B2",
+    "raw": "upper adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "upper",
+    "translationLookup": "upper",
+    "ipaCandidates": {
+      "en-US": "/ˈəpɝ/",
+      "en-GB": "/ˈʌpɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/upper__Adjective__1",
+        "sense": "situated on higher ground, further inland, or more northerly",
+        "translations": "üst",
+        "score": 1
+      },
+      {
+        "entry": "eng/upper__Adjective__1",
+        "sense": "of a later division of some period",
+        "translations": "yüksek",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "upwards-2792",
+    "headword": "upwards",
+    "level": "B2",
+    "raw": "upwards adv. B2",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "upwards",
+    "translationLookup": "upwards",
+    "ipaCandidates": {
+      "en-US": "/ˈəpwɝdz/",
+      "en-GB": "/ˈʌpwədz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/upwards__Adverb__1",
+        "sense": "to a higher position",
+        "translations": "yukarıya",
+        "score": 12.5
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "yukarı",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "urban-2796",
+    "headword": "urban",
+    "level": "B2",
+    "raw": "urban adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "urban",
+    "translationLookup": "urban",
+    "ipaCandidates": {
+      "en-US": "/ˈɝbən/",
+      "en-GB": "/ˈɜːbən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/urban__Adjective__1",
+        "sense": "of, pertaining to, characteristic of, or happening or located in, a city or town; of, pertaining to, or characteristic of life in such a place",
+        "translations": "kentsel",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "urge-2800",
+    "headword": "urge",
+    "level": "B2",
+    "raw": "urge v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "urge",
+    "translationLookup": "urge",
+    "ipaCandidates": {
+      "en-US": "/ˈɝdʒ/",
+      "en-GB": "/ˈɜːdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/urge__Noun__1",
+        "sense": null,
+        "translations": "arzu | dürtü | istek",
+        "score": 100
+      },
+      {
+        "entry": "eng/urge__Verb__1",
+        "sense": "to press, push, drive",
+        "translations": "ittirmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "vary-2868",
+    "headword": "vary",
+    "level": "B2",
+    "raw": "vary v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "vary",
+    "translationLookup": "vary",
+    "ipaCandidates": {
+      "en-US": "/ˈvɛɹi/",
+      "en-GB": "/vˈeəɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "değiştirilmek",
+        "score": 2
+      },
+      {
+        "entry": "eng/vary__Verb__1",
+        "sense": "to change something with time or a similar parameter",
+        "translations": "degiştirmek",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "vast-2872",
+    "headword": "vast",
+    "level": "B2",
+    "raw": "vast adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "vast",
+    "translationLookup": "vast",
+    "ipaCandidates": {
+      "en-US": "/ˈvæst/",
+      "en-GB": "/vˈɑːst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/vast__Adjective__1",
+        "sense": "very large or wide (literally or figuratively)",
+        "translations": "dev | engin | muazzam",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "venue-2884",
+    "headword": "venue",
+    "level": "B2",
+    "raw": "venue n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "venue",
+    "translationLookup": "venue",
+    "ipaCandidates": {
+      "en-US": "/ˈvɛnju/",
+      "en-GB": "/vˈɛnjuː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/venue__Noun__1",
+        "sense": null,
+        "translations": "mekan",
+        "score": 0.3
+      },
+      {
+        "entry": "eng/venue__Noun__1",
+        "sense": "legal: place in which anything is alleged to have happened",
+        "translations": "olay yeri",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/venue__Noun__1",
+        "sense": "sport venue",
+        "translations": "arena",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "via-2896",
+    "headword": "via",
+    "level": "B2",
+    "raw": "via prep. B2",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "via",
+    "translationLookup": "via",
+    "ipaCandidates": {
+      "en-US": "/ˈvaɪə/, /ˈviə/",
+      "en-GB": "/vˈaɪɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/via__Preposition__1",
+        "sense": null,
+        "translations": "aracılığıyla",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/via__Preposition__1",
+        "sense": "by way of",
+        "translations": "bitti",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "victory-2904",
+    "headword": "victory",
+    "level": "B2",
+    "raw": "victory n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "victory",
+    "translationLookup": "victory",
+    "ipaCandidates": {
+      "en-US": "/ˈvɪktɝi/, /ˈvɪktɹi/",
+      "en-GB": "/vˈɪktəɹˌi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/victory__Noun__1",
+        "sense": "condition or state of having won a battle or competition, or having succeeded in an effort; an instance of this",
+        "translations": "zafer | galibiyet | galebe | yengi | muzafferiyet | utku",
+        "score": 178.5
+      }
+    ],
+    "needsExternal": []
+  }
+]

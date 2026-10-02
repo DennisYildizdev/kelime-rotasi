@@ -1,0 +1,31 @@
+{
+  "name": "kelime-rotasi",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python -m http.server 4173 --bind 127.0.0.1",
+    "test": "node --test",
+    "test:e2e": "node tests/e2e.mjs && node tests/e2e-article.mjs && node tests/e2e-level-choice.mjs",
+    "test:a1": "python -m unittest discover -s tests -p test_a1_content.py && node tests/a1-coverage.mjs",
+    "test:a2": "node tests/a1-coverage.mjs A2",
+    "test:b1": "node tests/a1-coverage.mjs B1",
+    "test:b2": "node tests/a1-coverage.mjs B2",
+    "test:levels": "npm run test:a1 && npm run test:a2 && npm run test:b1 && npm run test:b2",
+    "test:python": "python -m unittest discover -s tests -p test_*.py",
+    "test:pwa": "node tests/e2e-pwa.mjs",
+    "test:layout": "node tests/e2e-layout.mjs",
+    "test:speech:real": "node tests/e2e-real-speech.mjs",
+    "build:data": "node scripts/validate-source.js",
+    "audit:pdf": "python scripts/reconcile_pdf.py",
+    "test:pdf": "python -m unittest discover -s tests -p test_pdf_reconciliation.py",
+    "validate:content": "node scripts/validate-content.js",
+    "build": "node scripts/validate-source.js && node scripts/validate-content.js && node tests/a1-coverage.mjs && node scripts/build-web.js",
+    "deploy:pages": "npm run build && wrangler pages deploy dist",
+    "cf:watch": "wrangler pages dev dist"
+  },
+  "engines": { "node": ">=22" },
+  "devDependencies": {
+    "playwright": "^1.63.0"
+  }
+}

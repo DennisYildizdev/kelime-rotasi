@@ -1,0 +1,927 @@
+[
+  {
+    "sourceId": "scale-2302",
+    "headword": "scale",
+    "level": "B2",
+    "raw": "scale n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "scale",
+    "translationLookup": "scale",
+    "ipaCandidates": {
+      "en-US": "/ˈskeɪɫ/",
+      "en-GB": "/skˈeɪl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/scale__Noun__2",
+        "sense": "keratin pieces covering the skin of certain animals",
+        "translations": "pul",
+        "score": 152.5
+      },
+      {
+        "entry": "eng/scale__Verb__1",
+        "sense": "to change size of",
+        "translations": "ölçeklemek | ölçeklendirmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/scale__Verb__1",
+        "sense": "to climb",
+        "translations": "tırmanmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "scheme-2326",
+    "headword": "scheme",
+    "level": "B2",
+    "raw": "scheme n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "scheme",
+    "translationLookup": "scheme",
+    "ipaCandidates": {
+      "en-US": "/ˈskim/",
+      "en-GB": "/skˈiːm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "dalavere",
+        "score": 2
+      },
+      {
+        "entry": "eng/scheme__Verb__1",
+        "sense": null,
+        "translations": "tasarlamak",
+        "score": 1
+      },
+      {
+        "entry": "eng/scheme__Noun__1",
+        "sense": "chart or diagram",
+        "translations": "şema",
+        "score": 0.6
+      },
+      {
+        "entry": "eng/scheme__Noun__1",
+        "sense": "orderly combination of related parts",
+        "translations": "şema",
+        "score": 0.6
+      },
+      {
+        "entry": "eng/scheme__Noun__1",
+        "sense": null,
+        "translations": "komplo",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/scheme__Noun__1",
+        "sense": "systematic plan of future action",
+        "translations": "düz",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "scream-2350",
+    "headword": "scream",
+    "level": "B2",
+    "raw": "scream v., n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "scream",
+    "translationLookup": "scream",
+    "ipaCandidates": {
+      "en-US": "/ˈskɹim/",
+      "en-GB": "/skɹˈiːm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/scream__Noun__1",
+        "sense": "loud exclamation",
+        "translations": "çığlık | bağırma | haykırış",
+        "score": 110.4
+      },
+      {
+        "entry": "eng/scream__Verb__1",
+        "sense": "to make the sound of a scream",
+        "translations": "bağırmak | haykırmak | çığlık atmak",
+        "score": 102.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sector-2415",
+    "headword": "sector",
+    "level": "B2",
+    "raw": "sector n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sector",
+    "translationLookup": "sector",
+    "ipaCandidates": {
+      "en-US": "/ˈsɛktɝ/",
+      "en-GB": "/sˈɛktɐ/"
+    },
+    "dictionaryCandidates": [],
+    "externalEvidence": {
+      "headword": "sector",
+      "sourceUrl": "https://en.wiktionary.org/wiki/sector",
+      "note": "",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ˈsɛk.təɹ/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/sector"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "secure-2419",
+    "headword": "secure",
+    "level": "B2",
+    "raw": "secure v., adj. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "secure",
+    "translationLookup": "secure",
+    "ipaCandidates": {
+      "en-US": "/sɪkˈjʊɹ/",
+      "en-GB": "/sɪkjˈɔː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/secure__Adjective__1",
+        "sense": "Firm and not likely to fail; stable",
+        "translations": "sağlam",
+        "score": 100
+      },
+      {
+        "entry": "eng/secure__Adjective__1",
+        "sense": "free from the danger of theft; safe",
+        "translations": "güvende | güvenli",
+        "score": 100
+      },
+      {
+        "entry": "eng/secure__Verb__1",
+        "sense": "to make fast, to firmly affix",
+        "translations": "sıkı sıkı bağlamak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "seek-2435",
+    "headword": "seek",
+    "level": "B2",
+    "raw": "seek v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "seek",
+    "translationLookup": "seek",
+    "ipaCandidates": {
+      "en-US": "/ˈsik/",
+      "en-GB": "/sˈiːk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/seek__Verb__1",
+        "sense": null,
+        "translations": "aramak",
+        "score": 109.7
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "select-2443",
+    "headword": "select",
+    "level": "B2",
+    "raw": "select v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "select",
+    "translationLookup": "select",
+    "ipaCandidates": {
+      "en-US": "/səˈɫɛkt/",
+      "en-GB": "/sɪlˈɛkt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/select__Verb__1",
+        "sense": "to choose one or more elements from a set",
+        "translations": "seçmek",
+        "score": 3.1
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "seçilmiş",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "selection-2447",
+    "headword": "selection",
+    "level": "B2",
+    "raw": "selection n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "selection",
+    "translationLookup": "selection",
+    "ipaCandidates": {
+      "en-US": "/səˈɫɛkʃən/",
+      "en-GB": "/sɪlˈɛkʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/selection__Noun__1",
+        "sense": "process or act of selecting",
+        "translations": "seçme | ayırma",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/selection__Noun__1",
+        "sense": "something selected",
+        "translations": "seçenek | seleksiyon | seçilen",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/selection__Noun__1",
+        "sense": "variety of items taken from a larger collection",
+        "translations": "seleksiyon | seçilen",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "self-2451",
+    "headword": "self",
+    "level": "B2",
+    "raw": "self n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "self",
+    "translationLookup": "self",
+    "ipaCandidates": {
+      "en-US": "/ˈsɛɫf/",
+      "en-GB": "/sˈɛlf/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/self__Noun__1",
+        "sense": "individual person as the object of own reflective consciousness",
+        "translations": "kendi | öz",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "senior-2463",
+    "headword": "senior",
+    "level": "B2",
+    "raw": "senior adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "senior",
+    "translationLookup": "senior",
+    "ipaCandidates": {
+      "en-US": "/ˈsinjɝ/",
+      "en-GB": "/sˈiːnjɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/senior__Adjective__1",
+        "sense": "higher in rank",
+        "translations": "kıdemli",
+        "score": 100
+      },
+      {
+        "entry": "eng/senior__Adjective__1",
+        "sense": "older",
+        "translations": "yaşça büyük",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sensitive-2475",
+    "headword": "sensitive",
+    "level": "B2",
+    "raw": "sensitive adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sensitive",
+    "translationLookup": "sensitive",
+    "ipaCandidates": {
+      "en-US": "/ˈsɛnsətɪv/, /ˈsɛnsɪtɪv/",
+      "en-GB": "/sˈɛnsɪtˌɪv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sensitive__Adjective__1",
+        "sense": "easily offended",
+        "translations": "alıngan | darılgan",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/sensitive__Adjective__1",
+        "sense": null,
+        "translations": "duyarlı | hassas",
+        "score": 100
+      },
+      {
+        "entry": "eng/sensitive__Adjective__1",
+        "sense": "capable of offending",
+        "translations": "hassas | ince | nazik",
+        "score": 100
+      },
+      {
+        "entry": "eng/sensitive__Adjective__1",
+        "sense": "responsive to stimuli",
+        "translations": "hassas",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sequence-2211",
+    "headword": "sequence",
+    "level": "B2",
+    "raw": "sequence n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sequence",
+    "translationLookup": "sequence",
+    "ipaCandidates": {
+      "en-US": "/ˈsikwəns/",
+      "en-GB": "/sˈiːkwəns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sequence__Noun__1",
+        "sense": "in mathematics, an ordered list of objects",
+        "translations": "dizi",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/sequence__Noun__1",
+        "sense": "series of shots that depict a single action or style",
+        "translations": "sekans",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "session-2239",
+    "headword": "session",
+    "level": "B2",
+    "raw": "session n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "session",
+    "translationLookup": "session",
+    "ipaCandidates": {
+      "en-US": "/ˈsɛʃən/",
+      "en-GB": "/sˈɛʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/session__Noun__1",
+        "sense": "meeting of a body to conduct business",
+        "translations": "celse | oturum | toplantı",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/session__Noun__1",
+        "sense": "period devoted to a particular activity",
+        "translations": "celse | oturum | seans",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/session__Noun__1",
+        "sense": "(computing) the sequence of interactions between client and server",
+        "translations": "oturum",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "settle-2255",
+    "headword": "settle",
+    "level": "B2",
+    "raw": "settle v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "settle",
+    "translationLookup": "settle",
+    "ipaCandidates": {
+      "en-US": "/ˈsɛtəɫ/",
+      "en-GB": "/sˈɛtəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/settle__Verb__1",
+        "sense": null,
+        "translations": "yerleşmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "severe-2275",
+    "headword": "severe",
+    "level": "B2",
+    "raw": "severe adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "severe",
+    "translationLookup": "severe",
+    "ipaCandidates": {
+      "en-US": "/səˈvɪɹ/",
+      "en-GB": "/sɪvˈiə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/severe__Adjective__1",
+        "sense": null,
+        "translations": "kötü",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/severe__Adjective__1",
+        "sense": "austere",
+        "translations": "gösterişsiz, süssüz",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/severe__Adjective__1",
+        "sense": "strict or harsh",
+        "translations": "ciddi",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/severe__Adjective__1",
+        "sense": "very bad or intense",
+        "translations": "ağır",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shade-2287",
+    "headword": "shade",
+    "level": "B2",
+    "raw": "shade n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shade",
+    "translationLookup": "shade",
+    "ipaCandidates": {
+      "en-US": "/ˈʃeɪd/",
+      "en-GB": "/ʃˈeɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shade__Noun__1",
+        "sense": "darkness where light is blocked",
+        "translations": "gölge",
+        "score": 135.0
+      },
+      {
+        "entry": "eng/shade__Noun__1",
+        "sense": "ghost",
+        "translations": "gölge",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shadow-2291",
+    "headword": "shadow",
+    "level": "B2",
+    "raw": "shadow n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shadow",
+    "translationLookup": "shadow",
+    "ipaCandidates": {
+      "en-US": "/ˈʃæˌdoʊ/",
+      "en-GB": "/ʃˈædəʊ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shadow__Noun__1",
+        "sense": "dark image projected onto a surface",
+        "translations": "gölge",
+        "score": 132.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shallow-2303",
+    "headword": "shallow",
+    "level": "B2",
+    "raw": "shallow adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shallow",
+    "translationLookup": "shallow",
+    "ipaCandidates": {
+      "en-US": "/ˈʃæɫoʊ/",
+      "en-GB": "/ʃˈæləʊ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shallow__Adjective__1",
+        "sense": null,
+        "translations": "sığ",
+        "score": 130.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shame-2307",
+    "headword": "shame",
+    "level": "B2",
+    "raw": "shame n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shame",
+    "translationLookup": "shame",
+    "ipaCandidates": {
+      "en-US": "/ˈʃeɪm/",
+      "en-GB": "/ʃˈeɪm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shame__Noun__1",
+        "sense": null,
+        "translations": "utanç | ayıp",
+        "score": 142.5
+      },
+      {
+        "entry": "eng/shame__Verb__1",
+        "sense": null,
+        "translations": "utandırmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shelter-2343",
+    "headword": "shelter",
+    "level": "B2",
+    "raw": "shelter n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shelter",
+    "translationLookup": "shelter",
+    "ipaCandidates": {
+      "en-US": "/ˈʃɛɫtɝ/",
+      "en-GB": "/ʃˈɛltɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shelter__Noun__1",
+        "sense": null,
+        "translations": "sığınak | barınak",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/shelter__Verb__1",
+        "sense": "transitive, to provide cover",
+        "translations": "sığındırmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shock-2367",
+    "headword": "shock",
+    "level": "B2",
+    "raw": "shock n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shock",
+    "translationLookup": "shock",
+    "ipaCandidates": {
+      "en-US": "/ˈʃɑk/",
+      "en-GB": "/ʃˈɒk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shock__Noun__1",
+        "sense": "something surprising",
+        "translations": "şok",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/shock__Noun__1",
+        "sense": "life-threatening medical emergency",
+        "translations": "şok",
+        "score": 100
+      },
+      {
+        "entry": "eng/shock__Noun__1",
+        "sense": "sudden, heavy impact",
+        "translations": "şok",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shocked-2371",
+    "headword": "shocked",
+    "level": "B2",
+    "raw": "shocked adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shocked",
+    "translationLookup": "shocked",
+    "ipaCandidates": {
+      "en-US": "/ˈʃɑkt/",
+      "en-GB": "/ʃˈɒkt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shocked__Adjective__1",
+        "sense": "surprised, startled, confused",
+        "translations": "şok",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shooting-2382",
+    "headword": "shooting",
+    "level": "B2",
+    "raw": "shooting n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shooting",
+    "translationLookup": "shooting",
+    "ipaCandidates": {
+      "en-US": "/ˈʃutɪŋ/",
+      "en-GB": "/ʃˈuːtɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shooting__Noun__1",
+        "sense": "instance of shooting",
+        "translations": "ateş etme",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/shooting__Adjective__1",
+        "sense": "of a pain: sudden and darting",
+        "translations": "dar",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shot-2396",
+    "headword": "shot",
+    "level": "B2",
+    "raw": "shot n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shot",
+    "translationLookup": "shot",
+    "ipaCandidates": {
+      "en-US": "/ˈʃɑt/",
+      "en-GB": "/ʃˈɒt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shot__Noun__1",
+        "sense": "small metal balls used as ammunition",
+        "translations": "saçma",
+        "score": 121.0
+      },
+      {
+        "entry": "eng/shot__Noun__1",
+        "sense": "vaccination or injection",
+        "translations": "iğne",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/shot__Adjective__1",
+        "sense": "worn out",
+        "translations": "aşınmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "significant-2448",
+    "headword": "significant",
+    "level": "B2",
+    "raw": "significant adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "significant",
+    "translationLookup": "significant",
+    "ipaCandidates": {
+      "en-US": "/səɡˈnɪfɪkənt/, /sɪɡˈnɪfɪkənt/",
+      "en-GB": "/sɪɡnˈɪfɪkənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/significant__Adjective__1",
+        "sense": "having noticeable effect",
+        "translations": "anlamlı | önemli | kayda değer | manalı",
+        "score": 101.1
+      }
+    ],
+    "needsExternal": []
+  }
+]

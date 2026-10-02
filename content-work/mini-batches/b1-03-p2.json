@@ -1,0 +1,458 @@
+[
+  {
+    "sourceId": "expedition-834",
+    "headword": "expedition",
+    "displayWord": "expedition",
+    "speechText": "expedition",
+    "translation": "sefer",
+    "example": "Our expedition reached the mountain before sunset.",
+    "exampleTr": "Seferimiz gün batımından önce dağa ulaştı.",
+    "ipaUS": "/ˌɛkspəˈdɪʃən/",
+    "approxUS": "eks-pı-diş-ın",
+    "topicTags": [
+      "travel",
+      "nature"
+    ],
+    "selectedSense": "an organized journey for a specific purpose",
+    "translationEvidence": "eng/expedition__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:expedition"
+  },
+  {
+    "sourceId": "experienced-850",
+    "headword": "experienced",
+    "displayWord": "experienced",
+    "speechText": "experienced",
+    "translation": "deneyimli",
+    "example": "The experienced nurse remained calm during emergencies.",
+    "exampleTr": "Deneyimli hemşire acil durumlarda sakin kaldı.",
+    "ipaUS": "/ɪkˈspɪɹiənst/",
+    "approxUS": "ik-spi-ri-ınst",
+    "topicTags": [
+      "people",
+      "work",
+      "descriptions"
+    ],
+    "selectedSense": "having knowledge or skill from experience",
+    "translationEvidence": "eng/experienced__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:experienced"
+  },
+  {
+    "sourceId": "explode-870",
+    "headword": "explode",
+    "displayWord": "explode",
+    "speechText": "explode",
+    "translation": "patlamak",
+    "example": "Gas tanks can explode in extreme heat.",
+    "exampleTr": "Gaz tankları aşırı sıcakta patlayabilir.",
+    "ipaUS": "/ɪksˈpɫoʊd/",
+    "approxUS": "ik-splo-ud",
+    "topicTags": [
+      "actions",
+      "technology"
+    ],
+    "selectedSense": "to burst violently",
+    "translationEvidence": "eng/explode__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:explode"
+  },
+  {
+    "sourceId": "explore-878",
+    "headword": "explore",
+    "displayWord": "explore",
+    "speechText": "explore",
+    "translation": "keşfetmek",
+    "example": "We want to explore the old castle.",
+    "exampleTr": "Eski kaleyi keşfetmek istiyoruz.",
+    "ipaUS": "/ɪksˈpɫɔɹ/",
+    "approxUS": "ik-splor",
+    "topicTags": [
+      "travel",
+      "places",
+      "actions"
+    ],
+    "selectedSense": "to travel around a place to discover it",
+    "translationEvidence": "eng/explore__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:explore"
+  },
+  {
+    "sourceId": "explosion-882",
+    "headword": "explosion",
+    "displayWord": "explosion",
+    "speechText": "explosion",
+    "translation": "patlama",
+    "example": "The explosion broke several nearby windows.",
+    "exampleTr": "Patlama yakındaki birkaç pencereyi kırdı.",
+    "ipaUS": "/ɪksˈpɫoʊʒən/",
+    "approxUS": "ik-splo-cın",
+    "topicTags": [
+      "actions",
+      "technology"
+    ],
+    "selectedSense": "a violent release of energy",
+    "translationEvidence": "eng/explosion__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:explosion"
+  },
+  {
+    "sourceId": "export-886",
+    "headword": "export",
+    "displayWord": "export",
+    "speechText": "export",
+    "translation": "ihracat",
+    "example": "Coffee is an important export for Colombia.",
+    "exampleTr": "Kahve Kolombiya için önemli bir ihracattır.",
+    "ipaUS": "/ˈɛkspɔɹt/",
+    "approxUS": "eks-port",
+    "topicTags": [
+      "work",
+      "money"
+    ],
+    "selectedSense": "a product sold to another country",
+    "translationEvidence": "eng/export__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:export"
+  },
+  {
+    "sourceId": "fairly-966",
+    "headword": "fairly",
+    "displayWord": "fairly",
+    "speechText": "fairly",
+    "translation": "yeterince",
+    "example": "The room was fairly quiet after lunch.",
+    "exampleTr": "Oda öğle yemeğinden sonra yeterince sessizdi.",
+    "ipaUS": "/ˈfɛɹɫi/",
+    "approxUS": "fer-li",
+    "topicTags": [
+      "descriptions",
+      "function-words"
+    ],
+    "selectedSense": "to a moderate degree; somewhat",
+    "translationEvidence": "eng/fairly__Adverb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:fairly"
+  },
+  {
+    "sourceId": "familiar-982",
+    "headword": "familiar",
+    "displayWord": "familiar",
+    "speechText": "familiar",
+    "translation": "tanıdık",
+    "example": "Her voice sounds familiar to everyone here.",
+    "exampleTr": "Onun sesi buradaki herkese tanıdık geliyor.",
+    "ipaUS": "/fəˈmɪɫjɝ/",
+    "approxUS": "fı-mi-lyır",
+    "topicTags": [
+      "people",
+      "descriptions"
+    ],
+    "selectedSense": "known or recognized from before",
+    "translationEvidence": "eng/familiar__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:familiar"
+  },
+  {
+    "sourceId": "fancy-998",
+    "headword": "fancy",
+    "displayWord": "fancy",
+    "speechText": "fancy",
+    "translation": "pahalı",
+    "example": "They booked a fancy restaurant downtown.",
+    "exampleTr": "Şehir merkezinde pahalı bir restoran ayırttılar.",
+    "ipaUS": "/ˈfænsi/",
+    "approxUS": "fen-si",
+    "topicTags": [
+      "descriptions",
+      "places"
+    ],
+    "selectedSense": "expensive and fashionable",
+    "translationEvidence": "https://dictionary.cambridge.org/dictionary/english-turkish/fancy",
+    "ipaEvidenceUS": "ipa-dict/en_US:fancy",
+    "contentNote": "Girdideki tek sözlük adayı isim anlamına aittir ve hedef sıfat anlamını desteklemez; uygun çeviri kanıtı eksiktir."
+  },
+  {
+    "sourceId": "fascinating-1022",
+    "headword": "fascinating",
+    "displayWord": "fascinating",
+    "speechText": "fascinating",
+    "translation": "büyüleyici",
+    "example": "The documentary was absolutely fascinating to watch.",
+    "exampleTr": "Belgeseli izlemek kesinlikle büyüleyiciydi.",
+    "ipaUS": "/ˈfæsəˌneɪtɪŋ/",
+    "approxUS": "fes-ı-ney-ting",
+    "topicTags": [
+      "descriptions",
+      "feelings",
+      "culture"
+    ],
+    "selectedSense": "extremely interesting or attractive",
+    "translationEvidence": "https://en.wiktionary.org/wiki/fascinating#English",
+    "ipaEvidenceUS": "ipa-dict/en_US:fascinating"
+  },
+  {
+    "sourceId": "fashionable-1030",
+    "headword": "fashionable",
+    "displayWord": "fashionable",
+    "speechText": "fashionable",
+    "translation": "moda",
+    "example": "Those boots became fashionable last winter.",
+    "exampleTr": "O botlar geçen kış moda oldu.",
+    "ipaUS": "/ˈfæʃənəbəɫ/",
+    "approxUS": "fe-şın-ı-bıl",
+    "topicTags": [
+      "clothes",
+      "descriptions"
+    ],
+    "selectedSense": "currently popular in style",
+    "translationEvidence": "eng/fashionable__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:fashionable"
+  },
+  {
+    "sourceId": "fasten-1038",
+    "headword": "fasten",
+    "displayWord": "fasten",
+    "speechText": "fasten",
+    "translation": "bağlamak",
+    "example": "Please fasten your seat belt now.",
+    "exampleTr": "Lütfen şimdi emniyet kemerinizi bağlayın.",
+    "ipaUS": "/ˈfæsən/",
+    "approxUS": "fe-sın",
+    "topicTags": [
+      "actions",
+      "travel"
+    ],
+    "selectedSense": "to attach or close something securely",
+    "translationEvidence": "eng/fasten__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:fasten",
+    "contentNote": "Yazımdaki t sesi okunmaz."
+  },
+  {
+    "sourceId": "favour-1054",
+    "headword": "favour",
+    "displayWord": "favour",
+    "speechText": "favour",
+    "translation": "iyilik",
+    "example": "Could you do me a favour today?",
+    "exampleTr": "Bugün bana bir iyilik yapabilir misin?",
+    "ipaUS": "/ˈfeɪvɝ/",
+    "approxUS": "fey-vır",
+    "topicTags": [
+      "communication",
+      "people"
+    ],
+    "selectedSense": "a kind or helpful act",
+    "translationEvidence": "https://dictionary.cambridge.org/dictionary/english-turkish/favour",
+    "ipaEvidenceUS": "ipa-dict/en_US:favour",
+    "contentNote": "B1 isim anlamı için Cambridge English–Turkish dış sözlük kanıtı kullanıldı."
+  },
+  {
+    "sourceId": "fence-827",
+    "headword": "fence",
+    "displayWord": "fence",
+    "speechText": "fence",
+    "translation": "çit",
+    "example": "A wooden fence surrounds the garden.",
+    "exampleTr": "Bahçeyi ahşap bir çit çevreliyor.",
+    "ipaUS": "/ˈfɛns/",
+    "approxUS": "fens",
+    "topicTags": [
+      "home",
+      "places"
+    ],
+    "selectedSense": "a barrier enclosing an area",
+    "translationEvidence": "eng/fence__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:fence"
+  },
+  {
+    "sourceId": "fighting-863",
+    "headword": "fighting",
+    "displayWord": "fighting",
+    "speechText": "fighting",
+    "translation": "dövüş",
+    "example": "The fighting stopped before sunrise.",
+    "exampleTr": "Dövüş gün doğumundan önce durdu.",
+    "ipaUS": "/ˈfaɪtɪŋ/",
+    "approxUS": "fay-ting",
+    "topicTags": [
+      "actions",
+      "people"
+    ],
+    "selectedSense": "physical conflict between people or groups",
+    "translationEvidence": "eng/fight__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:fighting"
+  },
+  {
+    "sourceId": "file-871",
+    "headword": "file",
+    "displayWord": "file",
+    "speechText": "file",
+    "translation": "dosya",
+    "example": "Save the file before closing the program.",
+    "exampleTr": "Programı kapatmadan önce dosyayı kaydet.",
+    "ipaUS": "/ˈfaɪɫ/",
+    "approxUS": "fayl",
+    "topicTags": [
+      "technology",
+      "work"
+    ],
+    "selectedSense": "a collection of computer data",
+    "translationEvidence": "eng/file__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:file"
+  },
+  {
+    "sourceId": "financial-895",
+    "headword": "financial",
+    "displayWord": "financial",
+    "speechText": "financial",
+    "translation": "mali",
+    "example": "We need financial advice before investing.",
+    "exampleTr": "Yatırım yapmadan önce mali tavsiyeye ihtiyacımız var.",
+    "ipaUS": "/ˌfaɪˈnænʃəɫ/",
+    "approxUS": "fay-nen-şıl",
+    "topicTags": [
+      "money",
+      "work"
+    ],
+    "selectedSense": "relating to money or finance",
+    "translationEvidence": "eng/financial__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:financial"
+  },
+  {
+    "sourceId": "fitness-947",
+    "headword": "fitness",
+    "displayWord": "fitness",
+    "speechText": "fitness",
+    "translation": "fiziksel form",
+    "example": "Regular swimming improves your fitness quickly.",
+    "exampleTr": "Düzenli yüzmek fiziksel formunu hızla geliştirir.",
+    "ipaUS": "/ˈfɪtnəs/",
+    "approxUS": "fit-nıs",
+    "topicTags": [
+      "body",
+      "sport"
+    ],
+    "selectedSense": "the condition of being physically healthy and strong",
+    "translationEvidence": "eng/fitness__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:fitness"
+  },
+  {
+    "sourceId": "fixed-959",
+    "headword": "fixed",
+    "displayWord": "fixed",
+    "speechText": "fixed",
+    "translation": "sabit",
+    "example": "The ticket price is fixed until Friday.",
+    "exampleTr": "Bilet fiyatı cuma gününe kadar sabit.",
+    "ipaUS": "/ˈfɪkst/",
+    "approxUS": "fikst",
+    "topicTags": [
+      "money",
+      "descriptions"
+    ],
+    "selectedSense": "not changing or able to be changed",
+    "translationEvidence": "eng/fixed__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:fixed"
+  },
+  {
+    "sourceId": "flag-963",
+    "headword": "flag",
+    "displayWord": "flag",
+    "speechText": "flag",
+    "translation": "bayrak",
+    "example": "A red flag flew above the station.",
+    "exampleTr": "İstasyonun üstünde kırmızı bir bayrak dalgalandı.",
+    "ipaUS": "/ˈfɫæɡ/",
+    "approxUS": "fleg",
+    "topicTags": [
+      "culture",
+      "places"
+    ],
+    "selectedSense": "a piece of cloth used as a symbol",
+    "translationEvidence": "eng/flag__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:flag"
+  },
+  {
+    "sourceId": "flood-991",
+    "headword": "flood",
+    "displayWord": "flood",
+    "speechText": "flood",
+    "translation": "sel",
+    "example": "The flood damaged many homes near the river.",
+    "exampleTr": "Sel nehir yakınındaki birçok eve zarar verdi.",
+    "ipaUS": "/ˈfɫəd/",
+    "approxUS": "flıd",
+    "topicTags": [
+      "nature",
+      "home"
+    ],
+    "selectedSense": "an overflow of water onto normally dry land",
+    "translationEvidence": "eng/flood__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:flood"
+  },
+  {
+    "sourceId": "flour-999",
+    "headword": "flour",
+    "displayWord": "flour",
+    "speechText": "flour",
+    "translation": "un",
+    "example": "Add the flour slowly to the bowl.",
+    "exampleTr": "Unu kaseye yavaşça ekle.",
+    "ipaUS": "/ˈfɫaʊɝ/",
+    "approxUS": "fla-ur",
+    "topicTags": [
+      "food",
+      "home"
+    ],
+    "selectedSense": "powder made by grinding cereal grains",
+    "translationEvidence": "eng/flour__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:flour"
+  },
+  {
+    "sourceId": "flow-1003",
+    "headword": "flow",
+    "displayWord": "flow",
+    "speechText": "flow",
+    "translation": "akmak",
+    "example": "Fresh water can flow through this pipe.",
+    "exampleTr": "Temiz su bu borudan akabilir.",
+    "ipaUS": "/ˈfɫoʊ/",
+    "approxUS": "flo-u",
+    "topicTags": [
+      "nature",
+      "actions"
+    ],
+    "selectedSense": "to move continuously like a liquid",
+    "translationEvidence": "eng/flow__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:flow"
+  },
+  {
+    "sourceId": "fold-1027",
+    "headword": "fold",
+    "displayWord": "fold",
+    "speechText": "fold",
+    "translation": "katlamak",
+    "example": "Please fold the map along this line.",
+    "exampleTr": "Lütfen haritayı bu çizgi boyunca katla.",
+    "ipaUS": "/ˈfoʊɫd/",
+    "approxUS": "fo-uld",
+    "topicTags": [
+      "actions",
+      "travel"
+    ],
+    "selectedSense": "to bend something over onto itself",
+    "translationEvidence": "eng/fold__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:fold"
+  },
+  {
+    "sourceId": "folk-1035",
+    "headword": "folk",
+    "displayWord": "folk",
+    "speechText": "folk",
+    "translation": "halk",
+    "example": "Local folk still tell this ancient story.",
+    "exampleTr": "Yerel halk bu eski hikâyeyi hâlâ anlatıyor.",
+    "ipaUS": "/ˈfoʊk/",
+    "approxUS": "fo-uk",
+    "topicTags": [
+      "people",
+      "culture"
+    ],
+    "selectedSense": "people from a particular region",
+    "translationEvidence": "eng/folk__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:folk"
+  }
+]

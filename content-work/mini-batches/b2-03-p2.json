@@ -1,0 +1,567 @@
+[
+  {
+    "sourceId": "faith-970",
+    "headword": "faith",
+    "displayWord": "faith",
+    "speechText": "faith",
+    "translation": "inanç",
+    "example": "Her faith gave her strength during hard times.",
+    "exampleTr": "İnandığı şey ona zor günlerde güç verdi.",
+    "ipaUS": "/ˈfeɪθ/",
+    "approxUS": "feyz",
+    "ipaUK": "/fˈeɪθ/",
+    "approxUK": "feyz",
+    "topicTags": [
+      "culture",
+      "feelings"
+    ],
+    "selectedSense": "religious belief system",
+    "translationEvidence": "eng/faith__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:faith",
+    "ipaEvidenceUK": "ipa-dict/en_GB:faith"
+  },
+  {
+    "sourceId": "fault-1050",
+    "headword": "fault",
+    "displayWord": "fault",
+    "speechText": "fault",
+    "translation": "hata",
+    "example": "It was my fault that the train left.",
+    "exampleTr": "Trenin kalkması benim hatamdı.",
+    "ipaUS": "/ˈfɔɫt/",
+    "approxUS": "folt",
+    "ipaUK": "/fˈɒlt/",
+    "approxUK": "folt",
+    "topicTags": [
+      "daily-life",
+      "work"
+    ],
+    "selectedSense": "mistake or error",
+    "translationEvidence": "eng/fault__Noun__1",
+    "contentNote": "En yüksek puanlı sözlük adayı jeolojik anlam olan \"fay\" idi; kart daha günlük ve B2 için yararlı olan \"hata\" anlamını öğretir. Sözlük girdisi aynı olduğu için kanıt geçerlidir.",
+    "ipaEvidenceUS": "ipa-dict/en_US:fault",
+    "ipaEvidenceUK": "ipa-dict/en_GB:fault"
+  },
+  {
+    "sourceId": "feather-1066",
+    "headword": "feather",
+    "displayWord": "feather",
+    "speechText": "feather",
+    "translation": "tüy",
+    "example": "A grey feather fell onto the table.",
+    "exampleTr": "Gri bir tüy masanın üstüne düştü.",
+    "ipaUS": "/ˈfɛðɝ/",
+    "approxUS": "fesır",
+    "ipaUK": "/fˈɛðɐ/",
+    "approxUK": "fesa",
+    "topicTags": [
+      "nature",
+      "descriptions"
+    ],
+    "selectedSense": "branching, hair-like structure that grows on the bodies of birds",
+    "translationEvidence": "eng/feather__Noun__1",
+    "contentNote": "/ð/ Türkçede \"s\" ile yakın okunur; Amerikan okunuşunda son ses Türkçe \"r\" gibi verilir, İngiliz okunuşunda \"a\"ya yakındır.",
+    "ipaEvidenceUS": "ipa-dict/en_US:feather",
+    "ipaEvidenceUK": "ipa-dict/en_GB:feather"
+  },
+  {
+    "sourceId": "fee-1078",
+    "headword": "fee",
+    "displayWord": "fee",
+    "speechText": "fee",
+    "translation": "ücret",
+    "example": "The clinic charges a small fee per visit.",
+    "exampleTr": "Klinik her ziyaret için küçük bir ücret alıyor.",
+    "ipaUS": "/ˈfi/",
+    "approxUS": "fi",
+    "ipaUK": "/fˈiː/",
+    "approxUK": "fi",
+    "topicTags": [
+      "money",
+      "daily-life"
+    ],
+    "selectedSense": "monetary payment charged for professional services",
+    "translationEvidence": "eng/fee__Noun__1",
+    "contentNote": "İki heceli bir kelime olarak okunur. İngiliz okunuşunda \"i\" uzundur; yaklaşık okunuşta uzunluk işareti kullanılmaz.",
+    "ipaEvidenceUS": "ipa-dict/en_US:fee",
+    "ipaEvidenceUK": "ipa-dict/en_GB:fee"
+  },
+  {
+    "sourceId": "feedback-1086",
+    "headword": "feedback",
+    "displayWord": "feedback",
+    "speechText": "feedback",
+    "translation": "geri bildirim",
+    "example": "Our teacher gave us useful feedback.",
+    "exampleTr": "Öğretmenimiz bize faydalı geri bildirim verdi.",
+    "ipaUS": "/ˈfidˌbæk/",
+    "approxUS": "fid-bek",
+    "ipaUK": "/fˈiːdbæk/",
+    "approxUK": "fid-bek",
+    "topicTags": [
+      "school",
+      "communication"
+    ],
+    "selectedSense": "critical assessment of process or activity",
+    "translationEvidence": "eng/feedback__Noun__1",
+    "contentNote": "\"feed\" + \"back\" bileşimi: geri verilen değerlendirme. Sözlük adayları ayrıca teknik anlamdaki \"geri besleme\"yi de veriyor; kart eğitim bağlamındaki anlamı öğretir.",
+    "ipaEvidenceUS": "ipa-dict/en_US:feedback",
+    "ipaEvidenceUK": "ipa-dict/en_GB:feedback"
+  },
+  {
+    "sourceId": "fellow-819",
+    "headword": "fellow",
+    "displayWord": "fellow",
+    "speechText": "fellow",
+    "translation": "dost",
+    "example": "She is a good fellow from my office.",
+    "exampleTr": "O, ofisimden iyi bir dost.",
+    "ipaUS": "/ˈfɛɫoʊ/",
+    "approxUS": "fe-lo",
+    "ipaUK": "/fˈɛləʊ/",
+    "approxUK": "fe-lö",
+    "topicTags": [
+      "people",
+      "work"
+    ],
+    "selectedSense": "companion; comrade",
+    "translationEvidence": "eng/fellow__Noun__1",
+    "contentNote": "Kaynak liste bu kaydı \"fellow adj.\" olarak işaretler, ancak sağlanan sözlük adaylarının tamamı isim (noun) anlamlarıdır. Sıfat kullanımda \"aynı seviyedeki/meslektaşı\" için bu anlama ait kanıt bulunmadığından kart isim anlamını öğretir.",
+    "ipaEvidenceUS": "ipa-dict/en_US:fellow",
+    "ipaEvidenceUK": "ipa-dict/en_GB:fellow"
+  },
+  {
+    "sourceId": "finance-891",
+    "headword": "finance",
+    "displayWord": "finance",
+    "speechText": "finance",
+    "translation": "finans",
+    "example": "The project needs more finance this year.",
+    "exampleTr": "Projenin bu yıl daha çok finansmana ihtiyacı var.",
+    "ipaUS": "/ˈfaɪˌnæns/",
+    "approxUS": "fay-nans",
+    "ipaUK": "/fˈaɪnæns/",
+    "approxUK": "fay-nans",
+    "topicTags": [
+      "money",
+      "work"
+    ],
+    "selectedSense": "management of money and other assets",
+    "translationEvidence": "eng/finance__Noun__1",
+    "contentNote": "Kaynak liste \"n., v.\" diyor; kart isim anlamını öğretir. Fiil anlamı da adaylarda var (\"finanse etmek\"). Amerikan okunuşunda ikinci hece vurguludur, o yüzden /ˈfaɪˌnæns/ seçildi.",
+    "ipaEvidenceUS": "ipa-dict/en_US:finance",
+    "ipaEvidenceUK": "ipa-dict/en_GB:finance"
+  },
+  {
+    "sourceId": "finding-903",
+    "headword": "finding",
+    "displayWord": "finding",
+    "speechText": "finding",
+    "translation": "bulgu",
+    "example": "The main finding surprised the whole team.",
+    "exampleTr": "Ana bulgu bütün ekibi şaşırttı.",
+    "ipaUS": "/ˈfaɪndɪŋ/",
+    "approxUS": "fayn-din",
+    "ipaUK": "/fˈaɪndɪŋ/",
+    "approxUK": "fayn-din",
+    "topicTags": [
+      "work",
+      "descriptions"
+    ],
+    "selectedSense": "result of research or an investigation",
+    "translationEvidence": "eng/finding__Noun__1",
+    "contentNote": "En yüksek puanlı aday (\"bulgu\") bir kayıt kimliği taşımıyor (entry null), bu yüzden aynı lemmanın kimlikli kaydı olan \"araştırma sonucu\" anlamı seçildi. /ŋ/ Türkçede ayrı bir \"g\" değildir, \"n\" gibi okunur.",
+    "ipaEvidenceUS": "ipa-dict/en_US:finding",
+    "ipaEvidenceUK": "ipa-dict/en_GB:finding"
+  },
+  {
+    "sourceId": "firm-923",
+    "headword": "firm",
+    "displayWord": "firm",
+    "speechText": "firm",
+    "translation": "firma",
+    "example": "Their firm designs software for hospitals.",
+    "exampleTr": "Firmaları hastaneler için yazılım tasarlıyor.",
+    "ipaUS": "/ˈfɝm/",
+    "approxUS": "fırm",
+    "ipaUK": "/fˈɜːm/",
+    "approxUK": "fım",
+    "topicTags": [
+      "work",
+      "technology"
+    ],
+    "selectedSense": "business enterprise, however organized",
+    "translationEvidence": "eng/firm__Noun__1",
+    "contentNote": "\"firm\" ayrıca \"sağlam, kararlı\" anlamında sıfat olarak da kullanılır; kayıt n. olarak listelenmiştir ve kart şirket anlamını öğretir.",
+    "ipaEvidenceUS": "ipa-dict/en_US:firm",
+    "ipaEvidenceUK": "ipa-dict/en_GB:firm"
+  },
+  {
+    "sourceId": "flame-967",
+    "headword": "flame",
+    "displayWord": "flame",
+    "speechText": "flame",
+    "translation": "alev",
+    "example": "The flame grew bigger when the wind blew.",
+    "exampleTr": "Rüzgâr estiğinde alev daha da büyüdü.",
+    "ipaUS": "/ˈfɫeɪm/",
+    "approxUS": "fleym",
+    "ipaUK": "/flˈeɪm/",
+    "approxUK": "fleym",
+    "topicTags": [
+      "nature",
+      "descriptions"
+    ],
+    "selectedSense": "visible part of fire",
+    "translationEvidence": "eng/flame__Noun__1",
+    "contentNote": "Kaynak liste \"n., v.\" diyor. Adaylarda ayrıca \"ateş kırmızısı\" (renk) ve internet üzerinde sert yorum yazma anlamı var; kart ateşin görünen kısmını öğretir.",
+    "ipaEvidenceUS": "ipa-dict/en_US:flame",
+    "ipaEvidenceUK": "ipa-dict/en_GB:flame"
+  },
+  {
+    "sourceId": "flash-971",
+    "headword": "flash",
+    "displayWord": "flash",
+    "speechText": "flash",
+    "translation": "flaş",
+    "example": "Wait for the flash before you take the photo.",
+    "exampleTr": "Fotoğrafı çekmeden önce flaşı bekleyin.",
+    "ipaUS": "/ˈfɫæʃ/",
+    "approxUS": "fleş",
+    "ipaUK": "/flˈæʃ/",
+    "approxUK": "fleş",
+    "topicTags": [
+      "technology",
+      "actions"
+    ],
+    "selectedSense": "short for camera flash",
+    "translationEvidence": "eng/flash__Noun__1",
+    "contentNote": "Sağlanan tek sözlük adayı kamera flaşı anlamıdır. \"Şimşek çakması\" anlamı ve \"flash\" fiili bu anlama ait kanıt taşımadığı için öğretilmedi. /ʃ/ Türkçede \"ş\" okunur.",
+    "ipaEvidenceUS": "ipa-dict/en_US:flash",
+    "ipaEvidenceUK": "ipa-dict/en_GB:flash"
+  },
+  {
+    "sourceId": "flexible-979",
+    "headword": "flexible",
+    "displayWord": "flexible",
+    "speechText": "flexible",
+    "translation": "esnek",
+    "example": "Our working hours are quite flexible.",
+    "exampleTr": "Çalışma saatlerimiz oldukça esnek.",
+    "ipaUS": "/ˈfɫɛksəbəɫ/",
+    "approxUS": "flek-sı-bol",
+    "ipaUK": "/flˈɛksɪbəl/",
+    "approxUK": "flek-si-bel",
+    "topicTags": [
+      "work",
+      "descriptions"
+    ],
+    "selectedSense": "easily bent or adapted without breaking",
+    "translationEvidence": "eng/flexible__Adjective__1",
+    "contentNote": "/ɛ/ Türkçe e ile a arasında, /ə/ kısa ı ile okunur. Amerikan okunuşundaki son ses Türkçe \"l\" gibi, İngiliz okunuşunda \"l\"den yumuşak okunur.",
+    "ipaEvidenceUS": "ipa-dict/en_US:flexible",
+    "ipaEvidenceUK": "ipa-dict/en_GB:flexible"
+  },
+  {
+    "sourceId": "float-987",
+    "headword": "float",
+    "displayWord": "float",
+    "speechText": "float",
+    "translation": "şamandıra",
+    "example": "The float stays on top of the water.",
+    "exampleTr": "Şamandıra suyun üstünde kalır.",
+    "ipaUS": "/ˈfɫoʊt/",
+    "approxUS": "flot",
+    "ipaUK": "/flˈəʊt/",
+    "approxUK": "flot",
+    "topicTags": [
+      "nature",
+      "sport"
+    ],
+    "selectedSense": "buoyant device",
+    "translationEvidence": "eng/float__Noun__1",
+    "contentNote": "Kaynak liste bu kaydı \"float v.\" olarak işaretler, ancak sağlanan tek sözlük adayı isim anlamıdır (su üzerinde kalan şamandıra). Fiil anlamı \"yüzmek\" için bu anlama ait kanıt olmadığından kart kanıtlı isim anlamını öğretir.",
+    "ipaEvidenceUS": "ipa-dict/en_US:float",
+    "ipaEvidenceUK": "ipa-dict/en_GB:float"
+  },
+  {
+    "sourceId": "folding-1031",
+    "headword": "folding",
+    "displayWord": "folding",
+    "speechText": "folding",
+    "translation": "katlanır",
+    "example": "We keep a folding chair under the stairs.",
+    "exampleTr": "Merdiven altında katlanır bir sandalye tutuyoruz.",
+    "ipaUS": "/ˈfoʊɫdɪŋ/",
+    "approxUS": "föl-ding",
+    "ipaUK": "/fˈəʊldɪŋ/",
+    "approxUK": "föl-ding",
+    "topicTags": [
+      "home",
+      "descriptions"
+    ],
+    "selectedSense": "present participle of fold: able to be folded away",
+    "translationEvidence": "eng/fold__Verb__1",
+    "contentNote": "\"folding\", \"fold\" fiilinin -ing biçimidir; sözlük adayları da bu yüzden \"fold\" lemmasından geliyor. Adaylardaki isim anlamı \"ağıl\" (hayvan ahırı) bu biçimle ilgili olmadığından seçilmedi. Sözlük dışı harici kayıt ayrıca en-US için /ˈfəʊldɪŋ/ öneriyor; kart kaynak kanıttaki /ˈfoʊɫdɪŋ/ değerini kullanır.",
+    "ipaEvidenceUS": "ipa-dict/en_US:folding",
+    "ipaEvidenceUK": "ipa-dict/en_GB:folding"
+  },
+  {
+    "sourceId": "forgive-1083",
+    "headword": "forgive",
+    "displayWord": "forgive",
+    "speechText": "forgive",
+    "translation": "affetmek",
+    "example": "She was ready to forgive her neighbour.",
+    "exampleTr": "Komşusunu affetmeye hazırdı.",
+    "ipaUS": "/fɝˈɡɪv/",
+    "approxUS": "fır-giv",
+    "ipaUK": "/fəɡˈɪv/",
+    "approxUK": "fı-giv",
+    "topicTags": [
+      "feelings",
+      "actions"
+    ],
+    "selectedSense": "transitive, to pardon",
+    "translationEvidence": "eng/forgive__Verb__1",
+    "contentNote": "Düzensiz çekim: forgive - forgave - forgiven. İlk hece Amerikan okunuşunda /ɝ/ (Türkçe \"r\") ile, İngiliz okunuşunda kısa ı ile verilir.",
+    "acceptedAnswers": [
+      "forgave",
+      "forgiven"
+    ],
+    "ipaEvidenceUS": "ipa-dict/en_US:forgive",
+    "ipaEvidenceUK": "ipa-dict/en_GB:forgive"
+  },
+  {
+    "sourceId": "former-1096",
+    "headword": "former",
+    "displayWord": "former",
+    "speechText": "former",
+    "translation": "önceki",
+    "example": "My former flat was near the river.",
+    "exampleTr": "Önceki dairem nehir yakınıydı.",
+    "ipaUS": "/ˈfɔɹmɝ/",
+    "approxUS": "for-mır",
+    "ipaUK": "/fˈɔːmɐ/",
+    "approxUK": "for-ma",
+    "topicTags": [
+      "home",
+      "daily-life"
+    ],
+    "selectedSense": "previous",
+    "translationEvidence": "eng/former__Adjective__1",
+    "contentNote": "\"former\" geçmişteki durumu belirtir, \"latter\" ise aynı ifadede sonra geleni gösterir. Amerikan okunuşunda iki \"r\" vardır, İngiliz okunuşunda son hece \"a\"ya yakındır.",
+    "ipaEvidenceUS": "ipa-dict/en_US:former",
+    "ipaEvidenceUK": "ipa-dict/en_GB:former"
+  },
+  {
+    "sourceId": "fortune-1104",
+    "headword": "fortune",
+    "displayWord": "fortune",
+    "speechText": "fortune",
+    "translation": "servet",
+    "example": "The family built a large fortune selling old cars.",
+    "exampleTr": "Aile eski araba satışıyla büyük bir servet yaptı.",
+    "ipaUS": "/ˈfɔɹtʃən/",
+    "approxUS": "for-çın",
+    "ipaUK": "/fˈɔːtʃuːn/",
+    "approxUK": "for-çun",
+    "topicTags": [
+      "money",
+      "work"
+    ],
+    "selectedSense": "lots of riches",
+    "translationEvidence": "eng/fortune__Noun__1",
+    "contentNote": "Sağlanan tek sözlük adayı zenginlik anlamıdır. \"fortune\"in \"şans, talih\" anlamı bu adayda bulunmadığı için öğretilmedi. /tʃ/ Türkçede \"ç\" okunur.",
+    "ipaEvidenceUS": "ipa-dict/en_US:fortune",
+    "ipaEvidenceUK": "ipa-dict/en_GB:fortune"
+  },
+  {
+    "sourceId": "found-1116",
+    "headword": "found",
+    "displayWord": "found",
+    "speechText": "found",
+    "translation": "kurmak",
+    "example": "They found the company last spring.",
+    "exampleTr": "Şirketi geçen ilkbaharda kurdular.",
+    "ipaUS": "/ˈfaʊnd/",
+    "approxUS": "faund",
+    "ipaUK": "/fˈaʊnd/",
+    "approxUK": "faund",
+    "topicTags": [
+      "work"
+    ],
+    "selectedSense": "to start an organization",
+    "translationEvidence": "eng/found__Verb__2",
+    "contentNote": "Bu kartta \"found\" = \"kurmak\"tır; \"bulmak\" için \"find\" kullanılır. Aynı yazımdaki \"found\", \"find\"in geçmiş zamanıdır ve aynı şekilde okunur.",
+    "acceptedAnswers": [
+      "founded",
+      "founding"
+    ],
+    "ipaEvidenceUS": "ipa-dict/en_US:found",
+    "ipaEvidenceUK": "ipa-dict/en_GB:found"
+  },
+  {
+    "sourceId": "freedom-1140",
+    "headword": "freedom",
+    "displayWord": "freedom",
+    "speechText": "freedom",
+    "translation": "özgürlük",
+    "example": "The birds need freedom to spread their wings.",
+    "exampleTr": "Kuşların kanatlarını açmak için özgürlüğe ihtiyacı var.",
+    "ipaUS": "/ˈfɹidəm/",
+    "approxUS": "fri-dım",
+    "ipaUK": "/fɹˈiːdəm/",
+    "approxUK": "fri-dım",
+    "topicTags": [
+      "nature",
+      "descriptions"
+    ],
+    "selectedSense": "state of not being imprisoned or enslaved",
+    "translationEvidence": "eng/freedom__Noun__1",
+    "contentNote": "/ə/ Türkçede kısa ı ile okunur. Amerikan okunuşunda ilk ses /ɹ/ (Türkçe \"r\"), İngiliz okunuşunda /ɹ/ + uzun \"i\" olarak verilir.",
+    "ipaEvidenceUS": "ipa-dict/en_US:freedom",
+    "ipaEvidenceUK": "ipa-dict/en_GB:freedom"
+  },
+  {
+    "sourceId": "frequency-1148",
+    "headword": "frequency",
+    "displayWord": "frequency",
+    "speechText": "frequency",
+    "translation": "sıklık",
+    "example": "The frequency of buses fell during the summer.",
+    "exampleTr": "Yaz aylarında otobüs sıklığı azaldı.",
+    "ipaUS": "/ˈfɹikwənsi/",
+    "approxUS": "frik-uen-si",
+    "ipaUK": "/fɹˈiːkwənsi/",
+    "approxUK": "fri-kuen-si",
+    "topicTags": [
+      "time",
+      "travel"
+    ],
+    "selectedSense": "rate of occurrence of anything",
+    "translationEvidence": "eng/frequency__Noun__1",
+    "contentNote": "\"kw\" Türkçede iki sesli \"ku\" gibi okunur; /ə/ kısa ı ile verilir. Sözlük adaylarında hem teknik \"frekans\" hem genel \"sıklık\" anlamı var; kart sıklık anlamını öğretir.",
+    "ipaEvidenceUS": "ipa-dict/en_US:frequency",
+    "ipaEvidenceUK": "ipa-dict/en_GB:frequency"
+  },
+  {
+    "sourceId": "fully-1224",
+    "headword": "fully",
+    "displayWord": "fully",
+    "speechText": "fully",
+    "translation": "tamamen",
+    "example": "We have fully paid every invoice.",
+    "exampleTr": "Her faturayı tamamen ödedik.",
+    "ipaUS": "/ˈfʊɫi/",
+    "approxUS": "fıl-li",
+    "ipaUK": "/fˈʊli/",
+    "approxUK": "fu-li",
+    "topicTags": [
+      "work",
+      "money"
+    ],
+    "selectedSense": "to a full extent",
+    "translationEvidence": "eng/fully__Adverb__1",
+    "contentNote": "Amerikan okunuşunda ikinci hece \"ı\" ile, İngiliz okunuşunda \"u\" ile verilir. Sözlük \"hepten\" karşılığını veriyor; günlük ve öğretilebilir karşılık olarak \"tamamen\" seçildi.",
+    "acceptedAnswers": [
+      "completely"
+    ],
+    "ipaEvidenceUS": "ipa-dict/en_US:fully",
+    "ipaEvidenceUK": "ipa-dict/en_GB:fully"
+  },
+  {
+    "sourceId": "fund-1236",
+    "headword": "fund",
+    "displayWord": "fund",
+    "speechText": "fund",
+    "translation": "fon",
+    "example": "The school put the money into a new fund.",
+    "exampleTr": "Okul parayı yeni bir fona koydu.",
+    "ipaUS": "/ˈfənd/",
+    "approxUS": "fınd",
+    "ipaUK": "/fˈʌnd/",
+    "approxUK": "fand",
+    "topicTags": [
+      "money",
+      "school"
+    ],
+    "selectedSense": "sum or source of money",
+    "translationEvidence": "eng/fund__Noun__1",
+    "contentNote": "Kaynak liste \"n., v.\" diyor; kart isim anlamını öğretir (\"fon\"). Fiil anlamı \"finanse etmek\" adaylarda da var. /ʌ/ İngiliz okunuşunda Türkçe \"a\"ya yakındır.",
+    "acceptedAnswers": [
+      "funds"
+    ],
+    "ipaEvidenceUS": "ipa-dict/en_US:fund",
+    "ipaEvidenceUK": "ipa-dict/en_GB:fund"
+  },
+  {
+    "sourceId": "fundamental-1240",
+    "headword": "fundamental",
+    "displayWord": "fundamental",
+    "speechText": "fundamental",
+    "translation": "temel",
+    "example": "There is a fundamental difference between these two words.",
+    "exampleTr": "Bu iki kelime arasında temel bir fark var.",
+    "ipaUS": "/ˌfəndəˈmɛnəɫ/",
+    "approxUS": "fun-de-men-tal",
+    "ipaUK": "/fˌʌndəmˈɛntəl/",
+    "approxUK": "fun-dem-en-tel",
+    "topicTags": [
+      "school",
+      "descriptions"
+    ],
+    "selectedSense": "pertaining to the foundation or basis; serving for the foundation",
+    "translationEvidence": "eng/fundamental__Adjective__1",
+    "contentNote": "Vurgu son hecededir; adaylarda /ˌfəndəˈmɛntəɫ/ biçimi de var ve İngiliz okunuşu /fˌʌndəmˈɛntəl/ ile daha uyumludur. Ana vurgulu Amerikan biçimi seçildi.",
+    "ipaEvidenceUS": "ipa-dict/en_US:fundamental",
+    "ipaEvidenceUK": "ipa-dict/en_GB:fundamental"
+  },
+  {
+    "sourceId": "funding-1244",
+    "headword": "funding",
+    "displayWord": "funding",
+    "speechText": "funding",
+    "translation": "fonlama",
+    "example": "The museum closed for lack of funding.",
+    "exampleTr": "Müze, fonlama eksikliği nedeniyle kapandı.",
+    "ipaUS": "/ˈfəndɪŋ/",
+    "approxUS": "fun-ding",
+    "ipaUK": "/fˈʌndɪŋ/",
+    "approxUK": "fun-ding",
+    "topicTags": [
+      "money",
+      "culture"
+    ],
+    "selectedSense": "money provided as funds",
+    "translationEvidence": "eng/funding__Noun__1",
+    "contentNote": "\"fund\" (fon) ve \"found\" (kurmak) ile karıştırılmamalıdır; burada para sağlama eylemi kastedilir.",
+    "ipaEvidenceUS": "ipa-dict/en_US:funding",
+    "ipaEvidenceUK": "ipa-dict/en_GB:funding"
+  },
+  {
+    "sourceId": "furthermore-1264",
+    "headword": "furthermore",
+    "displayWord": "furthermore",
+    "speechText": "furthermore",
+    "translation": "devamı olarak",
+    "example": "The plan is expensive; furthermore, it takes too long.",
+    "exampleTr": "Plan pahalı; devamı olarak, çok fazla zaman alıyor.",
+    "ipaUS": "/ˈfɝðɝˌmɔɹ/",
+    "approxUS": "fır-zır-mor",
+    "ipaUK": "/fˌɜːðəmˈɔː/",
+    "approxUK": "fır-dım-or",
+    "topicTags": [
+      "communication",
+      "function-words"
+    ],
+    "selectedSense": "In addition; besides; used to denote additional information",
+    "translationEvidence": "eng/furthermore__Adverb__1",
+    "contentNote": "Bağlaçtır; aynı işi gören \"moreover\" ve \"in addition\" ile birlikte kullanılır. Amerikan okunuşunda /ð/ \"z\" gibi, İngiliz okunuşunda \"d\" gibi okunabilir.",
+    "acceptedAnswers": [
+      "moreover"
+    ],
+    "ipaEvidenceUS": "ipa-dict/en_US:furthermore",
+    "ipaEvidenceUK": "ipa-dict/en_GB:furthermore"
+  }
+]

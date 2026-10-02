@@ -1,0 +1,1017 @@
+[
+  {
+    "sourceId": "force-1063",
+    "headword": "force",
+    "level": "B1",
+    "raw": "force n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "force",
+    "translationLookup": "force",
+    "ipaCandidates": {
+      "en-US": "/ˈfɔɹs/",
+      "en-GB": "/fˈɔːs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/force__Noun__1",
+        "sense": "physical quantity",
+        "translations": "kuvvet",
+        "score": 140.6
+      },
+      {
+        "entry": "eng/force__Noun__1",
+        "sense": "anything that is able to make a big change in person or thing",
+        "translations": "kuvvet",
+        "score": 130.6
+      },
+      {
+        "entry": "eng/force__Verb__1",
+        "sense": null,
+        "translations": "zorlamak",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/force__Noun__1",
+        "sense": "group that aims to attack, control, or constrain",
+        "translations": "zorlamak",
+        "score": 100
+      },
+      {
+        "entry": "eng/force__Verb__1",
+        "sense": "to forcibly open",
+        "translations": "zorlamak",
+        "score": 100
+      },
+      {
+        "entry": "eng/force__Noun__1",
+        "sense": "ability to attack, control, or constrain",
+        "translations": "kuvvet",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/force__Noun__1",
+        "sense": "strength or energy of body or mind",
+        "translations": "kuvvet",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/force__Noun__1",
+        "sense": "anything that has the power to produce an effect upon something else",
+        "translations": "kuvvet",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/force__Noun__1",
+        "sense": "law: legal validity",
+        "translations": "kuvvet",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/force__Noun__1",
+        "sense": "power exerted against will or consent",
+        "translations": "kuvvet",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/force__Noun__1",
+        "sense": "science fiction: binding, metaphysical, and ubiquitous power",
+        "translations": "kuvvet",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "forever-1075",
+    "headword": "forever",
+    "level": "B1",
+    "raw": "forever adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "forever",
+    "translationLookup": "forever",
+    "ipaCandidates": {
+      "en-US": "/fɝˈɛvɝ/",
+      "en-GB": "/fəɹˈɛvɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/forever__Adverb__1",
+        "sense": "for all time, for all eternity; for an infinite amount of time",
+        "translations": "sonsuza kadar | daima | sonsuza dek",
+        "score": 100.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "frame-1132",
+    "headword": "frame",
+    "level": "B1",
+    "raw": "frame n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "frame",
+    "translationLookup": "frame",
+    "ipaCandidates": {
+      "en-US": "/ˈfɹeɪm/",
+      "en-GB": "/fɹˈeɪm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/frame__Verb__1",
+        "sense": "add a decorative border to a picture",
+        "translations": "çerçevelemek",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/frame__Noun__1",
+        "sense": "rigid, generally rectangular mounting",
+        "translations": "çerçeve",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/frame__Noun__1",
+        "sense": "piece of photographic film containing an image",
+        "translations": "çerçeve",
+        "score": 100
+      },
+      {
+        "entry": "eng/frame__Noun__1",
+        "sense": "structural elements of a building or other constructed object",
+        "translations": "iskelet",
+        "score": 100
+      },
+      {
+        "entry": "eng/frame__Noun__1",
+        "sense": "structure of a person's body",
+        "translations": "iskelet",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "freeze-1144",
+    "headword": "freeze",
+    "level": "B1",
+    "raw": "freeze v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "freeze",
+    "translationLookup": "freeze",
+    "ipaCandidates": {
+      "en-US": "/ˈfɹiz/",
+      "en-GB": "/fɹˈiːz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/freeze__Verb__1",
+        "sense": "to become solid due to low temperature",
+        "translations": "donmak",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/freeze__Verb__1",
+        "sense": "of temperature, to drop below zero",
+        "translations": "donmak",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/freeze__Verb__1",
+        "sense": "to become motionless",
+        "translations": "donmak",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/freeze__Verb__1",
+        "sense": "to be affected by cold",
+        "translations": "donmak",
+        "score": 111.0
+      },
+      {
+        "entry": "eng/freeze__Verb__1",
+        "sense": "to lower something's temperature to freezing point",
+        "translations": "dondurmak | donmak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/freeze__Noun__1",
+        "sense": "(computing) state when the system ceases to respond to inputs",
+        "translations": "donma",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "frequently-1152",
+    "headword": "frequently",
+    "level": "B1",
+    "raw": "frequently adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "frequently",
+    "translationLookup": "frequently",
+    "ipaCandidates": {
+      "en-US": "/ˈfɹikwəntɫi/, /ˈfɹikwɛntɫi/",
+      "en-GB": "/fɹˈiːkwəntli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/frequently__Adverb__1",
+        "sense": "at frequent intervals",
+        "translations": "düzenli olarak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "friendship-1176",
+    "headword": "friendship",
+    "level": "B1",
+    "raw": "friendship n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "friendship",
+    "translationLookup": "friendship",
+    "ipaCandidates": {
+      "en-US": "/ˈfɹɛndʃɪp/, /ˈfɹɛnʃɪp/",
+      "en-GB": "/fɹˈɛndʃɪp/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/friendship__Noun__1",
+        "sense": "(uncountable) condition of being friends",
+        "translations": "arkadaşlık | dostluk",
+        "score": 162.5
+      },
+      {
+        "entry": "eng/friendship__Noun__1",
+        "sense": "(countable) friendly relationship",
+        "translations": "arkadaşlık | dostluk",
+        "score": 142.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "frighten-1180",
+    "headword": "frighten",
+    "level": "B1",
+    "raw": "frighten v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "frighten",
+    "translationLookup": "frighten",
+    "ipaCandidates": {
+      "en-US": "/ˈfɹaɪtən/",
+      "en-GB": "/fɹˈaɪtən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/frighten__Verb__1",
+        "sense": "to disturb with fear",
+        "translations": "korkutmak",
+        "score": 104.2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "frightened-1184",
+    "headword": "frightened",
+    "level": "B1",
+    "raw": "frightened adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "frightened",
+    "translationLookup": "frightened",
+    "ipaCandidates": {
+      "en-US": "/ˈfɹaɪtənd/",
+      "en-GB": "/fɹˈaɪtənd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/frightened__Adjective__1",
+        "sense": "afraid, suffering from fear",
+        "translations": "ürkmüş",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "frightening-1188",
+    "headword": "frightening",
+    "level": "B1",
+    "raw": "frightening adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "frightening",
+    "translationLookup": "frightening",
+    "ipaCandidates": {
+      "en-US": "/ˈfɹaɪtənɪŋ/, /ˈfɹaɪtnɪŋ/",
+      "en-GB": "/fɹˈaɪtənɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/frightening__Adjective__1",
+        "sense": null,
+        "translations": "korkutucu",
+        "score": 101.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "frozen-1204",
+    "headword": "frozen",
+    "level": "B1",
+    "raw": "frozen adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "frozen",
+    "translationLookup": "frozen",
+    "ipaCandidates": {
+      "en-US": "/ˈfɹoʊzən/",
+      "en-GB": "/fɹˈəʊzən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/frozen__Adjective__1",
+        "sense": "having undergone freezing",
+        "translations": "donmuş | donuk",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "fry-1212",
+    "headword": "fry",
+    "level": "B1",
+    "raw": "fry v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "fry",
+    "translationLookup": "fry",
+    "ipaCandidates": {
+      "en-US": "/ˈfɹaɪ/",
+      "en-GB": "/fɹˈaɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/fry__Verb__1",
+        "sense": "to cook (something) in hot fat or oil",
+        "translations": "kızartmak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/fry__Noun__1",
+        "sense": "fried potato",
+        "translations": "kızartma",
+        "score": 100
+      },
+      {
+        "entry": "eng/fry__Noun__1",
+        "sense": "meal of fried sausages, bacon, etc",
+        "translations": "kızartma",
+        "score": 100
+      },
+      {
+        "entry": "eng/fry__Noun__2",
+        "sense": "young fish",
+        "translations": "balıkçık | bebek balık | parpa",
+        "score": 100
+      },
+      {
+        "entry": "eng/fry__Verb__1",
+        "sense": "(intransitive) cook in hot fat or oil",
+        "translations": "kızarmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/fry__Verb__1",
+        "sense": "informal: be executed by the electric chair",
+        "translations": "kızarmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/fry__Verb__1",
+        "sense": "suffer because of too much heat",
+        "translations": "kızarmak | yanmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "fuel-1216",
+    "headword": "fuel",
+    "level": "B1",
+    "raw": "fuel n. B1, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "fuel",
+    "translationLookup": "fuel",
+    "ipaCandidates": {
+      "en-US": "/ˈfjuəɫ/, /ˈfjuɫ/",
+      "en-GB": "/fjˈuːəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/fuel__Noun__1",
+        "sense": "substance consumed to provide energy",
+        "translations": "yakıt",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/fuel__Verb__1",
+        "sense": "to provide with fuel",
+        "translations": "doldurmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "function-1232",
+    "headword": "function",
+    "level": "B1",
+    "raw": "function n. B1, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "function",
+    "translationLookup": "function",
+    "ipaCandidates": {
+      "en-US": "/ˈfəŋkʃən/",
+      "en-GB": "/fˈʌŋkʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/function__Noun__1",
+        "sense": "computing: routine that returns a result",
+        "translations": "fonksiyon | işlev",
+        "score": 131.0
+      },
+      {
+        "entry": "eng/function__Noun__1",
+        "sense": "mathematics: a relation between a set of inputs and a set of permissible outputs",
+        "translations": "fonksiyon",
+        "score": 131.0
+      },
+      {
+        "entry": "eng/function__Noun__1",
+        "sense": "biology: physiological activity of an organ or body part",
+        "translations": "fonksiyon | işlev",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/function__Noun__1",
+        "sense": "what something does or is used for",
+        "translations": "fonksiyon | işlev",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/function__Noun__1",
+        "sense": "professional or official position",
+        "translations": "fonksiyon",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/function__Noun__1",
+        "sense": "chemistry: characteristic behavior of a chemical compound",
+        "translations": "fonksiyon",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/function__Noun__1",
+        "sense": "official or social occasion",
+        "translations": "fonksiyon",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "fur-1252",
+    "headword": "fur",
+    "level": "B1",
+    "raw": "fur n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "fur",
+    "translationLookup": "fur",
+    "ipaCandidates": {
+      "en-US": "/ˈfɝ/",
+      "en-GB": "/fˈɜː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/fur__Noun__1",
+        "sense": "hairy coat of a mammal, especially when fine, soft and thick",
+        "translations": "post | kürk",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "garage-1292",
+    "headword": "garage",
+    "level": "B1",
+    "raw": "garage n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "garage",
+    "translationLookup": "garage",
+    "ipaCandidates": {
+      "en-US": "/ɡɝˈɑʒ/",
+      "en-GB": "/ɡˈæɹɪdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/garage__Noun__1",
+        "sense": "building or section of building to store a car, tools etc.",
+        "translations": "garaj | arabalık | kaylık | kurluk",
+        "score": 160.0
+      },
+      {
+        "entry": "eng/garage__Noun__1",
+        "sense": "place where cars are serviced and repaired",
+        "translations": "servis",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "gather-1308",
+    "headword": "gather",
+    "level": "B1",
+    "raw": "gather v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "gather",
+    "translationLookup": "gather",
+    "ipaCandidates": {
+      "en-US": "/ˈɡæðɝ/",
+      "en-GB": "/ɡˈæðɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/gather__Verb__1",
+        "sense": null,
+        "translations": "toplamak | almak | biriktirmek | buluşmak | derlemek | toplanmak",
+        "score": 102
+      },
+      {
+        "entry": "eng/gather__Verb__1",
+        "sense": "to bring parts of a whole closer",
+        "translations": "toplamak",
+        "score": 102
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "generally-1316",
+    "headword": "generally",
+    "level": "B1",
+    "raw": "generally adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "generally",
+    "translationLookup": "generally",
+    "ipaCandidates": {
+      "en-US": "/ˈdʒɛnɝəɫi/, /ˈdʒɛnɹəɫi/",
+      "en-GB": "/dʒˈɛnəɹəli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/generally__Adverb__1",
+        "sense": "popularly or widely",
+        "translations": "genellikle",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/generally__Adverb__1",
+        "sense": "as a rule; usually",
+        "translations": "çoğunlukla",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "generation-1324",
+    "headword": "generation",
+    "level": "B1",
+    "raw": "generation n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "generation",
+    "translationLookup": "generation",
+    "ipaCandidates": {
+      "en-US": "/ˌdʒɛnɝˈeɪʃən/",
+      "en-GB": "/dʒˌɛnəɹˈeɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/generation__Noun__1",
+        "sense": "single step in the succession of natural descent",
+        "translations": "nesil | kuşak",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/generation__Noun__1",
+        "sense": "period of around thirty years",
+        "translations": "nesil",
+        "score": 30.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "generous-1328",
+    "headword": "generous",
+    "level": "B1",
+    "raw": "generous adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "generous",
+    "translationLookup": "generous",
+    "ipaCandidates": {
+      "en-US": "/ˈdʒɛnɝəs/",
+      "en-GB": "/dʒˈɛnəɹəs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/generous__Adjective__1",
+        "sense": "willing to give and share unsparingly",
+        "translations": "cömert | eli açık | selek | semih",
+        "score": 110.4
+      },
+      {
+        "entry": "eng/generous__Adjective__1",
+        "sense": "large, ample",
+        "translations": "bol",
+        "score": 101
+      },
+      {
+        "entry": "eng/generous__Adjective__1",
+        "sense": "of noble birth",
+        "translations": "asil",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "gentle-1336",
+    "headword": "gentle",
+    "level": "B1",
+    "raw": "gentle adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "gentle",
+    "translationLookup": "gentle",
+    "ipaCandidates": {
+      "en-US": "/ˈdʒɛnəɫ/, /ˈdʒɛntəɫ/",
+      "en-GB": "/dʒˈɛntəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/gentle__Adjective__1",
+        "sense": null,
+        "translations": "anlayışlı | hoşgörülü | nazik | tedricî | yavaş yavaş | yumuşak başlı",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "gentleman-1340",
+    "headword": "gentleman",
+    "level": "B1",
+    "raw": "gentleman n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "gentleman",
+    "translationLookup": "gentleman",
+    "ipaCandidates": {
+      "en-US": "/ˈdʒɛnəɫmən/, /ˈdʒɛntəɫmən/",
+      "en-GB": "/dʒˈɛntəlmən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/gentleman__Noun__1",
+        "sense": "man of breeding",
+        "translations": "bey | beyefendi | centilmen | efendi | çelebi",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/gentleman__Noun__1",
+        "sense": "polite form of address to a man",
+        "translations": "bey | beyefendi",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/gentleman__Noun__1",
+        "sense": "well-bred, well-mannered, or charming man",
+        "translations": "bey | beyefendi",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "ghost-1352",
+    "headword": "ghost",
+    "level": "B1",
+    "raw": "ghost n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "ghost",
+    "translationLookup": "ghost",
+    "ipaCandidates": {
+      "en-US": "/ˈɡoʊst/",
+      "en-GB": "/ɡˈəʊst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/ghost__Noun__1",
+        "sense": "spirit appearing after death",
+        "translations": "hayalet | ruh",
+        "score": 136.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "giant-1356",
+    "headword": "giant",
+    "level": "B1",
+    "raw": "giant adj., n. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "giant",
+    "translationLookup": "giant",
+    "ipaCandidates": {
+      "en-US": "/ˈdʒaɪənt/",
+      "en-GB": "/dʒˈaɪənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/giant__Noun__1",
+        "sense": "mythical human",
+        "translations": "dev",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/giant__Adjective__1",
+        "sense": "giant",
+        "translations": "dev | devasa",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/giant__Noun__1",
+        "sense": "Greek mythological creature",
+        "translations": "dev | gigant",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/giant__Noun__1",
+        "sense": "very tall person",
+        "translations": "dev",
+        "score": 32.5
+      },
+      {
+        "entry": "eng/giant__Noun__1",
+        "sense": "luminous star",
+        "translations": "dev",
+        "score": 30.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "glad-1097",
+    "headword": "glad",
+    "level": "B1",
+    "raw": "glad adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "glad",
+    "translationLookup": "glad",
+    "ipaCandidates": {
+      "en-US": "/ˈɡɫæd/",
+      "en-GB": "/ɡlˈæd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "şen",
+        "score": 2
+      },
+      {
+        "entry": "eng/glad__Adjective__1",
+        "sense": "happy, pleased, satisfied",
+        "translations": "bahtiyar",
+        "score": 1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "global-1105",
+    "headword": "global",
+    "level": "B1",
+    "raw": "global adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 5,
+    "displayWordHint": "global",
+    "translationLookup": "global",
+    "ipaCandidates": {
+      "en-US": "/ˈɡɫoʊbəɫ/",
+      "en-GB": "/ɡlˈəʊbəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/global__Adjective__1",
+        "sense": "concerning all parts of the world",
+        "translations": "global | küresel",
+        "score": 111.1
+      },
+      {
+        "entry": "eng/global__Adjective__1",
+        "sense": "spherical",
+        "translations": "küresel",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  }
+]

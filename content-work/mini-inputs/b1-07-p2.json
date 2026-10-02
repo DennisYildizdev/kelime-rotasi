@@ -1,0 +1,895 @@
+[
+  {
+    "sourceId": "technical-2581",
+    "headword": "technical",
+    "level": "B1",
+    "raw": "technical adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "technical",
+    "translationLookup": "technical",
+    "ipaCandidates": {
+      "en-US": "/ˈtɛknɪkəɫ/",
+      "en-GB": "/tˈɛknɪkəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/technical__Adjective__1",
+        "sense": "pertaining to the useful or mechanic arts",
+        "translations": "teknik | fennî",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "technique-2585",
+    "headword": "technique",
+    "level": "B1",
+    "raw": "technique n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "technique",
+    "translationLookup": "technique",
+    "ipaCandidates": {
+      "en-US": "/tɛkˈnik/",
+      "en-GB": "/tɛknˈiːk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/technique__Noun__1",
+        "sense": "practical aspects of a given art",
+        "translations": "teknik",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "tend-2625",
+    "headword": "tend",
+    "level": "B1",
+    "raw": "tend v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "tend",
+    "translationLookup": "tend",
+    "ipaCandidates": {
+      "en-US": "/ˈtɛnd/",
+      "en-GB": "/tˈɛnd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tend__Verb__1",
+        "sense": "to be probable or likely",
+        "translations": "istemek",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/tend__Verb__2",
+        "sense": null,
+        "translations": "dikkat etmek",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/tend__Verb__2",
+        "sense": "to accompany as an assistant or protector",
+        "translations": "dikkat etmek",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/tend__Verb__2",
+        "sense": "to await, expect",
+        "translations": "beklemek",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "tent-2633",
+    "headword": "tent",
+    "level": "B1",
+    "raw": "tent n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "tent",
+    "translationLookup": "tent",
+    "ipaCandidates": {
+      "en-US": "/ˈtɛnt/",
+      "en-GB": "/tˈɛnt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tent__Noun__1",
+        "sense": "portable lodge",
+        "translations": "çadır | otağ | çerge",
+        "score": 180.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "theirs-2681",
+    "headword": "theirs",
+    "level": "B1",
+    "raw": "theirs pron. B1",
+    "pos": "pron.",
+    "senses": [
+      {
+        "partOfSpeech": "pron.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "theirs",
+    "translationLookup": "theirs",
+    "ipaCandidates": {
+      "en-US": "/ˈðɛɹz/",
+      "en-GB": "/ðˈeəz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/theirs__Pronoun__1",
+        "sense": "that which belongs to them",
+        "translations": "onlarınki",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "theme-2689",
+    "headword": "theme",
+    "level": "B1",
+    "raw": "theme n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "theme",
+    "translationLookup": "theme",
+    "ipaCandidates": {
+      "en-US": "/ˈθim/",
+      "en-GB": "/θˈiːm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/theme__Noun__1",
+        "sense": "subject of a talk or an artistic piece",
+        "translations": "tema | mevzu | ana konu",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "theory-2701",
+    "headword": "theory",
+    "level": "B1",
+    "raw": "theory n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "theory",
+    "translationLookup": "theory",
+    "ipaCandidates": {
+      "en-US": "/ˈθiɝi/, /ˈθɪɹi/",
+      "en-GB": "/θˈiəɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/theory__Noun__1",
+        "sense": "a coherent set of statements attempting to explain observed phenomena",
+        "translations": "kuram | teori | nazariye",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/theory__Noun__1",
+        "sense": "a field of study in mathematics",
+        "translations": "kuram | teori | nazariye",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/theory__Noun__1",
+        "sense": "an unproven conjecture",
+        "translations": "kuram | teori | nazariye",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/theory__Noun__1",
+        "sense": "in logic: a set of axioms and all statements derivable from them",
+        "translations": "kuram | teori",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/theory__Noun__1",
+        "sense": null,
+        "translations": "teori",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "therefore-2713",
+    "headword": "therefore",
+    "level": "B1",
+    "raw": "therefore adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "therefore",
+    "translationLookup": "therefore",
+    "ipaCandidates": {
+      "en-US": "/ˈðɛɹˌfɔɹ/",
+      "en-GB": "/ðˈeəfɔː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/therefore__Adverb__1",
+        "sense": "for that or this reason",
+        "translations": "binaenaleyh | bu nedenle | bu sebeple | bu yüzden | bundan dolayı | dolayısıyla",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/therefore__Adverb__1",
+        "sense": "consequently; by consequence",
+        "translations": "bu yüzden | bundan dolayı | o yüzden",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "though-2486",
+    "headword": "though",
+    "level": "B1",
+    "raw": "though conj., adv. B1",
+    "pos": "conj.",
+    "senses": [
+      {
+        "partOfSpeech": "conj., adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "though",
+    "translationLookup": "though",
+    "ipaCandidates": {
+      "en-US": "/ˈðoʊ/",
+      "en-GB": "/ðˈəʊ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/though__Conjunction__1",
+        "sense": "although",
+        "translations": "gerçi",
+        "score": 1.1
+      },
+      {
+        "entry": "eng/though__Adverb__1",
+        "sense": "however",
+        "translations": "ancak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "throat-2510",
+    "headword": "throat",
+    "level": "B1",
+    "raw": "throat n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "throat",
+    "translationLookup": "throat",
+    "ipaCandidates": {
+      "en-US": "/ˈθɹoʊt/",
+      "en-GB": "/θɹˈəʊt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/throat__Noun__1",
+        "sense": "front part of the neck",
+        "translations": "boğaz",
+        "score": 146.0
+      },
+      {
+        "entry": "eng/throat__Noun__1",
+        "sense": "gullet or windpipe",
+        "translations": "boğaz",
+        "score": 32.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "throughout-2518",
+    "headword": "throughout",
+    "level": "B1",
+    "raw": "throughout prep./adv. B1",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep./adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "throughout",
+    "translationLookup": "throughout",
+    "ipaCandidates": {
+      "en-US": "/θɹuˈaʊt/",
+      "en-GB": "/θɹuːˈaʊt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "baştan başa",
+        "score": 2
+      },
+      {
+        "entry": "eng/throughout__Adverb__1",
+        "sense": "everywhere",
+        "translations": "bir yerde",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "tight-2546",
+    "headword": "tight",
+    "level": "B1",
+    "raw": "tight adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "tight",
+    "translationLookup": "tight",
+    "ipaCandidates": {
+      "en-US": "/ˈtaɪt/",
+      "en-GB": "/tˈaɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tight__Adjective__1",
+        "sense": "firmly held together",
+        "translations": "bitişik",
+        "score": 100
+      },
+      {
+        "entry": "eng/tight__Adjective__1",
+        "sense": "under high tension",
+        "translations": "gergin",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "till-2550",
+    "headword": "till",
+    "level": "B1",
+    "raw": "till conj./prep. B1",
+    "pos": "conj.",
+    "senses": [
+      {
+        "partOfSpeech": "conj./prep.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "till",
+    "translationLookup": "till",
+    "ipaCandidates": {
+      "en-US": "/ˈtɪɫ/",
+      "en-GB": "/tˈɪl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/till__Noun__1",
+        "sense": "cash register",
+        "translations": "yazar kasa",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "tin-2558",
+    "headword": "tin",
+    "level": "B1",
+    "raw": "tin n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "tin",
+    "translationLookup": "tin",
+    "ipaCandidates": {
+      "en-US": "/ˈtɪn/",
+      "en-GB": "/tˈɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tin__Noun__1",
+        "sense": "element",
+        "translations": "kalay",
+        "score": 171.1
+      },
+      {
+        "entry": "eng/tin__Verb__1",
+        "sense": "to cover with tin",
+        "translations": "kalaylamak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "tiny-2562",
+    "headword": "tiny",
+    "level": "B1",
+    "raw": "tiny adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "tiny",
+    "translationLookup": "tiny",
+    "ipaCandidates": {
+      "en-US": "/ˈtaɪni/",
+      "en-GB": "/tˈaɪni/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tiny__Adjective__1",
+        "sense": "very small",
+        "translations": "küçücük | endearing | küçük | mini mini | minik",
+        "score": 100.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "toe-2586",
+    "headword": "toe",
+    "level": "B1",
+    "raw": "toe n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "toe",
+    "translationLookup": "toe",
+    "ipaCandidates": {
+      "en-US": "/ˈtoʊ/",
+      "en-GB": "/tˈəʊ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/toe__Noun__1",
+        "sense": "each of the five digits on the end of the foot",
+        "translations": "ayak parmağı",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/toe__Noun__1",
+        "sense": null,
+        "translations": "ayak parmağı",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/toe__Noun__1",
+        "sense": "any equivalent part in an animal",
+        "translations": "ayak parmağı",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "tongue-2610",
+    "headword": "tongue",
+    "level": "B1",
+    "raw": "tongue n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "tongue",
+    "translationLookup": "tongue",
+    "ipaCandidates": {
+      "en-US": "/ˈtəŋ/",
+      "en-GB": "/tˈʌŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tongue__Noun__1",
+        "sense": "organ",
+        "translations": "dil | lisan",
+        "score": 222.1
+      },
+      {
+        "entry": "eng/tongue__Noun__1",
+        "sense": "flap in a shoe",
+        "translations": "dil",
+        "score": 180.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "total-2638",
+    "headword": "total",
+    "level": "B1",
+    "raw": "total adj., n. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "total",
+    "translationLookup": "total",
+    "ipaCandidates": {
+      "en-US": "/ˈtoʊtəɫ/",
+      "en-GB": "/tˈəʊtəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/total__Adjective__1",
+        "sense": "entire",
+        "translations": "bütün | tüm",
+        "score": 101.6
+      },
+      {
+        "entry": "eng/total__Adjective__1",
+        "sense": "complete",
+        "translations": "bütün | tüm",
+        "score": 100
+      },
+      {
+        "entry": "eng/total__Noun__1",
+        "sense": "amount",
+        "translations": "tutar",
+        "score": 100
+      },
+      {
+        "entry": "eng/total__Noun__1",
+        "sense": "sum",
+        "translations": "toplam",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "totally-2642",
+    "headword": "totally",
+    "level": "B1",
+    "raw": "totally adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "totally",
+    "translationLookup": "totally",
+    "ipaCandidates": {
+      "en-US": "/ˈtoʊtəɫi/",
+      "en-GB": "/tˈəʊtəli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/totally__Adverb__1",
+        "sense": "In a total manner; completely",
+        "translations": "hepten",
+        "score": 1
+      },
+      {
+        "entry": "eng/totally__Adverb__1",
+        "sense": "very",
+        "translations": "tam",
+        "score": 1
+      },
+      {
+        "entry": "eng/totally__Adverb__1",
+        "sense": "definitely",
+        "translations": "gerçekten",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "trade-2690",
+    "headword": "trade",
+    "level": "B1",
+    "raw": "trade n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "trade",
+    "translationLookup": "trade",
+    "ipaCandidates": {
+      "en-US": "/ˈtɹeɪd/",
+      "en-GB": "/tɹˈeɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/trade__Noun__1",
+        "sense": null,
+        "translations": "ticaret | alım satım | değiş tokuş | satkanlık | satmanlık | takas",
+        "score": 125.0
+      },
+      {
+        "entry": "eng/trade__Noun__1",
+        "sense": "instance of buying or selling",
+        "translations": "alım satım | alışveriş",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/trade__Noun__1",
+        "sense": "skilled practice of an occupation",
+        "translations": "marifet | zanaat",
+        "score": 100
+      },
+      {
+        "entry": "eng/trade__Noun__1",
+        "sense": "those who perform a particular kind of skilled work",
+        "translations": "bilirkişi",
+        "score": 100
+      },
+      {
+        "entry": "eng/trade__Verb__1",
+        "sense": null,
+        "translations": "alıp satmak | değiş tokuş etmek | takas etmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "translate-2730",
+    "headword": "translate",
+    "level": "B1",
+    "raw": "translate v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "translate",
+    "translationLookup": "translate",
+    "ipaCandidates": {
+      "en-US": "/tɹænˈsɫeɪt/, /tɹænzˈɫeɪt/",
+      "en-GB": "/tɹænslˈeɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/translate__Verb__1",
+        "sense": "to change spoken words or written text from one language to another",
+        "translations": "çevirmek | tercüme etmek | terceme",
+        "score": 140.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "translation-2734",
+    "headword": "translation",
+    "level": "B1",
+    "raw": "translation n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "translation",
+    "translationLookup": "translation",
+    "ipaCandidates": {
+      "en-US": "/tɹænˈsɫeɪʃən/, /tɹænzˈɫeɪʃən/",
+      "en-GB": "/tɹænslˈeɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/translation__Noun__1",
+        "sense": "act of translating between languages",
+        "translations": "tercüme | çeviri",
+        "score": 152.9
+      },
+      {
+        "entry": "eng/translation__Noun__1",
+        "sense": "result of translating between languages",
+        "translations": "tercüme | çeviri",
+        "score": 142.9
+      },
+      {
+        "entry": "eng/translation__Noun__1",
+        "sense": "math, physics: motion without deformation or rotation",
+        "translations": "öteleme",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "treat-2750",
+    "headword": "treat",
+    "level": "B1",
+    "raw": "treat v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "treat",
+    "translationLookup": "treat",
+    "ipaCandidates": {
+      "en-US": "/ˈtɹit/",
+      "en-GB": "/tɹˈiːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/treat__Verb__1",
+        "sense": "to handle, deal with or behave towards in a specific way",
+        "translations": "davranmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "treatment-2754",
+    "headword": "treatment",
+    "level": "B1",
+    "raw": "treatment n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "treatment",
+    "translationLookup": "treatment",
+    "ipaCandidates": {
+      "en-US": "/ˈtɹitmənt/",
+      "en-GB": "/tɹˈiːtmənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/treatment__Noun__1",
+        "sense": "medical care for an illness or injury",
+        "translations": "tedavi",
+        "score": 101.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "trend-2762",
+    "headword": "trend",
+    "level": "B1",
+    "raw": "trend n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 10,
+    "displayWordHint": "trend",
+    "translationLookup": "trend",
+    "ipaCandidates": {
+      "en-US": "/ˈtɹɛnd/",
+      "en-GB": "/tɹˈɛnd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/trend__Noun__1",
+        "sense": "a fad",
+        "translations": "moda | akım | trend",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/trend__Noun__1",
+        "sense": "inclination in a direction",
+        "translations": "akım | gidişat | tandans",
+        "score": 105.0
+      }
+    ],
+    "needsExternal": []
+  }
+]

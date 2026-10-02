@@ -1,0 +1,924 @@
+[
+  {
+    "sourceId": "peaceful-1806",
+    "headword": "peaceful",
+    "level": "B1",
+    "raw": "peaceful adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "peaceful",
+    "translationLookup": "peaceful",
+    "ipaCandidates": {
+      "en-US": "/ˈpisfəɫ/",
+      "en-GB": "/pˈiːsfəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/peaceful__Adjective__1",
+        "sense": null,
+        "translations": "sakin | barışta | huzurlu | sulhta",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/peaceful__Adjective__1",
+        "sense": "inclined to peace; peaceable",
+        "translations": "uysal | yumuşak başlı",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "percentage-1842",
+    "headword": "percentage",
+    "level": "B1",
+    "raw": "percentage n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "percentage",
+    "translationLookup": "percentage",
+    "ipaCandidates": {
+      "en-US": "/pɝˈsɛnədʒ/, /pɝˈsɛnɪdʒ/, /pɝˈsɛntədʒ/, /pɝˈsɛntɪdʒ/",
+      "en-GB": "/pəsˈɛntɪdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/percentage__Noun__1",
+        "sense": "part of a whole",
+        "translations": "yüzdelik",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/percentage__Noun__1",
+        "sense": "informal: advantage",
+        "translations": "avantaj",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/percentage__Noun__1",
+        "sense": "share of the profits",
+        "translations": "yüzde",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "perfectly-1850",
+    "headword": "perfectly",
+    "level": "B1",
+    "raw": "perfectly adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "perfectly",
+    "translationLookup": "perfectly",
+    "ipaCandidates": {
+      "en-US": "/ˈpɝfəkɫi/, /ˈpɝfəktɫi/",
+      "en-GB": "/pˈɜːfɛktlˌi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/perfectly__Adverb__1",
+        "sense": "wholly, completely",
+        "translations": "asla",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/perfectly__Adverb__1",
+        "sense": "with perfection",
+        "translations": "mükemmel",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "performance-1857",
+    "headword": "performance",
+    "level": "B1",
+    "raw": "performance n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "performance",
+    "translationLookup": "performance",
+    "ipaCandidates": {
+      "en-US": "/pɝˈfɔɹməns/",
+      "en-GB": "/pəfˈɔːməns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/performance__Noun__1",
+        "sense": "the act of performing; carrying into execution or action; accomplishment",
+        "translations": "performans",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/performance__Noun__1",
+        "sense": null,
+        "translations": "performans",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "personally-1892",
+    "headword": "personally",
+    "level": "B1",
+    "raw": "personally adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "personally",
+    "translationLookup": "personal",
+    "ipaCandidates": {
+      "en-US": "/ˈpɝsənəɫi/, /ˈpɝsənɫi/, /ˈpɝsnəɫi/",
+      "en-GB": "/pˈɜːsənəli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/personal__Adjective__1",
+        "sense": "of or pertaining to a particular person",
+        "translations": "kişisel | özel | zatî | şahsi",
+        "score": 130.0
+      }
+    ],
+    "externalEvidence": {
+      "headword": "personally",
+      "sourceUrl": "https://en.wiktionary.org/wiki/personally",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ˈpɜː.sə.nə.li/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/personally"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "persuade-1899",
+    "headword": "persuade",
+    "level": "B1",
+    "raw": "persuade v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "persuade",
+    "translationLookup": "persuade",
+    "ipaCandidates": {
+      "en-US": "/pɝˈsweɪd/",
+      "en-GB": "/pəswˈeɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/persuade__Verb__1",
+        "sense": "to successfully convince (someone) to agree to",
+        "translations": "ikna etmek | razı etmek",
+        "score": 106.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "photographer-1933",
+    "headword": "photographer",
+    "level": "B1",
+    "raw": "photographer n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "photographer",
+    "translationLookup": "photographer",
+    "ipaCandidates": {
+      "en-US": "/fəˈtɑɡɹəfɝ/",
+      "en-GB": "/fətˈɒɡɹəfɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/photographer__Noun__1",
+        "sense": "one who takes photographs",
+        "translations": "fotoğrafçı",
+        "score": 131.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "photography-1937",
+    "headword": "photography",
+    "level": "B1",
+    "raw": "photography n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "photography",
+    "translationLookup": "photography",
+    "ipaCandidates": {
+      "en-US": "/fəˈtɑɡɹəfi/",
+      "en-GB": "/fətˈɒɡɹəfˌi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/photography__Noun__1",
+        "sense": "art and technology of producing images on photosensitive surfaces",
+        "translations": "fotoğrafçılık | fotoğraf",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/photography__Noun__1",
+        "sense": "occupation of taking (and often printing) photographs",
+        "translations": "fotoğrafçılık | fotoğraf",
+        "score": 130.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "pin-1981",
+    "headword": "pin",
+    "level": "B1",
+    "raw": "pin n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "pin",
+    "translationLookup": "pin",
+    "ipaCandidates": {
+      "en-US": "/ˈpɪn/",
+      "en-GB": "/pˈɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/pin__Noun__1",
+        "sense": "slender object specially designed for use in bowling",
+        "translations": "kuka | labut | lobut",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/pin__Noun__1",
+        "sense": "small nail",
+        "translations": "karfiçe",
+        "score": 100
+      },
+      {
+        "entry": "eng/pin__Verb__1",
+        "sense": "to fasten/attach with a pin",
+        "translations": "iliştirmek | pinlemek | sabitlemek | tutturmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "pipe-1989",
+    "headword": "pipe",
+    "level": "B1",
+    "raw": "pipe n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "pipe",
+    "translationLookup": "pipe",
+    "ipaCandidates": {
+      "en-US": "/ˈpaɪp/",
+      "en-GB": "/pˈaɪp/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/pipe__Noun__1",
+        "sense": "rigid tube",
+        "translations": "boru | lüle",
+        "score": 114.7
+      },
+      {
+        "entry": "eng/pipe__Noun__1",
+        "sense": "textiles: decorative edging",
+        "translations": "biye",
+        "score": 100
+      },
+      {
+        "entry": "eng/pipe__Noun__1",
+        "sense": "type of wind instrument",
+        "translations": "kaval",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "planning-2017",
+    "headword": "planning",
+    "level": "B1",
+    "raw": "planning n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "planning",
+    "translationLookup": "planning",
+    "ipaCandidates": {
+      "en-US": "/ˈpɫænɪŋ/",
+      "en-GB": "/plˈænɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/planning__Noun__1",
+        "sense": "act of formulating of a course of action",
+        "translations": "plânlama",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/planning__Noun__1",
+        "sense": "act of making contingency plans",
+        "translations": "plânlama",
+        "score": 2.5
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "tasarlama",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "pleasant-2045",
+    "headword": "pleasant",
+    "level": "B1",
+    "raw": "pleasant adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "pleasant",
+    "translationLookup": "pleasant",
+    "ipaCandidates": {
+      "en-US": "/ˈpɫɛzənt/",
+      "en-GB": "/plˈɛzənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/pleasant__Adjective__1",
+        "sense": null,
+        "translations": "hoş | güzel | sevimli | tatlı",
+        "score": 103.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "pleasure-2057",
+    "headword": "pleasure",
+    "level": "B1",
+    "raw": "pleasure n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "pleasure",
+    "translationLookup": "pleasure",
+    "ipaCandidates": {
+      "en-US": "/ˈpɫɛʒɝ/",
+      "en-GB": "/plˈɛʒɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/pleasure__Noun__1",
+        "sense": "a state of being pleased",
+        "translations": "zevk | keyif | memnuniyet",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/pleasure__Noun__1",
+        "sense": "sexual enjoyment",
+        "translations": "şehvet",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "plenty-2061",
+    "headword": "plenty",
+    "level": "B1",
+    "raw": "plenty pron. B1",
+    "pos": "pron.",
+    "senses": [
+      {
+        "partOfSpeech": "pron.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "plenty",
+    "translationLookup": "plenty",
+    "ipaCandidates": {
+      "en-US": "/ˈpɫɛni/, /ˈpɫɛnti/",
+      "en-GB": "/plˈɛnti/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/plenty__Noun__1",
+        "sense": null,
+        "translations": "bolluk",
+        "score": 100.4
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "plot-2065",
+    "headword": "plot",
+    "level": "B1",
+    "raw": "plot n. B1, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "plot",
+    "translationLookup": "plot",
+    "ipaCandidates": {
+      "en-US": "/ˈpɫɑt/",
+      "en-GB": "/plˈɒt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/plot__Noun__1",
+        "sense": "secret plan to achieve an end",
+        "translations": "komplo",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/plot__Noun__1",
+        "sense": "area of land used for building on or planting on",
+        "translations": "arsa",
+        "score": 100.2
+      },
+      {
+        "entry": "eng/plot__Noun__1",
+        "sense": "course of a story",
+        "translations": "olay örgüsü",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "plus1-2069",
+    "headword": "plus1",
+    "level": "B1",
+    "raw": "plus1 prep. B1, adj., conj., n. B2",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "adj., conj., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "plus",
+    "translationLookup": "plus",
+    "ipaCandidates": {
+      "en-US": "/ˈpɫəs/",
+      "en-GB": "/plˈʌs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/plus__Adjective__1",
+        "sense": "being positive rather than negative or zero",
+        "translations": "artı",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/plus__Preposition__1",
+        "sense": "arithmetic: sum",
+        "translations": "artı",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/plus__Preposition__1",
+        "sense": "in addition to",
+        "translations": "artı | ayrıca",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "poem-2077",
+    "headword": "poem",
+    "level": "B1",
+    "raw": "poem n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "poem",
+    "translationLookup": "poem",
+    "ipaCandidates": {
+      "en-US": "/ˈpoʊəm/",
+      "en-GB": "/pˈəʊɪm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/poem__Noun__1",
+        "sense": "literary piece written in verse",
+        "translations": "şiir | nazım | koşuk | manzume",
+        "score": 172.5
+      },
+      {
+        "entry": "eng/poem__Noun__1",
+        "sense": "piece of poetic writing",
+        "translations": "şiir | nazım",
+        "score": 172.5
+      },
+      {
+        "entry": "eng/poem__Noun__1",
+        "sense": "piece of writing in the tradition of poetry",
+        "translations": "şiir | nazım",
+        "score": 162.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "poet-2081",
+    "headword": "poet",
+    "level": "B1",
+    "raw": "poet n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "poet",
+    "translationLookup": "poet",
+    "ipaCandidates": {
+      "en-US": "/ˈpoʊət/",
+      "en-GB": "/pˈəʊɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/poet__Noun__1",
+        "sense": null,
+        "translations": "şair | ozan | şaire",
+        "score": 142.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "poetry-2085",
+    "headword": "poetry",
+    "level": "B1",
+    "raw": "poetry n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "poetry",
+    "translationLookup": "poetry",
+    "ipaCandidates": {
+      "en-US": "/ˈpoʊətɹi/",
+      "en-GB": "/pˈəʊɪtɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/poetry__Noun__1",
+        "sense": "literature composed in verse",
+        "translations": "şiir",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/poetry__Noun__1",
+        "sense": "a poet's literary production",
+        "translations": "şiir",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/poetry__Noun__1",
+        "sense": null,
+        "translations": "şıır",
+        "score": 100
+      },
+      {
+        "entry": "eng/poetry__Noun__1",
+        "sense": "poetical quality, artistic and/or artful, which appeals or stirs the imagination",
+        "translations": "şiir",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "poison-2097",
+    "headword": "poison",
+    "level": "B1",
+    "raw": "poison n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "poison",
+    "translationLookup": "poison",
+    "ipaCandidates": {
+      "en-US": "/ˈpɔɪzən/",
+      "en-GB": "/pˈɔɪzən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/poison__Noun__1",
+        "sense": "substance harmful to a living organism",
+        "translations": "zehir | ağı",
+        "score": 169.7
+      },
+      {
+        "entry": "eng/poison__Noun__1",
+        "sense": "something that harms",
+        "translations": "ağı | zıkkım",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/poison__Noun__1",
+        "sense": "liquor",
+        "translations": "zıkkım",
+        "score": 100
+      },
+      {
+        "entry": "eng/poison__Verb__1",
+        "sense": null,
+        "translations": "ağılamak | zehirlemek",
+        "score": 100
+      },
+      {
+        "entry": "eng/poison__Verb__1",
+        "sense": "make worse",
+        "translations": "zehirlemek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "poisonous-2101",
+    "headword": "poisonous",
+    "level": "B1",
+    "raw": "poisonous adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "poisonous",
+    "translationLookup": "poisonous",
+    "ipaCandidates": {
+      "en-US": "/ˈpɔɪzənəs/",
+      "en-GB": "/pˈɔɪzənəs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/poisonous__Adjective__1",
+        "sense": null,
+        "translations": "zehirli",
+        "score": 105.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "policy-2113",
+    "headword": "policy",
+    "level": "B1",
+    "raw": "policy n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "policy",
+    "translationLookup": "policy",
+    "ipaCandidates": {
+      "en-US": "/ˈpɑɫəsi/",
+      "en-GB": "/pˈɒlɪsi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/policy__Noun__2",
+        "sense": "law: insurance document",
+        "translations": "poliçe",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/policy__Noun__1",
+        "sense": "principle of conduct",
+        "translations": "politika",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "political-2121",
+    "headword": "political",
+    "level": "B1",
+    "raw": "political adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "political",
+    "translationLookup": "political",
+    "ipaCandidates": {
+      "en-US": "/pəˈɫɪtəkəɫ/, /pəˈɫɪtɪkəɫ/",
+      "en-GB": "/pəlˈɪtɪkəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/political__Adjective__1",
+        "sense": "concerning or relating to politics",
+        "translations": "politik | siyasi | siyasal",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "politician-2125",
+    "headword": "politician",
+    "level": "B1",
+    "raw": "politician n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "politician",
+    "translationLookup": "politician",
+    "ipaCandidates": {
+      "en-US": "/ˌpɑɫəˈtɪʃən/",
+      "en-GB": "/pˌɒlɪtˈɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/politician__Noun__1",
+        "sense": "one engaged in politics",
+        "translations": "siyasetçi | politikacı",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/politician__Noun__1",
+        "sense": null,
+        "translations": "devlet adami",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "politics-2129",
+    "headword": "politics",
+    "level": "B1",
+    "raw": "politics n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "politics",
+    "translationLookup": "politics",
+    "ipaCandidates": {
+      "en-US": "/ˈpɑɫəˌtɪks/",
+      "en-GB": "/pˈɒlətˌɪks/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/politics__Noun__1",
+        "sense": "a methodology and activities associated with running a government",
+        "translations": "politika | siyaset",
+        "score": 152.5
+      }
+    ],
+    "needsExternal": []
+  }
+]

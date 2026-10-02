@@ -1,0 +1,938 @@
+[
+  {
+    "sourceId": "institute-1412",
+    "headword": "institute",
+    "level": "B2",
+    "raw": "institute n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "institute",
+    "translationLookup": "institute",
+    "ipaCandidates": {
+      "en-US": "/ˈɪnstəˌtut/",
+      "en-GB": "/ˈɪnstɪtjˌuːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/institute__Noun__1",
+        "sense": "college",
+        "translations": "enstitü",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/institute__Noun__1",
+        "sense": "organization founded to promote a cause",
+        "translations": "enstitü",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "institution-1416",
+    "headword": "institution",
+    "level": "B2",
+    "raw": "institution n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "institution",
+    "translationLookup": "institution",
+    "ipaCandidates": {
+      "en-US": "/ˌɪnstɪˈtuʃən/",
+      "en-GB": "/ˌɪnstɪtjˈuːʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/institution__Noun__1",
+        "sense": "established organisation",
+        "translations": "kurum | müessese | kuruluş",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "insurance-1430",
+    "headword": "insurance",
+    "level": "B2",
+    "raw": "insurance n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "insurance",
+    "translationLookup": "insurance",
+    "ipaCandidates": {
+      "en-US": "/ˌɪnˈʃʊɹəns/",
+      "en-GB": "/ɪnʃˈɔːɹəns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/insurance__Noun__1",
+        "sense": "indemnity",
+        "translations": "sigorta",
+        "score": 117.5
+      },
+      {
+        "entry": "eng/insurance__Noun__1",
+        "sense": "business",
+        "translations": "sigortacılık",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "intended-1445",
+    "headword": "intended",
+    "level": "B2",
+    "raw": "intended adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "intended",
+    "translationLookup": "intend",
+    "ipaCandidates": {
+      "en-US": "/ˌɪnˈtɛndɪd/, /ɪnˈtɛndɪd/",
+      "en-GB": "/ɪntˈɛndɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/intend__Verb__1",
+        "sense": null,
+        "translations": "niyet etmek | planlamak",
+        "score": 100
+      }
+    ],
+    "externalEvidence": {
+      "headword": "intended",
+      "sourceUrl": "https://en.wiktionary.org/wiki/intended",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ɪnˈtɛndɪd/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/intended"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "intense-1448",
+    "headword": "intense",
+    "level": "B2",
+    "raw": "intense adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "intense",
+    "translationLookup": "intense",
+    "ipaCandidates": {
+      "en-US": "/ˌɪnˈtɛns/",
+      "en-GB": "/ɪntˈɛns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/intense__Adjective__1",
+        "sense": "under tension",
+        "translations": "yoğun",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "internal-1467",
+    "headword": "internal",
+    "level": "B2",
+    "raw": "internal adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "internal",
+    "translationLookup": "internal",
+    "ipaCandidates": {
+      "en-US": "/ˌɪnˈtɝnəɫ/",
+      "en-GB": "/ɪntˈɜːnəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/internal__Adjective__1",
+        "sense": null,
+        "translations": "dâhilî",
+        "score": 10.0
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "içsel",
+        "score": 2
+      },
+      {
+        "entry": "eng/internal__Adjective__1",
+        "sense": "inside of something",
+        "translations": "iç",
+        "score": 1.0
+      },
+      {
+        "entry": "eng/internal__Adjective__1",
+        "sense": "concerned with the domestic affairs of a nation, state etc.",
+        "translations": "iç",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/internal__Adjective__1",
+        "sense": "concerned with the non-public affairs of a company or other organisation",
+        "translations": "iç",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/internal__Adjective__1",
+        "sense": "within the body",
+        "translations": "iç",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "interpret-1477",
+    "headword": "interpret",
+    "level": "B2",
+    "raw": "interpret v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "interpret",
+    "translationLookup": "interpret",
+    "ipaCandidates": {
+      "en-US": "/ˌɪnˈtɝpɹət/",
+      "en-GB": "/ɪntˈɜːpɹɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/interpret__Verb__1",
+        "sense": "to act as an interpreter",
+        "translations": "tercümanlık",
+        "score": 1
+      },
+      {
+        "entry": "eng/interpret__Verb__1",
+        "sense": "to explain or tell the meaning of",
+        "translations": "anlatmak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "interrupt-1480",
+    "headword": "interrupt",
+    "level": "B2",
+    "raw": "interrupt v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "interrupt",
+    "translationLookup": "interrupt",
+    "ipaCandidates": {
+      "en-US": "/ˌɪntɝˈəpt/",
+      "en-GB": "/ˈɪntəɹˌʌpt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/interrupt__Verb__1",
+        "sense": "to disturb or halt an ongoing process or action",
+        "translations": "kesilmek | kesmek | araya girmek",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/interrupt__Verb__1",
+        "sense": "computing: to assert that an exceptional condition must be handled",
+        "translations": "kesmek | iş kesmek",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/interrupt__Noun__1",
+        "sense": "an event that causes a computer to temporarily cease",
+        "translations": "iş kesme | kesme",
+        "score": 100
+      },
+      {
+        "entry": "eng/interrupt__Verb__1",
+        "sense": "to assert an exceptional condition",
+        "translations": "kesmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "investigation-1516",
+    "headword": "investigation",
+    "level": "B2",
+    "raw": "investigation n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "investigation",
+    "translationLookup": "investigation",
+    "ipaCandidates": {
+      "en-US": "/ˌɪnˌvɛstəˈɡeɪʃən/",
+      "en-GB": "/ɪnvˌɛstɪɡˈeɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/investigation__Noun__1",
+        "sense": "the act of investigating",
+        "translations": "inceleme | soruşturma | tahkikat",
+        "score": 101.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "investment-1520",
+    "headword": "investment",
+    "level": "B2",
+    "raw": "investment n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "investment",
+    "translationLookup": "investment",
+    "ipaCandidates": {
+      "en-US": "/ˌɪnˈvɛsmənt/, /ˌɪnˈvɛstmənt/",
+      "en-GB": "/ɪnvˈɛstmənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/investment__Noun__1",
+        "sense": "placement of capital in expectation of deriving income or profit from its use",
+        "translations": "yatırım | envestisman",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "joy-1620",
+    "headword": "joy",
+    "level": "B2",
+    "raw": "joy n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "joy",
+    "translationLookup": "joy",
+    "ipaCandidates": {
+      "en-US": "/ˈdʒɔɪ/",
+      "en-GB": "/dʒˈɔɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/joy__Noun__1",
+        "sense": "feeling of happiness",
+        "translations": "sevinç | haz | keyif | mutluluk | zevk | neşe",
+        "score": 131.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "judgement-1628",
+    "headword": "judgement",
+    "level": "B2",
+    "raw": "judgement n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "judgement",
+    "translationLookup": "judgement",
+    "ipaCandidates": {
+      "en-US": "/ˈdʒədʒmənt/",
+      "en-GB": "/dʒˈʌdʒmənt/"
+    },
+    "dictionaryCandidates": [],
+    "externalEvidence": {
+      "headword": "judgement",
+      "sourceUrl": "https://en.wiktionary.org/wiki/judgement",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ˈd͡ʒʌd͡ʒ.mənt/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/judgement"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "junior-1377",
+    "headword": "junior",
+    "level": "B2",
+    "raw": "junior adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "junior",
+    "translationLookup": "junior",
+    "ipaCandidates": {
+      "en-US": "/ˈdʒunjɝ/",
+      "en-GB": "/dʒˈuːnjɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/junior__Adjective__1",
+        "sense": "younger",
+        "translations": "genç",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "justice-1385",
+    "headword": "justice",
+    "level": "B2",
+    "raw": "justice n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "justice",
+    "translationLookup": "justice",
+    "ipaCandidates": {
+      "en-US": "/ˈdʒəstəs/, /ˈdʒəstɪs/",
+      "en-GB": "/dʒˈʌstɪs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/justice__Noun__1",
+        "sense": "the civil power dealing with law",
+        "translations": "adalet",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/justice__Noun__1",
+        "sense": "state of being just or fair",
+        "translations": "adalet",
+        "score": 142.5
+      },
+      {
+        "entry": "eng/justice__Noun__1",
+        "sense": "fairness, especially with regard to punishment",
+        "translations": "adalet",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/justice__Noun__1",
+        "sense": "judgment and punishment of who wronged another",
+        "translations": "adalet",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/justice__Noun__1",
+        "sense": "correctness",
+        "translations": "adalet",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "justify-1389",
+    "headword": "justify",
+    "level": "B2",
+    "raw": "justify v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "justify",
+    "translationLookup": "justify",
+    "ipaCandidates": {
+      "en-US": "/ˈdʒəstəˌfaɪ/",
+      "en-GB": "/dʒˈʌstɪfˌaɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/justify__Verb__1",
+        "sense": "arrange lines on a page or computer screen",
+        "translations": "ayarlamak | hizaya sokmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/justify__Verb__1",
+        "sense": "excuse something bad, warrant",
+        "translations": "doğrulamak | teyyit etmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/justify__Verb__1",
+        "sense": "provide an acceptable explanation",
+        "translations": "haklı göstermek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "labour-1475",
+    "headword": "labour",
+    "level": "B2",
+    "raw": "labour n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "labour",
+    "translationLookup": "labour",
+    "ipaCandidates": {
+      "en-US": "/ˈɫeɪbɝ/",
+      "en-GB": "/lˈeɪbɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/labour__Noun__1",
+        "sense": "work",
+        "translations": "iş | emek",
+        "score": 103.6
+      },
+      {
+        "entry": "eng/labour__Noun__1",
+        "sense": "workers",
+        "translations": "işçiler",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "landscape-1497",
+    "headword": "landscape",
+    "level": "B2",
+    "raw": "landscape n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "landscape",
+    "translationLookup": "landscape",
+    "ipaCandidates": {
+      "en-US": "/ˈɫænˌskeɪp/, /ˈɫændˌskeɪp/",
+      "en-GB": "/lˈændskeɪp/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/landscape__Noun__1",
+        "sense": "portion of land or territory",
+        "translations": "manzara | peyzaj | manzara-i tabii | panaroma | suver-i tabii | tabiat manzarası",
+        "score": 125.0
+      },
+      {
+        "entry": "eng/landscape__Noun__1",
+        "sense": "pictorial aspect of a country",
+        "translations": "manzara | peyzaj",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/landscape__Noun__1",
+        "sense": "mode of printing",
+        "translations": "yatay",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "largely-1513",
+    "headword": "largely",
+    "level": "B2",
+    "raw": "largely adv. B2",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "largely",
+    "translationLookup": "largely",
+    "ipaCandidates": {
+      "en-US": "/ˈɫɑɹdʒɫi/",
+      "en-GB": "/lˈɑːdʒli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/largely__Adverb__1",
+        "sense": null,
+        "translations": "hepten",
+        "score": 1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "launch-1545",
+    "headword": "launch",
+    "level": "B2",
+    "raw": "launch v., n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "launch",
+    "translationLookup": "launch",
+    "ipaCandidates": {
+      "en-US": "/ˈɫɔntʃ/",
+      "en-GB": "/lˈɔːntʃ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/launch__Verb__1",
+        "sense": "to start (a program or feature)",
+        "translations": "çalıştırmak | açmak",
+        "score": 101
+      },
+      {
+        "entry": "eng/launch__Verb__1",
+        "sense": null,
+        "translations": "açılmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "leadership-1577",
+    "headword": "leadership",
+    "level": "B2",
+    "raw": "leadership n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "leadership",
+    "translationLookup": "leadership",
+    "ipaCandidates": {
+      "en-US": "/ˈɫidɝˌʃɪp/",
+      "en-GB": "/lˈiːdəʃˌɪp/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/leadership__Noun__1",
+        "sense": "capacity to lead",
+        "translations": "liderlik",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "league-1589",
+    "headword": "league",
+    "level": "B2",
+    "raw": "league n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "league",
+    "translationLookup": "league",
+    "ipaCandidates": {
+      "en-US": "/ˈɫiɡ/",
+      "en-GB": "/lˈiːɡ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/league__Noun__1",
+        "sense": "organization of sports teams",
+        "translations": "lig",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/league__Noun__2",
+        "sense": "distance",
+        "translations": "fersah",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/league__Noun__1",
+        "sense": "a group or association of cooperating members",
+        "translations": "lig",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "lean-1593",
+    "headword": "lean",
+    "level": "B2",
+    "raw": "lean v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "lean",
+    "translationLookup": "lean",
+    "ipaCandidates": {
+      "en-US": "/ˈɫin/",
+      "en-GB": "/lˈiːn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/lean__Adjective__1",
+        "sense": null,
+        "translations": "ince | zayıf",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/lean__Adjective__1",
+        "sense": "having little extra or little to spare",
+        "translations": "kıt",
+        "score": 100
+      },
+      {
+        "entry": "eng/lean__Adjective__1",
+        "sense": "of meat, having little fat",
+        "translations": "yağlı | yağsız",
+        "score": 100
+      },
+      {
+        "entry": "eng/lean__Verb__1",
+        "sense": "to hang outwards",
+        "translations": "dayanmak | yaslanmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "licence-1402",
+    "headword": "licence",
+    "level": "B2",
+    "raw": "licence n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "licence",
+    "translationLookup": "licence",
+    "ipaCandidates": {
+      "en-US": "/ˈɫaɪsəns/",
+      "en-GB": "/lˈaɪsəns/"
+    },
+    "dictionaryCandidates": [],
+    "externalEvidence": {
+      "headword": "licence",
+      "sourceUrl": "https://en.wiktionary.org/wiki/licence",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ˈlaɪ.səns/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/licence"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "limited-1461",
+    "headword": "limited",
+    "level": "B2",
+    "raw": "limited adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "limited",
+    "translationLookup": "limited",
+    "ipaCandidates": {
+      "en-US": "/ˈɫɪmətəd/, /ˈɫɪmɪtɪd/",
+      "en-GB": "/lˈɪmɪtɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/limited__Adjective__1",
+        "sense": "with certain limits placed upon it",
+        "translations": "sınırlı | tahdit edilmiş",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "lively-1510",
+    "headword": "lively",
+    "level": "B2",
+    "raw": "lively adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "lively",
+    "translationLookup": "lively",
+    "ipaCandidates": {
+      "en-US": "/ˈɫaɪvɫi/",
+      "en-GB": "/lˈaɪvli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/lively__Adjective__1",
+        "sense": null,
+        "translations": "canlı",
+        "score": 10.6
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "animato",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  }
+]

@@ -1,0 +1,2 @@
+# Optional: PDF reconciliation only; not needed to run the web app.
+PyMuPDF==1.28.2

@@ -1,0 +1,461 @@
+[
+  {
+    "sourceId": "embarrassing-1028",
+    "headword": "embarrassing",
+    "displayWord": "embarrassing",
+    "speechText": "embarrassing",
+    "translation": "utandırıcı",
+    "example": "That was an embarrassing mistake at work.",
+    "exampleTr": "Bu, iş yerinde utandırıcı bir hataydı.",
+    "ipaUS": "/ɪmˈbɛɹəsɪŋ/",
+    "approxUS": "im-ber-ı-sing",
+    "topicTags": [
+      "feelings",
+      "descriptions"
+    ],
+    "selectedSense": "causing embarrassment or shame",
+    "translationEvidence": "eng/embarrass__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:embarrassing",
+    "contentNote": "Sıfat anlamı, girdideki aynı kökten gelen fiil kanıtıyla desteklenir. Ortadaki kısa ı sesi belirgindir."
+  },
+  {
+    "sourceId": "emergency-1036",
+    "headword": "emergency",
+    "displayWord": "emergency",
+    "speechText": "emergency",
+    "translation": "acil durum",
+    "example": "Call this number in an emergency.",
+    "exampleTr": "Acil bir durumda bu numarayı ara.",
+    "ipaUS": "/ɪˈmɝdʒənsi/",
+    "approxUS": "i-mör-cın-si",
+    "topicTags": [
+      "daily-life",
+      "communication"
+    ],
+    "selectedSense": "a situation requiring urgent help",
+    "translationEvidence": "eng/emergency__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:emergency",
+    "contentNote": "Vurgulu hecedeki r sesi Türkçe r'den farklıdır."
+  },
+  {
+    "sourceId": "emotion-1040",
+    "headword": "emotion",
+    "displayWord": "emotion",
+    "speechText": "emotion",
+    "translation": "duygu",
+    "example": "Her face showed no emotion.",
+    "exampleTr": "Yüzünde hiçbir duygu görünmüyordu.",
+    "ipaUS": "/ɪˈmoʊʃən/",
+    "approxUS": "i-mou-şın",
+    "topicTags": [
+      "feelings"
+    ],
+    "selectedSense": "a person's internal feeling",
+    "translationEvidence": "eng/emotion__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:emotion"
+  },
+  {
+    "sourceId": "employment-1068",
+    "headword": "employment",
+    "displayWord": "employment",
+    "speechText": "employment",
+    "translation": "istihdam",
+    "example": "Stable employment changed his life.",
+    "exampleTr": "Düzenli istihdam onun hayatını değiştirdi.",
+    "ipaUS": "/ɪmˈpɫɔɪmənt/",
+    "approxUS": "im-ploy-mınt",
+    "topicTags": [
+      "work"
+    ],
+    "selectedSense": "the state of having paid work",
+    "translationEvidence": "eng/employment__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:employment",
+    "contentNote": "Girdideki hizmet karşılığı bu genel iş sahibi olma anlamını açık vermediği için modern karşılık olarak istihdam seçildi."
+  },
+  {
+    "sourceId": "encourage-1084",
+    "headword": "encourage",
+    "displayWord": "encourage",
+    "speechText": "encourage",
+    "translation": "teşvik etmek",
+    "example": "Teachers encourage us to ask questions.",
+    "exampleTr": "Öğretmenler bizi soru sormaya teşvik eder.",
+    "ipaUS": "/ɪnˈkɝədʒ/",
+    "approxUS": "in-kör-ıc",
+    "topicTags": [
+      "communication",
+      "actions",
+      "school"
+    ],
+    "selectedSense": "to motivate or give confidence",
+    "translationEvidence": "eng/encourage__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:encourage",
+    "contentNote": "Son ses Türkçedeki c sesine yakındır."
+  },
+  {
+    "sourceId": "enemy-817",
+    "headword": "enemy",
+    "displayWord": "enemy",
+    "speechText": "enemy",
+    "translation": "düşman",
+    "example": "Fear can become your worst enemy.",
+    "exampleTr": "Korku en büyük düşmanın olabilir.",
+    "ipaUS": "/ˈɛnəmi/",
+    "approxUS": "e-nı-mi",
+    "topicTags": [
+      "people",
+      "feelings"
+    ],
+    "selectedSense": "a hostile person or opposing force",
+    "translationEvidence": "eng/enemy__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:enemy"
+  },
+  {
+    "sourceId": "engaged-829",
+    "headword": "engaged",
+    "displayWord": "engaged",
+    "speechText": "engaged",
+    "translation": "nişanlı",
+    "example": "My sister is engaged to Daniel.",
+    "exampleTr": "Kız kardeşim Daniel ile nişanlı.",
+    "ipaUS": "/ɛnˈɡeɪdʒd/",
+    "approxUS": "en-geycd",
+    "topicTags": [
+      "family",
+      "people"
+    ],
+    "selectedSense": "having agreed to marry",
+    "translationEvidence": "eng/engaged__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:engaged",
+    "contentNote": "Sondaki iki ünsüz birlikte ve kısa söylenir."
+  },
+  {
+    "sourceId": "engineering-841",
+    "headword": "engineering",
+    "displayWord": "engineering",
+    "speechText": "engineering",
+    "translation": "mühendislik",
+    "example": "She studies engineering at university.",
+    "exampleTr": "Üniversitede mühendislik okuyor.",
+    "ipaUS": "/ˈɛndʒəˈnɪɹɪŋ/",
+    "approxUS": "en-cı-ni-ring",
+    "topicTags": [
+      "school",
+      "work",
+      "technology"
+    ],
+    "selectedSense": "the work or study of an engineer",
+    "translationEvidence": "eng/engineering__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:engineering",
+    "contentNote": "Son hecedeki ng tek bir burun sesine yakındır; ayrı bir g duyulmaz."
+  },
+  {
+    "sourceId": "entertain-873",
+    "headword": "entertain",
+    "displayWord": "entertain",
+    "speechText": "entertain",
+    "translation": "eğlendirmek",
+    "example": "Street musicians entertain the evening crowd.",
+    "exampleTr": "Sokak müzisyenleri akşam kalabalığını eğlendirir.",
+    "ipaUS": "/ˌɛntɝˈteɪn/",
+    "approxUS": "en-tör-teyn",
+    "topicTags": [
+      "culture",
+      "actions"
+    ],
+    "selectedSense": "to amuse or give enjoyment",
+    "translationEvidence": "eng/entertain__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:entertain"
+  },
+  {
+    "sourceId": "entertainment-877",
+    "headword": "entertainment",
+    "displayWord": "entertainment",
+    "speechText": "entertainment",
+    "translation": "eğlence",
+    "example": "The hotel offers live entertainment nightly.",
+    "exampleTr": "Otel her gece canlı eğlence sunuyor.",
+    "ipaUS": "/ˌɛntɝˈteɪnmənt/",
+    "approxUS": "en-tör-teyn-mınt",
+    "topicTags": [
+      "culture",
+      "travel"
+    ],
+    "selectedSense": "an activity designed to give pleasure",
+    "translationEvidence": "eng/entertainment__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:entertainment"
+  },
+  {
+    "sourceId": "entrance-897",
+    "headword": "entrance",
+    "displayWord": "entrance",
+    "speechText": "entrance",
+    "translation": "giriş",
+    "example": "Meet me beside the main entrance.",
+    "exampleTr": "Benimle ana girişin yanında buluş.",
+    "ipaUS": "/ˈɛntɹəns/",
+    "approxUS": "en-trıns",
+    "topicTags": [
+      "places",
+      "travel"
+    ],
+    "selectedSense": "a place used for entering",
+    "translationEvidence": "eng/entrance__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:entrance"
+  },
+  {
+    "sourceId": "entry-901",
+    "headword": "entry",
+    "displayWord": "entry",
+    "speechText": "entry",
+    "translation": "giriş",
+    "example": "Free entry is available before six.",
+    "exampleTr": "Saat altıdan önce ücretsiz giriş vardır.",
+    "ipaUS": "/ˈɛntɹi/",
+    "approxUS": "en-tri",
+    "topicTags": [
+      "places",
+      "money"
+    ],
+    "selectedSense": "the act or right of entering",
+    "translationEvidence": "eng/entry__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:entry"
+  },
+  {
+    "sourceId": "environmental-909",
+    "headword": "environmental",
+    "displayWord": "environmental",
+    "speechText": "environmental",
+    "translation": "çevresel",
+    "example": "The group discusses environmental problems weekly.",
+    "exampleTr": "Grup çevresel sorunları her hafta tartışıyor.",
+    "ipaUS": "/ɪnˌvaɪɹənˈmɛntəɫ/",
+    "approxUS": "in-vay-rın-men-tıl",
+    "topicTags": [
+      "nature",
+      "descriptions"
+    ],
+    "selectedSense": "relating to the natural environment",
+    "translationEvidence": "eng/environmental__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:environmental"
+  },
+  {
+    "sourceId": "episode-913",
+    "headword": "episode",
+    "displayWord": "episode",
+    "speechText": "episode",
+    "translation": "bölüm",
+    "example": "We watched one episode after dinner.",
+    "exampleTr": "Akşam yemeğinden sonra bir bölüm izledik.",
+    "ipaUS": "/ˈɛpɪˌsoʊd/",
+    "approxUS": "e-pi-soud",
+    "topicTags": [
+      "culture",
+      "daily-life"
+    ],
+    "selectedSense": "one instalment of a series",
+    "translationEvidence": "eng/episode__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:episode"
+  },
+  {
+    "sourceId": "equal-917",
+    "headword": "equal",
+    "displayWord": "equal",
+    "speechText": "equal",
+    "translation": "eşit",
+    "example": "Both teams have an equal chance.",
+    "exampleTr": "İki takımın da eşit şansı var.",
+    "ipaUS": "/ˈikwəɫ/",
+    "approxUS": "ii-kuıl",
+    "topicTags": [
+      "descriptions",
+      "sport"
+    ],
+    "selectedSense": "the same in amount or status",
+    "translationEvidence": "eng/equal__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:equal"
+  },
+  {
+    "sourceId": "equally-921",
+    "headword": "equally",
+    "displayWord": "equally",
+    "speechText": "equally",
+    "translation": "eşit şekilde",
+    "example": "The teacher treated everyone equally.",
+    "exampleTr": "Öğretmen herkese eşit şekilde davrandı.",
+    "ipaUS": "/ˈikwəɫi/",
+    "approxUS": "ii-kuı-li",
+    "topicTags": [
+      "descriptions",
+      "school"
+    ],
+    "selectedSense": "in the same or fair manner",
+    "translationEvidence": "eng/equal__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:equally",
+    "contentNote": "Girdideki equal sıfat kaydı, equally zarfının eşit biçimde anlamına kanıt sağlar."
+  },
+  {
+    "sourceId": "escape-933",
+    "headword": "escape",
+    "displayWord": "escape",
+    "speechText": "escape",
+    "translation": "kaçmak",
+    "example": "The prisoners tried to escape at night.",
+    "exampleTr": "Mahkûmlar gece kaçmaya çalıştı.",
+    "ipaUS": "/ɪˈskeɪp/",
+    "approxUS": "i-skeyp",
+    "topicTags": [
+      "actions"
+    ],
+    "selectedSense": "to get free or away",
+    "translationEvidence": "eng/escape__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:escape"
+  },
+  {
+    "sourceId": "essential-945",
+    "headword": "essential",
+    "displayWord": "essential",
+    "speechText": "essential",
+    "translation": "gerekli",
+    "example": "Clean water is essential for health.",
+    "exampleTr": "Temiz su sağlık için gereklidir.",
+    "ipaUS": "/iˈsɛnʃəɫ/",
+    "approxUS": "i-sen-şıl",
+    "topicTags": [
+      "descriptions",
+      "body"
+    ],
+    "selectedSense": "completely necessary",
+    "translationEvidence": "eng/essential__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:essential",
+    "contentNote": "Girdideki necessary anlamlı temel karşılığı bağlama uygun modern Türkçede gerekli olarak verildi."
+  },
+  {
+    "sourceId": "eventually-985",
+    "headword": "eventually",
+    "displayWord": "eventually",
+    "speechText": "eventually",
+    "translation": "sonunda",
+    "example": "The missing dog eventually came home.",
+    "exampleTr": "Kayıp köpek sonunda eve geldi.",
+    "ipaUS": "/iˈvɛnʃəɫi/",
+    "approxUS": "i-ven-şı-li",
+    "topicTags": [
+      "time"
+    ],
+    "selectedSense": "in the end, after some time",
+    "translationEvidence": "eng/eventually__Adverb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:eventually"
+  },
+  {
+    "sourceId": "examine-1041",
+    "headword": "examine",
+    "displayWord": "examine",
+    "speechText": "examine",
+    "translation": "incelemek",
+    "example": "The doctor will examine your injured hand.",
+    "exampleTr": "Doktor yaralı elini muayene edecek.",
+    "ipaUS": "/ɪɡˈzæmɪn/",
+    "approxUS": "ig-ze-min",
+    "topicTags": [
+      "body",
+      "actions"
+    ],
+    "selectedSense": "to inspect carefully",
+    "translationEvidence": "eng/examine__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:examine",
+    "contentNote": "Sağlık bağlamında incelemek, muayene etmek anlamındadır."
+  },
+  {
+    "sourceId": "exchange-1057",
+    "headword": "exchange",
+    "displayWord": "exchange",
+    "speechText": "exchange",
+    "translation": "değişim",
+    "example": "Our schools arranged a student exchange.",
+    "exampleTr": "Okullarımız bir öğrenci değişimi düzenledi.",
+    "ipaUS": "/ɪksˈtʃeɪndʒ/",
+    "approxUS": "iks-çeync",
+    "topicTags": [
+      "school",
+      "travel"
+    ],
+    "selectedSense": "an act of giving one thing for another",
+    "translationEvidence": "eng/exchange__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:exchange",
+    "contentNote": "Girdideki mübadele karşılığının günlük ve eğitim bağlamındaki modern biçimi değişimdir."
+  },
+  {
+    "sourceId": "excitement-1065",
+    "headword": "excitement",
+    "displayWord": "excitement",
+    "speechText": "excitement",
+    "translation": "coşku",
+    "example": "The children shouted with excitement.",
+    "exampleTr": "Çocuklar coşkuyla bağırdı.",
+    "ipaUS": "/ɪkˈsaɪtmənt/",
+    "approxUS": "ik-sayt-mınt",
+    "topicTags": [
+      "feelings"
+    ],
+    "selectedSense": "a strong feeling of enthusiasm",
+    "translationEvidence": "https://dictionary.cambridge.org/dictionary/english-turkish/excitement",
+    "ipaEvidenceUS": "ipa-dict/en_US:excitement",
+    "contentNote": "Seçilen coşku adayının entry değeri girdide boş bırakılmıştır."
+  },
+  {
+    "sourceId": "exhibition-1085",
+    "headword": "exhibition",
+    "displayWord": "exhibition",
+    "speechText": "exhibition",
+    "translation": "sergi",
+    "example": "The photography exhibition opens tomorrow.",
+    "exampleTr": "Fotoğraf sergisi yarın açılıyor.",
+    "ipaUS": "/ˌɛksəˈbɪʃən/",
+    "approxUS": "ek-sı-bi-şın",
+    "topicTags": [
+      "culture",
+      "places"
+    ],
+    "selectedSense": "a public showing of objects or products",
+    "translationEvidence": "eng/exhibition__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:exhibition"
+  },
+  {
+    "sourceId": "expand-818",
+    "headword": "expand",
+    "displayWord": "expand",
+    "speechText": "expand",
+    "translation": "genişlemek",
+    "example": "The company plans to expand abroad.",
+    "exampleTr": "Şirket yurt dışında genişlemeyi planlıyor.",
+    "ipaUS": "/ɪkˈspænd/",
+    "approxUS": "ik-spend",
+    "topicTags": [
+      "work",
+      "actions"
+    ],
+    "selectedSense": "to become larger or more extensive",
+    "translationEvidence": "eng/expand__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:expand",
+    "contentNote": "Vurgulu ünlü Türkçedeki e ile a arasındadır."
+  },
+  {
+    "sourceId": "expected-830",
+    "headword": "expected",
+    "displayWord": "expected",
+    "speechText": "expected",
+    "translation": "beklenen",
+    "example": "The expected delivery arrived early.",
+    "exampleTr": "Beklenen teslimat erken geldi.",
+    "ipaUS": "/ɪkˈspɛktɪd/",
+    "approxUS": "ik-spek-tid",
+    "topicTags": [
+      "descriptions",
+      "daily-life"
+    ],
+    "selectedSense": "anticipated or thought likely to happen",
+    "translationEvidence": "eng/expected__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:expected"
+  }
+]

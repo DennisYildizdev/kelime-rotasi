@@ -1,0 +1,453 @@
+[
+  {
+    "sourceId": "force-1063",
+    "headword": "force",
+    "displayWord": "force",
+    "speechText": "force",
+    "translation": "kuvvet",
+    "example": "Force can move a heavy object.",
+    "exampleTr": "Kuvvet ağır bir nesneyi hareket ettirebilir.",
+    "ipaUS": "/ˈfɔɹs/",
+    "approxUS": "fors",
+    "topicTags": [
+      "nature",
+      "descriptions"
+    ],
+    "selectedSense": "physical power that moves or changes something",
+    "translationEvidence": "eng/force__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:force"
+  },
+  {
+    "sourceId": "forever-1075",
+    "headword": "forever",
+    "displayWord": "forever",
+    "speechText": "forever",
+    "translation": "sonsuza dek",
+    "example": "No summer holiday can last forever.",
+    "exampleTr": "Hiçbir yaz tatili sonsuza dek süremez.",
+    "ipaUS": "/fɝˈɛvɝ/",
+    "approxUS": "fır-evır",
+    "topicTags": [
+      "time"
+    ],
+    "selectedSense": "for all future time",
+    "translationEvidence": "eng/forever__Adverb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:forever"
+  },
+  {
+    "sourceId": "frame-1132",
+    "headword": "frame",
+    "displayWord": "frame",
+    "speechText": "frame",
+    "translation": "çerçeve",
+    "example": "This wooden frame holds our family photo.",
+    "exampleTr": "Bu ahşap çerçeve aile fotoğrafımızı tutuyor.",
+    "ipaUS": "/ˈfɹeɪm/",
+    "approxUS": "freym",
+    "topicTags": [
+      "home"
+    ],
+    "selectedSense": "a rigid border around a picture",
+    "translationEvidence": "eng/frame__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:frame"
+  },
+  {
+    "sourceId": "freeze-1144",
+    "headword": "freeze",
+    "displayWord": "freeze",
+    "speechText": "freeze",
+    "translation": "donmak",
+    "example": "Small lakes freeze during very cold winters.",
+    "exampleTr": "Küçük göller çok soğuk kışlarda donar.",
+    "ipaUS": "/ˈfɹiz/",
+    "approxUS": "friiz",
+    "topicTags": [
+      "nature",
+      "actions"
+    ],
+    "selectedSense": "to become solid because of cold",
+    "translationEvidence": "eng/freeze__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:freeze"
+  },
+  {
+    "sourceId": "frequently-1152",
+    "headword": "frequently",
+    "displayWord": "frequently",
+    "speechText": "frequently",
+    "translation": "sık sık",
+    "example": "We frequently visit our cousins after school.",
+    "exampleTr": "Okuldan sonra kuzenlerimizi sık sık ziyaret ederiz.",
+    "ipaUS": "/ˈfɹikwəntɫi/",
+    "approxUS": "fri-kuınt-li",
+    "topicTags": [
+      "time",
+      "daily-life"
+    ],
+    "selectedSense": "at frequent intervals; often",
+    "translationEvidence": "eng/frequently__Adverb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:frequently"
+  },
+  {
+    "sourceId": "friendship-1176",
+    "headword": "friendship",
+    "displayWord": "friendship",
+    "speechText": "friendship",
+    "translation": "dostluk",
+    "example": "Their friendship grew stronger over time.",
+    "exampleTr": "Dostlukları zamanla güçlendi.",
+    "ipaUS": "/ˈfɹɛndʃɪp/",
+    "approxUS": "frend-şip",
+    "topicTags": [
+      "people",
+      "feelings"
+    ],
+    "selectedSense": "the condition of being friends",
+    "translationEvidence": "eng/friendship__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:friendship"
+  },
+  {
+    "sourceId": "frighten-1180",
+    "headword": "frighten",
+    "displayWord": "frighten",
+    "speechText": "frighten",
+    "translation": "korkutmak",
+    "example": "Loud noises frighten my little dog.",
+    "exampleTr": "Yüksek sesler küçük köpeğimi korkutur.",
+    "ipaUS": "/ˈfɹaɪtən/",
+    "approxUS": "fray-tın",
+    "topicTags": [
+      "feelings",
+      "actions"
+    ],
+    "selectedSense": "to make someone or something afraid",
+    "translationEvidence": "eng/frighten__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:frighten"
+  },
+  {
+    "sourceId": "frightened-1184",
+    "headword": "frightened",
+    "displayWord": "frightened",
+    "speechText": "frightened",
+    "translation": "korkmuş",
+    "example": "She felt frightened during the storm.",
+    "exampleTr": "Fırtına sırasında korkmuş hissetti.",
+    "ipaUS": "/ˈfɹaɪtənd/",
+    "approxUS": "fray-tınd",
+    "topicTags": [
+      "feelings",
+      "descriptions"
+    ],
+    "selectedSense": "feeling afraid",
+    "translationEvidence": "eng/frightened__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:frightened"
+  },
+  {
+    "sourceId": "frightening-1188",
+    "headword": "frightening",
+    "displayWord": "frightening",
+    "speechText": "frightening",
+    "translation": "korkutucu",
+    "example": "The empty house looked frightening at night.",
+    "exampleTr": "Boş ev geceleri korkutucu görünüyordu.",
+    "ipaUS": "/ˈfɹaɪtənɪŋ/",
+    "approxUS": "fray-tı-nin",
+    "topicTags": [
+      "feelings",
+      "descriptions"
+    ],
+    "selectedSense": "causing fear",
+    "translationEvidence": "eng/frightening__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:frightening"
+  },
+  {
+    "sourceId": "frozen-1204",
+    "headword": "frozen",
+    "displayWord": "frozen",
+    "speechText": "frozen",
+    "translation": "donmuş",
+    "example": "Frozen vegetables are useful in winter.",
+    "exampleTr": "Donmuş sebzeler kışın kullanışlıdır.",
+    "ipaUS": "/ˈfɹoʊzən/",
+    "approxUS": "fro-zın",
+    "topicTags": [
+      "food",
+      "descriptions"
+    ],
+    "selectedSense": "made solid by freezing",
+    "translationEvidence": "eng/frozen__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:frozen"
+  },
+  {
+    "sourceId": "fry-1212",
+    "headword": "fry",
+    "displayWord": "fry",
+    "speechText": "fry",
+    "translation": "kızartmak",
+    "example": "Fry the onions in a little oil.",
+    "exampleTr": "Soğanları az yağda kızart.",
+    "ipaUS": "/ˈfɹaɪ/",
+    "approxUS": "fray",
+    "topicTags": [
+      "food",
+      "actions"
+    ],
+    "selectedSense": "to cook something in hot oil",
+    "translationEvidence": "eng/fry__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:fry"
+  },
+  {
+    "sourceId": "fuel-1216",
+    "headword": "fuel",
+    "displayWord": "fuel",
+    "speechText": "fuel",
+    "translation": "yakıt",
+    "example": "The plane needs more fuel before departure.",
+    "exampleTr": "Uçağın kalkıştan önce daha fazla yakıta ihtiyacı var.",
+    "ipaUS": "/ˈfjuɫ/",
+    "approxUS": "fyul",
+    "topicTags": [
+      "travel",
+      "technology"
+    ],
+    "selectedSense": "a substance used to provide energy",
+    "translationEvidence": "eng/fuel__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:fuel"
+  },
+  {
+    "sourceId": "function-1232",
+    "headword": "function",
+    "displayWord": "function",
+    "speechText": "function",
+    "translation": "işlev",
+    "example": "The main function of brakes is safety.",
+    "exampleTr": "Frenlerin temel işlevi güvenliği sağlamaktır.",
+    "ipaUS": "/ˈfəŋkʃən/",
+    "approxUS": "fıngk-şın",
+    "topicTags": [
+      "technology",
+      "descriptions"
+    ],
+    "selectedSense": "the purpose or job of something",
+    "translationEvidence": "eng/function__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:function"
+  },
+  {
+    "sourceId": "fur-1252",
+    "headword": "fur",
+    "displayWord": "fur",
+    "speechText": "fur",
+    "translation": "kürk",
+    "example": "The rabbit has thick white fur.",
+    "exampleTr": "Tavşanın kalın beyaz kürkü var.",
+    "ipaUS": "/ˈfɝ/",
+    "approxUS": "fır",
+    "topicTags": [
+      "nature",
+      "descriptions"
+    ],
+    "selectedSense": "the soft thick hair of a mammal",
+    "translationEvidence": "eng/fur__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:fur"
+  },
+  {
+    "sourceId": "garage-1292",
+    "headword": "garage",
+    "displayWord": "garage",
+    "speechText": "garage",
+    "translation": "garaj",
+    "example": "Dad parked the car inside the garage.",
+    "exampleTr": "Babam arabayı garajın içine park etti.",
+    "ipaUS": "/ɡɝˈɑʒ/",
+    "approxUS": "gır-ac",
+    "topicTags": [
+      "home",
+      "places"
+    ],
+    "selectedSense": "a building used to store a car",
+    "translationEvidence": "eng/garage__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:garage",
+    "contentNote": "Son ses Türkçedeki c sesinden daha yumuşaktır."
+  },
+  {
+    "sourceId": "gather-1308",
+    "headword": "gather",
+    "displayWord": "gather",
+    "speechText": "gather",
+    "translation": "toplamak",
+    "example": "We gather dry wood for the fire.",
+    "exampleTr": "Ateş için kuru odun toplarız.",
+    "ipaUS": "/ˈɡæðɝ/",
+    "approxUS": "ge-dır",
+    "topicTags": [
+      "actions",
+      "nature"
+    ],
+    "selectedSense": "to bring things together in one place",
+    "translationEvidence": "eng/gather__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:gather",
+    "contentNote": "Ortadaki th sesi dil ucu dişler arasındayken çıkarılır."
+  },
+  {
+    "sourceId": "generally-1316",
+    "headword": "generally",
+    "displayWord": "generally",
+    "speechText": "generally",
+    "translation": "genellikle",
+    "example": "Children generally learn languages quite quickly.",
+    "exampleTr": "Çocuklar genellikle dilleri oldukça hızlı öğrenir.",
+    "ipaUS": "/ˈdʒɛnɝəɫi/",
+    "approxUS": "ce-nır-ı-li",
+    "topicTags": [
+      "function-words",
+      "time"
+    ],
+    "selectedSense": "usually; in most cases",
+    "translationEvidence": "eng/generally__Adverb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:generally"
+  },
+  {
+    "sourceId": "generation-1324",
+    "headword": "generation",
+    "displayWord": "generation",
+    "speechText": "generation",
+    "translation": "kuşak",
+    "example": "Each generation develops its own habits.",
+    "exampleTr": "Her kuşak kendi alışkanlıklarını geliştirir.",
+    "ipaUS": "/ˌdʒɛnɝˈeɪʃən/",
+    "approxUS": "ce-nır-ey-şın",
+    "topicTags": [
+      "people",
+      "family"
+    ],
+    "selectedSense": "people born around the same period",
+    "translationEvidence": "eng/generation__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:generation"
+  },
+  {
+    "sourceId": "generous-1328",
+    "headword": "generous",
+    "displayWord": "generous",
+    "speechText": "generous",
+    "translation": "cömert",
+    "example": "Our generous neighbor shared her fresh bread.",
+    "exampleTr": "Cömert komşumuz taze ekmeğini paylaştı.",
+    "ipaUS": "/ˈdʒɛnɝəs/",
+    "approxUS": "ce-nır-ıs",
+    "topicTags": [
+      "people",
+      "descriptions"
+    ],
+    "selectedSense": "willing to give or share freely",
+    "translationEvidence": "eng/generous__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:generous"
+  },
+  {
+    "sourceId": "gentle-1336",
+    "headword": "gentle",
+    "displayWord": "gentle",
+    "speechText": "gentle",
+    "translation": "nazik",
+    "example": "Use a gentle voice with the baby.",
+    "exampleTr": "Bebekle nazik bir ses kullan.",
+    "ipaUS": "/ˈdʒɛntəɫ/",
+    "approxUS": "cen-tıl",
+    "topicTags": [
+      "descriptions",
+      "people"
+    ],
+    "selectedSense": "kind, calm, and not rough",
+    "translationEvidence": "eng/gentle__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:gentle"
+  },
+  {
+    "sourceId": "gentleman-1340",
+    "headword": "gentleman",
+    "displayWord": "gentleman",
+    "speechText": "gentleman",
+    "translation": "beyefendi",
+    "example": "An elderly gentleman opened the door for us.",
+    "exampleTr": "Yaşlı bir beyefendi bize kapıyı açtı.",
+    "ipaUS": "/ˈdʒɛntəɫmən/",
+    "approxUS": "cen-tıl-mın",
+    "topicTags": [
+      "people",
+      "descriptions"
+    ],
+    "selectedSense": "a polite or well-mannered man",
+    "translationEvidence": "eng/gentleman__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:gentleman"
+  },
+  {
+    "sourceId": "ghost-1352",
+    "headword": "ghost",
+    "displayWord": "ghost",
+    "speechText": "ghost",
+    "translation": "hayalet",
+    "example": "The children invented a funny ghost story.",
+    "exampleTr": "Çocuklar komik bir hayalet hikâyesi uydurdu.",
+    "ipaUS": "/ˈɡoʊst/",
+    "approxUS": "go-ust",
+    "topicTags": [
+      "culture",
+      "feelings"
+    ],
+    "selectedSense": "the spirit of a dead person",
+    "translationEvidence": "eng/ghost__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:ghost"
+  },
+  {
+    "sourceId": "giant-1356",
+    "headword": "giant",
+    "displayWord": "giant",
+    "speechText": "giant",
+    "translation": "dev",
+    "example": "A friendly giant guarded the mountain village.",
+    "exampleTr": "Dost canlısı bir dev dağ köyünü koruyordu.",
+    "ipaUS": "/ˈdʒaɪənt/",
+    "approxUS": "cay-ınt",
+    "topicTags": [
+      "culture",
+      "people"
+    ],
+    "selectedSense": "an extremely large imaginary human",
+    "translationEvidence": "eng/giant__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:giant"
+  },
+  {
+    "sourceId": "glad-1097",
+    "headword": "glad",
+    "displayWord": "glad",
+    "speechText": "glad",
+    "translation": "memnun",
+    "example": "I am glad you joined our team.",
+    "exampleTr": "Ekibimize katıldığın için memnunum.",
+    "ipaUS": "/ˈɡɫæd/",
+    "approxUS": "gled",
+    "topicTags": [
+      "feelings",
+      "communication"
+    ],
+    "selectedSense": "happy and pleased about something",
+    "translationEvidence": "https://dictionary.cambridge.org/dictionary/english-turkish/glad",
+    "ipaEvidenceUS": "ipa-dict/en_US:glad",
+    "contentNote": "B1 sıfat anlamı için Cambridge English–Turkish dış sözlük kanıtı kullanıldı."
+  },
+  {
+    "sourceId": "global-1105",
+    "headword": "global",
+    "displayWord": "global",
+    "speechText": "global",
+    "translation": "küresel",
+    "example": "Climate change is a global problem.",
+    "exampleTr": "İklim değişikliği küresel bir sorundur.",
+    "ipaUS": "/ˈɡɫoʊbəɫ/",
+    "approxUS": "glo-bıl",
+    "topicTags": [
+      "nature",
+      "descriptions"
+    ],
+    "selectedSense": "concerning the whole world",
+    "translationEvidence": "eng/global__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:global"
+  }
+]

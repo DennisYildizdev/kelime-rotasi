@@ -1,0 +1,901 @@
+[
+  {
+    "sourceId": "abandon-5",
+    "headword": "abandon",
+    "level": "B2",
+    "raw": "abandon v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "abandon",
+    "translationLookup": "abandon",
+    "ipaCandidates": {
+      "en-US": "/əˈbændən/",
+      "en-GB": "/ɐbˈændən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/abandon__Verb__1",
+        "sense": "to give up control of, surrender",
+        "translations": "bırakmak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/abandon__Verb__1",
+        "sense": "to cast out, expel, reject",
+        "translations": "kovmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/abandon__Verb__1",
+        "sense": "to leave behind or desert; to forsake",
+        "translations": "koyup gitmek | terk etmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "absolute-29",
+    "headword": "absolute",
+    "level": "B2",
+    "raw": "absolute adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "absolute",
+    "translationLookup": "absolute",
+    "ipaCandidates": {
+      "en-US": "/ˈæbsəˌɫut/",
+      "en-GB": "/ˈæbsəlˌuːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/absolute__Adjective__1",
+        "sense": "free from limitations or conditions",
+        "translations": "mutlak",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/absolute__Adjective__1",
+        "sense": "fundamental, ultimate, intrinsic, independent of references or relations to other things",
+        "translations": "mutlak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/absolute__Adjective__1",
+        "sense": null,
+        "translations": "kesin",
+        "score": 100
+      },
+      {
+        "entry": "eng/absolute__Adjective__1",
+        "sense": "free from imperfection; complete in itself",
+        "translations": "mükemmel",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/absolute__Noun__1",
+        "sense": null,
+        "translations": "pozitif",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "acceptable-45",
+    "headword": "acceptable",
+    "level": "B2",
+    "raw": "acceptable adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "acceptable",
+    "translationLookup": "acceptable",
+    "ipaCandidates": {
+      "en-US": "/ækˈsɛptəbəɫ/, /əkˈsɛptəbəɫ/",
+      "en-GB": "/ɐksˈɛptəbəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/acceptable__Adjective__1",
+        "sense": "capable, worthy or sure of being accepted",
+        "translations": "kabul edilebilir | makbul | uygun",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "accompany-61",
+    "headword": "accompany",
+    "level": "B2",
+    "raw": "accompany v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "accompany",
+    "translationLookup": "accompany",
+    "ipaCandidates": {
+      "en-US": "/əˈkəmpəni/",
+      "en-GB": "/ɐkˈʌmpəni/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/accompany__Verb__1",
+        "sense": null,
+        "translations": "eşlik etmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "accurate-73",
+    "headword": "accurate",
+    "level": "B2",
+    "raw": "accurate adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "accurate",
+    "translationLookup": "accurate",
+    "ipaCandidates": {
+      "en-US": "/ˈækjɝət/",
+      "en-GB": "/ˈækjʊɹət/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/accurate__Adjective__1",
+        "sense": null,
+        "translations": "kesin | dakik | hassas",
+        "score": 100.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "accuse-77",
+    "headword": "accuse",
+    "level": "B2",
+    "raw": "accuse v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "accuse",
+    "translationLookup": "accuse",
+    "ipaCandidates": {
+      "en-US": "/əkˈjuz/",
+      "en-GB": "/ɐkjˈuːz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/accuse__Verb__1",
+        "sense": null,
+        "translations": "suçlamak",
+        "score": 123.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "acknowledge-89",
+    "headword": "acknowledge",
+    "level": "B2",
+    "raw": "acknowledge v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "acknowledge",
+    "translationLookup": "acknowledge",
+    "ipaCandidates": {
+      "en-US": "/ækˈnɑɫɪdʒ/",
+      "en-GB": "/ɐknˈɒlɪdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/acknowledge__Verb__1",
+        "sense": null,
+        "translations": "kabul etmek",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "acquire-93",
+    "headword": "acquire",
+    "level": "B2",
+    "raw": "acquire v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "acquire",
+    "translationLookup": "acquire",
+    "ipaCandidates": {
+      "en-US": "/əˈkwaɪɝ/",
+      "en-GB": "/ɐkwˈaɪə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/acquire__Verb__1",
+        "sense": "to get",
+        "translations": "edinmek | kazanmak",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/acquire__Verb__1",
+        "sense": "to gain, usually by one's own exertions; to get as one's own",
+        "translations": "edinmek | kazanmak",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "actual-125",
+    "headword": "actual",
+    "level": "B2",
+    "raw": "actual adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "actual",
+    "translationLookup": "actual",
+    "ipaCandidates": {
+      "en-US": "/ˈækʃəɫ/, /ˈæktʃəwəɫ/",
+      "en-GB": "/ˈæktʃuːəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/actual__Adjective__1",
+        "sense": null,
+        "translations": "aktüel | asıl | esas | gerçek | güncel | hakiki",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "adapt-137",
+    "headword": "adapt",
+    "level": "B2",
+    "raw": "adapt v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "adapt",
+    "translationLookup": "adapt",
+    "ipaCandidates": {
+      "en-US": "/əˈdæpt/",
+      "en-GB": "/ɐdˈæpt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/adapt__Verb__1",
+        "sense": "to make suitable",
+        "translations": "uydurmak | adapte etmek",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/adapt__Adjective__1",
+        "sense": "adapted (adjective)",
+        "translations": "uygun | adapte",
+        "score": 101
+      },
+      {
+        "entry": "eng/adapt__Verb__1",
+        "sense": "to fit by alteration",
+        "translations": "adapte olmak | uymak | uyum sağlamak",
+        "score": 100
+      },
+      {
+        "entry": "eng/adapt__Verb__1",
+        "sense": "to make by altering",
+        "translations": "uyarlamak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "additional-149",
+    "headword": "additional",
+    "level": "B2",
+    "raw": "additional adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "additional",
+    "translationLookup": "additional",
+    "ipaCandidates": {
+      "en-US": "/əˈdɪʃənəɫ/, /əˈdɪʃnəɫ/",
+      "en-GB": "/ɐdˈɪʃənəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/additional__Adjective__1",
+        "sense": "Supplemental or added to",
+        "translations": "ilaveten",
+        "score": 3.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "administration-157",
+    "headword": "administration",
+    "level": "B2",
+    "raw": "administration n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "administration",
+    "translationLookup": "administration",
+    "ipaCandidates": {
+      "en-US": "/ædˌmɪnɪˈstɹeɪʃən/",
+      "en-GB": "/ɐdmˌɪnɪstɹˈeɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/administration__Noun__1",
+        "sense": "the act of administering",
+        "translations": "idare | yönetim | idarecilik",
+        "score": 123.6
+      },
+      {
+        "entry": "eng/administration__Noun__1",
+        "sense": "the executive part of government",
+        "translations": "hükümet | idare",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "adopt-169",
+    "headword": "adopt",
+    "level": "B2",
+    "raw": "adopt v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "adopt",
+    "translationLookup": "adopt",
+    "ipaCandidates": {
+      "en-US": "/əˈdɑpt/",
+      "en-GB": "/ɐdˈɒpt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/adopt__Verb__1",
+        "sense": "to take by choice into relationship, as, child, heir, friend, citizen",
+        "translations": "evlat edinmek",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "advance-177",
+    "headword": "advance",
+    "level": "B2",
+    "raw": "advance n., v., adj. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v., adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "advance",
+    "translationLookup": "advance",
+    "ipaCandidates": {
+      "en-US": "/ədˈvæns/",
+      "en-GB": "/ɐdvˈæns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/advance__Noun__1",
+        "sense": "amount of money",
+        "translations": "öndelik",
+        "score": 100
+      },
+      {
+        "entry": "eng/advance__Verb__1",
+        "sense": "to accelerate the growth or progress; to further; to forward",
+        "translations": "ilerlemek",
+        "score": 100
+      },
+      {
+        "entry": "eng/advance__Verb__1",
+        "sense": "to bring forward; to move towards the front; to make to go on",
+        "translations": "ilerletmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/advance__Verb__1",
+        "sense": "to move forwards, to approach",
+        "translations": "ilerlemek",
+        "score": 100
+      },
+      {
+        "entry": "eng/advance__Verb__1",
+        "sense": "to raise to a higher rank; to promote",
+        "translations": "terfi etmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "affair-213",
+    "headword": "affair",
+    "level": "B2",
+    "raw": "affair n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "affair",
+    "translationLookup": "affair",
+    "ipaCandidates": {
+      "en-US": "/əˈfɛɹ/",
+      "en-GB": "/ɐfˈeə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/affair__Noun__1",
+        "sense": "adulterous relationship",
+        "translations": "gönül ilişkisi",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/affair__Noun__1",
+        "sense": "action or engagement not of sufficient magnitude to be called a battle",
+        "translations": "kese kağıdı",
+        "score": 1
+      },
+      {
+        "entry": "eng/affair__Noun__1",
+        "sense": "any proceeding or action which it is wished to refer to or characterize vaguely",
+        "translations": "konu",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/affair__Noun__1",
+        "sense": "material object (vaguely designated)",
+        "translations": "nesne",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/affair__Noun__1",
+        "sense": "that which is done or is to be done",
+        "translations": "konu",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "afterwards-237",
+    "headword": "afterwards",
+    "level": "B2",
+    "raw": "afterwards adv. B2",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "afterwards",
+    "translationLookup": "afterwards",
+    "ipaCandidates": {
+      "en-US": "/ˈæftɝwɝdz/",
+      "en-GB": "/ˈɑːftəwədz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/afterwards__Adverb__1",
+        "sense": "at a later or succeeding time",
+        "translations": "sonra | sonraları | daha sonra | sonradan | sonrasında",
+        "score": 101.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "agency-6",
+    "headword": "agency",
+    "level": "B2",
+    "raw": "agency n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "agency",
+    "translationLookup": "agency",
+    "ipaCandidates": {
+      "en-US": "/ˈeɪdʒənsi/",
+      "en-GB": "/ˈeɪdʒənsi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/agency__Noun__1",
+        "sense": "establishment engaged in doing business for another",
+        "translations": "acente | ajans",
+        "score": 121.0
+      },
+      {
+        "entry": "eng/agency__Noun__1",
+        "sense": "office of an agent, or relation between a principal and his agent",
+        "translations": "acentelik | acente",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "agenda-10",
+    "headword": "agenda",
+    "level": "B2",
+    "raw": "agenda n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "agenda",
+    "translationLookup": "agenda",
+    "ipaCandidates": {
+      "en-US": "/əˈdʒɛndə/",
+      "en-GB": "/ɐdʒˈɛndɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/agenda__Noun__1",
+        "sense": "agenda book; notebook for organizing and planning",
+        "translations": "ajanda | andaç",
+        "score": 101
+      },
+      {
+        "entry": "eng/agenda__Noun__1",
+        "sense": null,
+        "translations": "ajanda",
+        "score": 100
+      },
+      {
+        "entry": "eng/agenda__Noun__1",
+        "sense": "list of matters to be taken up",
+        "translations": "ajanda",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "aggressive-18",
+    "headword": "aggressive",
+    "level": "B2",
+    "raw": "aggressive adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "aggressive",
+    "translationLookup": "aggressive",
+    "ipaCandidates": {
+      "en-US": "/əˈɡɹɛsɪv/",
+      "en-GB": "/ɐɡɹˈɛsɪv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/aggressive__Adjective__1",
+        "sense": "tending or disposed to aggress",
+        "translations": "agresif | saldırgan",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "aid-42",
+    "headword": "aid",
+    "level": "B2",
+    "raw": "aid n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "aid",
+    "translationLookup": "aid",
+    "ipaCandidates": {
+      "en-US": "/ˈeɪd/",
+      "en-GB": "/ˈeɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/aid__Noun__1",
+        "sense": "help; succor; assistance; relief",
+        "translations": "yardım | medet",
+        "score": 104.7
+      },
+      {
+        "entry": "eng/aid__Noun__1",
+        "sense": "something which helps; a material source of help",
+        "translations": "yardım | yardımcı",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/aid__Noun__1",
+        "sense": "a person that promotes or helps in something being done; a helper",
+        "translations": "yardımcı",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "aircraft-54",
+    "headword": "aircraft",
+    "level": "B2",
+    "raw": "aircraft n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "aircraft",
+    "translationLookup": "aircraft",
+    "ipaCandidates": {
+      "en-US": "/ˈɛɹˌkɹæft/",
+      "en-GB": "/ˈeəkɹɑːft/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/aircraft__Noun__1",
+        "sense": "machine capable of atmospheric flight",
+        "translations": "hava taşıtı | hava aracı",
+        "score": 130.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "alter-118",
+    "headword": "alter",
+    "level": "B2",
+    "raw": "alter v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "alter",
+    "translationLookup": "alter",
+    "ipaCandidates": {
+      "en-US": "/ˈɔɫtɝ/",
+      "en-GB": "/ˈɒltɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/alter__Verb__1",
+        "sense": "to change the form or structure of",
+        "translations": "değiştirmek",
+        "score": 12.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "anger-174",
+    "headword": "anger",
+    "level": "B2",
+    "raw": "anger n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "anger",
+    "translationLookup": "anger",
+    "ipaCandidates": {
+      "en-US": "/ˈæŋɡɝ/",
+      "en-GB": "/ˈæŋɡɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/anger__Noun__1",
+        "sense": "strong feeling of displeasure, hostility or antagonism towards someone or something",
+        "translations": "kızgınlık | öfke | hiddet",
+        "score": 111.1
+      },
+      {
+        "entry": "eng/anger__Verb__1",
+        "sense": "to become angry",
+        "translations": "kızmak | sinirlenmek | öfkelenmek",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/anger__Verb__1",
+        "sense": "to cause such a feeling of antagonism",
+        "translations": "kızdırmak | sinirlendirmek | öfkelendirmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "angle-178",
+    "headword": "angle",
+    "level": "B2",
+    "raw": "angle n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "angle",
+    "translationLookup": "angle",
+    "ipaCandidates": {
+      "en-US": "/ˈæŋɡəɫ/",
+      "en-GB": "/ˈæŋɡəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/angle__Noun__1",
+        "sense": "geometrical figure",
+        "translations": "açı",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/angle__Noun__1",
+        "sense": "measure of such a figure",
+        "translations": "açı",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/angle__Noun__1",
+        "sense": "viewpoint",
+        "translations": "açı | bakış açısı",
+        "score": 132.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "anniversary-194",
+    "headword": "anniversary",
+    "level": "B2",
+    "raw": "anniversary n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 1,
+    "displayWordHint": "anniversary",
+    "translationLookup": "anniversary",
+    "ipaCandidates": {
+      "en-US": "/ˌænəˈvɝsɝi/",
+      "en-GB": "/ˌænɪvˈɜːsəɹˌi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/anniversary__Noun__1",
+        "sense": "day an exact number of years since an event",
+        "translations": "yıl dönümü",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/anniversary__Noun__1",
+        "sense": "wedding anniversary",
+        "translations": "evlilik yıldönümü",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  }
+]

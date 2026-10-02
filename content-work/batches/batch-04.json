@@ -1,0 +1,2007 @@
+[
+  {
+    "sourceId": "for-1059",
+    "headword": "for",
+    "displayWord": "for",
+    "speechText": "for",
+    "translation": "için",
+    "example": "This present is for you.",
+    "exampleTr": "Bu hediye senin için.",
+    "ipaUS": "/ˈfɔɹ/",
+    "ipaUK": "/fˈɔː/",
+    "approxUS": "for",
+    "approxUK": "foo",
+    "topicTags": [
+      "function-words"
+    ],
+    "selectedSense": "preposition: intended recipient",
+    "translationEvidence": "eng/for__Preposition__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:for",
+    "ipaEvidenceUK": "ipa-dict/en_UK:for"
+  },
+  {
+    "sourceId": "forget-1079",
+    "headword": "forget",
+    "displayWord": "forget",
+    "speechText": "forget",
+    "translation": "unutmak",
+    "example": "Please do not forget my name.",
+    "exampleTr": "Lütfen adımı unutma.",
+    "ipaUS": "/fɝˈɡɛt/",
+    "ipaUK": "/fəɡˈɛt/",
+    "approxUS": "fır-get",
+    "approxUK": "fı-get",
+    "topicTags": [
+      "actions"
+    ],
+    "selectedSense": "verb: fail to remember",
+    "translationEvidence": "eng/forget__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:forget",
+    "ipaEvidenceUK": "ipa-dict/en_UK:forget"
+  },
+  {
+    "sourceId": "form-1091",
+    "headword": "form",
+    "displayWord": "form",
+    "speechText": "form",
+    "translation": "form",
+    "example": "Please sign the form here.",
+    "exampleTr": "Lütfen formu buradan imzalayın.",
+    "ipaUS": "/ˈfɔɹm/",
+    "ipaUK": "/fˈɔːm/",
+    "approxUS": "form",
+    "approxUK": "foom",
+    "topicTags": [
+      "work"
+    ],
+    "selectedSense": "noun: document to fill in",
+    "translationEvidence": "eng/form__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:form",
+    "ipaEvidenceUK": "ipa-dict/en_UK:form"
+  },
+  {
+    "sourceId": "forty-1108",
+    "headword": "forty",
+    "displayWord": "forty",
+    "speechText": "forty",
+    "translation": "kırk",
+    "example": "My father is forty years old.",
+    "exampleTr": "Babam kırk yaşında.",
+    "ipaUS": "/ˈfɔɹti/",
+    "ipaUK": "/fˈɔːti/",
+    "approxUS": "for-ti",
+    "approxUK": "foo-ti",
+    "topicTags": [
+      "numbers"
+    ],
+    "selectedSense": "number: 40",
+    "translationEvidence": "eng/forty__Numeral__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:forty",
+    "ipaEvidenceUK": "ipa-dict/en_UK:forty"
+  },
+  {
+    "sourceId": "four-1120",
+    "headword": "four",
+    "displayWord": "four",
+    "speechText": "four",
+    "translation": "dört",
+    "example": "We need four more chairs.",
+    "exampleTr": "Dört sandalyeye daha ihtiyacımız var.",
+    "ipaUS": "/ˈfɔɹ/",
+    "ipaUK": "/fˈɔː/",
+    "approxUS": "for",
+    "approxUK": "foo",
+    "topicTags": [
+      "numbers"
+    ],
+    "selectedSense": "number: 4",
+    "translationEvidence": "eng/four__Numeral__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:four",
+    "ipaEvidenceUK": "ipa-dict/en_UK:four"
+  },
+  {
+    "sourceId": "fourteen-1124",
+    "headword": "fourteen",
+    "displayWord": "fourteen",
+    "speechText": "fourteen",
+    "translation": "on dört",
+    "example": "There are fourteen children here.",
+    "exampleTr": "Burada on dört çocuk var.",
+    "ipaUS": "/ˈfɔɹˈtin/",
+    "ipaUK": "/fɔːtˈiːn/",
+    "approxUS": "for-tiin",
+    "approxUK": "foo-tiin",
+    "topicTags": [
+      "numbers"
+    ],
+    "selectedSense": "number: 14",
+    "translationEvidence": "eng/fourteen__Numeral__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:fourteen",
+    "ipaEvidenceUK": "ipa-dict/en_UK:fourteen"
+  },
+  {
+    "sourceId": "fourth-1128",
+    "headword": "fourth",
+    "displayWord": "fourth",
+    "speechText": "fourth",
+    "translation": "dördüncü",
+    "example": "Our room is on the fourth floor.",
+    "exampleTr": "Odamız dördüncü katta.",
+    "ipaUS": "/ˈfɔɹθ/",
+    "ipaUK": "/fˈɔːθ/",
+    "approxUS": "forth",
+    "approxUK": "footh",
+    "topicTags": [
+      "numbers"
+    ],
+    "selectedSense": "ordinal: 4th",
+    "translationEvidence": "eng/fourth__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:fourth",
+    "ipaEvidenceUK": "ipa-dict/en_UK:fourth"
+  },
+  {
+    "sourceId": "free-1136",
+    "headword": "free",
+    "displayWord": "free",
+    "speechText": "free",
+    "translation": "boş",
+    "example": "Is this seat free now?",
+    "exampleTr": "Bu koltuk şu an boş mu?",
+    "ipaUS": "/ˈfɹi/",
+    "ipaUK": "/fɹˈiː/",
+    "approxUS": "frii",
+    "approxUK": "frii",
+    "topicTags": [
+      "daily-life"
+    ],
+    "selectedSense": "adjective: not in use",
+    "translationEvidence": "eng/free__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:free",
+    "ipaEvidenceUK": "ipa-dict/en_UK:free"
+  },
+  {
+    "sourceId": "friday-1160",
+    "headword": "Friday",
+    "displayWord": "Friday",
+    "speechText": "Friday",
+    "translation": "cuma",
+    "example": "We play football on Friday.",
+    "exampleTr": "Cuma günü futbol oynarız.",
+    "ipaUS": "/ˈfɹaɪˌdeɪ/",
+    "ipaUK": "",
+    "approxUS": "fray-dey",
+    "approxUK": "",
+    "topicTags": [
+      "time"
+    ],
+    "selectedSense": "noun: weekday",
+    "translationEvidence": "eng/Friday__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:Friday",
+    "ipaEvidenceUK": "unavailable"
+  },
+  {
+    "sourceId": "friend-1168",
+    "headword": "friend",
+    "displayWord": "friend",
+    "speechText": "friend",
+    "translation": "arkadaş",
+    "example": "My friend lives near the park.",
+    "exampleTr": "Arkadaşım parkın yakınında yaşıyor.",
+    "ipaUS": "/ˈfɹɛnd/",
+    "ipaUK": "/fɹˈɛnd/",
+    "approxUS": "frend",
+    "approxUK": "frend",
+    "topicTags": [
+      "people"
+    ],
+    "selectedSense": "noun: close companion",
+    "translationEvidence": "eng/friend__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:friend",
+    "ipaEvidenceUK": "ipa-dict/en_UK:friend"
+  },
+  {
+    "sourceId": "friendly-1172",
+    "headword": "friendly",
+    "displayWord": "friendly",
+    "speechText": "friendly",
+    "translation": "cana yakın",
+    "example": "Our new teacher is friendly.",
+    "exampleTr": "Yeni öğretmenimiz cana yakın.",
+    "ipaUS": "/ˈfɹɛndɫi/",
+    "ipaUK": "/fɹˈɛndli/",
+    "approxUS": "frend-li",
+    "approxUK": "frend-li",
+    "topicTags": [
+      "people"
+    ],
+    "selectedSense": "adjective: warm and approachable",
+    "translationEvidence": "eng/friendly__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:friendly",
+    "ipaEvidenceUK": "ipa-dict/en_UK:friendly"
+  },
+  {
+    "sourceId": "from-1196",
+    "headword": "from",
+    "displayWord": "from",
+    "speechText": "from",
+    "translation": "-den",
+    "example": "She is from a small town.",
+    "exampleTr": "O, küçük bir kasabadan geliyor.",
+    "ipaUS": "/ˈfɹəm/",
+    "ipaUK": "/fɹˈɒm/",
+    "approxUS": "frım",
+    "approxUK": "from",
+    "topicTags": [
+      "function-words"
+    ],
+    "selectedSense": "preposition: origin",
+    "translationEvidence": "eng/from__Preposition__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:from",
+    "ipaEvidenceUK": "ipa-dict/en_UK:from"
+  },
+  {
+    "sourceId": "front-1200",
+    "headword": "front",
+    "displayWord": "front",
+    "speechText": "front",
+    "translation": "ön",
+    "example": "The front of the bus is blue.",
+    "exampleTr": "Otobüsün önü mavi.",
+    "ipaUS": "/ˈfɹənt/",
+    "ipaUK": "/fɹˈʌnt/",
+    "approxUS": "frant",
+    "approxUK": "frant",
+    "topicTags": [
+      "travel"
+    ],
+    "selectedSense": "noun: facing side",
+    "translationEvidence": "eng/front__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:front",
+    "ipaEvidenceUK": "ipa-dict/en_UK:front"
+  },
+  {
+    "sourceId": "fruit-1208",
+    "headword": "fruit",
+    "displayWord": "fruit",
+    "speechText": "fruit",
+    "translation": "meyve",
+    "example": "I eat fruit after lunch.",
+    "exampleTr": "Öğle yemeğinden sonra meyve yerim.",
+    "ipaUS": "/ˈfɹut/",
+    "ipaUK": "/fɹˈuːt/",
+    "approxUS": "fruut",
+    "approxUK": "fruut",
+    "topicTags": [
+      "food"
+    ],
+    "selectedSense": "noun: edible fruit",
+    "translationEvidence": "eng/fruit__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:fruit",
+    "ipaEvidenceUK": "ipa-dict/en_UK:fruit"
+  },
+  {
+    "sourceId": "full-1220",
+    "headword": "full",
+    "displayWord": "full",
+    "speechText": "full",
+    "translation": "dolu",
+    "example": "The box is full of books.",
+    "exampleTr": "Kutu kitaplarla dolu.",
+    "ipaUS": "/ˈfʊɫ/",
+    "ipaUK": "/fˈʊl/",
+    "approxUS": "ful",
+    "approxUK": "ful",
+    "topicTags": [
+      "descriptions"
+    ],
+    "selectedSense": "adjective: containing maximum amount",
+    "translationEvidence": "eng/full__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:full",
+    "ipaEvidenceUK": "ipa-dict/en_UK:full"
+  },
+  {
+    "sourceId": "fun-1228",
+    "headword": "fun",
+    "displayWord": "fun",
+    "speechText": "fun",
+    "translation": "eğlence",
+    "example": "We play this game for fun.",
+    "exampleTr": "Bu oyunu eğlenmek için oynarız.",
+    "ipaUS": "/ˈfən/",
+    "ipaUK": "/fˈʌn/",
+    "approxUS": "fan",
+    "approxUK": "fan",
+    "topicTags": [
+      "daily-life"
+    ],
+    "selectedSense": "noun: enjoyment",
+    "translationEvidence": "eng/fun__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:fun",
+    "ipaEvidenceUK": "ipa-dict/en_UK:fun"
+  },
+  {
+    "sourceId": "funny-1248",
+    "headword": "funny",
+    "displayWord": "funny",
+    "speechText": "funny",
+    "translation": "komik",
+    "example": "That funny story made me laugh.",
+    "exampleTr": "O komik hikâye beni güldürdü.",
+    "ipaUS": "/ˈfəni/",
+    "ipaUK": "/fˈʌni/",
+    "approxUS": "fa-ni",
+    "approxUK": "fa-ni",
+    "topicTags": [
+      "feelings"
+    ],
+    "selectedSense": "adjective: amusing",
+    "translationEvidence": "eng/funny__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:funny",
+    "ipaEvidenceUK": "ipa-dict/en_UK:funny"
+  },
+  {
+    "sourceId": "future-1268",
+    "headword": "future",
+    "displayWord": "future",
+    "speechText": "future",
+    "translation": "gelecek",
+    "example": "We often talk about the future.",
+    "exampleTr": "Gelecek hakkında sık sık konuşuruz.",
+    "ipaUS": "/ˈfjutʃɝ/",
+    "ipaUK": "/fjˈuːtʃɐ/",
+    "approxUS": "fyuu-çır",
+    "approxUK": "fyuu-çı",
+    "topicTags": [
+      "time"
+    ],
+    "selectedSense": "noun: time ahead",
+    "translationEvidence": "eng/future__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:future",
+    "ipaEvidenceUK": "ipa-dict/en_UK:future"
+  },
+  {
+    "sourceId": "game-1280",
+    "headword": "game",
+    "displayWord": "game",
+    "speechText": "game",
+    "translation": "oyun",
+    "example": "Can you teach me this game?",
+    "exampleTr": "Bana bu oyunu öğretebilir misin?",
+    "ipaUS": "/ˈɡeɪm/",
+    "ipaUK": "/ɡˈeɪm/",
+    "approxUS": "geym",
+    "approxUK": "geym",
+    "topicTags": [
+      "daily-life"
+    ],
+    "selectedSense": "noun: playful activity",
+    "translationEvidence": "eng/game__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:game",
+    "ipaEvidenceUK": "ipa-dict/en_UK:game"
+  },
+  {
+    "sourceId": "garden-1296",
+    "headword": "garden",
+    "displayWord": "garden",
+    "speechText": "garden",
+    "translation": "bahçe",
+    "example": "The children are in the garden.",
+    "exampleTr": "Çocuklar bahçede.",
+    "ipaUS": "/ˈɡɑɹdən/",
+    "ipaUK": "/ɡˈɑːdən/",
+    "approxUS": "gar-dın",
+    "approxUK": "gaa-dın",
+    "topicTags": [
+      "home"
+    ],
+    "selectedSense": "noun: planted land by a house",
+    "translationEvidence": "eng/garden__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:garden",
+    "ipaEvidenceUK": "ipa-dict/en_UK:garden"
+  },
+  {
+    "sourceId": "geography-1344",
+    "headword": "geography",
+    "displayWord": "geography",
+    "speechText": "geography",
+    "translation": "coğrafya",
+    "example": "We study geography on Monday.",
+    "exampleTr": "Pazartesi günü coğrafya çalışırız.",
+    "ipaUS": "/dʒiˈɑɡɹəfi/",
+    "ipaUK": "/dʒɪˈɒɡɹəfi/",
+    "approxUS": "ci-ag-rı-fi",
+    "approxUK": "ci-og-rı-fi",
+    "topicTags": [
+      "school"
+    ],
+    "selectedSense": "noun: study of the Earth",
+    "translationEvidence": "eng/geography__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:geography",
+    "ipaEvidenceUK": "ipa-dict/en_UK:geography"
+  },
+  {
+    "sourceId": "get-1348",
+    "headword": "get",
+    "displayWord": "get",
+    "speechText": "get",
+    "translation": "almak",
+    "example": "I get a letter every week.",
+    "exampleTr": "Her hafta bir mektup alırım.",
+    "ipaUS": "/ˈɡɛt/",
+    "ipaUK": "/ɡˈɛt/",
+    "approxUS": "get",
+    "approxUK": "get",
+    "topicTags": [
+      "actions"
+    ],
+    "selectedSense": "verb: receive",
+    "translationEvidence": "eng/get__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:get",
+    "ipaEvidenceUK": "ipa-dict/en_UK:get"
+  },
+  {
+    "sourceId": "girl-1364",
+    "headword": "girl",
+    "displayWord": "girl",
+    "speechText": "girl",
+    "translation": "kız",
+    "example": "The girl has a red bicycle.",
+    "exampleTr": "Kızın kırmızı bir bisikleti var.",
+    "ipaUS": "/ˈɡɝɫ/",
+    "ipaUK": "/ɡˈɜːl/",
+    "approxUS": "görl",
+    "approxUK": "gööl",
+    "topicTags": [
+      "people"
+    ],
+    "selectedSense": "noun: young female person",
+    "translationEvidence": "eng/girl__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:girl",
+    "ipaEvidenceUK": "ipa-dict/en_UK:girl"
+  },
+  {
+    "sourceId": "girlfriend-1368",
+    "headword": "girlfriend",
+    "displayWord": "girlfriend",
+    "speechText": "girlfriend",
+    "translation": "kız arkadaş",
+    "example": "His girlfriend works at the library.",
+    "exampleTr": "Kız arkadaşı kütüphanede çalışıyor.",
+    "ipaUS": "/ˈɡɝɫˌfɹɛnd/",
+    "ipaUK": "/ɡˈɜːlfɹɛnd/",
+    "approxUS": "görl-frend",
+    "approxUK": "gööl-frend",
+    "topicTags": [
+      "people"
+    ],
+    "selectedSense": "noun: female romantic partner",
+    "translationEvidence": "eng/girlfriend__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:girlfriend",
+    "ipaEvidenceUK": "ipa-dict/en_UK:girlfriend"
+  },
+  {
+    "sourceId": "give-1093",
+    "headword": "give",
+    "displayWord": "give",
+    "speechText": "give",
+    "translation": "vermek",
+    "example": "Please give me your phone number.",
+    "exampleTr": "Lütfen bana telefon numaranı ver.",
+    "ipaUS": "/ˈɡɪv/",
+    "ipaUK": "/ɡˈɪv/",
+    "approxUS": "giv",
+    "approxUK": "giv",
+    "topicTags": [
+      "actions"
+    ],
+    "selectedSense": "verb: transfer to someone",
+    "translationEvidence": "eng/give__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:give",
+    "ipaEvidenceUK": "ipa-dict/en_UK:give"
+  },
+  {
+    "sourceId": "glass-1101",
+    "headword": "glass",
+    "displayWord": "glass",
+    "speechText": "glass",
+    "translation": "bardak",
+    "example": "Please bring a glass of water.",
+    "exampleTr": "Lütfen bir bardak su getir.",
+    "ipaUS": "/ˈɡɫæs/",
+    "ipaUK": "/ɡlˈɑːs/",
+    "approxUS": "gles",
+    "approxUK": "glaas",
+    "topicTags": [
+      "food"
+    ],
+    "selectedSense": "noun: drinking vessel",
+    "translationEvidence": "eng/glass__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:glass",
+    "ipaEvidenceUK": "ipa-dict/en_UK:glass"
+  },
+  {
+    "sourceId": "go-1113",
+    "headword": "go",
+    "displayWord": "go",
+    "speechText": "go",
+    "translation": "gitmek",
+    "example": "We go to school by bus.",
+    "exampleTr": "Okula otobüsle gideriz.",
+    "ipaUS": "/ˈɡoʊ/",
+    "ipaUK": "/ɡˈəʊ/",
+    "approxUS": "gou",
+    "approxUK": "gou",
+    "topicTags": [
+      "actions"
+    ],
+    "selectedSense": "verb: travel to a place",
+    "translationEvidence": "eng/go__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:go",
+    "ipaEvidenceUK": "ipa-dict/en_UK:go"
+  },
+  {
+    "sourceId": "good-1133",
+    "headword": "good",
+    "displayWord": "good",
+    "speechText": "good",
+    "translation": "iyi",
+    "example": "She is a good piano teacher.",
+    "exampleTr": "O iyi bir piyano öğretmeni.",
+    "ipaUS": "/ˈɡʊd/",
+    "ipaUK": "/ɡˈʊd/",
+    "approxUS": "gud",
+    "approxUK": "gud",
+    "topicTags": [
+      "descriptions"
+    ],
+    "selectedSense": "adjective: skilled",
+    "translationEvidence": "eng/good__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:good",
+    "ipaEvidenceUK": "ipa-dict/en_UK:good"
+  },
+  {
+    "sourceId": "goodbye-1137",
+    "headword": "goodbye",
+    "displayWord": "goodbye",
+    "speechText": "goodbye",
+    "translation": "hoşça kal",
+    "example": "Goodbye, Tom! See you on Monday.",
+    "exampleTr": "Hoşça kal Tom! Pazartesi görüşürüz.",
+    "ipaUS": "/ˌɡʊdˈbaɪ/",
+    "ipaUK": "/ɡʊdbˈaɪ/",
+    "approxUS": "gud-bay",
+    "approxUK": "gud-bay",
+    "topicTags": [
+      "communication"
+    ],
+    "selectedSense": "interjection: farewell",
+    "translationEvidence": "eng/goodbye__Interjection__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:goodbye",
+    "ipaEvidenceUK": "ipa-dict/en_UK:goodbye"
+  },
+  {
+    "sourceId": "grandfather-1177",
+    "headword": "grandfather",
+    "displayWord": "grandfather",
+    "speechText": "grandfather",
+    "translation": "dede",
+    "example": "My grandfather can play the guitar.",
+    "exampleTr": "Dedem gitar çalabiliyor.",
+    "ipaUS": "/ˈɡɹænˌfɑðɝ/",
+    "ipaUK": "/ɡɹˈændfɑːðɐ/",
+    "approxUS": "gren-faa-dır",
+    "approxUK": "grend-faa-dı",
+    "topicTags": [
+      "family"
+    ],
+    "selectedSense": "noun: parent's father",
+    "translationEvidence": "eng/grandfather__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:grandfather",
+    "ipaEvidenceUK": "ipa-dict/en_UK:grandfather"
+  },
+  {
+    "sourceId": "grandmother-1181",
+    "headword": "grandmother",
+    "displayWord": "grandmother",
+    "speechText": "grandmother",
+    "translation": "büyükanne",
+    "example": "My grandmother lives with us.",
+    "exampleTr": "Büyükannem bizimle yaşıyor.",
+    "ipaUS": "/ˈɡɹændˌməðɝ/",
+    "ipaUK": "/ɡɹˈændmʌðɐ/",
+    "approxUS": "grend-ma-dır",
+    "approxUK": "grend-ma-dı",
+    "topicTags": [
+      "family"
+    ],
+    "selectedSense": "noun: parent's mother",
+    "translationEvidence": "eng/grandmother__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:grandmother",
+    "ipaEvidenceUK": "ipa-dict/en_UK:grandmother"
+  },
+  {
+    "sourceId": "grandparent-1185",
+    "headword": "grandparent",
+    "displayWord": "grandparent",
+    "speechText": "grandparent",
+    "translation": "büyükanne veya büyükbaba",
+    "example": "Every grandparent has a different story.",
+    "exampleTr": "Her büyükannenin veya büyükbabanın farklı bir hikâyesi vardır.",
+    "ipaUS": "/ˈɡɹændˌpɛɹənt/",
+    "ipaUK": "/ɡɹˈændpeəɹənt/",
+    "approxUS": "grend-pe-rınt",
+    "approxUK": "grend-peı-rınt",
+    "topicTags": [
+      "family"
+    ],
+    "selectedSense": "noun: parent's parent",
+    "translationEvidence": "eng/grandparent__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:grandparent",
+    "ipaEvidenceUK": "ipa-dict/en_UK:grandparent"
+  },
+  {
+    "sourceId": "great-1201",
+    "headword": "great",
+    "displayWord": "great",
+    "speechText": "great",
+    "translation": "büyük",
+    "example": "A great tree stood beside the house.",
+    "exampleTr": "Evin yanında büyük bir ağaç vardı.",
+    "ipaUS": "/ˈɡɹeɪt/",
+    "ipaUK": "/ɡɹˈeɪt/",
+    "approxUS": "greyt",
+    "approxUK": "greyt",
+    "topicTags": [
+      "descriptions"
+    ],
+    "selectedSense": "adjective: very large",
+    "translationEvidence": "eng/great__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:great",
+    "ipaEvidenceUK": "ipa-dict/en_UK:great"
+  },
+  {
+    "sourceId": "green-1205",
+    "headword": "green",
+    "displayWord": "green",
+    "speechText": "green",
+    "translation": "yeşil",
+    "example": "I like your green shirt.",
+    "exampleTr": "Yeşil gömleğini beğendim.",
+    "ipaUS": "/ˈɡɹin/",
+    "ipaUK": "/ɡɹˈiːn/",
+    "approxUS": "griin",
+    "approxUK": "griin",
+    "topicTags": [
+      "descriptions"
+    ],
+    "selectedSense": "adjective: green colour",
+    "translationEvidence": "eng/green__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:green",
+    "ipaEvidenceUK": "ipa-dict/en_UK:green"
+  },
+  {
+    "sourceId": "grey-1213",
+    "headword": "grey",
+    "displayWord": "grey",
+    "speechText": "grey",
+    "translation": "gri",
+    "example": "My brother wears a grey coat.",
+    "exampleTr": "Erkek kardeşim gri bir palto giyer.",
+    "ipaUS": "/ˈɡɹeɪ/",
+    "ipaUK": "/ɡɹˈeɪ/",
+    "approxUS": "grey",
+    "approxUK": "grey",
+    "topicTags": [
+      "clothes"
+    ],
+    "selectedSense": "adjective: colour of ashes",
+    "translationEvidence": "https://www.oxfordlearnersdictionaries.com/definition/english/grey_1",
+    "ipaEvidenceUS": "ipa-dict/en_US:grey",
+    "ipaEvidenceUK": "ipa-dict/en_UK:grey",
+    "contentNote": "Girdide lexentry kimliği yok; anlam Oxford sözlük maddesiyle desteklendi."
+  },
+  {
+    "sourceId": "group-1221",
+    "headword": "group",
+    "displayWord": "group",
+    "speechText": "group",
+    "translation": "grup",
+    "example": "Our group has five people.",
+    "exampleTr": "Grubumuzda beş kişi var.",
+    "ipaUS": "/ˈɡɹup/",
+    "ipaUK": "/ɡɹˈuːp/",
+    "approxUS": "gruup",
+    "approxUK": "gruup",
+    "topicTags": [
+      "people"
+    ],
+    "selectedSense": "noun: related set of people",
+    "translationEvidence": "eng/group__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:group",
+    "ipaEvidenceUK": "ipa-dict/en_UK:group"
+  },
+  {
+    "sourceId": "grow-1225",
+    "headword": "grow",
+    "displayWord": "grow",
+    "speechText": "grow",
+    "translation": "büyümek",
+    "example": "These plants grow very quickly.",
+    "exampleTr": "Bu bitkiler çok hızlı büyür.",
+    "ipaUS": "/ˈɡɹoʊ/",
+    "ipaUK": "/ɡɹˈəʊ/",
+    "approxUS": "grou",
+    "approxUK": "grou",
+    "topicTags": [
+      "nature"
+    ],
+    "selectedSense": "verb: become bigger",
+    "translationEvidence": "eng/grow__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:grow",
+    "ipaEvidenceUK": "ipa-dict/en_UK:grow"
+  },
+  {
+    "sourceId": "guess-1241",
+    "headword": "guess",
+    "displayWord": "guess",
+    "speechText": "guess",
+    "translation": "tahmin etmek",
+    "example": "Can you guess my age?",
+    "exampleTr": "Yaşımı tahmin edebilir misin?",
+    "ipaUS": "/ˈɡɛs/",
+    "ipaUK": "/ɡˈɛs/",
+    "approxUS": "ges",
+    "approxUK": "ges",
+    "topicTags": [
+      "actions"
+    ],
+    "selectedSense": "verb: estimate without certainty",
+    "translationEvidence": "eng/guess__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:guess",
+    "ipaEvidenceUK": "ipa-dict/en_UK:guess"
+  },
+  {
+    "sourceId": "guitar-1257",
+    "headword": "guitar",
+    "displayWord": "guitar",
+    "speechText": "guitar",
+    "translation": "gitar",
+    "example": "He plays the guitar after dinner.",
+    "exampleTr": "Akşam yemeğinden sonra gitar çalar.",
+    "ipaUS": "/ɡɪˈtɑɹ/",
+    "ipaUK": "/ɡɪtˈɑː/",
+    "approxUS": "gi-taar",
+    "approxUK": "gi-taa",
+    "topicTags": [
+      "culture"
+    ],
+    "selectedSense": "noun: musical instrument",
+    "translationEvidence": "eng/guitar__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:guitar",
+    "ipaEvidenceUK": "ipa-dict/en_UK:guitar"
+  },
+  {
+    "sourceId": "gym-1269",
+    "headword": "gym",
+    "displayWord": "gym",
+    "speechText": "gym",
+    "translation": "spor salonu",
+    "example": "The gym is near my office.",
+    "exampleTr": "Spor salonu ofisimin yakınında.",
+    "ipaUS": "/ˈdʒɪm/",
+    "ipaUK": "/dʒˈɪm/",
+    "approxUS": "cim",
+    "approxUK": "cim",
+    "topicTags": [
+      "sport"
+    ],
+    "selectedSense": "noun: exercise facility",
+    "translationEvidence": "eng/gym__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:gym",
+    "ipaEvidenceUK": "ipa-dict/en_UK:gym"
+  },
+  {
+    "sourceId": "hair-1277",
+    "headword": "hair",
+    "displayWord": "hair",
+    "speechText": "hair",
+    "translation": "saç",
+    "example": "Her hair is short and black.",
+    "exampleTr": "Saçı kısa ve siyah.",
+    "ipaUS": "/ˈhɛɹ/",
+    "ipaUK": "/hˈeə/",
+    "approxUS": "her",
+    "approxUK": "heı",
+    "topicTags": [
+      "body"
+    ],
+    "selectedSense": "noun: hair on the head",
+    "translationEvidence": "eng/hair__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hair",
+    "ipaEvidenceUK": "ipa-dict/en_UK:hair"
+  },
+  {
+    "sourceId": "half-1281",
+    "headword": "half",
+    "displayWord": "half",
+    "speechText": "half",
+    "translation": "yarım",
+    "example": "I ate half of the sandwich.",
+    "exampleTr": "Sandviçin yarısını yedim.",
+    "ipaUS": "/ˈhæf/",
+    "ipaUK": "/hˈɑːf/",
+    "approxUS": "hef",
+    "approxUK": "haaf",
+    "topicTags": [
+      "food"
+    ],
+    "selectedSense": "noun: one of two equal parts",
+    "translationEvidence": "eng/half__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:half",
+    "ipaEvidenceUK": "ipa-dict/en_UK:half"
+  },
+  {
+    "sourceId": "hand-1289",
+    "headword": "hand",
+    "displayWord": "hand",
+    "speechText": "hand",
+    "translation": "el",
+    "example": "Please raise your right hand.",
+    "exampleTr": "Lütfen sağ elini kaldır.",
+    "ipaUS": "/ˈhænd/",
+    "ipaUK": "/hˈænd/",
+    "approxUS": "hend",
+    "approxUK": "hend",
+    "topicTags": [
+      "body"
+    ],
+    "selectedSense": "noun: body part",
+    "translationEvidence": "eng/hand__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hand",
+    "ipaEvidenceUK": "ipa-dict/en_UK:hand"
+  },
+  {
+    "sourceId": "happen-1301",
+    "headword": "happen",
+    "displayWord": "happen",
+    "speechText": "happen",
+    "translation": "gerçekleşmek",
+    "example": "When will the meeting happen?",
+    "exampleTr": "Toplantı ne zaman gerçekleşecek?",
+    "ipaUS": "/ˈhæpən/",
+    "ipaUK": "/hˈæpən/",
+    "approxUS": "he-pın",
+    "approxUK": "he-pın",
+    "topicTags": [
+      "actions"
+    ],
+    "selectedSense": "verb: take place",
+    "translationEvidence": "eng/happen__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:happen",
+    "ipaEvidenceUK": "ipa-dict/en_UK:happen"
+  },
+  {
+    "sourceId": "happy-1313",
+    "headword": "happy",
+    "displayWord": "happy",
+    "speechText": "happy",
+    "translation": "mutlu",
+    "example": "The children look happy today.",
+    "exampleTr": "Çocuklar bugün mutlu görünüyor.",
+    "ipaUS": "/ˈhæpi/",
+    "ipaUK": "/hˈæpi/",
+    "approxUS": "he-pi",
+    "approxUK": "he-pi",
+    "topicTags": [
+      "feelings"
+    ],
+    "selectedSense": "adjective: feeling pleasure",
+    "translationEvidence": "eng/happy__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:happy",
+    "ipaEvidenceUK": "ipa-dict/en_UK:happy"
+  },
+  {
+    "sourceId": "hard-1317",
+    "headword": "hard",
+    "displayWord": "hard",
+    "speechText": "hard",
+    "translation": "zor",
+    "example": "This question is hard for me.",
+    "exampleTr": "Bu soru benim için zor.",
+    "ipaUS": "/ˈhɑɹd/",
+    "ipaUK": "/hˈɑːd/",
+    "approxUS": "haard",
+    "approxUK": "haad",
+    "topicTags": [
+      "descriptions"
+    ],
+    "selectedSense": "adjective: difficult",
+    "translationEvidence": "eng/hard__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hard",
+    "ipaEvidenceUK": "ipa-dict/en_UK:hard"
+  },
+  {
+    "sourceId": "hat-1333",
+    "headword": "hat",
+    "displayWord": "hat",
+    "speechText": "hat",
+    "translation": "şapka",
+    "example": "Take your hat off inside.",
+    "exampleTr": "İçeride şapkanı çıkar.",
+    "ipaUS": "/ˈhæt/",
+    "ipaUK": "/hˈæt/",
+    "approxUS": "het",
+    "approxUK": "het",
+    "topicTags": [
+      "clothes"
+    ],
+    "selectedSense": "noun: head covering",
+    "translationEvidence": "eng/hat__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hat",
+    "ipaEvidenceUK": "ipa-dict/en_UK:hat"
+  },
+  {
+    "sourceId": "hate-1337",
+    "headword": "hate",
+    "displayWord": "hate",
+    "speechText": "hate",
+    "translation": "nefret etmek",
+    "example": "I hate waiting in the rain.",
+    "exampleTr": "Yağmurda beklemekten nefret ederim.",
+    "ipaUS": "/ˈheɪt/",
+    "ipaUK": "/hˈeɪt/",
+    "approxUS": "heyt",
+    "approxUK": "heyt",
+    "topicTags": [
+      "feelings"
+    ],
+    "selectedSense": "verb: dislike intensely",
+    "translationEvidence": "eng/hate__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hate",
+    "ipaEvidenceUK": "ipa-dict/en_UK:hate"
+  },
+  {
+    "sourceId": "have-1341",
+    "headword": "have",
+    "displayWord": "have",
+    "speechText": "have",
+    "translation": "sahip olmak",
+    "example": "We have a small white car.",
+    "exampleTr": "Küçük beyaz bir arabamız var.",
+    "ipaUS": "/ˈhæv/",
+    "ipaUK": "",
+    "approxUS": "hev",
+    "approxUK": "",
+    "topicTags": [
+      "daily-life"
+    ],
+    "selectedSense": "verb: possess",
+    "translationEvidence": "eng/have__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:have",
+    "ipaEvidenceUK": "unavailable"
+  },
+  {
+    "sourceId": "have-to-1345",
+    "headword": "have to",
+    "displayWord": "have to",
+    "speechText": "have to",
+    "translation": "zorunda olmak",
+    "example": "I have to clean my room.",
+    "exampleTr": "Odamı temizlemek zorundayım.",
+    "ipaUS": "/ˈhæf tə/",
+    "ipaUK": "",
+    "approxUS": "hef-tı",
+    "approxUK": "",
+    "topicTags": [
+      "function-words"
+    ],
+    "selectedSense": "modal verb: obligation",
+    "translationEvidence": "eng/have_to__Verb__1",
+    "ipaEvidenceUS": "https://www.oxfordlearnersdictionaries.com/definition/english/have-to",
+    "ipaEvidenceUK": "unavailable",
+    "contentNote": "Eksik ABD telaffuzu Oxford sözlüğünden alındı; zorunluluk bildirir."
+  },
+  {
+    "sourceId": "he-1349",
+    "headword": "he",
+    "displayWord": "he",
+    "speechText": "he",
+    "translation": "o (erkek)",
+    "example": "He works in a small shop.",
+    "exampleTr": "O küçük bir dükkânda çalışıyor.",
+    "ipaUS": "/ˈhi/",
+    "ipaUK": "",
+    "approxUS": "hii",
+    "approxUK": "",
+    "topicTags": [
+      "function-words"
+    ],
+    "selectedSense": "pronoun: male subject",
+    "translationEvidence": "eng/he__Pronoun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:he",
+    "ipaEvidenceUK": "unavailable"
+  },
+  {
+    "sourceId": "head-1353",
+    "headword": "head",
+    "displayWord": "head",
+    "speechText": "head",
+    "translation": "baş",
+    "example": "My head hurts this morning.",
+    "exampleTr": "Bu sabah başım ağrıyor.",
+    "ipaUS": "/ˈhɛd/",
+    "ipaUK": "/hˈɛd/",
+    "approxUS": "hed",
+    "approxUK": "hed",
+    "topicTags": [
+      "body"
+    ],
+    "selectedSense": "noun: body part",
+    "translationEvidence": "eng/head__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:head",
+    "ipaEvidenceUK": "ipa-dict/en_UK:head"
+  },
+  {
+    "sourceId": "health-1365",
+    "headword": "health",
+    "displayWord": "health",
+    "speechText": "health",
+    "translation": "sağlık",
+    "example": "Good food is important for health.",
+    "exampleTr": "İyi beslenmek sağlık için önemlidir.",
+    "ipaUS": "/ˈhɛɫθ/",
+    "ipaUK": "/hˈɛlθ/",
+    "approxUS": "helth",
+    "approxUK": "helth",
+    "topicTags": [
+      "body"
+    ],
+    "selectedSense": "noun: freedom from illness",
+    "translationEvidence": "eng/health__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:health",
+    "ipaEvidenceUK": "ipa-dict/en_UK:health"
+  },
+  {
+    "sourceId": "healthy-1369",
+    "headword": "healthy",
+    "displayWord": "healthy",
+    "speechText": "healthy",
+    "translation": "sağlıklı",
+    "example": "Our baby is happy and healthy.",
+    "exampleTr": "Bebeğimiz mutlu ve sağlıklı.",
+    "ipaUS": "/ˈhɛɫθi/",
+    "ipaUK": "/hˈɛlθi/",
+    "approxUS": "hel-thi",
+    "approxUK": "hel-thi",
+    "topicTags": [
+      "body"
+    ],
+    "selectedSense": "adjective: in good health",
+    "translationEvidence": "eng/healthy__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:healthy",
+    "ipaEvidenceUK": "ipa-dict/en_UK:healthy"
+  },
+  {
+    "sourceId": "hear-1094",
+    "headword": "hear",
+    "displayWord": "hear",
+    "speechText": "hear",
+    "translation": "duymak",
+    "example": "Can you hear the birds outside?",
+    "exampleTr": "Dışarıdaki kuşları duyabiliyor musun?",
+    "ipaUS": "/ˈhiɹ/",
+    "ipaUK": "/hˈiə/",
+    "approxUS": "hiir",
+    "approxUK": "hiı",
+    "topicTags": [
+      "actions"
+    ],
+    "selectedSense": "verb: perceive sound",
+    "translationEvidence": "eng/hear__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hear",
+    "ipaEvidenceUK": "ipa-dict/en_UK:hear"
+  },
+  {
+    "sourceId": "hello-1142",
+    "headword": "hello",
+    "displayWord": "hello",
+    "speechText": "hello",
+    "translation": "merhaba",
+    "example": "Hello, Anna! How are you today?",
+    "exampleTr": "Merhaba Anna! Bugün nasılsın?",
+    "ipaUS": "/həˈɫoʊ/",
+    "ipaUK": "/həlˈəʊ/",
+    "approxUS": "hı-lou",
+    "approxUK": "hı-lou",
+    "topicTags": [
+      "communication"
+    ],
+    "selectedSense": "interjection: greeting",
+    "translationEvidence": "eng/hello__Interjection__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hello",
+    "ipaEvidenceUK": "ipa-dict/en_UK:hello"
+  },
+  {
+    "sourceId": "help-1146",
+    "headword": "help",
+    "displayWord": "help",
+    "speechText": "help",
+    "translation": "yardım etmek",
+    "example": "Can you help me with this bag?",
+    "exampleTr": "Bu çanta konusunda bana yardım edebilir misin?",
+    "ipaUS": "/ˈhɛɫp/",
+    "ipaUK": "/hˈɛlp/",
+    "approxUS": "help",
+    "approxUK": "help",
+    "topicTags": [
+      "actions"
+    ],
+    "selectedSense": "verb: assist",
+    "translationEvidence": "eng/help__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:help",
+    "ipaEvidenceUK": "ipa-dict/en_UK:help"
+  },
+  {
+    "sourceId": "her-1154",
+    "headword": "her",
+    "displayWord": "her",
+    "speechText": "her",
+    "translation": "onun (kadının)",
+    "example": "Her coat is on the chair.",
+    "exampleTr": "Onun paltosu sandalyenin üstünde.",
+    "ipaUS": "/ˈhɝ/",
+    "ipaUK": "/hˈɜː/",
+    "approxUS": "hör",
+    "approxUK": "höö",
+    "topicTags": [
+      "function-words"
+    ],
+    "selectedSense": "determiner: belonging to her",
+    "translationEvidence": "eng/her__Determiner__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:her",
+    "ipaEvidenceUK": "ipa-dict/en_UK:her"
+  },
+  {
+    "sourceId": "here-1158",
+    "headword": "here",
+    "displayWord": "here",
+    "speechText": "here",
+    "translation": "burada",
+    "example": "Your keys are here on the table.",
+    "exampleTr": "Anahtarların burada, masanın üstünde.",
+    "ipaUS": "/ˈhiɹ/",
+    "ipaUK": "/hˈiə/",
+    "approxUS": "hiir",
+    "approxUK": "hiı",
+    "topicTags": [
+      "function-words"
+    ],
+    "selectedSense": "adverb: at this place",
+    "translationEvidence": "eng/here__Adverb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:here",
+    "ipaEvidenceUK": "ipa-dict/en_UK:here"
+  },
+  {
+    "sourceId": "hey-1178",
+    "headword": "hey",
+    "displayWord": "hey",
+    "speechText": "hey",
+    "translation": "selam",
+    "example": "Hey, Ben! How is your family?",
+    "exampleTr": "Selam Ben! Ailen nasıl?",
+    "ipaUS": "/ˈheɪ/",
+    "ipaUK": "/hˈeɪ/",
+    "approxUS": "hey",
+    "approxUK": "hey",
+    "topicTags": [
+      "communication"
+    ],
+    "selectedSense": "interjection: informal greeting",
+    "translationEvidence": "eng/hey__Interjection__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hey",
+    "ipaEvidenceUK": "ipa-dict/en_UK:hey"
+  },
+  {
+    "sourceId": "hi-1182",
+    "headword": "hi",
+    "displayWord": "hi",
+    "speechText": "hi",
+    "translation": "selam",
+    "example": "Hi, everyone! Please come inside.",
+    "exampleTr": "Selam millet! Lütfen içeri gelin.",
+    "ipaUS": "/ˈhaɪ/",
+    "ipaUK": "/hˈaɪ/",
+    "approxUS": "hay",
+    "approxUK": "hay",
+    "topicTags": [
+      "communication"
+    ],
+    "selectedSense": "interjection: greeting",
+    "translationEvidence": "eng/hi__Interjection__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hi",
+    "ipaEvidenceUK": "ipa-dict/en_UK:hi"
+  },
+  {
+    "sourceId": "high-1190",
+    "headword": "high",
+    "displayWord": "high",
+    "speechText": "high",
+    "translation": "yüksek",
+    "example": "That high wall hides the garden.",
+    "exampleTr": "O yüksek duvar bahçeyi gizliyor.",
+    "ipaUS": "/ˈhaɪ/",
+    "ipaUK": "/hˈaɪ/",
+    "approxUS": "hay",
+    "approxUK": "hay",
+    "topicTags": [
+      "descriptions"
+    ],
+    "selectedSense": "adjective: tall",
+    "translationEvidence": "eng/high__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:high",
+    "ipaEvidenceUK": "ipa-dict/en_UK:high"
+  },
+  {
+    "sourceId": "him-1206",
+    "headword": "him",
+    "displayWord": "him",
+    "speechText": "him",
+    "translation": "onu (erkeği)",
+    "example": "I see him at school every day.",
+    "exampleTr": "Onu her gün okulda görüyorum.",
+    "ipaUS": "/ˈhɪm/",
+    "ipaUK": "/hˈɪm/",
+    "approxUS": "him",
+    "approxUK": "him",
+    "topicTags": [
+      "function-words"
+    ],
+    "selectedSense": "pronoun: male direct object",
+    "translationEvidence": "eng/him__Pronoun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:him",
+    "ipaEvidenceUK": "ipa-dict/en_UK:him"
+  },
+  {
+    "sourceId": "his-1218",
+    "headword": "his",
+    "displayWord": "his",
+    "speechText": "his",
+    "translation": "onun (erkeğin)",
+    "example": "His new bicycle is outside.",
+    "exampleTr": "Onun yeni bisikleti dışarıda.",
+    "ipaUS": "/ˈhɪz/",
+    "ipaUK": "/hˈɪz/",
+    "approxUS": "hiz",
+    "approxUK": "hiz",
+    "topicTags": [
+      "function-words"
+    ],
+    "selectedSense": "determiner: belonging to him",
+    "translationEvidence": "eng/his__Determiner__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:his",
+    "ipaEvidenceUK": "ipa-dict/en_UK:his"
+  },
+  {
+    "sourceId": "history-1230",
+    "headword": "history",
+    "displayWord": "history",
+    "speechText": "history",
+    "translation": "tarih",
+    "example": "My sister likes studying history.",
+    "exampleTr": "Kız kardeşim tarih çalışmayı sever.",
+    "ipaUS": "/ˈhɪstɝi/",
+    "ipaUK": "/hˈɪstəɹˌi/",
+    "approxUS": "his-tı-ri",
+    "approxUK": "his-tı-ri",
+    "topicTags": [
+      "school"
+    ],
+    "selectedSense": "noun: study of the past",
+    "translationEvidence": "eng/history__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:history",
+    "ipaEvidenceUK": "ipa-dict/en_UK:history"
+  },
+  {
+    "sourceId": "hobby-1238",
+    "headword": "hobby",
+    "displayWord": "hobby",
+    "speechText": "hobby",
+    "translation": "hobi",
+    "example": "Reading is my favourite hobby.",
+    "exampleTr": "Kitap okumak en sevdiğim hobidir.",
+    "ipaUS": "/ˈhɑbi/",
+    "ipaUK": "/hˈɒbi/",
+    "approxUS": "haa-bi",
+    "approxUK": "ho-bi",
+    "topicTags": [
+      "daily-life"
+    ],
+    "selectedSense": "noun: leisure activity",
+    "translationEvidence": "eng/hobby__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hobby",
+    "ipaEvidenceUK": "ipa-dict/en_UK:hobby"
+  },
+  {
+    "sourceId": "holiday-1254",
+    "headword": "holiday",
+    "displayWord": "holiday",
+    "speechText": "holiday",
+    "translation": "tatil",
+    "example": "We are on holiday this week.",
+    "exampleTr": "Bu hafta tatildeyiz.",
+    "ipaUS": "/ˈhɑɫəˌdeɪ/",
+    "ipaUK": "/hˈɒlɪdˌeɪ/",
+    "approxUS": "haa-lı-dey",
+    "approxUK": "ho-li-dey",
+    "topicTags": [
+      "travel"
+    ],
+    "selectedSense": "noun: leisure time away from work",
+    "translationEvidence": "eng/holiday__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:holiday",
+    "ipaEvidenceUK": "ipa-dict/en_UK:holiday"
+  },
+  {
+    "sourceId": "home-1266",
+    "headword": "home",
+    "displayWord": "home",
+    "speechText": "home",
+    "translation": "ev",
+    "example": "Our home is near the sea.",
+    "exampleTr": "Evimiz denizin yakınında.",
+    "ipaUS": "/ˈhoʊm/",
+    "ipaUK": "/hˈəʊm/",
+    "approxUS": "houm",
+    "approxUK": "houm",
+    "topicTags": [
+      "home"
+    ],
+    "selectedSense": "noun: place where one lives",
+    "translationEvidence": "eng/home__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:home",
+    "ipaEvidenceUK": "ipa-dict/en_UK:home"
+  },
+  {
+    "sourceId": "homework-1270",
+    "headword": "homework",
+    "displayWord": "homework",
+    "speechText": "homework",
+    "translation": "ev ödevi",
+    "example": "My homework is on the kitchen table.",
+    "exampleTr": "Ev ödevim mutfak masasının üzerinde.",
+    "ipaUS": "/ˈhoʊmˌwɝk/",
+    "ipaUK": "/hˈəʊmwɜːk/",
+    "approxUS": "houm-vörk",
+    "approxUK": "houm-vöök",
+    "topicTags": [
+      "school"
+    ],
+    "selectedSense": "noun: schoolwork done at home",
+    "translationEvidence": "eng/homework__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:homework",
+    "ipaEvidenceUK": "ipa-dict/en_UK:homework"
+  },
+  {
+    "sourceId": "hope-1282",
+    "headword": "hope",
+    "displayWord": "hope",
+    "speechText": "hope",
+    "translation": "ummak",
+    "example": "I hope you feel better soon.",
+    "exampleTr": "Umarım yakında daha iyi hissedersin.",
+    "ipaUS": "/ˈhoʊp/",
+    "ipaUK": "/hˈəʊp/",
+    "approxUS": "houp",
+    "approxUK": "houp",
+    "topicTags": [
+      "feelings"
+    ],
+    "selectedSense": "verb: want something to happen",
+    "translationEvidence": "eng/hope__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hope",
+    "ipaEvidenceUK": "ipa-dict/en_UK:hope"
+  },
+  {
+    "sourceId": "horse-1294",
+    "headword": "horse",
+    "displayWord": "horse",
+    "speechText": "horse",
+    "translation": "at",
+    "example": "The horse is eating an apple.",
+    "exampleTr": "At bir elma yiyor.",
+    "ipaUS": "/ˈhɔɹs/",
+    "ipaUK": "/hˈɔːs/",
+    "approxUS": "hors",
+    "approxUK": "hoos",
+    "topicTags": [
+      "nature"
+    ],
+    "selectedSense": "noun: riding animal",
+    "translationEvidence": "eng/horse__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:horse",
+    "ipaEvidenceUK": "ipa-dict/en_UK:horse"
+  },
+  {
+    "sourceId": "hospital-1298",
+    "headword": "hospital",
+    "displayWord": "hospital",
+    "speechText": "hospital",
+    "translation": "hastane",
+    "example": "My father works at the hospital.",
+    "exampleTr": "Babam hastanede çalışıyor.",
+    "ipaUS": "/ˈhɑˌspɪtəɫ/",
+    "ipaUK": "/hˈɒspɪtəl/",
+    "approxUS": "haa-spi-tıl",
+    "approxUK": "hos-pi-tıl",
+    "topicTags": [
+      "places"
+    ],
+    "selectedSense": "noun: medical facility",
+    "translationEvidence": "eng/hospital__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hospital",
+    "ipaEvidenceUK": "ipa-dict/en_UK:hospital"
+  },
+  {
+    "sourceId": "hot-1306",
+    "headword": "hot",
+    "displayWord": "hot",
+    "speechText": "hot",
+    "translation": "sıcak",
+    "example": "Be careful with that hot tea.",
+    "exampleTr": "O sıcak çaya dikkat et.",
+    "ipaUS": "/ˈhɑt/",
+    "ipaUK": "/hˈɒt/",
+    "approxUS": "haat",
+    "approxUK": "hot",
+    "topicTags": [
+      "food"
+    ],
+    "selectedSense": "adjective: high temperature",
+    "translationEvidence": "eng/hot__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hot",
+    "ipaEvidenceUK": "ipa-dict/en_UK:hot"
+  },
+  {
+    "sourceId": "hotel-1310",
+    "headword": "hotel",
+    "displayWord": "hotel",
+    "speechText": "hotel",
+    "translation": "otel",
+    "example": "Our hotel has a small pool.",
+    "exampleTr": "Otelimizin küçük bir havuzu var.",
+    "ipaUS": "/hoʊˈtɛɫ/",
+    "ipaUK": "/həʊtˈɛl/",
+    "approxUS": "hou-tel",
+    "approxUK": "hou-tel",
+    "topicTags": [
+      "travel"
+    ],
+    "selectedSense": "noun: paid accommodation",
+    "translationEvidence": "eng/hotel__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hotel",
+    "ipaEvidenceUK": "ipa-dict/en_UK:hotel"
+  },
+  {
+    "sourceId": "hour-1314",
+    "headword": "hour",
+    "displayWord": "hour",
+    "speechText": "hour",
+    "translation": "saat",
+    "example": "The journey takes about an hour.",
+    "exampleTr": "Yolculuk yaklaşık bir saat sürüyor.",
+    "ipaUS": "/ˈaʊɝ/",
+    "ipaUK": "/ˈaʊə/",
+    "approxUS": "au-ır",
+    "approxUK": "au-ı",
+    "topicTags": [
+      "time"
+    ],
+    "selectedSense": "noun: sixty minutes",
+    "translationEvidence": "eng/hour__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hour",
+    "ipaEvidenceUK": "ipa-dict/en_UK:hour"
+  },
+  {
+    "sourceId": "house-1318",
+    "headword": "house",
+    "displayWord": "house",
+    "speechText": "house",
+    "translation": "ev",
+    "example": "Their house has three bedrooms.",
+    "exampleTr": "Evlerinde üç yatak odası var.",
+    "ipaUS": "/ˈhaʊs/",
+    "ipaUK": "",
+    "approxUS": "haus",
+    "approxUK": "",
+    "topicTags": [
+      "home"
+    ],
+    "selectedSense": "noun: residential building",
+    "translationEvidence": "eng/house__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:house",
+    "ipaEvidenceUK": "unavailable"
+  },
+  {
+    "sourceId": "how-1330",
+    "headword": "how",
+    "displayWord": "how",
+    "speechText": "how",
+    "translation": "nasıl",
+    "example": "How do you make this soup?",
+    "exampleTr": "Bu çorbayı nasıl yapıyorsun?",
+    "ipaUS": "/ˈhaʊ/",
+    "ipaUK": "/hˈaʊ/",
+    "approxUS": "hau",
+    "approxUK": "hau",
+    "topicTags": [
+      "function-words"
+    ],
+    "selectedSense": "adverb: in what manner",
+    "translationEvidence": "eng/how__Adverb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:how",
+    "ipaEvidenceUK": "ipa-dict/en_UK:how"
+  },
+  {
+    "sourceId": "however-1334",
+    "headword": "however",
+    "displayWord": "however",
+    "speechText": "however",
+    "translation": "ancak",
+    "example": "It is cold; however, the sun is shining.",
+    "exampleTr": "Hava soğuk; ancak güneş parlıyor.",
+    "ipaUS": "/ˌhaʊˈɛvɝ/",
+    "ipaUK": "/haʊˈɛvɐ/",
+    "approxUS": "hau-e-vır",
+    "approxUK": "hau-e-vı",
+    "topicTags": [
+      "function-words"
+    ],
+    "selectedSense": "adverb: nevertheless",
+    "translationEvidence": "eng/however__Adverb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:however",
+    "ipaEvidenceUK": "ipa-dict/en_UK:however"
+  },
+  {
+    "sourceId": "hundred-1354",
+    "headword": "hundred",
+    "displayWord": "hundred",
+    "speechText": "hundred",
+    "translation": "yüz",
+    "example": "There are a hundred people here.",
+    "exampleTr": "Burada yüz kişi var.",
+    "ipaUS": "/ˈhəndɝd/",
+    "ipaUK": "/hˈʌndɹəd/",
+    "approxUS": "han-dırd",
+    "approxUK": "han-drıd",
+    "topicTags": [
+      "numbers"
+    ],
+    "selectedSense": "number: 100",
+    "translationEvidence": "eng/hundred__Numeral__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hundred",
+    "ipaEvidenceUK": "ipa-dict/en_UK:hundred"
+  },
+  {
+    "sourceId": "hungry-1358",
+    "headword": "hungry",
+    "displayWord": "hungry",
+    "speechText": "hungry",
+    "translation": "aç",
+    "example": "Are you hungry after your walk?",
+    "exampleTr": "Yürüyüşten sonra aç mısın?",
+    "ipaUS": "/ˈhəŋɡɹi/",
+    "ipaUK": "/hˈʌŋɡɹi/",
+    "approxUS": "hang-gri",
+    "approxUK": "hang-gri",
+    "topicTags": [
+      "feelings"
+    ],
+    "selectedSense": "adjective: needing food",
+    "translationEvidence": "eng/hungry__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hungry",
+    "ipaEvidenceUK": "ipa-dict/en_UK:hungry"
+  },
+  {
+    "sourceId": "husband-1103",
+    "headword": "husband",
+    "displayWord": "husband",
+    "speechText": "husband",
+    "translation": "koca",
+    "example": "Her husband is a bus driver.",
+    "exampleTr": "Kocası otobüs şoförü.",
+    "ipaUS": "/ˈhəzbənd/",
+    "ipaUK": "/hˈʌsbənd/",
+    "approxUS": "haz-bınd",
+    "approxUK": "has-bınd",
+    "topicTags": [
+      "family"
+    ],
+    "selectedSense": "noun: married male partner",
+    "translationEvidence": "eng/husband__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:husband",
+    "ipaEvidenceUK": "ipa-dict/en_UK:husband"
+  },
+  {
+    "sourceId": "i-1107",
+    "headword": "I",
+    "displayWord": "I",
+    "speechText": "I",
+    "translation": "ben",
+    "example": "I walk to work every morning.",
+    "exampleTr": "Ben her sabah işe yürürüm.",
+    "ipaUS": "/ˈaɪ/",
+    "ipaUK": "/ˈaɪ/",
+    "approxUS": "ay",
+    "approxUK": "ay",
+    "topicTags": [
+      "function-words"
+    ],
+    "selectedSense": "pronoun: speaker",
+    "translationEvidence": "eng/I__Pronoun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:I",
+    "ipaEvidenceUK": "ipa-dict/en_UK:I"
+  },
+  {
+    "sourceId": "ice-1111",
+    "headword": "ice",
+    "displayWord": "ice",
+    "speechText": "ice",
+    "translation": "buz",
+    "example": "Please put some ice in my water.",
+    "exampleTr": "Lütfen suyuma biraz buz koy.",
+    "ipaUS": "/ˈaɪs/",
+    "ipaUK": "/ˈaɪs/",
+    "approxUS": "ays",
+    "approxUK": "ays",
+    "topicTags": [
+      "food"
+    ],
+    "selectedSense": "noun: frozen water",
+    "translationEvidence": "eng/ice__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:ice",
+    "ipaEvidenceUK": "ipa-dict/en_UK:ice"
+  },
+  {
+    "sourceId": "ice-cream-1115",
+    "headword": "ice cream",
+    "displayWord": "ice cream",
+    "speechText": "ice cream",
+    "translation": "dondurma",
+    "example": "We eat ice cream in the park.",
+    "exampleTr": "Parkta dondurma yeriz.",
+    "ipaUS": "/ˈaɪs kriːm/",
+    "ipaUK": "",
+    "approxUS": "ays-kriim",
+    "approxUK": "",
+    "topicTags": [
+      "food"
+    ],
+    "selectedSense": "noun: frozen dessert",
+    "translationEvidence": "eng/ice_cream__Noun__1",
+    "ipaEvidenceUS": "https://www.oxfordlearnersdictionaries.com/definition/english/ice-cream",
+    "ipaEvidenceUK": "unavailable",
+    "contentNote": "Eksik ABD telaffuzu Oxford sözlüğünden alındı."
+  },
+  {
+    "sourceId": "idea-1119",
+    "headword": "idea",
+    "displayWord": "idea",
+    "speechText": "idea",
+    "translation": "fikir",
+    "example": "Do you have a better idea?",
+    "exampleTr": "Daha iyi bir fikrin var mı?",
+    "ipaUS": "/aɪˈdiə/",
+    "ipaUK": "/aɪdˈiə/",
+    "approxUS": "ay-di-ı",
+    "approxUK": "ay-di-ı",
+    "topicTags": [
+      "communication"
+    ],
+    "selectedSense": "noun: thought or plan",
+    "translationEvidence": "eng/idea__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:idea",
+    "ipaEvidenceUK": "ipa-dict/en_UK:idea"
+  },
+  {
+    "sourceId": "if-1135",
+    "headword": "if",
+    "displayWord": "if",
+    "speechText": "if",
+    "translation": "eğer",
+    "example": "Call me if you need help.",
+    "exampleTr": "Yardıma ihtiyacın olursa beni ara.",
+    "ipaUS": "/ˈɪf/",
+    "ipaUK": "/ˈɪf/",
+    "approxUS": "if",
+    "approxUK": "if",
+    "topicTags": [
+      "function-words"
+    ],
+    "selectedSense": "conjunction: condition",
+    "translationEvidence": "eng/if__Conjunction__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:if",
+    "ipaEvidenceUK": "ipa-dict/en_UK:if"
+  },
+  {
+    "sourceId": "imagine-1175",
+    "headword": "imagine",
+    "displayWord": "imagine",
+    "speechText": "imagine",
+    "translation": "hayal etmek",
+    "example": "Imagine a house beside the sea.",
+    "exampleTr": "Deniz kenarında bir ev hayal et.",
+    "ipaUS": "/ˌɪˈmædʒən/",
+    "ipaUK": "/ɪmˈædʒɪn/",
+    "approxUS": "i-me-cın",
+    "approxUK": "i-me-cin",
+    "topicTags": [
+      "actions"
+    ],
+    "selectedSense": "verb: form a mental image",
+    "translationEvidence": "eng/imagine__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:imagine",
+    "ipaEvidenceUK": "ipa-dict/en_UK:imagine"
+  },
+  {
+    "sourceId": "important-1211",
+    "headword": "important",
+    "displayWord": "important",
+    "speechText": "important",
+    "translation": "önemli",
+    "example": "This letter is very important.",
+    "exampleTr": "Bu mektup çok önemli.",
+    "ipaUS": "/ˌɪmˈpɔɹtənt/",
+    "ipaUK": "/ɪmpˈɔːtənt/",
+    "approxUS": "im-por-tınt",
+    "approxUK": "im-poo-tınt",
+    "topicTags": [
+      "descriptions"
+    ],
+    "selectedSense": "adjective: having great value",
+    "translationEvidence": "eng/important__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:important",
+    "ipaEvidenceUK": "ipa-dict/en_UK:important"
+  },
+  {
+    "sourceId": "improve-1239",
+    "headword": "improve",
+    "displayWord": "improve",
+    "speechText": "improve",
+    "translation": "geliştirmek",
+    "example": "I want to improve my English.",
+    "exampleTr": "İngilizcemi geliştirmek istiyorum.",
+    "ipaUS": "/ˌɪmˈpɹuv/",
+    "ipaUK": "/ɪmpɹˈuːv/",
+    "approxUS": "im-pruuv",
+    "approxUK": "im-pruuv",
+    "topicTags": [
+      "actions"
+    ],
+    "selectedSense": "verb: make better",
+    "translationEvidence": "eng/improve__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:improve",
+    "ipaEvidenceUK": "ipa-dict/en_UK:improve"
+  },
+  {
+    "sourceId": "in-1247",
+    "headword": "in",
+    "displayWord": "in",
+    "speechText": "in",
+    "translation": "içinde",
+    "example": "The milk is in the fridge.",
+    "exampleTr": "Süt buzdolabının içinde.",
+    "ipaUS": "/ˈɪn/",
+    "ipaUK": "/ˈɪn/",
+    "approxUS": "in",
+    "approxUK": "in",
+    "topicTags": [
+      "function-words"
+    ],
+    "selectedSense": "preposition: inside",
+    "translationEvidence": "eng/in__Preposition__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:in",
+    "ipaEvidenceUK": "ipa-dict/en_UK:in"
+  },
+  {
+    "sourceId": "include-1259",
+    "headword": "include",
+    "displayWord": "include",
+    "speechText": "include",
+    "translation": "içermek",
+    "example": "These meals include rice and vegetables.",
+    "exampleTr": "Bu öğünler pirinç ve sebze içerir.",
+    "ipaUS": "/ˌɪnˈkɫud/",
+    "ipaUK": "/ɪnklˈuːd/",
+    "approxUS": "in-kluud",
+    "approxUK": "in-kluud",
+    "topicTags": [
+      "food"
+    ],
+    "selectedSense": "verb: contain as part",
+    "translationEvidence": "eng/include__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:include",
+    "ipaEvidenceUK": "ipa-dict/en_UK:include"
+  },
+  {
+    "sourceId": "information-1343",
+    "headword": "information",
+    "displayWord": "information",
+    "speechText": "information",
+    "translation": "bilgi",
+    "example": "We need more information about the trip.",
+    "exampleTr": "Gezi hakkında daha fazla bilgiye ihtiyacımız var.",
+    "ipaUS": "/ˌɪnfɝˈmeɪʃən/",
+    "ipaUK": "/ˌɪnfəmˈeɪʃən/",
+    "approxUS": "in-fır-mey-şın",
+    "approxUK": "in-fı-mey-şın",
+    "topicTags": [
+      "communication"
+    ],
+    "selectedSense": "noun: knowledge communicated",
+    "translationEvidence": "eng/information__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:information",
+    "ipaEvidenceUK": "ipa-dict/en_UK:information"
+  },
+  {
+    "sourceId": "interest-1455",
+    "headword": "interest",
+    "displayWord": "interest",
+    "speechText": "interest",
+    "translation": "ilgi",
+    "example": "She shows an interest in music.",
+    "exampleTr": "Müziğe ilgi gösteriyor.",
+    "ipaUS": "/ˈɪntɝəst/",
+    "ipaUK": "/ˈɪntɹəst/",
+    "approxUS": "in-tı-rıst",
+    "approxUK": "in-trıst",
+    "topicTags": [
+      "feelings"
+    ],
+    "selectedSense": "noun: attention and curiosity",
+    "translationEvidence": "eng/interest__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:interest",
+    "ipaEvidenceUK": "ipa-dict/en_UK:interest"
+  },
+  {
+    "sourceId": "interested-1459",
+    "headword": "interested",
+    "displayWord": "interested",
+    "speechText": "interested",
+    "translation": "ilgili",
+    "example": "Are you interested in old cars?",
+    "exampleTr": "Eski arabalara ilgi duyuyor musun?",
+    "ipaUS": "/ˈɪntɝəstəd/",
+    "ipaUK": "/ˈɪntɹəstɪd/",
+    "approxUS": "in-tı-rıs-tıd",
+    "approxUK": "in-trıs-tid",
+    "topicTags": [
+      "feelings"
+    ],
+    "selectedSense": "adjective: showing interest",
+    "translationEvidence": "https://www.oxfordlearnersdictionaries.com/definition/english/interested",
+    "ipaEvidenceUS": "ipa-dict/en_US:interested",
+    "ipaEvidenceUK": "ipa-dict/en_UK:interested",
+    "contentNote": "Girdide lexentry kimliği yok; anlam Oxford sözlük maddesiyle desteklendi."
+  },
+  {
+    "sourceId": "interesting-1463",
+    "headword": "interesting",
+    "displayWord": "interesting",
+    "speechText": "interesting",
+    "translation": "ilginç",
+    "example": "We watched an interesting film yesterday.",
+    "exampleTr": "Dün ilginç bir film izledik.",
+    "ipaUS": "/ˈɪntɝəstɪŋ/",
+    "ipaUK": "/ˈɪntɹəstɪŋ/",
+    "approxUS": "in-tı-rıs-ting",
+    "approxUK": "in-trıs-ting",
+    "topicTags": [
+      "descriptions"
+    ],
+    "selectedSense": "adjective: holding attention",
+    "translationEvidence": "eng/interesting__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:interesting",
+    "ipaEvidenceUK": "ipa-dict/en_UK:interesting"
+  },
+  {
+    "sourceId": "internet-1474",
+    "headword": "internet",
+    "displayWord": "internet",
+    "speechText": "internet",
+    "translation": "internet",
+    "example": "I use the internet for homework.",
+    "exampleTr": "İnterneti ev ödevim için kullanıyorum.",
+    "ipaUS": "/ˈɪntɝˌnɛt/",
+    "ipaUK": "/ˈɪntənˌɛt/",
+    "approxUS": "in-tır-net",
+    "approxUK": "in-tı-net",
+    "topicTags": [
+      "technology"
+    ],
+    "selectedSense": "noun: global computer network",
+    "translationEvidence": "https://www.oxfordlearnersdictionaries.com/definition/english/internet",
+    "ipaEvidenceUS": "ipa-dict/en_US:internet",
+    "ipaEvidenceUK": "ipa-dict/en_UK:internet",
+    "contentNote": "Girdide lexentry kimliği yok; anlam Oxford sözlük maddesiyle desteklendi."
+  },
+  {
+    "sourceId": "interview-1484",
+    "headword": "interview",
+    "displayWord": "interview",
+    "speechText": "interview",
+    "translation": "mülakat",
+    "example": "My job interview is on Tuesday.",
+    "exampleTr": "İş mülakatım salı günü.",
+    "ipaUS": "/ˈɪntɝvˌju/",
+    "ipaUK": "/ˈɪntəvjˌuː/",
+    "approxUS": "in-tır-vyuu",
+    "approxUK": "in-tı-vyuu",
+    "topicTags": [
+      "work"
+    ],
+    "selectedSense": "noun: assessment meeting",
+    "translationEvidence": "eng/interview__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:interview",
+    "ipaEvidenceUK": "ipa-dict/en_UK:interview"
+  },
+  {
+    "sourceId": "into-1488",
+    "headword": "into",
+    "displayWord": "into",
+    "speechText": "into",
+    "translation": "içine",
+    "example": "Put your clothes into this bag.",
+    "exampleTr": "Kıyafetlerini bu çantanın içine koy.",
+    "ipaUS": "/ˈɪntu/",
+    "ipaUK": "/ˈɪntʊ/",
+    "approxUS": "in-tuu",
+    "approxUK": "in-tu",
+    "topicTags": [
+      "function-words"
+    ],
+    "selectedSense": "preposition: movement inside",
+    "translationEvidence": "eng/into__Preposition__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:into",
+    "ipaEvidenceUK": "ipa-dict/en_UK:into"
+  },
+  {
+    "sourceId": "introduce-1492",
+    "headword": "introduce",
+    "displayWord": "introduce",
+    "speechText": "introduce",
+    "translation": "tanıştırmak",
+    "example": "Let me introduce you to my sister.",
+    "exampleTr": "Seni kız kardeşimle tanıştırayım.",
+    "ipaUS": "/ˌɪntɹəˈdus/",
+    "ipaUK": "/ˌɪntɹədjˈuːs/",
+    "approxUS": "in-trı-duus",
+    "approxUK": "in-trı-dyuus",
+    "topicTags": [
+      "communication"
+    ],
+    "selectedSense": "verb: make people acquainted",
+    "translationEvidence": "eng/introduce__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:introduce",
+    "ipaEvidenceUK": "ipa-dict/en_UK:introduce"
+  },
+  {
+    "sourceId": "island-1544",
+    "headword": "island",
+    "displayWord": "island",
+    "speechText": "island",
+    "translation": "ada",
+    "example": "We visited a small island yesterday.",
+    "exampleTr": "Dün küçük bir adayı ziyaret ettik.",
+    "ipaUS": "/ˈaɪɫənd/",
+    "ipaUK": "/ˈaɪlənd/",
+    "approxUS": "ay-lınd",
+    "approxUK": "ay-lınd",
+    "topicTags": [
+      "nature"
+    ],
+    "selectedSense": "noun: land surrounded by water",
+    "translationEvidence": "eng/island__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:island",
+    "ipaEvidenceUK": "ipa-dict/en_UK:island"
+  }
+]

@@ -1,0 +1,907 @@
+[
+  {
+    "sourceId": "phenomenon-1915",
+    "headword": "phenomenon",
+    "level": "B2",
+    "raw": "phenomenon n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "phenomenon",
+    "translationLookup": "phenomenon",
+    "ipaCandidates": {
+      "en-US": "/fəˈnɑməˌnɑn/",
+      "en-GB": "/fɪnˈɒmɪnən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/phenomenon__Noun__1",
+        "sense": "observable fact or occurrence",
+        "translations": "fenomen",
+        "score": 170.0
+      },
+      {
+        "entry": "eng/phenomenon__Noun__1",
+        "sense": "unusual, curious, or astonishing fact or event",
+        "translations": "fenomen",
+        "score": 60.0
+      },
+      {
+        "entry": "eng/phenomenon__Noun__1",
+        "sense": "philosophy: experienced object structured by the mind",
+        "translations": "fenomen",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/phenomenon__Noun__1",
+        "sense": "wonderful or very remarkable person or thing",
+        "translations": "fenomen",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "philosophy-1919",
+    "headword": "philosophy",
+    "level": "B2",
+    "raw": "philosophy n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "philosophy",
+    "translationLookup": "philosophy",
+    "ipaCandidates": {
+      "en-US": "/fəˈɫɑsəfi/",
+      "en-GB": "/fɪlˈɒsəfi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/philosophy__Noun__1",
+        "sense": "academic discipline",
+        "translations": "felsefe",
+        "score": 180.0
+      },
+      {
+        "entry": "eng/philosophy__Noun__1",
+        "sense": "comprehensive system of belief",
+        "translations": "felsefe",
+        "score": 70.0
+      },
+      {
+        "entry": "eng/philosophy__Noun__1",
+        "sense": "view regarding fundamental principles",
+        "translations": "felsefe",
+        "score": 70.0
+      },
+      {
+        "entry": "eng/philosophy__Noun__1",
+        "sense": "general principle",
+        "translations": "felsefe",
+        "score": 60.0
+      },
+      {
+        "entry": "eng/philosophy__Noun__1",
+        "sense": "the love of wisdom",
+        "translations": "felsefe",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "pile-1973",
+    "headword": "pile",
+    "level": "B2",
+    "raw": "pile n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "pile",
+    "translationLookup": "pile",
+    "ipaCandidates": {
+      "en-US": "/ˈpaɪɫ/",
+      "en-GB": "/pˈaɪl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/pile__Noun__1",
+        "sense": null,
+        "translations": "yığın | pil | yığmak",
+        "score": 101.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "pitch-1993",
+    "headword": "pitch",
+    "level": "B2",
+    "raw": "pitch n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "pitch",
+    "translationLookup": "pitch",
+    "ipaCandidates": {
+      "en-US": "/ˈpɪtʃ/",
+      "en-GB": "/pˈɪtʃ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/pitch__Noun__3",
+        "sense": null,
+        "translations": "perde",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/pitch__Noun__1",
+        "sense": "dark, extremely viscous material made by distilling tar",
+        "translations": "karasakız | zift",
+        "score": 100
+      },
+      {
+        "entry": "eng/pitch__Noun__1",
+        "sense": "sticky, gummy substance secreted by trees",
+        "translations": "zift",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "plain-2001",
+    "headword": "plain",
+    "level": "B2",
+    "raw": "plain adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "plain",
+    "translationLookup": "plain",
+    "ipaCandidates": {
+      "en-US": "/ˈpɫeɪn/",
+      "en-GB": "/plˈeɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/plain__Adjective__1",
+        "sense": null,
+        "translations": "sade",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/plain__Noun__1",
+        "sense": "an expanse of land with relatively low relief",
+        "translations": "düzlük | ova",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/plain__Adjective__1",
+        "sense": "unseasoned",
+        "translations": "sade",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "pointed-2093",
+    "headword": "pointed",
+    "level": "B2",
+    "raw": "pointed adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "pointed",
+    "translationLookup": "pointed",
+    "ipaCandidates": {
+      "en-US": "/ˈpɔɪnəd/, /ˈpɔɪntɪd/",
+      "en-GB": "/pˈɔɪntɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/pointed__Adjective__1",
+        "sense": "sharp at one end",
+        "translations": "sivri",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "popularity-2153",
+    "headword": "popularity",
+    "level": "B2",
+    "raw": "popularity n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "popularity",
+    "translationLookup": "popularity",
+    "ipaCandidates": {
+      "en-US": "/ˌpɑpjəˈɫɛɹəti/",
+      "en-GB": "/pˌɒpjʊlˈæɹɪti/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "popülarite",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "pose-2169",
+    "headword": "pose",
+    "level": "B2",
+    "raw": "pose v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "pose",
+    "translationLookup": "pose",
+    "ipaCandidates": {
+      "en-US": "/ˈpoʊz/",
+      "en-GB": "/pˈəʊz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/pose__Verb__1",
+        "sense": "assume or maintain a pose",
+        "translations": "poz vermek",
+        "score": 130.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "possess-2181",
+    "headword": "possess",
+    "level": "B2",
+    "raw": "possess v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "possess",
+    "translationLookup": "possess",
+    "ipaCandidates": {
+      "en-US": "/pəˈzɛs/",
+      "en-GB": "/pəzˈɛs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/possess__Verb__1",
+        "sense": "to have (something) as, or as if as, an owner",
+        "translations": "sahip olmak | malik olmak",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "potential-1938",
+    "headword": "potential",
+    "level": "B2",
+    "raw": "potential adj., n. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "potential",
+    "translationLookup": "potential",
+    "ipaCandidates": {
+      "en-US": "/pəˈtɛnʃəɫ/",
+      "en-GB": "/pətˈɛnʃəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/potential__Adjective__1",
+        "sense": "existing in possibility",
+        "translations": "gizil | potansiyel",
+        "score": 100
+      },
+      {
+        "entry": "eng/potential__Noun__1",
+        "sense": "currently unrealized ability",
+        "translations": "gizil | gizli | potansiyel",
+        "score": 100
+      },
+      {
+        "entry": "eng/potential__Noun__1",
+        "sense": "energy of a unit electrical charge",
+        "translations": "gizil güç | potansiyel",
+        "score": 100
+      },
+      {
+        "entry": "eng/potential__Noun__1",
+        "sense": "physics: the radial component of a gravitational field",
+        "translations": "gizil güç | potansiyel",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "praise-1978",
+    "headword": "praise",
+    "level": "B2",
+    "raw": "praise n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "praise",
+    "translationLookup": "praise",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹeɪz/",
+      "en-GB": "/pɹˈeɪz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/praise__Verb__1",
+        "sense": null,
+        "translations": "övmek | methetmek",
+        "score": 120.6
+      },
+      {
+        "entry": "eng/praise__Noun__1",
+        "sense": null,
+        "translations": "övgü | methiye",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/praise__Noun__1",
+        "sense": "worship",
+        "translations": "hamt",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "pregnant-2002",
+    "headword": "pregnant",
+    "level": "B2",
+    "raw": "pregnant adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "pregnant",
+    "translationLookup": "pregnant",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹɛɡnənt/",
+      "en-GB": "/pɹˈɛɡnənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/pregnant__Adjective__1",
+        "sense": "carrying developing offspring within the body",
+        "translations": "hamile | gebe",
+        "score": 133.6
+      },
+      {
+        "entry": "eng/pregnant__Adjective__1",
+        "sense": "having many possibilities or implications",
+        "translations": "gebe",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "preparation-2006",
+    "headword": "preparation",
+    "level": "B2",
+    "raw": "preparation n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "preparation",
+    "translationLookup": "preparation",
+    "ipaCandidates": {
+      "en-US": "/ˌpɹɛpɝˈeɪʃən/",
+      "en-GB": "/pɹˌɛpəɹˈeɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/preparation__Noun__1",
+        "sense": "act of preparing",
+        "translations": "hazırlık",
+        "score": 130.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "presence-2018",
+    "headword": "presence",
+    "level": "B2",
+    "raw": "presence n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "presence",
+    "translationLookup": "presence",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹɛzəns/",
+      "en-GB": "/pɹˈɛzəns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/presence__Noun__1",
+        "sense": "the part of space within one's immediate vicinity; the state of being present with an object or person",
+        "translations": "huzur",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "preserve-2030",
+    "headword": "preserve",
+    "level": "B2",
+    "raw": "preserve v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "preserve",
+    "translationLookup": "preserve",
+    "ipaCandidates": {
+      "en-US": "/pɹəˈzɝv/, /pɹiˈzɝv/, /pɹɪˈzɝv/",
+      "en-GB": "/pɹɪsˈɜːv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/preserve__Noun__1",
+        "sense": "sweet spread",
+        "translations": "reçel",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/preserve__Verb__1",
+        "sense": "to protect",
+        "translations": "korumak | muhafaza etmek",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/preserve__Verb__1",
+        "sense": "to keep; to maintain the condition of",
+        "translations": "devam ettirmek | muhafaza etmek | sürdürmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "prime-2078",
+    "headword": "prime",
+    "level": "B2",
+    "raw": "prime adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "prime",
+    "translationLookup": "prime",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹaɪm/",
+      "en-GB": "/pɹˈaɪm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/prime__Adjective__1",
+        "sense": "first in time, order, or sequence",
+        "translations": "birincil",
+        "score": 100
+      },
+      {
+        "entry": "eng/prime__Adjective__1",
+        "sense": "mathematics: having no factors except itself and unity",
+        "translations": "asal",
+        "score": 100
+      },
+      {
+        "entry": "eng/prime__Noun__1",
+        "sense": "symbol ( ′ )",
+        "translations": "üssü",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "principle-2090",
+    "headword": "principle",
+    "level": "B2",
+    "raw": "principle n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "principle",
+    "translationLookup": "principle",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹɪnsəpəɫ/",
+      "en-GB": "/pɹˈɪnsɪpəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/principle__Noun__1",
+        "sense": null,
+        "translations": "prensip | ilke",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/principle__Noun__1",
+        "sense": "fundamental assumption",
+        "translations": "prensip | ilke",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/principle__Noun__1",
+        "sense": "rule of nature",
+        "translations": "ilke | kanun",
+        "score": 101.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "priority-2106",
+    "headword": "priority",
+    "level": "B2",
+    "raw": "priority n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "priority",
+    "translationLookup": "priority",
+    "ipaCandidates": {
+      "en-US": "/pɹaɪˈɔɹəti/",
+      "en-GB": "/pɹaɪˈɒɹɪti/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/priority__Noun__1",
+        "sense": "item's relative importance",
+        "translations": "öncelik",
+        "score": 111.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "privacy-2118",
+    "headword": "privacy",
+    "level": "B2",
+    "raw": "privacy n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "privacy",
+    "translationLookup": "privacy",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹaɪvəsi/",
+      "en-GB": "/pɹˈɪvəsi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/privacy__Noun__1",
+        "sense": "state of being secluded",
+        "translations": "mahremiyet | gizlilik",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "procedure-2138",
+    "headword": "procedure",
+    "level": "B2",
+    "raw": "procedure n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "procedure",
+    "translationLookup": "procedure",
+    "ipaCandidates": {
+      "en-US": "/pɹəˈsidʒɝ/, /pɹoʊˈsidʒɝ/",
+      "en-GB": "/pɹəsˈiːdʒɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/procedure__Noun__1",
+        "sense": "set of established forms or methods of an organized body",
+        "translations": "prosedür | işlem",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/procedure__Noun__1",
+        "sense": "method for performing a task",
+        "translations": "prosedür | işlem",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/procedure__Noun__1",
+        "sense": "computing: subroutine or function coded to perform a specific task",
+        "translations": "yordam",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "proof-1931",
+    "headword": "proof",
+    "level": "B2",
+    "raw": "proof n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "proof",
+    "translationLookup": "proof",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹuf/",
+      "en-GB": "/pɹˈuːf/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/proof__Noun__1",
+        "sense": null,
+        "translations": "ispat | kanıt | delil",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/proof__Noun__1",
+        "sense": "process for testing the accuracy of an operation performed",
+        "translations": "ispat",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "proposal-1947",
+    "headword": "proposal",
+    "level": "B2",
+    "raw": "proposal n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "proposal",
+    "translationLookup": "proposal",
+    "ipaCandidates": {
+      "en-US": "/pɹəˈpoʊzəɫ/",
+      "en-GB": "/pɹəpˈəʊzəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/proposal__Noun__1",
+        "sense": "that which is proposed",
+        "translations": "öneri | teklif",
+        "score": 103.5
+      },
+      {
+        "entry": "eng/proposal__Noun__1",
+        "sense": "the act of proposing a marriage",
+        "translations": "evlenme teklifi",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "propose-1951",
+    "headword": "propose",
+    "level": "B2",
+    "raw": "propose v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "propose",
+    "translationLookup": "propose",
+    "ipaCandidates": {
+      "en-US": "/pɹəˈpoʊz/",
+      "en-GB": "/pɹəpˈəʊz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/propose__Verb__1",
+        "sense": "to suggest a plan or course of action",
+        "translations": "teklif etmek",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/propose__Verb__1",
+        "sense": "to ask for someone's hand in marriage",
+        "translations": "evlenme teklif etmek",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/propose__Verb__1",
+        "sense": "to intend",
+        "translations": "niyet etmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "prospect-1955",
+    "headword": "prospect",
+    "level": "B2",
+    "raw": "prospect n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "prospect",
+    "translationLookup": "prospect",
+    "ipaCandidates": {
+      "en-US": "/ˈpɹɑspɛkt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/prospect__Verb__1",
+        "sense": "to determine which minerals or metals are present in a location",
+        "translations": "aramak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "protection-1963",
+    "headword": "protection",
+    "level": "B2",
+    "raw": "protection n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 8,
+    "displayWordHint": "protection",
+    "translationLookup": "protection",
+    "ipaCandidates": {
+      "en-US": "/pɹəˈtɛkʃən/",
+      "en-GB": "/pɹətˈɛkʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/protection__Noun__1",
+        "sense": "process of keeping something safe",
+        "translations": "koruma | sıyanet",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/protection__Noun__1",
+        "sense": "means of keeping or remaining safe",
+        "translations": "muhafaza",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  }
+]

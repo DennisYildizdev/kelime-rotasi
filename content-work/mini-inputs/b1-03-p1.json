@@ -1,0 +1,941 @@
+[
+  {
+    "sourceId": "embarrassing-1028",
+    "headword": "embarrassing",
+    "level": "B1",
+    "raw": "embarrassing adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "embarrassing",
+    "translationLookup": "embarrass",
+    "ipaCandidates": {
+      "en-US": "/ɪmˈbɛɹəsɪŋ/",
+      "en-GB": "/ɛmbˈæɹəsɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/embarrass__Verb__1",
+        "sense": null,
+        "translations": "rezil etmek",
+        "score": 110.0
+      }
+    ],
+    "externalEvidence": {
+      "headword": "embarrassing",
+      "sourceUrl": "https://en.wiktionary.org/wiki/embarrassing",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ɪmˈbæɹ.ə.sɪŋ/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/embarrassing"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "emergency-1036",
+    "headword": "emergency",
+    "level": "B1",
+    "raw": "emergency n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "emergency",
+    "translationLookup": "emergency",
+    "ipaCandidates": {
+      "en-US": "/ˈimɝdʒənsi/, /ɪˈmɝdʒənsi/",
+      "en-GB": "/ɪmˈɜːdʒənsi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/emergency__Noun__1",
+        "sense": "situation requiring urgent assistance",
+        "translations": "acil durum",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "emotion-1040",
+    "headword": "emotion",
+    "level": "B1",
+    "raw": "emotion n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "emotion",
+    "translationLookup": "emotion",
+    "ipaCandidates": {
+      "en-US": "/ˈiˌmoʊʃən/, /ɪˈmoʊʃən/",
+      "en-GB": "/ɪmˈəʊʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/emotion__Noun__1",
+        "sense": "person's internal state of being",
+        "translations": "duygu | his",
+        "score": 126.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "employment-1068",
+    "headword": "employment",
+    "level": "B1",
+    "raw": "employment n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "employment",
+    "translationLookup": "employment",
+    "ipaCandidates": {
+      "en-US": "/ɛmˈpɫɔɪmənt/, /ɪmˈpɫɔɪmənt/",
+      "en-GB": "/ɛmplˈɔɪmənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/employment__Noun__1",
+        "sense": null,
+        "translations": "hizmet",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "encourage-1084",
+    "headword": "encourage",
+    "level": "B1",
+    "raw": "encourage v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "encourage",
+    "translationLookup": "encourage",
+    "ipaCandidates": {
+      "en-US": "/ɛnˈkɝɪdʒ/, /ɪnˈkɝədʒ/",
+      "en-GB": "/ɛnkˈʌɹɪdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/encourage__Verb__1",
+        "sense": "foster, give help or patronage",
+        "translations": "desteklemek",
+        "score": 100
+      },
+      {
+        "entry": "eng/encourage__Verb__1",
+        "sense": "mentally support or motivate",
+        "translations": "cesaretlendirmek | teşvik etmek | yüreklendirmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/encourage__Verb__1",
+        "sense": "spur on, recommend",
+        "translations": "teşvik etmek | önermek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "enemy-817",
+    "headword": "enemy",
+    "level": "B1",
+    "raw": "enemy n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "enemy",
+    "translationLookup": "enemy",
+    "ipaCandidates": {
+      "en-US": "/ˈɛnəmi/",
+      "en-GB": "/ˈɛnəmi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/enemy__Noun__1",
+        "sense": "someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else",
+        "translations": "düşman | hasım | yağı",
+        "score": 125.3
+      },
+      {
+        "entry": "eng/enemy__Noun__1",
+        "sense": "a hostile force or nation; a fighting member of such a force or nation",
+        "translations": "düşman",
+        "score": 123.1
+      },
+      {
+        "entry": "eng/enemy__Noun__1",
+        "sense": "of, relating to, or belonging to an enemy",
+        "translations": "düşman",
+        "score": 110.6
+      },
+      {
+        "entry": "eng/enemy__Noun__1",
+        "sense": "an alliance of hostile forces",
+        "translations": "düşman",
+        "score": 15.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "engaged-829",
+    "headword": "engaged",
+    "level": "B1",
+    "raw": "engaged adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "engaged",
+    "translationLookup": "engaged",
+    "ipaCandidates": {
+      "en-US": "/ɛnˈɡeɪdʒd/",
+      "en-GB": "/ɛnɡˈeɪdʒd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/engaged__Adjective__1",
+        "sense": null,
+        "translations": "nişanlı | sözlü",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "engineering-841",
+    "headword": "engineering",
+    "level": "B1",
+    "raw": "engineering n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "engineering",
+    "translationLookup": "engineering",
+    "ipaCandidates": {
+      "en-US": "/ˈɛndʒəˈnɪɹɪŋ/",
+      "en-GB": "/ˌɛndʒɪnˈiəɹɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/engineering__Noun__1",
+        "sense": "work of an engineer",
+        "translations": "mühendislik",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/engineering__Noun__1",
+        "sense": "application of science to the needs of humanity",
+        "translations": "mühendislik",
+        "score": 32.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "entertain-873",
+    "headword": "entertain",
+    "level": "B1",
+    "raw": "entertain v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "entertain",
+    "translationLookup": "entertain",
+    "ipaCandidates": {
+      "en-US": "/ˌɛnɝˈteɪn/, /ˌɛntɝˈteɪn/",
+      "en-GB": "/ˌɛntətˈeɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/entertain__Verb__1",
+        "sense": "to amuse",
+        "translations": "eğlendirmek",
+        "score": 12.5
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "düşünüp taşınmak",
+        "score": 2
+      },
+      {
+        "entry": "eng/entertain__Verb__1",
+        "sense": "to have over at one's home",
+        "translations": "almak",
+        "score": 1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "entertainment-877",
+    "headword": "entertainment",
+    "level": "B1",
+    "raw": "entertainment n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "entertainment",
+    "translationLookup": "entertainment",
+    "ipaCandidates": {
+      "en-US": "/ˌɛnɝˈteɪnmənt/, /ˌɛntɝˈteɪnmənt/",
+      "en-GB": "/ˌɛntətˈeɪnmənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/entertainment__Noun__1",
+        "sense": "activity designed to give pleasure or relaxation",
+        "translations": "eğlence",
+        "score": 122.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "entrance-897",
+    "headword": "entrance",
+    "level": "B1",
+    "raw": "entrance n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "entrance",
+    "translationLookup": "entrance",
+    "ipaCandidates": {
+      "en-US": "/ˈɛntɹəns/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/entrance__Noun__1",
+        "sense": "place of entering",
+        "translations": "giriş | girme",
+        "score": 122.8
+      },
+      {
+        "entry": "eng/entrance__Noun__1",
+        "sense": null,
+        "translations": "giriş",
+        "score": 110.3
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "entry-901",
+    "headword": "entry",
+    "level": "B1",
+    "raw": "entry n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "entry",
+    "translationLookup": "entry",
+    "ipaCandidates": {
+      "en-US": "/ˈɛntɹi/",
+      "en-GB": "/ˈɛntɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/entry__Noun__1",
+        "sense": "act of entering",
+        "translations": "giriş",
+        "score": 100.3
+      },
+      {
+        "entry": "eng/entry__Noun__1",
+        "sense": "room immediately inside the front door",
+        "translations": "kapı",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "environmental-909",
+    "headword": "environmental",
+    "level": "B1",
+    "raw": "environmental adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "environmental",
+    "translationLookup": "environmental",
+    "ipaCandidates": {
+      "en-US": "/ɪnˌvaɪɹənˈmɛnəɫ/, /ɪnˌvaɪɹənˈmɛntəɫ/",
+      "en-GB": "/ɛnvˌaɪɹənmˈɛntəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/environmental__Adjective__1",
+        "sense": "pertaining to the environment",
+        "translations": "çevresel",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "episode-913",
+    "headword": "episode",
+    "level": "B1",
+    "raw": "episode n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "episode",
+    "translationLookup": "episode",
+    "ipaCandidates": {
+      "en-US": "/ˈɛpəˌsoʊd/, /ˈɛpɪˌsoʊd/",
+      "en-GB": "/ˈɛpɪsˌəʊd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/episode__Noun__1",
+        "sense": "incident or action connected with a series of events",
+        "translations": "epizot",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/episode__Noun__1",
+        "sense": "instalment of a drama told in parts",
+        "translations": "epizot | bölüm",
+        "score": 122.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "equal-917",
+    "headword": "equal",
+    "level": "B1",
+    "raw": "equal adj., v. B1, n. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., v.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "equal",
+    "translationLookup": "equal",
+    "ipaCandidates": {
+      "en-US": "/ˈikwəɫ/",
+      "en-GB": "/ˈiːkwəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/equal__Noun__1",
+        "sense": "person or thing of equal status to others",
+        "translations": "eşit",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/equal__Adjective__1",
+        "sense": "mathematics: exactly identical",
+        "translations": "eşit",
+        "score": 100
+      },
+      {
+        "entry": "eng/equal__Adjective__1",
+        "sense": "the same in all respects",
+        "translations": "eşit",
+        "score": 100
+      },
+      {
+        "entry": "eng/equal__Verb__1",
+        "sense": "be equal to",
+        "translations": "bire bir olmak | dengi olmak | eş düşmek | eşleşmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "equally-921",
+    "headword": "equally",
+    "level": "B1",
+    "raw": "equally adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "equally",
+    "translationLookup": "equal",
+    "ipaCandidates": {
+      "en-US": "/ˈikwəɫi/",
+      "en-GB": "/ˈiːkwəli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/equal__Noun__1",
+        "sense": "person or thing of equal status to others",
+        "translations": "eşit",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/equal__Adjective__1",
+        "sense": "mathematics: exactly identical",
+        "translations": "eşit",
+        "score": 100
+      },
+      {
+        "entry": "eng/equal__Adjective__1",
+        "sense": "the same in all respects",
+        "translations": "eşit",
+        "score": 100
+      },
+      {
+        "entry": "eng/equal__Verb__1",
+        "sense": "be equal to",
+        "translations": "bire bir olmak | dengi olmak | eş düşmek | eşleşmek",
+        "score": 100
+      }
+    ],
+    "externalEvidence": {
+      "headword": "equally",
+      "sourceUrl": "https://en.wiktionary.org/wiki/equally",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ˈiːkwəli/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/equally"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "escape-933",
+    "headword": "escape",
+    "level": "B1",
+    "raw": "escape v., n. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "escape",
+    "translationLookup": "escape",
+    "ipaCandidates": {
+      "en-US": "/ɪˈskeɪp/",
+      "en-GB": "/ɛskˈeɪp/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/escape__Noun__1",
+        "sense": "act of leaving a dangerous or unpleasant situation",
+        "translations": "firar | kaçış",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/escape__Verb__1",
+        "sense": "to get free; to free oneself",
+        "translations": "kaçmak",
+        "score": 104.2
+      },
+      {
+        "entry": "eng/escape__Verb__1",
+        "sense": "to avoid (any unpleasant person or thing); to elude, get away from",
+        "translations": "kaçmak",
+        "score": 101.7
+      },
+      {
+        "entry": "eng/escape__Verb__1",
+        "sense": "to avoid capture; to get away with something, avoid punishment",
+        "translations": "kurtulmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "essential-945",
+    "headword": "essential",
+    "level": "B1",
+    "raw": "essential adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "essential",
+    "translationLookup": "essential",
+    "ipaCandidates": {
+      "en-US": "/ɛˈsɛnʃəɫ/, /iˈsɛnʃəɫ/",
+      "en-GB": "/ɪsˈɛnʃəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/essential__Adjective__1",
+        "sense": null,
+        "translations": "ana",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/essential__Adjective__1",
+        "sense": "in basic form",
+        "translations": "asil",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/essential__Adjective__1",
+        "sense": "necessary",
+        "translations": "temel",
+        "score": 0.6
+      },
+      {
+        "entry": "eng/essential__Adjective__1",
+        "sense": "of high importance",
+        "translations": "temel",
+        "score": 0.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "eventually-985",
+    "headword": "eventually",
+    "level": "B1",
+    "raw": "eventually adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "eventually",
+    "translationLookup": "eventually",
+    "ipaCandidates": {
+      "en-US": "/iˈvɛnʃəɫi/, /iˈvɛntʃəwəɫi/, /ɪˈvɛnʃəɫi/, /ɪˈvɛntʃəwəɫi/",
+      "en-GB": "/ɪvˈɛntʃuːəli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/eventually__Adverb__1",
+        "sense": "in the end",
+        "translations": "sonunda",
+        "score": 100.4
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "examine-1041",
+    "headword": "examine",
+    "level": "B1",
+    "raw": "examine v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "examine",
+    "translationLookup": "examine",
+    "ipaCandidates": {
+      "en-US": "/ɪɡˈzæmɪn/",
+      "en-GB": "/ɛɡzˈæmɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/examine__Verb__1",
+        "sense": "to observe or inspect carefully or critically",
+        "translations": "muayene etmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "exchange-1057",
+    "headword": "exchange",
+    "level": "B1",
+    "raw": "exchange n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "exchange",
+    "translationLookup": "exchange",
+    "ipaCandidates": {
+      "en-US": "/ɪksˈtʃeɪndʒ/",
+      "en-GB": "/ɛkstʃˈeɪndʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/exchange__Noun__1",
+        "sense": "act of exchanging or trading",
+        "translations": "mübadele",
+        "score": 100
+      },
+      {
+        "entry": "eng/exchange__Noun__1",
+        "sense": "place for conducting trading",
+        "translations": "borsa",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "excitement-1065",
+    "headword": "excitement",
+    "level": "B1",
+    "raw": "excitement n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "excitement",
+    "translationLookup": "excitement",
+    "ipaCandidates": {
+      "en-US": "/ɪkˈsaɪtmənt/",
+      "en-GB": "/ɛksˈaɪtmənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "coşku",
+        "score": 2
+      },
+      {
+        "entry": "eng/excitement__Noun__1",
+        "sense": null,
+        "translations": "voltaj",
+        "score": 1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "exhibition-1085",
+    "headword": "exhibition",
+    "level": "B1",
+    "raw": "exhibition n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "exhibition",
+    "translationLookup": "exhibition",
+    "ipaCandidates": {
+      "en-US": "/ˌɛksəˈbɪʃən/",
+      "en-GB": "/ɛksɪbˈɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/exhibition__Noun__1",
+        "sense": "large scale public showing of objects or products",
+        "translations": "sergi",
+        "score": 113.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "expand-818",
+    "headword": "expand",
+    "level": "B1",
+    "raw": "expand v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "expand",
+    "translationLookup": "expand",
+    "ipaCandidates": {
+      "en-US": "/ɪkˈspænd/",
+      "en-GB": "/ɛkspˈænd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/expand__Verb__1",
+        "sense": "(transitive) to change from a smaller form/size to a larger one",
+        "translations": "genişlemek",
+        "score": 10.0
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "genişletmek",
+        "score": 2
+      },
+      {
+        "entry": "eng/expand__Verb__1",
+        "sense": "(intransitive) to change from a smaller form/size to a larger one",
+        "translations": "açmak",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/expand__Verb__1",
+        "sense": "(transitive, algebra) to rewrite as an equivalent sum of terms",
+        "translations": "anlatmak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "expected-830",
+    "headword": "expected",
+    "level": "B1",
+    "raw": "expected adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "expected",
+    "translationLookup": "expected",
+    "ipaCandidates": {
+      "en-US": "/ɪkˈspɛktəd/, /ɪkˈspɛktɪd/",
+      "en-GB": "/ɛkspˈɛktɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/expected__Adjective__1",
+        "sense": "anticipated; thought to be about to arrive or occur",
+        "translations": "beklendik | beklenen",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  }
+]

@@ -1,0 +1,455 @@
+[
+  {
+    "sourceId": "glove-1109",
+    "headword": "glove",
+    "displayWord": "glove",
+    "speechText": "glove",
+    "translation": "eldiven",
+    "example": "I found one glove under the bench.",
+    "exampleTr": "Bankın altında bir eldiven buldum.",
+    "ipaUS": "/ˈɡɫəv/",
+    "approxUS": "glav",
+    "topicTags": [
+      "clothes"
+    ],
+    "selectedSense": "an item of clothing worn on the hand",
+    "translationEvidence": "eng/glove__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:glove"
+  },
+  {
+    "sourceId": "goods-1141",
+    "headword": "goods",
+    "displayWord": "goods",
+    "speechText": "goods",
+    "translation": "mal",
+    "example": "These goods arrived safely from Italy.",
+    "exampleTr": "Bu mallar İtalya'dan güvenli biçimde ulaştı.",
+    "ipaUS": "/ˈɡʊdz/",
+    "approxUS": "gudz",
+    "topicTags": [
+      "money",
+      "work"
+    ],
+    "selectedSense": "items produced, traded, bought, or sold",
+    "translationEvidence": "eng/goods__Noun__2",
+    "ipaEvidenceUS": "ipa-dict/en_US:goods"
+  },
+  {
+    "sourceId": "grade-1157",
+    "headword": "grade",
+    "displayWord": "grade",
+    "speechText": "grade",
+    "translation": "not",
+    "example": "Her final grade improved this term.",
+    "exampleTr": "Bu dönem final notu yükseldi.",
+    "ipaUS": "/ˈɡɹeɪd/",
+    "approxUS": "greyd",
+    "topicTags": [
+      "school"
+    ],
+    "selectedSense": "a symbol or number showing academic performance",
+    "translationEvidence": "eng/grade__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:grade"
+  },
+  {
+    "sourceId": "graduate-1165",
+    "headword": "graduate",
+    "displayWord": "graduate",
+    "speechText": "graduate",
+    "translation": "mezun",
+    "example": "The graduate thanked her favorite teacher.",
+    "exampleTr": "Mezun, en sevdiği öğretmenine teşekkür etti.",
+    "ipaUS": "/ˈɡɹædʒəwət/",
+    "approxUS": "gre-cı-uıt",
+    "topicTags": [
+      "school",
+      "people"
+    ],
+    "selectedSense": "a person who has completed a university degree",
+    "translationEvidence": "eng/graduate__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:graduate",
+    "contentNote": "İsim olan graduate ile fiil olan graduate farklı telaffuz edilebilir. Ortadaki /w/ sesi Türkçe v değildir."
+  },
+  {
+    "sourceId": "grain-1169",
+    "headword": "grain",
+    "displayWord": "grain",
+    "speechText": "grain",
+    "translation": "tahıl",
+    "example": "This grain grows well in dry soil.",
+    "exampleTr": "Bu tahıl kuru toprakta iyi yetişir.",
+    "ipaUS": "/ˈɡɹeɪn/",
+    "approxUS": "greyn",
+    "topicTags": [
+      "food",
+      "nature"
+    ],
+    "selectedSense": "harvested seeds of grass-related food crops",
+    "translationEvidence": "eng/grain__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:grain"
+  },
+  {
+    "sourceId": "grateful-1197",
+    "headword": "grateful",
+    "displayWord": "grateful",
+    "speechText": "grateful",
+    "translation": "minnettar",
+    "example": "We are grateful for your quick help.",
+    "exampleTr": "Hızlı yardımın için minnettarız.",
+    "ipaUS": "/ˈɡɹeɪtfəɫ/",
+    "approxUS": "greyt-fıl",
+    "topicTags": [
+      "feelings",
+      "communication"
+    ],
+    "selectedSense": "feeling or expressing appreciation",
+    "translationEvidence": "eng/grateful__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:grateful"
+  },
+  {
+    "sourceId": "growth-1229",
+    "headword": "growth",
+    "displayWord": "growth",
+    "speechText": "growth",
+    "translation": "büyüme",
+    "example": "The company reported steady growth this year.",
+    "exampleTr": "Şirket bu yıl düzenli büyüme bildirdi.",
+    "ipaUS": "/ˈɡɹoʊθ/",
+    "approxUS": "grouth",
+    "topicTags": [
+      "work",
+      "money"
+    ],
+    "selectedSense": "an increase in size or amount",
+    "translationEvidence": "eng/growth__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:growth",
+    "contentNote": "Sondaki /θ/ sesi için dil ucu üst dişlerin arasına hafifçe gelir."
+  },
+  {
+    "sourceId": "guard-1237",
+    "headword": "guard",
+    "displayWord": "guard",
+    "speechText": "guard",
+    "translation": "bekçi",
+    "example": "A guard checked our tickets at noon.",
+    "exampleTr": "Öğlen bir bekçi biletlerimizi kontrol etti.",
+    "ipaUS": "/ˈɡɑɹd/",
+    "approxUS": "gard",
+    "topicTags": [
+      "people",
+      "work"
+    ],
+    "selectedSense": "a person who protects a place or people",
+    "translationEvidence": "eng/guard__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:guard"
+  },
+  {
+    "sourceId": "guilty-1253",
+    "headword": "guilty",
+    "displayWord": "guilty",
+    "speechText": "guilty",
+    "translation": "suçlu",
+    "example": "The court found him guilty yesterday.",
+    "exampleTr": "Mahkeme dün onu suçlu buldu.",
+    "ipaUS": "/ˈɡɪɫti/",
+    "approxUS": "gil-ti",
+    "topicTags": [
+      "people",
+      "descriptions"
+    ],
+    "selectedSense": "judged to have committed a crime",
+    "translationEvidence": "eng/guilty__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:guilty"
+  },
+  {
+    "sourceId": "hang-1297",
+    "headword": "hang",
+    "displayWord": "hang",
+    "speechText": "hang",
+    "translation": "asmak",
+    "example": "Please hang your coat beside mine.",
+    "exampleTr": "Lütfen montunu benimkinin yanına as.",
+    "ipaUS": "/ˈhæŋ/",
+    "approxUS": "hen",
+    "topicTags": [
+      "actions",
+      "home"
+    ],
+    "selectedSense": "to cause something to be suspended",
+    "translationEvidence": "eng/hang__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hang",
+    "contentNote": "Sondaki /ŋ/ tek bir geniz sesidir; ayrı bir g sesi çıkarılmaz."
+  },
+  {
+    "sourceId": "happiness-1309",
+    "headword": "happiness",
+    "displayWord": "happiness",
+    "speechText": "happiness",
+    "translation": "mutluluk",
+    "example": "Her happiness filled the quiet room.",
+    "exampleTr": "Onun mutluluğu sessiz odayı doldurdu.",
+    "ipaUS": "/ˈhæpinəs/",
+    "approxUS": "he-pı-nıs",
+    "topicTags": [
+      "feelings"
+    ],
+    "selectedSense": "the emotion of being happy",
+    "translationEvidence": "eng/happiness__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:happiness"
+  },
+  {
+    "sourceId": "hardly-1321",
+    "headword": "hardly",
+    "displayWord": "hardly",
+    "speechText": "hardly",
+    "translation": "güçlükle",
+    "example": "I could hardly hear the announcement.",
+    "exampleTr": "Duyuruyu güçlükle duyabildim.",
+    "ipaUS": "/ˈhɑɹdɫi/",
+    "approxUS": "hard-li",
+    "topicTags": [
+      "function-words",
+      "communication"
+    ],
+    "selectedSense": "barely or only just",
+    "translationEvidence": "https://dictionary.cambridge.org/dictionary/english-turkish/hardly",
+    "ipaEvidenceUS": "ipa-dict/en_US:hardly",
+    "contentNote": "B1 zarf anlamı için Cambridge English–Turkish dış sözlük kanıtı kullanıldı."
+  },
+  {
+    "sourceId": "headline-1361",
+    "headword": "headline",
+    "displayWord": "headline",
+    "speechText": "headline",
+    "translation": "manşet",
+    "example": "The headline caught everyone's attention.",
+    "exampleTr": "Manşet herkesin dikkatini çekti.",
+    "ipaUS": "/ˈhɛdˌɫaɪn/",
+    "approxUS": "hed-layn",
+    "topicTags": [
+      "communication",
+      "culture"
+    ],
+    "selectedSense": "the title of a news article",
+    "translationEvidence": "eng/headline__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:headline"
+  },
+  {
+    "sourceId": "heating-1110",
+    "headword": "heating",
+    "displayWord": "heating",
+    "speechText": "heating",
+    "translation": "ısıtma sistemi",
+    "example": "The heating stopped during the cold night.",
+    "exampleTr": "Soğuk gece boyunca ısıtma sistemi durdu.",
+    "ipaUS": "/ˈhitɪŋ/",
+    "approxUS": "hii-tin",
+    "topicTags": [
+      "home",
+      "technology"
+    ],
+    "selectedSense": "a system used to warm a building",
+    "translationEvidence": "eng/heating__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:heating",
+    "contentNote": "Sondaki /ŋ/ tek bir geniz sesidir; ayrı bir g sesi çıkarılmaz."
+  },
+  {
+    "sourceId": "heavily-1118",
+    "headword": "heavily",
+    "displayWord": "heavily",
+    "speechText": "heavily",
+    "translation": "yoğun biçimde",
+    "example": "Rain fell heavily throughout the afternoon.",
+    "exampleTr": "Öğleden sonra boyunca yağmur yoğun biçimde yağdı.",
+    "ipaUS": "/ˈhɛvəɫi/",
+    "approxUS": "he-vı-li",
+    "topicTags": [
+      "nature",
+      "descriptions"
+    ],
+    "selectedSense": "a lot or to a great degree",
+    "translationEvidence": "https://dictionary.cambridge.org/dictionary/english-turkish/heavily",
+    "ipaEvidenceUS": "ipa-dict/en_US:heavily",
+    "contentNote": "B1 zarf anlamı için Cambridge English–Turkish dış sözlük kanıtı kullanıldı."
+  },
+  {
+    "sourceId": "helicopter-1134",
+    "headword": "helicopter",
+    "displayWord": "helicopter",
+    "speechText": "helicopter",
+    "translation": "helikopter",
+    "example": "A helicopter landed near the hospital.",
+    "exampleTr": "Hastanenin yakınına bir helikopter indi.",
+    "ipaUS": "/ˈhɛɫɪˌkɑptɝ/",
+    "approxUS": "he-li-kap-tır",
+    "topicTags": [
+      "travel",
+      "technology"
+    ],
+    "selectedSense": "an aircraft lifted by rotating blades",
+    "translationEvidence": "eng/helicopter__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:helicopter"
+  },
+  {
+    "sourceId": "highlight-1194",
+    "headword": "highlight",
+    "displayWord": "highlight",
+    "speechText": "highlight",
+    "translation": "işaretlemek",
+    "example": "Please highlight the key sentence in yellow.",
+    "exampleTr": "Lütfen önemli cümleyi sarıyla işaretle.",
+    "ipaUS": "/ˈhaɪˌɫaɪt/",
+    "approxUS": "hay-layt",
+    "topicTags": [
+      "school",
+      "actions"
+    ],
+    "selectedSense": "to mark text with a bright color",
+    "translationEvidence": "eng/highlight__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:highlight"
+  },
+  {
+    "sourceId": "highly-1198",
+    "headword": "highly",
+    "displayWord": "highly",
+    "speechText": "highly",
+    "translation": "son derece",
+    "example": "The new coach is highly experienced.",
+    "exampleTr": "Yeni antrenör son derece deneyimli.",
+    "ipaUS": "/ˈhaɪɫi/",
+    "approxUS": "hay-li",
+    "topicTags": [
+      "descriptions",
+      "function-words"
+    ],
+    "selectedSense": "to a very great degree",
+    "translationEvidence": "eng/highly__Adverb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:highly"
+  },
+  {
+    "sourceId": "hire-1214",
+    "headword": "hire",
+    "displayWord": "hire",
+    "speechText": "hire",
+    "translation": "işe almak",
+    "example": "We plan to hire two new designers.",
+    "exampleTr": "İki yeni tasarımcıyı işe almayı planlıyoruz.",
+    "ipaUS": "/ˈhaɪɝ/",
+    "approxUS": "hay-ır",
+    "topicTags": [
+      "work",
+      "actions"
+    ],
+    "selectedSense": "to employ someone for paid work",
+    "translationEvidence": "eng/hire__Verb__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:hire"
+  },
+  {
+    "sourceId": "historic-1222",
+    "headword": "historic",
+    "displayWord": "historic",
+    "speechText": "historic",
+    "translation": "tarihî öneme sahip",
+    "example": "They signed a historic agreement today.",
+    "exampleTr": "Bugün tarihî öneme sahip bir anlaşma imzaladılar.",
+    "ipaUS": "/hɪˈstɔɹɪk/",
+    "approxUS": "his-to-rik",
+    "topicTags": [
+      "culture",
+      "descriptions"
+    ],
+    "selectedSense": "important or significant in history",
+    "translationEvidence": "eng/historic__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:historic"
+  },
+  {
+    "sourceId": "historical-1226",
+    "headword": "historical",
+    "displayWord": "historical",
+    "speechText": "historical",
+    "translation": "tarihsel",
+    "example": "The museum displays historical maps upstairs.",
+    "exampleTr": "Müze üst katta tarihsel haritalar sergiliyor.",
+    "ipaUS": "/hɪˈstɔɹɪkəɫ/",
+    "approxUS": "his-to-ri-kıl",
+    "topicTags": [
+      "culture",
+      "descriptions"
+    ],
+    "selectedSense": "related to the study or events of history",
+    "translationEvidence": "eng/historical__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:historical"
+  },
+  {
+    "sourceId": "honest-1274",
+    "headword": "honest",
+    "displayWord": "honest",
+    "speechText": "honest",
+    "translation": "dürüst",
+    "example": "Please give me an honest answer.",
+    "exampleTr": "Lütfen bana dürüst bir cevap ver.",
+    "ipaUS": "/ˈɑnəst/",
+    "approxUS": "a-nıst",
+    "topicTags": [
+      "descriptions",
+      "communication"
+    ],
+    "selectedSense": "truthful and not deceptive",
+    "translationEvidence": "eng/honest__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:honest"
+  },
+  {
+    "sourceId": "horrible-1286",
+    "headword": "horrible",
+    "displayWord": "horrible",
+    "speechText": "horrible",
+    "translation": "berbat",
+    "example": "We had a horrible journey home.",
+    "exampleTr": "Eve dönüş yolculuğumuz berbattı.",
+    "ipaUS": "/ˈhɔɹəbəɫ/",
+    "approxUS": "ho-rı-bıl",
+    "topicTags": [
+      "descriptions",
+      "feelings"
+    ],
+    "selectedSense": "extremely bad or unpleasant",
+    "translationEvidence": "eng/horrible__Adjective__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:horrible"
+  },
+  {
+    "sourceId": "horror-1290",
+    "headword": "horror",
+    "displayWord": "horror",
+    "speechText": "horror",
+    "translation": "korku türü",
+    "example": "She rarely watches horror films alone.",
+    "exampleTr": "O, korku filmlerini yalnızken nadiren izler.",
+    "ipaUS": "/ˈhɔɹɝ/",
+    "approxUS": "ho-rır",
+    "topicTags": [
+      "culture",
+      "feelings"
+    ],
+    "selectedSense": "the literary and film genre intended to frighten",
+    "translationEvidence": "eng/horror__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:horror"
+  },
+  {
+    "sourceId": "host-1302",
+    "headword": "host",
+    "displayWord": "host",
+    "speechText": "host",
+    "translation": "ev sahibi",
+    "example": "Our host prepared a delicious dinner.",
+    "exampleTr": "Ev sahibimiz lezzetli bir akşam yemeği hazırladı.",
+    "ipaUS": "/ˈhoʊst/",
+    "approxUS": "houst",
+    "topicTags": [
+      "people",
+      "home"
+    ],
+    "selectedSense": "a person who receives or entertains guests",
+    "translationEvidence": "eng/host__Noun__1",
+    "ipaEvidenceUS": "ipa-dict/en_US:host"
+  }
+]

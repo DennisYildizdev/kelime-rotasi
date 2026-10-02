@@ -1,0 +1,1085 @@
+[
+  {
+    "sourceId": "sculpture-2362",
+    "headword": "sculpture",
+    "level": "B1",
+    "raw": "sculpture n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sculpture",
+    "translationLookup": "sculpture",
+    "ipaCandidates": {
+      "en-US": "/ˈskəɫptʃɝ/",
+      "en-GB": "/skˈʌlptʃɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sculpture__Noun__1",
+        "sense": "work of art created by sculpting",
+        "translations": "heykel | yontu",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/sculpture__Noun__1",
+        "sense": "art of sculpting",
+        "translations": "heykelcilik | heykeltıraşlık | yontuculuk",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "secondary-2395",
+    "headword": "secondary",
+    "level": "B1",
+    "raw": "secondary adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "secondary",
+    "translationLookup": "secondary",
+    "ipaCandidates": {
+      "en-US": "/ˈsɛkənˌdɛɹi/",
+      "en-GB": "/sˈɛkəndəɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/secondary__Adjective__1",
+        "sense": "succeeding first",
+        "translations": "ikincil",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "security-2423",
+    "headword": "security",
+    "level": "B1",
+    "raw": "security n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "security",
+    "translationLookup": "security",
+    "ipaCandidates": {
+      "en-US": "/sɪkˈjʊɹəti/",
+      "en-GB": "/sɪkjˈɔːɹɪti/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/security__Noun__1",
+        "sense": "condition of not being threatened",
+        "translations": "güvenlilik",
+        "score": 100
+      },
+      {
+        "entry": "eng/security__Noun__1",
+        "sense": "organization or department responsible for providing security",
+        "translations": "emniyet | güvenlik güçleri",
+        "score": 100
+      },
+      {
+        "entry": "eng/security__Noun__1",
+        "sense": "something that secures",
+        "translations": "güvenlilik",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "seed-2431",
+    "headword": "seed",
+    "level": "B1",
+    "raw": "seed n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "seed",
+    "translationLookup": "seed",
+    "ipaCandidates": {
+      "en-US": "/ˈsid/",
+      "en-GB": "/sˈiːd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/seed__Noun__1",
+        "sense": "any small seed-like fruit",
+        "translations": "tohum | tane",
+        "score": 125.2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sensible-2471",
+    "headword": "sensible",
+    "level": "B1",
+    "raw": "sensible adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sensible",
+    "translationLookup": "sensible",
+    "ipaCandidates": {
+      "en-US": "/ˈsɛnsəbəɫ/",
+      "en-GB": "/sˈɛnsəbəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sensible__Adjective__1",
+        "sense": "acting with or showing good judgement",
+        "translations": "makul | akla yatkın | akıllı | akıllıca",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/sensible__Adjective__1",
+        "sense": "able to feel or perceive",
+        "translations": "duygun",
+        "score": 100
+      },
+      {
+        "entry": "eng/sensible__Adjective__1",
+        "sense": "aware of something",
+        "translations": "ayırdında | farkında",
+        "score": 100
+      },
+      {
+        "entry": "eng/sensible__Adjective__1",
+        "sense": "characterized more by usefulness than by fashionableness",
+        "translations": "işe yarar | işlevsel | kullanışlı",
+        "score": 100
+      },
+      {
+        "entry": "eng/sensible__Adjective__1",
+        "sense": "easily perceived, appreciable",
+        "translations": "dişe dokunur | gözle görülür | hissedilir",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "seriously-2223",
+    "headword": "seriously",
+    "level": "B1",
+    "raw": "seriously adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "seriously",
+    "translationLookup": "seriously",
+    "ipaCandidates": {
+      "en-US": "/ˈsɪɹiəsɫi/",
+      "en-GB": "/sˈiəɹɪəsli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/seriously__Adverb__1",
+        "sense": "in a serious or literal manner",
+        "translations": "cidden",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "servant-2227",
+    "headword": "servant",
+    "level": "B1",
+    "raw": "servant n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "servant",
+    "translationLookup": "servant",
+    "ipaCandidates": {
+      "en-US": "/ˈsɝvənt/",
+      "en-GB": "/sˈɜːvənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/servant__Noun__1",
+        "sense": "one who is hired to perform regular household or other duties, and receives compensation",
+        "translations": "hizmetçi | kul | uşak",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "set-put--2243",
+    "headword": "set (put)",
+    "level": "B1",
+    "raw": "set (put) v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "set",
+    "translationLookup": "set",
+    "ipaCandidates": {
+      "en-US": "/ˈsɛt/",
+      "en-GB": "/sˈɛt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/set__Noun__2",
+        "sense": "set theory: collection of objects",
+        "translations": "küme",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/set__Adjective__1",
+        "sense": "intent, determined",
+        "translations": "kararlı",
+        "score": 100
+      },
+      {
+        "entry": "eng/set__Adjective__1",
+        "sense": "of hair: fixed in a certain style",
+        "translations": "yapılmış",
+        "score": 100
+      },
+      {
+        "entry": "eng/set__Adjective__1",
+        "sense": "ready, prepared",
+        "translations": "hazır",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/set__Noun__2",
+        "sense": "collection of various objects for a particular purpose, such as a set of tools",
+        "translations": "takım",
+        "score": 100
+      },
+      {
+        "entry": "eng/set__Noun__2",
+        "sense": "scenery for a film or play",
+        "translations": "plato",
+        "score": 100
+      },
+      {
+        "entry": "eng/set__Verb__1",
+        "sense": null,
+        "translations": "ayarlamak | belirlemek | dizmek | donatmak | koymak | kurmak",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "set-group--2247",
+    "headword": "set (group)",
+    "level": "B1",
+    "raw": "set (group) n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "set",
+    "translationLookup": "set",
+    "ipaCandidates": {
+      "en-US": "/ˈsɛt/",
+      "en-GB": "/sˈɛt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/set__Noun__2",
+        "sense": "set theory: collection of objects",
+        "translations": "küme",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/set__Adjective__1",
+        "sense": "intent, determined",
+        "translations": "kararlı",
+        "score": 100
+      },
+      {
+        "entry": "eng/set__Adjective__1",
+        "sense": "of hair: fixed in a certain style",
+        "translations": "yapılmış",
+        "score": 100
+      },
+      {
+        "entry": "eng/set__Adjective__1",
+        "sense": "ready, prepared",
+        "translations": "hazır",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/set__Noun__2",
+        "sense": "collection of various objects for a particular purpose, such as a set of tools",
+        "translations": "takım",
+        "score": 100
+      },
+      {
+        "entry": "eng/set__Noun__2",
+        "sense": "scenery for a film or play",
+        "translations": "plato",
+        "score": 100
+      },
+      {
+        "entry": "eng/set__Verb__1",
+        "sense": null,
+        "translations": "ayarlamak | belirlemek | dizmek | donatmak | koymak | kurmak",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "setting-2251",
+    "headword": "setting",
+    "level": "B1",
+    "raw": "setting n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "setting",
+    "translationLookup": "setting",
+    "ipaCandidates": {
+      "en-US": "/ˈsɛtɪŋ/",
+      "en-GB": "/sˈɛtɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/setting__Verb__1",
+        "sense": "placement of a control",
+        "translations": "ayar",
+        "score": 11.1
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "koyma",
+        "score": 2
+      },
+      {
+        "entry": "eng/setting__Noun__1",
+        "sense": "circumstance in which something is set",
+        "translations": "ayar",
+        "score": 1.1
+      },
+      {
+        "entry": "eng/setting__Verb__1",
+        "sense": "time, place, circumstance",
+        "translations": "bağlam",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sex-2279",
+    "headword": "sex",
+    "level": "B1",
+    "raw": "sex n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sex",
+    "translationLookup": "sex",
+    "ipaCandidates": {
+      "en-US": "/ˈsɛks/",
+      "en-GB": "/sˈɛks/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sex__Noun__1",
+        "sense": "reproductive/sexual/gender category (female or male)",
+        "translations": "cinsiyet | cins",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/sex__Noun__1",
+        "sense": "act of sexual intercourse",
+        "translations": "seks | cinsel ilişki",
+        "score": 140.4
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sexual-2283",
+    "headword": "sexual",
+    "level": "B1",
+    "raw": "sexual adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sexual",
+    "translationLookup": "sexual",
+    "ipaCandidates": {
+      "en-US": "/ˈsɛkʃuəɫ/",
+      "en-GB": "/sˈɛkʃuːəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sexual__Adjective__1",
+        "sense": null,
+        "translations": "cinsel",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/sexual__Adjective__1",
+        "sense": "of or relating to having sex",
+        "translations": "cinsel",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sharp-2319",
+    "headword": "sharp",
+    "level": "B1",
+    "raw": "sharp adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sharp",
+    "translationLookup": "sharp",
+    "ipaCandidates": {
+      "en-US": "/ˈʃɑɹp/",
+      "en-GB": "/ʃˈɑːp/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sharp__Adjective__1",
+        "sense": "able to cut easily",
+        "translations": "keskin",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/sharp__Adjective__1",
+        "sense": "having an intense, acrid flavour",
+        "translations": "keskin",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/sharp__Adjective__1",
+        "sense": "pointed, able to pierce easily",
+        "translations": "sivri | keskin",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/sharp__Noun__1",
+        "sense": "sign for a sharp note on the staff",
+        "translations": "diyez",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/sharp__Adjective__1",
+        "sense": "of a note, raised by one semitone",
+        "translations": "diyez",
+        "score": 100.6
+      },
+      {
+        "entry": "eng/sharp__Adjective__1",
+        "sense": "musically higher-pitched than desired",
+        "translations": "tiz",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shelf-2335",
+    "headword": "shelf",
+    "level": "B1",
+    "raw": "shelf n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shelf",
+    "translationLookup": "shelf",
+    "ipaCandidates": {
+      "en-US": "/ˈʃɛɫf/",
+      "en-GB": "/ʃˈɛlf/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shelf__Noun__1",
+        "sense": "structure",
+        "translations": "raf | sergen",
+        "score": 155.0
+      },
+      {
+        "entry": "eng/shelf__Noun__1",
+        "sense": "capacity",
+        "translations": "raf",
+        "score": 22.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shell-2339",
+    "headword": "shell",
+    "level": "B1",
+    "raw": "shell n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shell",
+    "translationLookup": "shell",
+    "ipaCandidates": {
+      "en-US": "/ˈʃɛɫ/",
+      "en-GB": "/ʃˈɛl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shell__Noun__1",
+        "sense": "covering of a nut",
+        "translations": "kabuk",
+        "score": 110.2
+      },
+      {
+        "entry": "eng/shell__Noun__1",
+        "sense": "hard calcareous or chitinous external covering of many invertebrates",
+        "translations": "kabuk",
+        "score": 110.2
+      },
+      {
+        "entry": "eng/shell__Noun__1",
+        "sense": "hard covering of an egg",
+        "translations": "kabuk",
+        "score": 110.2
+      },
+      {
+        "entry": "eng/shell__Noun__1",
+        "sense": "entomology: exoskeleton of certain insects",
+        "translations": "kabuk",
+        "score": 100.2
+      },
+      {
+        "entry": "eng/shell__Noun__1",
+        "sense": "casing of an artillery projectile",
+        "translations": "kovan",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shift-2347",
+    "headword": "shift",
+    "level": "B1",
+    "raw": "shift n. B1, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shift",
+    "translationLookup": "shift",
+    "ipaCandidates": {
+      "en-US": "/ˈʃɪft/",
+      "en-GB": "/ʃˈɪft/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shift__Noun__1",
+        "sense": "change of workers",
+        "translations": "vardiya",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/shift__Noun__1",
+        "sense": null,
+        "translations": "kaydırma | değiştirme",
+        "score": 100.6
+      },
+      {
+        "entry": "eng/shift__Noun__1",
+        "sense": "button on a keyboard",
+        "translations": "shift tuşu | üst karakter tuşu",
+        "score": 100
+      },
+      {
+        "entry": "eng/shift__Noun__1",
+        "sense": "gear mechanism in a motor vehicle",
+        "translations": "vites",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/shift__Verb__1",
+        "sense": null,
+        "translations": "kaydırmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shine-2351",
+    "headword": "shine",
+    "level": "B1",
+    "raw": "shine v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shine",
+    "translationLookup": "shine",
+    "ipaCandidates": {
+      "en-US": "/ˈʃaɪn/",
+      "en-GB": "/ʃˈaɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shine__Verb__2",
+        "sense": "to polish",
+        "translations": "parlatmak",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/shine__Verb__1",
+        "sense": "to reflect light",
+        "translations": "yansıtmak",
+        "score": 101
+      },
+      {
+        "entry": "eng/shine__Verb__1",
+        "sense": "to emit light",
+        "translations": "parlamak",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shiny-2355",
+    "headword": "shiny",
+    "level": "B1",
+    "raw": "shiny adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shiny",
+    "translationLookup": "shiny",
+    "ipaCandidates": {
+      "en-US": "/ˈʃaɪni/",
+      "en-GB": "/ʃˈaɪni/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shiny__Adjective__1",
+        "sense": "reflecting light",
+        "translations": "parlak",
+        "score": 103.6
+      },
+      {
+        "entry": "eng/shiny__Adjective__1",
+        "sense": "emitting light",
+        "translations": "ışıldayan",
+        "score": 100
+      },
+      {
+        "entry": "eng/shiny__Adjective__1",
+        "sense": "excellent",
+        "translations": "fevkalade | olağanüstü",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shoot-2379",
+    "headword": "shoot",
+    "level": "B1",
+    "raw": "shoot v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shoot",
+    "translationLookup": "shoot",
+    "ipaCandidates": {
+      "en-US": "/ˈʃut/",
+      "en-GB": "/ʃˈuːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shoot__Verb__1",
+        "sense": "to fire a shot",
+        "translations": "ateş etmek | vurmak | etmek | çekmek",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/shoot__Noun__1",
+        "sense": "emerging stem and embryonic leaves of a new plant",
+        "translations": "budak",
+        "score": 100
+      },
+      {
+        "entry": "eng/shoot__Verb__1",
+        "sense": "to fire multiple shots",
+        "translations": "ateş etmek",
+        "score": 22.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "shy-2424",
+    "headword": "shy",
+    "level": "B1",
+    "raw": "shy adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "shy",
+    "translationLookup": "shy",
+    "ipaCandidates": {
+      "en-US": "/ˈʃaɪ/",
+      "en-GB": "/ʃˈaɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/shy__Adjective__1",
+        "sense": "reserved",
+        "translations": "utangaç",
+        "score": 113.6
+      },
+      {
+        "entry": "eng/shy__Adjective__1",
+        "sense": "easily frightened",
+        "translations": "ürkek",
+        "score": 100
+      },
+      {
+        "entry": "eng/shy__Adjective__1",
+        "sense": "embarrassed",
+        "translations": "mahcup",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "sight-2436",
+    "headword": "sight",
+    "level": "B1",
+    "raw": "sight n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "sight",
+    "translationLookup": "sight",
+    "ipaCandidates": {
+      "en-US": "/ˈsaɪt/",
+      "en-GB": "/sˈaɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/sight__Noun__1",
+        "sense": "device used in aiming a firearm",
+        "translations": "nişangâh",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/sight__Noun__1",
+        "sense": "something seen",
+        "translations": "görüş",
+        "score": 10.0
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "bakış",
+        "score": 2
+      },
+      {
+        "entry": "eng/sight__Verb__1",
+        "sense": "see, get sight of, visually register",
+        "translations": "görüşmek",
+        "score": 1.0
+      },
+      {
+        "entry": "eng/sight__Noun__1",
+        "sense": null,
+        "translations": "yüz",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/sight__Verb__1",
+        "sense": "take aim at",
+        "translations": "bakmak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "signal-2444",
+    "headword": "signal",
+    "level": "B1",
+    "raw": "signal n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "signal",
+    "translationLookup": "signal",
+    "ipaCandidates": {
+      "en-US": "/ˈsɪɡnəɫ/",
+      "en-GB": "/sˈɪɡnəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/signal__Noun__1",
+        "sense": "sign made to give notice",
+        "translations": "sinyal | işaret",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/signal__Noun__1",
+        "sense": "telecommunication: electromagnetic action that conveys information",
+        "translations": "sinyal",
+        "score": 100
+      },
+      {
+        "entry": "eng/signal__Verb__1",
+        "sense": "to indicate",
+        "translations": "sinyal vermek",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "silent-2460",
+    "headword": "silent",
+    "level": "B1",
+    "raw": "silent adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "silent",
+    "translationLookup": "silent",
+    "ipaCandidates": {
+      "en-US": "/ˈsaɪɫənt/",
+      "en-GB": "/sˈaɪlənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/silent__Adjective__1",
+        "sense": null,
+        "translations": "sessiz",
+        "score": 106.1
+      },
+      {
+        "entry": "eng/silent__Adjective__1",
+        "sense": "keeping at rest; inactive; calm; undisturbed",
+        "translations": "sakin",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/silent__Adjective__1",
+        "sense": "not speaking; indisposed to talk; speechless; mute; taciturn",
+        "translations": "lal | dilsiz",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/silent__Adjective__1",
+        "sense": "not pronounced; having no sound; quiescent",
+        "translations": "sessiz",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/silent__Adjective__1",
+        "sense": "having no effect; not operating; inefficient",
+        "translations": "etkisiz",
+        "score": 100
+      },
+      {
+        "entry": "eng/silent__Adjective__1",
+        "sense": "hidden, unseen",
+        "translations": "sakin (figuratively) | sessiz",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "silly-2468",
+    "headword": "silly",
+    "level": "B1",
+    "raw": "silly adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "silly",
+    "translationLookup": "silly",
+    "ipaCandidates": {
+      "en-US": "/ˈsɪɫi/",
+      "en-GB": "/sˈɪli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/silly__Noun__1",
+        "sense": "silly person",
+        "translations": "şapşal",
+        "score": 101
+      },
+      {
+        "entry": "eng/silly__Adjective__1",
+        "sense": "foolish, showing a lack of good sense and wisdom",
+        "translations": "aptal | saf",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "similarity-2480",
+    "headword": "similarity",
+    "level": "B1",
+    "raw": "similarity n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 9,
+    "displayWordHint": "similarity",
+    "translationLookup": "similarity",
+    "ipaCandidates": {
+      "en-US": "/ˌsɪməˈɫɛɹəti/",
+      "en-GB": "/sˌɪmɪlˈæɹɪti/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/similarity__Noun__1",
+        "sense": null,
+        "translations": "benzerlik",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  }
+]

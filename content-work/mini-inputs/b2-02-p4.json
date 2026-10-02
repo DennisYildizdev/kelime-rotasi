@@ -1,0 +1,877 @@
+[
+  {
+    "sourceId": "distribution-668",
+    "headword": "distribution",
+    "level": "B2",
+    "raw": "distribution n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "distribution",
+    "translationLookup": "distribution",
+    "ipaCandidates": {
+      "en-US": "/ˌdɪstɹəbˈjuʃən/",
+      "en-GB": "/dˌɪstɹɪbjˈuːʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/distribution__Noun__1",
+        "sense": null,
+        "translations": "dağılım",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/distribution__Noun__1",
+        "sense": "act of distribution or being distributed",
+        "translations": "yayılma",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/distribution__Noun__1",
+        "sense": "anything distributed",
+        "translations": "yayılma",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/distribution__Noun__1",
+        "sense": "frequency of occurrence or extent of existence",
+        "translations": "yayılma",
+        "score": 10.0
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "üleştirme",
+        "score": 2
+      },
+      {
+        "entry": "eng/distribution__Noun__1",
+        "sense": "statistics: set of relative likelihoods",
+        "translations": "düzen",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/distribution__Noun__1",
+        "sense": "steam engines: step in the working cycle",
+        "translations": "evre",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "district-672",
+    "headword": "district",
+    "level": "B2",
+    "raw": "district n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "district",
+    "translationLookup": "district",
+    "ipaCandidates": {
+      "en-US": "/ˈdɪstɹɪkt/",
+      "en-GB": "/dˈɪstɹɪkt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/district__Noun__1",
+        "sense": "administrative division",
+        "translations": "ilçe | bucak",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "division-680",
+    "headword": "division",
+    "level": "B2",
+    "raw": "division n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "division",
+    "translationLookup": "division",
+    "ipaCandidates": {
+      "en-US": "/dɪˈvɪʒən/",
+      "en-GB": "/dɪvˈɪʒən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/division__Noun__1",
+        "sense": "large military unit",
+        "translations": "tümen | fırka",
+        "score": 132.0
+      },
+      {
+        "entry": "eng/division__Noun__1",
+        "sense": "arithmetic: process of dividing a number by another",
+        "translations": "bölme",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/division__Noun__1",
+        "sense": "act or process of dividing anything",
+        "translations": "bölme | bölüm",
+        "score": 100
+      },
+      {
+        "entry": "eng/division__Noun__1",
+        "sense": "arithmetic: calculation involving this process",
+        "translations": "bölme | bölme işlemi",
+        "score": 100
+      },
+      {
+        "entry": "eng/division__Noun__1",
+        "sense": "disagreement; a difference of viewpoint",
+        "translations": "anlaşmazlık",
+        "score": 100
+      },
+      {
+        "entry": "eng/division__Noun__1",
+        "sense": "each of the parts resulting from division",
+        "translations": "bölüm | pay",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "domestic-712",
+    "headword": "domestic",
+    "level": "B2",
+    "raw": "domestic adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "domestic",
+    "translationLookup": "domestic",
+    "ipaCandidates": {
+      "en-US": "/dəˈmɛstɪk/",
+      "en-GB": "/dəmˈɛstɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/domestic__Adjective__1",
+        "sense": "of or relating to the home",
+        "translations": "evcil",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "dominate-716",
+    "headword": "dominate",
+    "level": "B2",
+    "raw": "dominate v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "dominate",
+    "translationLookup": "dominate",
+    "ipaCandidates": {
+      "en-US": "/ˈdɑməˌneɪt/",
+      "en-GB": "/dˈɒmɪnˌeɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/dominate__Verb__1",
+        "sense": "to govern, rule or control by superior authority or power",
+        "translations": "hükmetmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "downwards-754",
+    "headword": "downwards",
+    "level": "B2",
+    "raw": "downwards adv. B2",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "downwards",
+    "translationLookup": "downwards",
+    "ipaCandidates": {
+      "en-US": "/ˈdaʊnwɝdz/",
+      "en-GB": "/dˈaʊnwədz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/downwards__Adverb__1",
+        "sense": "towards a lower place",
+        "translations": "aşağıya",
+        "score": 11.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "dozen-758",
+    "headword": "dozen",
+    "level": "B2",
+    "raw": "dozen n., det. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., det.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "dozen",
+    "translationLookup": "dozen",
+    "ipaCandidates": {
+      "en-US": "/ˈdəzən/",
+      "en-GB": "/dˈʌzən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/dozen__Noun__1",
+        "sense": "twelve",
+        "translations": "düzine",
+        "score": 140.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "draft-762",
+    "headword": "draft",
+    "level": "B2",
+    "raw": "draft n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "draft",
+    "translationLookup": "draft",
+    "ipaCandidates": {
+      "en-US": "/ˈdɹæft/",
+      "en-GB": "/dɹˈɑːft/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/draft__Noun__1",
+        "sense": "early version of a written work",
+        "translations": "taslak",
+        "score": 115.0
+      },
+      {
+        "entry": "eng/draft__Noun__1",
+        "sense": null,
+        "translations": "taslak",
+        "score": 15.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "drag-766",
+    "headword": "drag",
+    "level": "B2",
+    "raw": "drag v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "drag",
+    "translationLookup": "drag",
+    "ipaCandidates": {
+      "en-US": "/ˈdɹæɡ/",
+      "en-GB": "/dɹˈæɡ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/drag__Verb__1",
+        "sense": "computing: to move a cursor while holding down a button on the mouse",
+        "translations": "çekmek",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/drag__Verb__1",
+        "sense": "to pull along a surface",
+        "translations": "çekmek | sürüklemek",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/drag__Noun__1",
+        "sense": "puff on cigarette",
+        "translations": "fırt",
+        "score": 100
+      },
+      {
+        "entry": "eng/drag__Noun__1",
+        "sense": "resistance of the air or some other fluid",
+        "translations": "sürükleme",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "dramatic-774",
+    "headword": "dramatic",
+    "level": "B2",
+    "raw": "dramatic adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "dramatic",
+    "translationLookup": "dramatic",
+    "ipaCandidates": {
+      "en-US": "/dɹəˈmætɪk/",
+      "en-GB": "/dɹəmˈætɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/dramatic__Adjective__1",
+        "sense": "of or relating to the drama",
+        "translations": "dramatik",
+        "score": 100
+      },
+      {
+        "entry": "eng/dramatic__Adjective__1",
+        "sense": "striking in appearance or effect",
+        "translations": "dramatik",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "edit-904",
+    "headword": "edit",
+    "level": "B2",
+    "raw": "edit v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "edit",
+    "translationLookup": "edit",
+    "ipaCandidates": {
+      "en-US": "/ˈɛdət/",
+      "en-GB": "/ˈɛdɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/edit__Verb__1",
+        "sense": "to change a text, or a document",
+        "translations": "değiştirmek",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "edition-908",
+    "headword": "edition",
+    "level": "B2",
+    "raw": "edition n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "edition",
+    "translationLookup": "edition",
+    "ipaCandidates": {
+      "en-US": "/əˈdɪʃən/, /ɪˈdɪʃən/",
+      "en-GB": "/ɪdˈɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/edition__Noun__1",
+        "sense": null,
+        "translations": "basım",
+        "score": 100
+      },
+      {
+        "entry": "eng/edition__Noun__1",
+        "sense": "whole set of copies, print run",
+        "translations": "baskı",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "efficient-944",
+    "headword": "efficient",
+    "level": "B2",
+    "raw": "efficient adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "efficient",
+    "translationLookup": "efficient",
+    "ipaCandidates": {
+      "en-US": "/ɪˈfɪʃənt/",
+      "en-GB": "/ɪfˈɪʃənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/efficient__Adjective__1",
+        "sense": "making good use of resources",
+        "translations": "verimli",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "elderly-972",
+    "headword": "elderly",
+    "level": "B2",
+    "raw": "elderly adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "elderly",
+    "translationLookup": "elderly",
+    "ipaCandidates": {
+      "en-US": "/ˈɛɫdɝɫi/",
+      "en-GB": "/ˈɛldəli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/elderly__Adjective__1",
+        "sense": "old",
+        "translations": "yaşlı",
+        "score": 2.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "elect-976",
+    "headword": "elect",
+    "level": "B2",
+    "raw": "elect v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "elect",
+    "translationLookup": "elect",
+    "ipaCandidates": {
+      "en-US": "/ɪˈɫɛkt/",
+      "en-GB": "/ɪlˈɛkt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/elect__Verb__1",
+        "sense": "to choose in election",
+        "translations": "saylamak | seçmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/elect__Verb__1",
+        "sense": "to choose or make decision",
+        "translations": "saylamak | seçmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "elsewhere-1016",
+    "headword": "elsewhere",
+    "level": "B2",
+    "raw": "elsewhere adv. B2",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "elsewhere",
+    "translationLookup": "elsewhere",
+    "ipaCandidates": {
+      "en-US": "/ˈɛɫˌswɛɹ/",
+      "en-GB": "/ˈɛlsweə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/elsewhere__Adverb__1",
+        "sense": "in some other place",
+        "translations": "başka bir yerde",
+        "score": 10.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "emerge-1032",
+    "headword": "emerge",
+    "level": "B2",
+    "raw": "emerge v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "emerge",
+    "translationLookup": "emerge",
+    "ipaCandidates": {
+      "en-US": "/ˈimɝdʒ/, /ɪˈmɝdʒ/",
+      "en-GB": "/ɪmˈɜːdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/emerge__Verb__1",
+        "sense": "to come into view",
+        "translations": "su yüzüne çıkmak",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/emerge__Verb__1",
+        "sense": "to come out of",
+        "translations": "su yüzüne çıkmak",
+        "score": 10.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "emotional-1044",
+    "headword": "emotional",
+    "level": "B2",
+    "raw": "emotional adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "emotional",
+    "translationLookup": "emotional",
+    "ipaCandidates": {
+      "en-US": "/ˈiˌmoʊʃənəɫ/, /ɪˈmoʊʃənəɫ/",
+      "en-GB": "/ɪmˈəʊʃənəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/emotional__Adjective__1",
+        "sense": "characterised by emotion",
+        "translations": "duygusal",
+        "score": 100
+      },
+      {
+        "entry": "eng/emotional__Adjective__1",
+        "sense": "of or relating to the emotions",
+        "translations": "duygusal",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "emphasis-1048",
+    "headword": "emphasis",
+    "level": "B2",
+    "raw": "emphasis n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "emphasis",
+    "translationLookup": "emphasis",
+    "ipaCandidates": {
+      "en-US": "/ˈɛmfəsəs/, /ˈɛmfəsɪs/",
+      "en-GB": "/ˈɛmfəsˌɪs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/emphasis__Noun__1",
+        "sense": "prominence given to a syllable or words, whether in speech or in printing",
+        "translations": "vurgu",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/emphasis__Noun__1",
+        "sense": "special attention or prominence given to something",
+        "translations": "odak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "emphasize-1052",
+    "headword": "emphasize",
+    "level": "B2",
+    "raw": "emphasize v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "emphasize",
+    "translationLookup": "emphasize",
+    "ipaCandidates": {
+      "en-US": "/ˈɛmfəˌsaɪz/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/emphasize__Verb__1",
+        "sense": null,
+        "translations": "vurgulamak",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "enable-1076",
+    "headword": "enable",
+    "level": "B2",
+    "raw": "enable v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "enable",
+    "translationLookup": "enable",
+    "ipaCandidates": {
+      "en-US": "/ɛˈneɪbəɫ/, /ɪˈneɪbəɫ/",
+      "en-GB": "/ɛnˈeɪbəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/enable__Verb__1",
+        "sense": "to activate a function of an electronic or mechanical device",
+        "translations": "etkinleştirmek",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "encounter-1080",
+    "headword": "encounter",
+    "level": "B2",
+    "raw": "encounter v., n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "encounter",
+    "translationLookup": "encounter",
+    "ipaCandidates": {
+      "en-US": "/ɪnˈkaʊnɝ/, /ɪnˈkaʊntɝ/",
+      "en-GB": "/ɛnkˈaʊntɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/encounter__Verb__1",
+        "sense": null,
+        "translations": "rastlamak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "engage-825",
+    "headword": "engage",
+    "level": "B2",
+    "raw": "engage v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "engage",
+    "translationLookup": "engage",
+    "ipaCandidates": {
+      "en-US": "/ɛnˈɡeɪdʒ/",
+      "en-GB": "/ɛnɡˈeɪdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/engage__Verb__1",
+        "sense": "to bind through legal or moral obligation",
+        "translations": "nişanlanmak",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/engage__Verb__1",
+        "sense": null,
+        "translations": "demirlemek",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/engage__Verb__1",
+        "sense": "to guarantee or promise to do something",
+        "translations": "söz vermek",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/engage__Verb__1",
+        "sense": "to mesh or interlock",
+        "translations": "kullanmak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "enhance-845",
+    "headword": "enhance",
+    "level": "B2",
+    "raw": "enhance v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "enhance",
+    "translationLookup": "enhance",
+    "ipaCandidates": {
+      "en-US": "/ɛnˈhæns/",
+      "en-GB": "/ɛnhˈɑːns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/enhance__Verb__1",
+        "sense": null,
+        "translations": "geliştirmek | iyileştirmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/enhance__Verb__1",
+        "sense": "augment or make something greater",
+        "translations": "artırmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "enquiry-861",
+    "headword": "enquiry",
+    "level": "B2",
+    "raw": "enquiry n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "enquiry",
+    "translationLookup": "enquiry",
+    "ipaCandidates": {
+      "en-US": "/ɪnˈkwaɪˌɹi/",
+      "en-GB": "/ɛnkwˈaɪəɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "başvuru",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  }
+]

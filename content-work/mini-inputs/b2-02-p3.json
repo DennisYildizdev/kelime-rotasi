@@ -1,0 +1,849 @@
+[
+  {
+    "sourceId": "defend-599",
+    "headword": "defend",
+    "level": "B2",
+    "raw": "defend v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "defend",
+    "translationLookup": "defend",
+    "ipaCandidates": {
+      "en-US": "/dɪˈfɛnd/",
+      "en-GB": "/dɪfˈɛnd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/defend__Verb__1",
+        "sense": "ward off attacks against",
+        "translations": "savunmak | korumak",
+        "score": 150.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "delay-623",
+    "headword": "delay",
+    "level": "B2",
+    "raw": "delay v., n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "delay",
+    "translationLookup": "delay",
+    "ipaCandidates": {
+      "en-US": "/dɪˈɫeɪ/",
+      "en-GB": "/dɪlˈeɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/delay__Noun__1",
+        "sense": null,
+        "translations": "gecikme | rötar",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/delay__Verb__1",
+        "sense": "to put off until a later time",
+        "translations": "ertelemek",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "deliberate-627",
+    "headword": "deliberate",
+    "level": "B2",
+    "raw": "deliberate adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "deliberate",
+    "translationLookup": "deliberate",
+    "ipaCandidates": {
+      "en-US": "/dɪˈɫɪbɝˌeɪt/, /dɪˈɫɪbɝət/, /dɪˈɫɪbɹət/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/deliberate__Adjective__1",
+        "sense": null,
+        "translations": "kasıtlı | istemli | kasti",
+        "score": 100.4
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "deliberately-631",
+    "headword": "deliberately",
+    "level": "B2",
+    "raw": "deliberately adv. B2",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "deliberately",
+    "translationLookup": "deliberately",
+    "ipaCandidates": {
+      "en-US": "/dɪˈɫɪbɝətɫi/, /dɪˈɫɪbɹətɫi/",
+      "en-GB": "/dɪlˈɪbəɹətli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/deliberately__Adverb__1",
+        "sense": null,
+        "translations": "kasten | bile bile | kasıtlıca",
+        "score": 101.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "delight-639",
+    "headword": "delight",
+    "level": "B2",
+    "raw": "delight v., n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "delight",
+    "translationLookup": "delight",
+    "ipaCandidates": {
+      "en-US": "/dɪˈɫaɪt/",
+      "en-GB": "/dɪlˈaɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/delight__Noun__1",
+        "sense": "joy, pleasure",
+        "translations": "sevinç | mutluluk | neşe",
+        "score": 100.4
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "delighted-643",
+    "headword": "delighted",
+    "level": "B2",
+    "raw": "delighted adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "delighted",
+    "translationLookup": "delighted",
+    "ipaCandidates": {
+      "en-US": "/dɪˈɫaɪtəd/, /dɪˈɫaɪtɪd/",
+      "en-GB": "/dɪlˈaɪtɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/delighted__Adjective__1",
+        "sense": null,
+        "translations": "memnun | çok hoşnut",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "delivery-651",
+    "headword": "delivery",
+    "level": "B2",
+    "raw": "delivery n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "delivery",
+    "translationLookup": "delivery",
+    "ipaCandidates": {
+      "en-US": "/dɪˈɫɪvɝi/",
+      "en-GB": "/dɪlˈɪvəɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/delivery__Noun__1",
+        "sense": "act of conveying something",
+        "translations": "teslimat",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "demand-655",
+    "headword": "demand",
+    "level": "B2",
+    "raw": "demand n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "demand",
+    "translationLookup": "demand",
+    "ipaCandidates": {
+      "en-US": "/dɪˈmænd/",
+      "en-GB": "/dɪmˈɑːnd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/demand__Noun__1",
+        "sense": "desire to purchase goods and services",
+        "translations": "talep",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/demand__Verb__1",
+        "sense": "to request forcefully",
+        "translations": "talep | istek",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/demand__Noun__1",
+        "sense": "economics: amount a consumer is willing to buy at a particular price",
+        "translations": "talep",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "demonstrate-659",
+    "headword": "demonstrate",
+    "level": "B2",
+    "raw": "demonstrate v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "demonstrate",
+    "translationLookup": "demonstrate",
+    "ipaCandidates": {
+      "en-US": "/ˈdɛmənˌstɹeɪt/",
+      "en-GB": "/dˈɛmənstɹˌeɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/demonstrate__Verb__1",
+        "sense": "to show how to use something",
+        "translations": "benzetmek",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/demonstrate__Verb__1",
+        "sense": "to show the steps taken to create a logical argument or equation",
+        "translations": "göstermek",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "deny-667",
+    "headword": "deny",
+    "level": "B2",
+    "raw": "deny v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "deny",
+    "translationLookup": "deny",
+    "ipaCandidates": {
+      "en-US": "/dɪˈnaɪ/",
+      "en-GB": "/dɪnˈaɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/deny__Verb__1",
+        "sense": "to assert that something is not true",
+        "translations": "inkâr etmek",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "depressed-683",
+    "headword": "depressed",
+    "level": "B2",
+    "raw": "depressed adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "depressed",
+    "translationLookup": "depressed",
+    "ipaCandidates": {
+      "en-US": "/dɪˈpɹɛst/",
+      "en-GB": "/dɪpɹˈɛst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/depressed__Adjective__1",
+        "sense": "severely despondent and unhappy",
+        "translations": "keyifsiz | morali bozuk | çökkün | üzgün",
+        "score": 100
+      },
+      {
+        "entry": "eng/depressed__Adjective__1",
+        "sense": "suffering from clinical depression",
+        "translations": "bunalımlı | debrese | depresyonlu",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "depressing-687",
+    "headword": "depressing",
+    "level": "B2",
+    "raw": "depressing adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "depressing",
+    "translationLookup": "depressing",
+    "ipaCandidates": {
+      "en-US": "/dɪˈpɹɛsɪŋ/",
+      "en-GB": "/dɪpɹˈɛsɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/depressing__Adjective__1",
+        "sense": "causing depression or sadness",
+        "translations": "üzücü",
+        "score": 10.0
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "bunlu",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "depth-691",
+    "headword": "depth",
+    "level": "B2",
+    "raw": "depth n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "depth",
+    "translationLookup": "depth",
+    "ipaCandidates": {
+      "en-US": "/ˈdɛpθ/",
+      "en-GB": "/dˈɛpθ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/depth__Noun__1",
+        "sense": "vertical distance below a surface",
+        "translations": "derinlik",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "deserve-707",
+    "headword": "deserve",
+    "level": "B2",
+    "raw": "deserve v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "deserve",
+    "translationLookup": "deserve",
+    "ipaCandidates": {
+      "en-US": "/dɪˈzɝv/",
+      "en-GB": "/dɪzˈɜːv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/deserve__Verb__1",
+        "sense": "to merit",
+        "translations": "hak etmek",
+        "score": 101.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "desire-719",
+    "headword": "desire",
+    "level": "B2",
+    "raw": "desire n., v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "desire",
+    "translationLookup": "desire",
+    "ipaCandidates": {
+      "en-US": "/dɪˈzaɪɝ/",
+      "en-GB": "/dɪzˈaɪə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/desire__Noun__1",
+        "sense": "something wished for",
+        "translations": "arzu",
+        "score": 111.1
+      },
+      {
+        "entry": "eng/desire__Noun__1",
+        "sense": "feeling of desire",
+        "translations": "arzu hissi | arzu",
+        "score": 100
+      },
+      {
+        "entry": "eng/desire__Noun__1",
+        "sense": "strong attraction",
+        "translations": "arzu",
+        "score": 23.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "desperate-727",
+    "headword": "desperate",
+    "level": "B2",
+    "raw": "desperate adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "desperate",
+    "translationLookup": "desperate",
+    "ipaCandidates": {
+      "en-US": "/ˈdɛspɝɪt/, /ˈdɛspɹɪt/",
+      "en-GB": "/dˈɛspəɹət/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/desperate__Adjective__1",
+        "sense": "filled with despair",
+        "translations": "umutsuz",
+        "score": 12.5
+      },
+      {
+        "entry": "eng/desperate__Adjective__1",
+        "sense": "extremely intense",
+        "translations": "umutsuz",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/desperate__Adjective__1",
+        "sense": "having reckless abandon",
+        "translations": "umutsuz",
+        "score": 10.0
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "çaresiz",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "detailed-745",
+    "headword": "detailed",
+    "level": "B2",
+    "raw": "detailed adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "detailed",
+    "translationLookup": "detailed",
+    "ipaCandidates": {
+      "en-US": "/dɪˈteɪɫd/",
+      "en-GB": "/dˈiːteɪld/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/detailed__Adjective__1",
+        "sense": null,
+        "translations": "ayrıntılı | detaylı | mufassal",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "detect-749",
+    "headword": "detect",
+    "level": "B2",
+    "raw": "detect v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "detect",
+    "translationLookup": "detect",
+    "ipaCandidates": {
+      "en-US": "/dɪˈtɛkt/",
+      "en-GB": "/dɪtˈɛkt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "farkına varmak",
+        "score": 2
+      },
+      {
+        "entry": "eng/detect__Verb__1",
+        "sense": "to discover or find by careful search, examination, or probing",
+        "translations": "saptamak",
+        "score": 1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "dig-548",
+    "headword": "dig",
+    "level": "B2",
+    "raw": "dig v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "dig",
+    "translationLookup": "dig",
+    "ipaCandidates": {
+      "en-US": "/ˈdɪɡ/",
+      "en-GB": "/dˈɪɡ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/dig__Verb__1",
+        "sense": null,
+        "translations": "kazmak",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/dig__Noun__1",
+        "sense": "archeological investigation",
+        "translations": "kazı",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "disc-608",
+    "headword": "disc",
+    "level": "B2",
+    "raw": "disc n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "disc",
+    "translationLookup": "disc",
+    "ipaCandidates": {
+      "en-US": "/ˈdɪsk/",
+      "en-GB": "/dˈɪsk/"
+    },
+    "dictionaryCandidates": [],
+    "externalEvidence": {
+      "headword": "disc",
+      "sourceUrl": "https://en.wiktionary.org/wiki/disc",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/dɪsk/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/disc"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "discipline-612",
+    "headword": "discipline",
+    "level": "B2",
+    "raw": "discipline n. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "discipline",
+    "translationLookup": "discipline",
+    "ipaCandidates": {
+      "en-US": "/ˈdɪsəpɫən/",
+      "en-GB": "/dˈɪsɪplˌɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/discipline__Noun__1",
+        "sense": "controlled behaviour, self-control",
+        "translations": "disiplin",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/discipline__Noun__1",
+        "sense": "category in which a certain activity belongs",
+        "translations": "disiplin",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/discipline__Noun__1",
+        "sense": "punishment",
+        "translations": "ceza | disiplin",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/discipline__Noun__1",
+        "sense": "specific branch or knowledge or learning",
+        "translations": "bilim dalı | disiplin",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "dishonest-644",
+    "headword": "dishonest",
+    "level": "B2",
+    "raw": "dishonest adj. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "dishonest",
+    "translationLookup": "dishonest",
+    "ipaCandidates": {
+      "en-US": "/dɪˈsɑnəst/",
+      "en-GB": "/dɪsˈɒnɪst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "hilekâr",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "dismiss-652",
+    "headword": "dismiss",
+    "level": "B2",
+    "raw": "dismiss v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "dismiss",
+    "translationLookup": "dismiss",
+    "ipaCandidates": {
+      "en-US": "/dɪsˈmɪs/",
+      "en-GB": "/dɪsmˈɪs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/dismiss__Verb__1",
+        "sense": null,
+        "translations": "hizmet akdini tektaraflı fesh etmek",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/dismiss__Verb__1",
+        "sense": "cricket: to get a batsman out",
+        "translations": "çıkarmak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "display-656",
+    "headword": "display",
+    "level": "B2",
+    "raw": "display v., n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "display",
+    "translationLookup": "display",
+    "ipaCandidates": {
+      "en-US": "/dɪsˈpɫeɪ/",
+      "en-GB": "/dɪsplˈeɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/display__Noun__1",
+        "sense": null,
+        "translations": "dürbün | ekran",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "distribute-664",
+    "headword": "distribute",
+    "level": "B2",
+    "raw": "distribute v. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "distribute",
+    "translationLookup": "distribute",
+    "ipaCandidates": {
+      "en-US": "/dɪˈstɹɪbjut/",
+      "en-GB": "/dˈɪstɹɪbjˌuːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/distribute__Verb__1",
+        "sense": "to deliver or pass out",
+        "translations": "dağıtmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/distribute__Verb__1",
+        "sense": "to divide into portions and dispense",
+        "translations": "dağıtmak | paylaştırmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  }
+]

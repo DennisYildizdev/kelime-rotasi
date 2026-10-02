@@ -1,0 +1,179 @@
+{
+  "levels": [
+    "A2",
+    "B1",
+    "B2"
+  ],
+  "batchSize": 100,
+  "batches": {
+    "A2": [
+      {
+        "file": "a2-01",
+        "records": 100
+      },
+      {
+        "file": "a2-02",
+        "records": 100
+      },
+      {
+        "file": "a2-03",
+        "records": 100
+      },
+      {
+        "file": "a2-04",
+        "records": 100
+      },
+      {
+        "file": "a2-05",
+        "records": 100
+      },
+      {
+        "file": "a2-06",
+        "records": 100
+      },
+      {
+        "file": "a2-07",
+        "records": 100
+      },
+      {
+        "file": "a2-08",
+        "records": 100
+      }
+    ],
+    "B1": [
+      {
+        "file": "b1-01",
+        "records": 100
+      },
+      {
+        "file": "b1-02",
+        "records": 100
+      },
+      {
+        "file": "b1-03",
+        "records": 100
+      },
+      {
+        "file": "b1-04",
+        "records": 100
+      },
+      {
+        "file": "b1-05",
+        "records": 100
+      },
+      {
+        "file": "b1-06",
+        "records": 100
+      },
+      {
+        "file": "b1-07",
+        "records": 100
+      }
+    ],
+    "B2": [
+      {
+        "file": "b2-01",
+        "records": 100
+      },
+      {
+        "file": "b2-02",
+        "records": 100
+      },
+      {
+        "file": "b2-03",
+        "records": 100
+      },
+      {
+        "file": "b2-04",
+        "records": 100
+      },
+      {
+        "file": "b2-05",
+        "records": 100
+      },
+      {
+        "file": "b2-06",
+        "records": 100
+      }
+    ]
+  },
+  "counts": {
+    "A2.total": 800,
+    "A2.translation": 800,
+    "A2.ukIPA": 765,
+    "A2.usIPA": 800,
+    "B1.total": 700,
+    "B1.translation": 700,
+    "B1.ukIPA": 663,
+    "B1.usIPA": 700,
+    "B2.total": 600,
+    "B2.translation": 600,
+    "B2.ukIPA": 562,
+    "B2.usIPA": 600
+  },
+  "gapsNeedingExternalEvidence": {},
+  "externalEvidenceApplied": [
+    "according-to-65",
+    "all-right-90",
+    "analyse-158",
+    "any-more-242",
+    "ashamed-179",
+    "associated-219",
+    "basically-168",
+    "coloured-400",
+    "defence-595",
+    "disagree-588",
+    "disc-608",
+    "embarrassed-1024",
+    "embarrassing-1028",
+    "equally-921",
+    "fascinating-1022",
+    "fighting-863",
+    "folding-1031",
+    "heavily-1118",
+    "included-1263",
+    "injured-1367",
+    "intended-1445",
+    "jewellery-1592",
+    "judgement-1628",
+    "lab-1464",
+    "latest-1533",
+    "licence-1402",
+    "located-1534",
+    "lorry-1574",
+    "mainly-1383",
+    "maths-1495",
+    "offence-1665",
+    "opposed-1777",
+    "originally-1837",
+    "outdoor-1872",
+    "per-cent-1838",
+    "personally-1892",
+    "regularly-2068",
+    "relaxing-2112",
+    "repeated-2180",
+    "sector-2415",
+    "significantly-2452",
+    "spending-2563",
+    "statistic-2675",
+    "successfully-2592",
+    "towards-2666",
+    "typically-2867",
+    "unable-2887",
+    "unlikely-2985",
+    "used-to-2820",
+    "worse-2874"
+  ],
+  "referenceSha256": {
+    "en-tr.sqlite3": "76fd98a73fdc02bcca81ee338441187cb93b77bfc11a70ae2708eebace3e53c0",
+    "en_UK.txt": "221394caef0cf723b4f2df81a98ac33191293257b88aed5b1fb89466d3a0dc77",
+    "en_US.txt": "2af6f154a5c363275f052d1f85acedef38ed185ca9745aa4314be77f6b70de67",
+    "ipa-LICENSE": "2c6a7e4c71f834a8fc0114fa4f65ca85e80bc4b4dc7ed08746963a09a7b0d177",
+    "ipa-README.md": "7251a8159f6d1d1a981ae5e79e616e3c7181950c1b6023042a727056a47e87a0",
+    "uk-LICENSE": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+    "us-LICENSE": "a504bede5a50d1ac19c38984d9bb33371927f72e714946a963bf40bb2de21188",
+    "wikdict-about.html": "f3047da058c708b98f820692830e2ad19a25b8f31714f0779f7f5b746a3e0dca",
+    "_a1_examples_tmp.json": "df5b72c1dc3f4144aac0a463eeaa5fd7497aa6550f004c249663462debaefb13",
+    "_a1_words_tmp.json": "a98d15c84c279b536ff12ea699eebff1b88eecf846aa67f3ce9710e6137e183f"
+  }
+}

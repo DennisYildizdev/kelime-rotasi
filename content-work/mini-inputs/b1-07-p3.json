@@ -1,0 +1,919 @@
+[
+  {
+    "sourceId": "trick-2767",
+    "headword": "trick",
+    "level": "B1",
+    "raw": "trick n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "trick",
+    "translationLookup": "trick",
+    "ipaCandidates": {
+      "en-US": "/ˈtɹɪk/",
+      "en-GB": "/tɹˈɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/trick__Verb__1",
+        "sense": "to fool; to cause to believe something untrue",
+        "translations": "kandırmak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/trick__Noun__1",
+        "sense": "magic trick",
+        "translations": "numara | sihir numarası | sihirbaz numarası | sihirbazlık numarası",
+        "score": 100
+      },
+      {
+        "entry": "eng/trick__Noun__1",
+        "sense": "something designed to fool",
+        "translations": "hile | numara | oyun",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "truth-2803",
+    "headword": "truth",
+    "level": "B1",
+    "raw": "truth n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "truth",
+    "translationLookup": "truth",
+    "ipaCandidates": {
+      "en-US": "/ˈtɹuθ/",
+      "en-GB": "/tɹˈuːθ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/truth__Noun__1",
+        "sense": "conformity to fact or reality",
+        "translations": "hakikat | gerçek",
+        "score": 145.0
+      },
+      {
+        "entry": "eng/truth__Noun__1",
+        "sense": "true facts",
+        "translations": "hakikat | gerçek",
+        "score": 145.0
+      },
+      {
+        "entry": "eng/truth__Noun__1",
+        "sense": "state or quality of being true to someone or something",
+        "translations": "hakikat | gerçek",
+        "score": 142.5
+      },
+      {
+        "entry": "eng/truth__Noun__1",
+        "sense": "that which is real",
+        "translations": "gerçek | hakikat",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/truth__Noun__1",
+        "sense": "something acknowledged to be true",
+        "translations": "hakikat | gerçek",
+        "score": 32.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "tube-2815",
+    "headword": "tube",
+    "level": "B1",
+    "raw": "tube n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "tube",
+    "translationLookup": "tube",
+    "ipaCandidates": {
+      "en-US": "/ˈtjub/, /ˈtub/",
+      "en-GB": "/tjˈuːb/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tube__Noun__1",
+        "sense": "a pipe",
+        "translations": "tüp",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "typically-2867",
+    "headword": "typically",
+    "level": "B1",
+    "raw": "typically adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "typically",
+    "translationLookup": "typical",
+    "ipaCandidates": {
+      "en-US": "/ˈtɪpɪkəɫi/, /ˈtɪpɪkɫi/",
+      "en-GB": "/tˈɪpɪkli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/typical__Adjective__1",
+        "sense": "capturing the overall sense of a thing",
+        "translations": "kopya",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/typical__Adjective__1",
+        "sense": "characteristically representing something",
+        "translations": "tipik",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/typical__Adjective__1",
+        "sense": "normal; to be expected",
+        "translations": "tipik",
+        "score": 10.0
+      }
+    ],
+    "externalEvidence": {
+      "headword": "typically",
+      "sourceUrl": "https://en.wiktionary.org/wiki/typically",
+      "note": "",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ˈtəp.ə.kə.li/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/typically"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "tyre-2871",
+    "headword": "tyre",
+    "level": "B1",
+    "raw": "tyre n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "tyre",
+    "translationLookup": "tyre",
+    "ipaCandidates": {
+      "en-US": "/ˈtaɪɹ/",
+      "en-GB": "/tˈaɪə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tyre__Noun__1",
+        "sense": "wheel covering",
+        "translations": "lastik",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "ugly-2875",
+    "headword": "ugly",
+    "level": "B1",
+    "raw": "ugly adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "ugly",
+    "translationLookup": "ugly",
+    "ipaCandidates": {
+      "en-US": "/ˈəɡɫi/",
+      "en-GB": "/ˈʌɡli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/ugly__Adjective__1",
+        "sense": "displeasing to the eye; not aesthetically pleasing",
+        "translations": "çirkin",
+        "score": 150.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "unable-2887",
+    "headword": "unable",
+    "level": "B1",
+    "raw": "unable adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "unable",
+    "translationLookup": "unable",
+    "ipaCandidates": {
+      "en-US": "/əˈneɪbəɫ/",
+      "en-GB": "/ʌnˈeɪbəl/"
+    },
+    "dictionaryCandidates": [],
+    "externalEvidence": {
+      "headword": "unable",
+      "sourceUrl": "https://en.wiktionary.org/wiki/unable",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ʌnˈeɪbl̩/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/unable"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "uncomfortable-2895",
+    "headword": "uncomfortable",
+    "level": "B1",
+    "raw": "uncomfortable adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "uncomfortable",
+    "translationLookup": "uncomfortable",
+    "ipaCandidates": {
+      "en-US": "/ənˈkəmfɝtəbəɫ/",
+      "en-GB": "/ʌnkˈʌmftəbəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/uncomfortable__Adjective__1",
+        "sense": "not comfortable",
+        "translations": "rahatsız",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "underwear-2919",
+    "headword": "underwear",
+    "level": "B1",
+    "raw": "underwear n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "underwear",
+    "translationLookup": "underwear",
+    "ipaCandidates": {
+      "en-US": "/ˈəndɝˌwɛɹ/",
+      "en-GB": "/ˌʌndəwˈeə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/underwear__Noun__1",
+        "sense": "clothes worn next to the skin",
+        "translations": "iç çamaşırı",
+        "score": 103.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "unemployed-2923",
+    "headword": "unemployed",
+    "level": "B1",
+    "raw": "unemployed adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "unemployed",
+    "translationLookup": "unemployed",
+    "ipaCandidates": {
+      "en-US": "/ˌənɛmˈpɫɔɪd/",
+      "en-GB": "/ʌnɛmplˈɔɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/unemployed__Adjective__1",
+        "sense": "having no job",
+        "translations": "işsiz",
+        "score": 102.9
+      },
+      {
+        "entry": "eng/unemployed__Noun__1",
+        "sense": "the unemployed as a group",
+        "translations": "işsizler",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "unemployment-2927",
+    "headword": "unemployment",
+    "level": "B1",
+    "raw": "unemployment n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "unemployment",
+    "translationLookup": "unemployment",
+    "ipaCandidates": {
+      "en-US": "/ˌənɪmˈpɫɔɪmənt/",
+      "en-GB": "/ʌnɛmplˈɔɪmənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/unemployment__Noun__1",
+        "sense": "joblessness",
+        "translations": "işsizlik",
+        "score": 111.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "unfair-2935",
+    "headword": "unfair",
+    "level": "B1",
+    "raw": "unfair adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "unfair",
+    "translationLookup": "unfair",
+    "ipaCandidates": {
+      "en-US": "/ˈənˈfɛɹ/, /ˌɔnˈfɛɹ/, /ənˈfɛɹ/",
+      "en-GB": "/ʌnfˈeə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/unfair__Adjective__1",
+        "sense": "not fair",
+        "translations": "adaletsiz",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "union-2951",
+    "headword": "union",
+    "level": "B1",
+    "raw": "union n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "union",
+    "translationLookup": "union",
+    "ipaCandidates": {
+      "en-US": "/ˈjunjən/",
+      "en-GB": "/jˈuːniən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/union__Noun__1",
+        "sense": "the act of uniting or the state of being united",
+        "translations": "birlik",
+        "score": 113.2
+      },
+      {
+        "entry": "eng/union__Noun__1",
+        "sense": "that which is united; something formed by a combination of parts or members",
+        "translations": "birlik | ittifak",
+        "score": 112.2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "unless-2979",
+    "headword": "unless",
+    "level": "B1",
+    "raw": "unless conj. B1",
+    "pos": "conj.",
+    "senses": [
+      {
+        "partOfSpeech": "conj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "unless",
+    "translationLookup": "unless",
+    "ipaCandidates": {
+      "en-US": "/ənˈɫɛs/",
+      "en-GB": "/ʌnlˈɛs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/unless__Conjunction__1",
+        "sense": "except on a specified condition",
+        "translations": "-mezse",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "unlike-2982",
+    "headword": "unlike",
+    "level": "B1",
+    "raw": "unlike prep. B1",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "unlike",
+    "translationLookup": "unlike",
+    "ipaCandidates": {
+      "en-US": "/ənˈɫaɪk/",
+      "en-GB": "/ʌnlˈaɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/unlike__Adjective__1",
+        "sense": "dissimilar",
+        "translations": "değişik",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/unlike__Adjective__1",
+        "sense": "unequal",
+        "translations": "değişik",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "unlikely-2985",
+    "headword": "unlikely",
+    "level": "B1",
+    "raw": "unlikely adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "unlikely",
+    "translationLookup": "unlike",
+    "ipaCandidates": {
+      "en-US": "/ənˈɫaɪkɫi/",
+      "en-GB": "/ʌnlˈaɪkli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/unlike__Adjective__1",
+        "sense": "dissimilar",
+        "translations": "değişik",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/unlike__Adjective__1",
+        "sense": "unequal",
+        "translations": "değişik",
+        "score": 0.0
+      }
+    ],
+    "externalEvidence": {
+      "headword": "unlikely",
+      "sourceUrl": "https://en.wiktionary.org/wiki/unlikely",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ʌnˈlaɪkli/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/unlikely"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "unnecessary-2988",
+    "headword": "unnecessary",
+    "level": "B1",
+    "raw": "unnecessary adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "unnecessary",
+    "translationLookup": "unnecessary",
+    "ipaCandidates": {
+      "en-US": "/ənˈnɛsəˌsɛɹi/",
+      "en-GB": "/ʌnnˈɛsəsəɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/unnecessary__Adjective__1",
+        "sense": "not necessary",
+        "translations": "gereksiz | boş yere | lüzumsuz",
+        "score": 100.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "unpleasant-2991",
+    "headword": "unpleasant",
+    "level": "B1",
+    "raw": "unpleasant adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "unpleasant",
+    "translationLookup": "unpleasant",
+    "ipaCandidates": {
+      "en-US": "/ənˈpɫɛzənt/",
+      "en-GB": "/ʌnplˈɛzənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/unpleasant__Adjective__1",
+        "sense": "not pleasant",
+        "translations": "nahoş | sevimsiz | tatsız | çirkin",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "update-2772",
+    "headword": "update",
+    "level": "B1",
+    "raw": "update v., n. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "update",
+    "translationLookup": "update",
+    "ipaCandidates": {
+      "en-US": "/ˈəpˌdeɪt/, /əpˈdeɪt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/update__Noun__1",
+        "sense": "action of making something up to date",
+        "translations": "güncelleme",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/update__Verb__1",
+        "sense": "to make something up to date",
+        "translations": "güncellemek",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "upon-2776",
+    "headword": "upon",
+    "level": "B1",
+    "raw": "upon prep. B1",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "upon",
+    "translationLookup": "upon",
+    "ipaCandidates": {
+      "en-US": "/əˈpɑn/",
+      "en-GB": "/əpˈɒn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "üstüne",
+        "score": 2
+      },
+      {
+        "entry": "eng/upon__Preposition__1",
+        "sense": null,
+        "translations": "-dir",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "upset-2784",
+    "headword": "upset",
+    "level": "B1",
+    "raw": "upset adj., v. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "upset",
+    "translationLookup": "upset",
+    "ipaCandidates": {
+      "en-US": "/ˈəpˌsɛt/, /əpˈsɛt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/upset__Verb__1",
+        "sense": "make (a person) angry, distressed or unhappy",
+        "translations": "üzmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "used1-2812",
+    "headword": "used1",
+    "level": "B1",
+    "raw": "used1 adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "used",
+    "translationLookup": "used",
+    "ipaCandidates": {
+      "en-US": "/ˈjuzd/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/used__Adjective__1",
+        "sense": "that has or have previously been owned by someone else",
+        "translations": "kelepir mal",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/used__Adjective__1",
+        "sense": "accustomed",
+        "translations": "alışmak, kanıksamak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "used2-2816",
+    "headword": "used2",
+    "level": "B1",
+    "raw": "used2 adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "used",
+    "translationLookup": "used",
+    "ipaCandidates": {
+      "en-US": "/ˈjuzd/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/used__Adjective__1",
+        "sense": "that has or have previously been owned by someone else",
+        "translations": "kelepir mal",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/used__Adjective__1",
+        "sense": "accustomed",
+        "translations": "alışmak, kanıksamak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "valuable-2848",
+    "headword": "valuable",
+    "level": "B1",
+    "raw": "valuable adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "valuable",
+    "translationLookup": "valuable",
+    "ipaCandidates": {
+      "en-US": "/ˈvæɫjəbəɫ/, /ˈvæɫjubəɫ/",
+      "en-GB": "/vˈæljuːəbəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/valuable__Adjective__1",
+        "sense": "having a great value",
+        "translations": "değerli",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "value-2852",
+    "headword": "value",
+    "level": "B1",
+    "raw": "value n. B1, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 11,
+    "displayWordHint": "value",
+    "translationLookup": "value",
+    "ipaCandidates": {
+      "en-US": "/ˈvæɫju/",
+      "en-GB": "/vˈæljuː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/value__Noun__1",
+        "sense": null,
+        "translations": "değer | kıymet",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/value__Noun__1",
+        "sense": "degree of importance given to something",
+        "translations": "değer | kıymet | ehemmiyet | önem",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/value__Noun__1",
+        "sense": "numerical quantity measured or assigned or computed",
+        "translations": "değer",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/value__Noun__1",
+        "sense": "amount (of money, goods or services) that is considered to be a fair equivalent for something else",
+        "translations": "değer | kıymet",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/value__Noun__1",
+        "sense": "ideal accepted by some individual or group",
+        "translations": "değerler",
+        "score": 100
+      },
+      {
+        "entry": "eng/value__Noun__1",
+        "sense": "relative darkness or lightness of a color",
+        "translations": "ton",
+        "score": 100
+      },
+      {
+        "entry": "eng/value__Noun__1",
+        "sense": "relative duration of a musical note",
+        "translations": "nota değeri",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  }
+]

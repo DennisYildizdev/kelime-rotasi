@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#173f35">
+  <meta name="description" content="IPA ve Türkçe yaklaşık okunuşla ADHD dostu mikro öğrenme prototipi">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <title>Kelime Rotası</title>
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <button class="brand" data-route="home" aria-label="Ana sayfa">
+        <span class="brand-mark">K</span>
+        <span>Kelime Rotası</span>
+      </button>
+      <div class="top-actions">
+        <button id="soundToggle" class="icon-button" aria-label="Ses ayarı" title="Ses ayarı">Ses açık</button>
+        <button id="calmToggle" class="icon-button" aria-label="Sakin görünüm" title="Sakin görünüm">Sakin</button>
+      </div>
+    </header>
+
+    <main id="app" tabindex="-1" aria-live="polite"></main>
+    <p id="pwaStatus" class="word-meta" role="status" style="font-size:.8rem;line-height:1.5;margin-top:24px"></p>
+
+    <nav class="bottom-nav" aria-label="Ana menü">
+      <button data-route="home" class="active"><span>Ana</span></button>
+      <button data-route="words"><span>Kelimeler</span></button>
+      <button data-route="ipa"><span>IPA</span></button>
+      <button data-route="progress"><span>İlerleme</span></button>
+    </nav>
+  </div>
+  <div id="toast" class="toast" role="status"></div>
+  <script type="module" src="src/app.js"></script>
+  <script type="module" src="src/pwa.js"></script>
+</body>
+</html>

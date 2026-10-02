@@ -1,0 +1,1051 @@
+[
+  {
+    "sourceId": "leaf-1585",
+    "headword": "leaf",
+    "level": "B1",
+    "raw": "leaf n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "leaf",
+    "translationLookup": "leaf",
+    "ipaCandidates": {
+      "en-US": "/ˈɫif/",
+      "en-GB": "/lˈiːf/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/leaf__Noun__1",
+        "sense": "part of a plant",
+        "translations": "yaprak",
+        "score": 183.6
+      },
+      {
+        "entry": "eng/leaf__Noun__1",
+        "sense": "sheet of a book",
+        "translations": "yaprak",
+        "score": 143.6
+      },
+      {
+        "entry": "eng/leaf__Noun__1",
+        "sense": "computing, mathematics: tree node without descendants",
+        "translations": "yaprak",
+        "score": 52.5
+      },
+      {
+        "entry": "eng/leaf__Noun__1",
+        "sense": "sheet of any substance beaten or rolled until very thin",
+        "translations": "yaprak",
+        "score": 42.5
+      },
+      {
+        "entry": "eng/leaf__Noun__1",
+        "sense": "anything resembling the leaf of a plant",
+        "translations": "yaprak",
+        "score": 22.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "leather-1609",
+    "headword": "leather",
+    "level": "B1",
+    "raw": "leather n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "leather",
+    "translationLookup": "leather",
+    "ipaCandidates": {
+      "en-US": "/ˈɫɛðɝ/",
+      "en-GB": "/lˈɛðɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/leather__Noun__1",
+        "sense": "material produced by tanning animal skin",
+        "translations": "deri",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/leather__Adjective__1",
+        "sense": "made of leather",
+        "translations": "deri",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "legal-1629",
+    "headword": "legal",
+    "level": "B1",
+    "raw": "legal adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "legal",
+    "translationLookup": "legal",
+    "ipaCandidates": {
+      "en-US": "/ˈɫiɡəɫ/",
+      "en-GB": "/lˈiːɡəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/legal__Adjective__1",
+        "sense": "allowed or prescribed by law",
+        "translations": "yasal | meşru | kanuni",
+        "score": 141.0
+      },
+      {
+        "entry": "eng/legal__Adjective__1",
+        "sense": "having its basis in the law",
+        "translations": "yasal",
+        "score": 110.6
+      },
+      {
+        "entry": "eng/legal__Adjective__1",
+        "sense": "relating to the law or to lawyers",
+        "translations": "adli | hukuki | tüzel | hukuksal",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "leisure-1633",
+    "headword": "leisure",
+    "level": "B1",
+    "raw": "leisure n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "leisure",
+    "translationLookup": "leisure",
+    "ipaCandidates": {
+      "en-US": "/ˈɫɛʒɝ/, /ˈɫiʒɝ/",
+      "en-GB": "/lˈɛʒɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/leisure__Noun__1",
+        "sense": "time free",
+        "translations": "artan zaman",
+        "score": 0.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "length-1374",
+    "headword": "length",
+    "level": "B1",
+    "raw": "length n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "length",
+    "translationLookup": "length",
+    "ipaCandidates": {
+      "en-US": "/ˈɫɛŋkθ/, /ˈɫɛŋθ/",
+      "en-GB": "/lˈɛŋθ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/length__Noun__1",
+        "sense": "distance along the longest dimension",
+        "translations": "uzunluk",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/length__Noun__1",
+        "sense": "length of a horse",
+        "translations": "boy",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "lie2-tell-a-lie--1410",
+    "headword": "lie2 (tell a lie)",
+    "level": "B1",
+    "raw": "lie2 (tell a lie) v., n. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "lie",
+    "translationLookup": "lie",
+    "ipaCandidates": {
+      "en-US": "/ˈɫaɪ/",
+      "en-GB": "/lˈaɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/lie__Noun__2",
+        "sense": "intentionally false statement",
+        "translations": "yalan | palavra | martaval",
+        "score": 174.7
+      },
+      {
+        "entry": "eng/lie__Verb__2",
+        "sense": "tell an intentional untruth",
+        "translations": "yalan söylemek | uydurmak",
+        "score": 163.6
+      },
+      {
+        "entry": "eng/lie__Verb__1",
+        "sense": "be in horizontal position",
+        "translations": "yatmak | uzanmak",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "limit-1457",
+    "headword": "limit",
+    "level": "B1",
+    "raw": "limit n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "limit",
+    "translationLookup": "limit",
+    "ipaCandidates": {
+      "en-US": "/ˈɫɪmət/",
+      "en-GB": "/lˈɪmɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/limit__Verb__1",
+        "sense": "restrict",
+        "translations": "sınırlamak | kısıtlamak | tahdit etmek",
+        "score": 100.6
+      },
+      {
+        "entry": "eng/limit__Noun__1",
+        "sense": "restriction; bound beyond which one may not go",
+        "translations": "had | kısıtlayıcı | sınırlayıcı",
+        "score": 100
+      },
+      {
+        "entry": "eng/limit__Noun__1",
+        "sense": "mathematics: value to which a sequence converges",
+        "translations": "limit",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "lip-1476",
+    "headword": "lip",
+    "level": "B1",
+    "raw": "lip n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "lip",
+    "translationLookup": "lip",
+    "ipaCandidates": {
+      "en-US": "/ˈɫɪp/",
+      "en-GB": "/lˈɪp/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/lip__Noun__1",
+        "sense": null,
+        "translations": "dudak",
+        "score": 192.5
+      },
+      {
+        "entry": "eng/lip__Noun__1",
+        "sense": "part of body resembling a lip",
+        "translations": "dudak",
+        "score": 42.5
+      },
+      {
+        "entry": "eng/lip__Noun__1",
+        "sense": "rim of an open container",
+        "translations": "dudak",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "liquid-1479",
+    "headword": "liquid",
+    "level": "B1",
+    "raw": "liquid n., adj. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "liquid",
+    "translationLookup": "liquid",
+    "ipaCandidates": {
+      "en-US": "/ˈɫɪkwəd/, /ˈɫɪkwɪd/",
+      "en-GB": "/lˈɪkwɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/liquid__Noun__1",
+        "sense": "substance that is liquid",
+        "translations": "sıvı | likit",
+        "score": 125.0
+      },
+      {
+        "entry": "eng/liquid__Adjective__1",
+        "sense": "fluid; not solid and not gaseous",
+        "translations": "sıvı",
+        "score": 123.1
+      },
+      {
+        "entry": "eng/liquid__Adjective__1",
+        "sense": "(of an asset) easily sold or disposed of",
+        "translations": "sıvı",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "literature-1494",
+    "headword": "literature",
+    "level": "B1",
+    "raw": "literature n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "literature",
+    "translationLookup": "literature",
+    "ipaCandidates": {
+      "en-US": "/ˈɫɪtɝətʃɝ/",
+      "en-GB": "/lˈɪtɹɪtʃɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/literature__Noun__1",
+        "sense": "body of all written works",
+        "translations": "edebiyat | literatür | yazın",
+        "score": 181.0
+      },
+      {
+        "entry": "eng/literature__Noun__1",
+        "sense": "the collected creative writing of a nation, people, group or culture",
+        "translations": "edebiyat | yazın",
+        "score": 60.0
+      },
+      {
+        "entry": "eng/literature__Noun__1",
+        "sense": "all the papers, treatises etc. published in academic journals on a particular subject",
+        "translations": "edebiyat",
+        "score": 51.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "live2-1506",
+    "headword": "live2",
+    "level": "B1",
+    "raw": "live2 adj., adv. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "live",
+    "translationLookup": "live",
+    "ipaCandidates": {
+      "en-US": "/ˈɫaɪv/, /ˈɫɪv/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/live__Verb__1",
+        "sense": "be alive",
+        "translations": "yaşamak",
+        "score": 155.0
+      },
+      {
+        "entry": "eng/live__Verb__1",
+        "sense": "have permanent residence",
+        "translations": "yaşamak | oturmak",
+        "score": 136.1
+      },
+      {
+        "entry": "eng/live__Verb__1",
+        "sense": "survive, persevere, continue",
+        "translations": "yaşamak",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/live__Adjective__1",
+        "sense": "(broadcasting) seen or heard from a broadcast, as it happens",
+        "translations": "canlı",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/live__Adjective__1",
+        "sense": "having life",
+        "translations": "canlı",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/live__Adverb__1",
+        "sense": "as it happens",
+        "translations": "canlı",
+        "score": 100
+      },
+      {
+        "entry": "eng/live__Verb__1",
+        "sense": "spend (one's life), pass, maintain, continue in",
+        "translations": "yaşamak",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "living-1514",
+    "headword": "living",
+    "level": "B1",
+    "raw": "living adj., n. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "living",
+    "translationLookup": "living",
+    "ipaCandidates": {
+      "en-US": "/ˈɫɪvɪŋ/",
+      "en-GB": "/lˈɪvɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/living__Adjective__1",
+        "sense": "having life",
+        "translations": "diri",
+        "score": 11.1
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "yaşama",
+        "score": 2
+      },
+      {
+        "entry": "eng/living__Adjective__1",
+        "sense": "in use or existing",
+        "translations": "canlı",
+        "score": 1.1
+      },
+      {
+        "entry": "eng/living__Noun__1",
+        "sense": "financial means; a means of maintaining life",
+        "translations": "ömür",
+        "score": 1
+      },
+      {
+        "entry": "eng/living__Noun__1",
+        "sense": "state of being alive",
+        "translations": "ömür",
+        "score": 1
+      },
+      {
+        "entry": "eng/living__Noun__1",
+        "sense": "style of life",
+        "translations": "ömür",
+        "score": 1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "locate-1530",
+    "headword": "locate",
+    "level": "B1",
+    "raw": "locate v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "locate",
+    "translationLookup": "locate",
+    "ipaCandidates": {
+      "en-US": "/ˈɫoʊˌkeɪt/",
+      "en-GB": "/ləʊkˈeɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/locate__Verb__1",
+        "sense": null,
+        "translations": "yerleştirmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "located-1534",
+    "headword": "located",
+    "level": "B1",
+    "raw": "located adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "located",
+    "translationLookup": "locate",
+    "ipaCandidates": {
+      "en-US": "/ˈɫoʊˌkeɪd/, /ˈɫoʊˌkeɪtəd/",
+      "en-GB": "/ləʊkˈeɪtɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/locate__Verb__1",
+        "sense": null,
+        "translations": "yerleştirmek",
+        "score": 100
+      }
+    ],
+    "externalEvidence": {
+      "headword": "located",
+      "sourceUrl": "https://en.wiktionary.org/wiki/located",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ləʊˈkeɪtɪd/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/located"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "location-1538",
+    "headword": "location",
+    "level": "B1",
+    "raw": "location n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "location",
+    "translationLookup": "location",
+    "ipaCandidates": {
+      "en-US": "/ɫoʊˈkeɪʃən/",
+      "en-GB": "/ləʊkˈeɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/location__Noun__1",
+        "sense": null,
+        "translations": "konum | yer | lokasyon",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "lonely-1550",
+    "headword": "lonely",
+    "level": "B1",
+    "raw": "lonely adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "lonely",
+    "translationLookup": "lonely",
+    "ipaCandidates": {
+      "en-US": "/ˈɫoʊnɫi/",
+      "en-GB": "/lˈəʊnli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/lonely__Adjective__1",
+        "sense": "of place: desolate",
+        "translations": "tenha | ıssız",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/lonely__Adjective__1",
+        "sense": "of person: unhappy by feeling isolated",
+        "translations": "yalnız | gariban | garip | kimsesiz | yapayalnız",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "loss-1582",
+    "headword": "loss",
+    "level": "B1",
+    "raw": "loss n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "loss",
+    "translationLookup": "loss",
+    "ipaCandidates": {
+      "en-US": "/ˈɫɔs/",
+      "en-GB": "/lˈɒs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/loss__Noun__1",
+        "sense": null,
+        "translations": "kayıp",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/loss__Noun__1",
+        "sense": "grief caused by losing someone or something",
+        "translations": "kayıp",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/loss__Noun__1",
+        "sense": "financial: the sum lost on balance",
+        "translations": "kayıp",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/loss__Noun__1",
+        "sense": "the result of no longer possessing something",
+        "translations": "kayıp",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "luxury-1634",
+    "headword": "luxury",
+    "level": "B1",
+    "raw": "luxury n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "luxury",
+    "translationLookup": "luxury",
+    "ipaCandidates": {
+      "en-US": "/ˈɫəɡʒɝi/",
+      "en-GB": "/lˈʌkʃəɹˌi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/luxury__Noun__1",
+        "sense": "very wealthy and comfortable surroundings",
+        "translations": "lüks | bolluk",
+        "score": 140.4
+      },
+      {
+        "entry": "eng/luxury__Adjective__1",
+        "sense": "indulgent",
+        "translations": "lüks",
+        "score": 100
+      },
+      {
+        "entry": "eng/luxury__Noun__1",
+        "sense": "something desirable but expensive",
+        "translations": "lüks",
+        "score": 40.0
+      },
+      {
+        "entry": "eng/luxury__Noun__1",
+        "sense": "something pleasant but not necessary in life",
+        "translations": "lüks",
+        "score": 30.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "mad-1642",
+    "headword": "mad",
+    "level": "B1",
+    "raw": "mad adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "mad",
+    "translationLookup": "mad",
+    "ipaCandidates": {
+      "en-US": "/ˈmæd/",
+      "en-GB": "/mˈæd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/mad__Adjective__1",
+        "sense": "insane",
+        "translations": "deli | beç | fıttırık | kaçık | kuduruk | üşütük",
+        "score": 103.8
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "magic-1646",
+    "headword": "magic",
+    "level": "B1",
+    "raw": "magic n., adj. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "magic",
+    "translationLookup": "magic",
+    "ipaCandidates": {
+      "en-US": "/ˈmædʒɪk/",
+      "en-GB": "/mˈædʒɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/magic__Noun__1",
+        "sense": "use of rituals or actions exploiting the supernatural",
+        "translations": "sihir | büyü | efsun | yada",
+        "score": 121.0
+      },
+      {
+        "entry": "eng/magic__Noun__1",
+        "sense": "ritual associated with supernatural magic or mysticism",
+        "translations": "sihir | büyü",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/magic__Noun__1",
+        "sense": "illusion performed to give the appearance of magic or the supernatural",
+        "translations": "sihir | gözbağı",
+        "score": 111.0
+      },
+      {
+        "entry": "eng/magic__Adjective__1",
+        "sense": "having supernatural talents, properties or qualities",
+        "translations": "sihirli | büyülü | efsunlu",
+        "score": 105.0
+      },
+      {
+        "entry": "eng/magic__Adjective__1",
+        "sense": "featuring illusions that are usually performed for entertainment",
+        "translations": "büyülü | sihirli",
+        "score": 100
+      },
+      {
+        "entry": "eng/magic__Adjective__1",
+        "sense": "producing extraordinary results; wonderful, amazing",
+        "translations": "büyüleyici | harikulade | müthiş",
+        "score": 100
+      },
+      {
+        "entry": "eng/magic__Noun__1",
+        "sense": "something spectacular or wonderful",
+        "translations": "harika | mucize",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "mainly-1383",
+    "headword": "mainly",
+    "level": "B1",
+    "raw": "mainly adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "mainly",
+    "translationLookup": "main",
+    "ipaCandidates": {
+      "en-US": "/ˈmeɪnɫi/",
+      "en-GB": "/mˈeɪnli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/main__Adjective__1",
+        "sense": "chief, most important, or principal in extent, etc.",
+        "translations": "ana",
+        "score": 111.1
+      }
+    ],
+    "externalEvidence": {
+      "headword": "mainly",
+      "sourceUrl": "https://en.wiktionary.org/wiki/mainly",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ˈmeɪnli/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/mainly"
+        },
+        "en-GB": {
+          "ipa": "/ˈmeɪnli/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/mainly"
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "mall-1407",
+    "headword": "mall",
+    "level": "B1",
+    "raw": "mall n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "mall",
+    "translationLookup": "mall",
+    "ipaCandidates": {
+      "en-US": "/ˈmɔɫ/",
+      "en-GB": "/mˈæl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/mall__Noun__1",
+        "sense": "enclosed shopping centre",
+        "translations": "alışveriş merkezi | AVM",
+        "score": 100.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "management-1419",
+    "headword": "management",
+    "level": "B1",
+    "raw": "management n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "management",
+    "translationLookup": "management",
+    "ipaCandidates": {
+      "en-US": "/ˈmænədʒmənt/, /ˈmænɪdʒmənt/",
+      "en-GB": "/mˈænɪdʒmənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/management__Noun__1",
+        "sense": "administration; the process or practice of managing",
+        "translations": "idare | idarecilik",
+        "score": 111.1
+      },
+      {
+        "entry": "eng/management__Noun__1",
+        "sense": "the executives of an organisation",
+        "translations": "yönetim",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "marketing-1447",
+    "headword": "marketing",
+    "level": "B1",
+    "raw": "marketing n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "marketing",
+    "translationLookup": "marketing",
+    "ipaCandidates": {
+      "en-US": "/ˈmɑɹkətɪŋ/",
+      "en-GB": "/mˈɑːkɪtɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/marketing__Noun__1",
+        "sense": "the promotion, distribution and selling of a product or service",
+        "translations": "pazarlama | marketing",
+        "score": 130.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "marriage-1450",
+    "headword": "marriage",
+    "level": "B1",
+    "raw": "marriage n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 6,
+    "displayWordHint": "marriage",
+    "translationLookup": "marriage",
+    "ipaCandidates": {
+      "en-US": "/ˈmɛɹɪdʒ/",
+      "en-GB": "/mˈæɹɪdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/marriage__Noun__1",
+        "sense": "state of being married",
+        "translations": "evlilik | izdivaç | nikâh",
+        "score": 174.6
+      },
+      {
+        "entry": "eng/marriage__Noun__1",
+        "sense": "union of two people",
+        "translations": "evlilik | birliktelik",
+        "score": 174.6
+      },
+      {
+        "entry": "eng/marriage__Noun__1",
+        "sense": null,
+        "translations": "evlilik | düğün | nikâh",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/marriage__Noun__1",
+        "sense": "close union",
+        "translations": "birliktelik | evlilik",
+        "score": 100
+      },
+      {
+        "entry": "eng/marriage__Noun__1",
+        "sense": "joining of two parts",
+        "translations": "evlilik",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  }
+]

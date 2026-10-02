@@ -1,0 +1,3761 @@
+[
+  {
+    "id": "tomato-2598",
+    "headword": "tomato",
+    "lookupLemma": "tomato",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/təˈmɑˌtoʊ/, /təˈmeɪˌtoʊ/",
+      "en-GB": "/təmˈɑːtəʊ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tomato__Noun__1",
+        "sense": "fruit",
+        "translations": "domates | banadura | domat | pamidor",
+        "score": 202.5
+      },
+      {
+        "entry": "eng/tomato__Noun__1",
+        "sense": "tomato plant",
+        "translations": "domates",
+        "score": 175.0
+      }
+    ]
+  },
+  {
+    "id": "tomorrow-2602",
+    "headword": "tomorrow",
+    "lookupLemma": "tomorrow",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv., n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/təˈmɑˌɹoʊ/, /tuˈmɑˌɹoʊ/",
+      "en-GB": "/təmˈɒɹəʊ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tomorrow__Adverb__1",
+        "sense": "on the day after the present day",
+        "translations": "yarın",
+        "score": 191.0
+      },
+      {
+        "entry": "eng/tomorrow__Noun__1",
+        "sense": "the day after the present day",
+        "translations": "yarın",
+        "score": 180.0
+      }
+    ]
+  },
+  {
+    "id": "tonight-2614",
+    "headword": "tonight",
+    "lookupLemma": "tonight",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv., n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/təˈnaɪt/, /tʊˈnaɪt/",
+      "en-GB": "/tənˈaɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tonight__Adverb__1",
+        "sense": "during today's evening",
+        "translations": "bu akşam",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/tonight__Adverb__1",
+        "sense": "during today's nighttime",
+        "translations": "bu akşam",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/tonight__Noun__1",
+        "sense": "nighttime today",
+        "translations": "bu akşam",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "id": "too-2618",
+    "headword": "too",
+    "lookupLemma": "too",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtu/",
+      "en-GB": "/tˈuː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/too__Adverb__1",
+        "sense": "(focus) likewise",
+        "translations": "de | da",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/too__Adverb__1",
+        "sense": "(degree) more than enough",
+        "translations": "aşırı | fazla | çok",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "tooth-2626",
+    "headword": "tooth",
+    "lookupLemma": "tooth",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtuθ/",
+      "en-GB": "/tˈuːθ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tooth__Noun__1",
+        "sense": "anatomy: tooth",
+        "translations": "diş | dişler",
+        "score": 221.0
+      },
+      {
+        "entry": "eng/tooth__Noun__1",
+        "sense": null,
+        "translations": "diş | dişler",
+        "score": 112.0
+      },
+      {
+        "entry": "eng/tooth__Noun__1",
+        "sense": "saw tooth",
+        "translations": "diş | dişler",
+        "score": 111.0
+      }
+    ]
+  },
+  {
+    "id": "topic-2634",
+    "headword": "topic",
+    "lookupLemma": "topic",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtɑpɪk/",
+      "en-GB": "/tˈɒpɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/topic__Noun__1",
+        "sense": "subject; theme",
+        "translations": "mevzu | tema",
+        "score": 112.5
+      }
+    ]
+  },
+  {
+    "id": "tourist-2662",
+    "headword": "tourist",
+    "lookupLemma": "tourist",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtʊɹəst/, /ˈtʊɹɪst/",
+      "en-GB": "/tˈɔːɹɪst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tourist__Noun__1",
+        "sense": "someone who travels for pleasure",
+        "translations": "turist | gezgin | gezici | gezmen | seyyah",
+        "score": 140.0
+      }
+    ]
+  },
+  {
+    "id": "town-2678",
+    "headword": "town",
+    "lookupLemma": "town",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtaʊn/",
+      "en-GB": "/tˈaʊn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/town__Noun__1",
+        "sense": "settlement",
+        "translations": "şehir | kasaba | ilçe | bucak",
+        "score": 124.5
+      }
+    ]
+  },
+  {
+    "id": "traffic-2702",
+    "headword": "traffic",
+    "lookupLemma": "traffic",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtɹæfɪk/",
+      "en-GB": "/tɹˈæfɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/traffic__Noun__1",
+        "sense": "pedestrians or vehicles on roads or on the air",
+        "translations": "trafik | seyrüsefer",
+        "score": 143.6
+      },
+      {
+        "entry": "eng/traffic__Noun__1",
+        "sense": "commercial transportation or exchange of goods",
+        "translations": "trafik",
+        "score": 22.5
+      },
+      {
+        "entry": "eng/traffic__Noun__1",
+        "sense": "exchange or flux of information, messages or data",
+        "translations": "trafik",
+        "score": 22.5
+      }
+    ]
+  },
+  {
+    "id": "train-2706",
+    "headword": "train",
+    "lookupLemma": "train",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "A2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtɹeɪn/",
+      "en-GB": "/tɹˈeɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/train__Noun__1",
+        "sense": "line of connected cars or carriages",
+        "translations": "tren | katar",
+        "score": 201.0
+      },
+      {
+        "entry": "eng/train__Verb__1",
+        "sense": "to teach a task",
+        "translations": "öyretmək",
+        "score": 100
+      },
+      {
+        "entry": "eng/train__Noun__1",
+        "sense": "group of animals, vehicles, or people",
+        "translations": "tren",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "id": "travel-2742",
+    "headword": "travel",
+    "lookupLemma": "travel",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtɹævəɫ/",
+      "en-GB": "/tɹˈævəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/travel__Verb__1",
+        "sense": "be on a journey",
+        "translations": "yolculuk | etmek | seyahat | yapmak",
+        "score": 111.1
+      },
+      {
+        "entry": "eng/travel__Noun__1",
+        "sense": "act of traveling",
+        "translations": "yolculuk | seyahat | gezi",
+        "score": 102.3
+      }
+    ]
+  },
+  {
+    "id": "tree-2758",
+    "headword": "tree",
+    "lookupLemma": "tree",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtɹi/",
+      "en-GB": "/tɹˈiː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/tree__Noun__1",
+        "sense": "large woody plant",
+        "translations": "ağaç",
+        "score": 220.0
+      },
+      {
+        "entry": "eng/tree__Verb__1",
+        "sense": "to chase up a tree",
+        "translations": "ağaç",
+        "score": 100
+      },
+      {
+        "entry": "eng/tree__Noun__1",
+        "sense": "(graph theory) connected graph with no cycles",
+        "translations": "ağaç",
+        "score": 70.0
+      },
+      {
+        "entry": "eng/tree__Noun__1",
+        "sense": "(computing theory) recursive data structure",
+        "translations": "ağaç",
+        "score": 60.0
+      },
+      {
+        "entry": "eng/tree__Noun__1",
+        "sense": "(graphical user interface) tree list",
+        "translations": "ağaç",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/tree__Noun__1",
+        "sense": "pole with storage hooks",
+        "translations": "ağaç",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "id": "trip-2771",
+    "headword": "trip",
+    "lookupLemma": "trip",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtɹɪp/",
+      "en-GB": "/tɹˈɪp/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/trip__Noun__1",
+        "sense": null,
+        "translations": "yolculuk | seyahat | gezi",
+        "score": 107.0
+      },
+      {
+        "entry": "eng/trip__Noun__1",
+        "sense": "act of tripping someone",
+        "translations": "çelme",
+        "score": 100
+      },
+      {
+        "entry": "eng/trip__Verb__1",
+        "sense": "to cause to stumble",
+        "translations": "tökezletmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/trip__Verb__1",
+        "sense": "to fall over or stumble over an object",
+        "translations": "tökezlemek",
+        "score": 100.0
+      }
+    ]
+  },
+  {
+    "id": "trousers-2783",
+    "headword": "trousers",
+    "lookupLemma": "trousers",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtɹaʊzɝz/",
+      "en-GB": "/tɹˈaʊsəz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "pantolon",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "id": "true-2791",
+    "headword": "true",
+    "lookupLemma": "true",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtɹu/",
+      "en-GB": "/tɹˈuː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/true__Adjective__1",
+        "sense": "concurring with a given set of facts",
+        "translations": "gerçek",
+        "score": 113.8
+      },
+      {
+        "entry": "eng/true__Adjective__1",
+        "sense": null,
+        "translations": "gerçek",
+        "score": 111.3
+      },
+      {
+        "entry": "eng/true__Adjective__1",
+        "sense": "state in Boolean logic that indicates an affirmative or positive result",
+        "translations": "doğru | gerçek",
+        "score": 100.2
+      },
+      {
+        "entry": "eng/true__Adjective__1",
+        "sense": "loyal, faithful",
+        "translations": "sadık",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "try-2807",
+    "headword": "try",
+    "lookupLemma": "try",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtɹaɪ/",
+      "en-GB": "/tɹˈaɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/try__Verb__1",
+        "sense": "to attempt",
+        "translations": "denemek | çalışmak | teşebbüs etmek",
+        "score": 113.5
+      },
+      {
+        "entry": "eng/try__Noun__1",
+        "sense": "an act of tasting or sampling",
+        "translations": "denemek",
+        "score": 100
+      },
+      {
+        "entry": "eng/try__Noun__1",
+        "sense": "an attempt",
+        "translations": "girişim",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "t-shirt-2811",
+    "headword": "T-shirt",
+    "lookupLemma": "T-shirt",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtiˌsɝt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/T-shirt__Noun__1",
+        "sense": "type of shirt",
+        "translations": "tişört",
+        "score": 151.1
+      }
+    ]
+  },
+  {
+    "id": "tuesday-2819",
+    "headword": "Tuesday",
+    "lookupLemma": "Tuesday",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtjuzˌdeɪ/, /ˈtuzˌdeɪ/, /ˈtuzdi/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/Tuesday__Noun__1",
+        "sense": "day of the week",
+        "translations": "salı",
+        "score": 210.0
+      },
+      {
+        "entry": "eng/Tuesday__Adverb__1",
+        "sense": "on Tuesday",
+        "translations": "salı",
+        "score": 120.0
+      }
+    ]
+  },
+  {
+    "id": "turn-2831",
+    "headword": "turn",
+    "lookupLemma": "turn",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtɝn/",
+      "en-GB": "/tˈɜːn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/turn__Verb__1",
+        "sense": null,
+        "translations": "dönmek | döndürmek",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/turn__Verb__1",
+        "sense": "intransitive: change one's direction of travel",
+        "translations": "dönmek",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/turn__Verb__1",
+        "sense": "reach a certain age",
+        "translations": "doldurmak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/turn__Noun__1",
+        "sense": null,
+        "translations": "tur",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/turn__Noun__1",
+        "sense": "chance to use (something) shared in sequence with others",
+        "translations": "keşik | nöbet | sıra",
+        "score": 100
+      },
+      {
+        "entry": "eng/turn__Noun__1",
+        "sense": "one's chance to make a move in a game",
+        "translations": "sıra",
+        "score": 100
+      },
+      {
+        "entry": "eng/turn__Verb__1",
+        "sense": "become",
+        "translations": "dönmek",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "tv-2835",
+    "headword": "TV",
+    "lookupLemma": "TV",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtiˈvi/, /ˌtɛɫəˈvɪʒən/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/TV__Noun__1",
+        "sense": "abbreviation for television",
+        "translations": "TV",
+        "score": 110.0
+      }
+    ]
+  },
+  {
+    "id": "twelve-2839",
+    "headword": "twelve",
+    "lookupLemma": "twelve",
+    "pos": "number",
+    "senses": [
+      {
+        "partOfSpeech": "number",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtwɛɫv/",
+      "en-GB": "/twˈɛlv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/twelve__Numeral__1",
+        "sense": "cardinal number 12",
+        "translations": "on iki",
+        "score": 160.0
+      }
+    ]
+  },
+  {
+    "id": "twenty-2843",
+    "headword": "twenty",
+    "lookupLemma": "twenty",
+    "pos": "number",
+    "senses": [
+      {
+        "partOfSpeech": "number",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtwɛni/, /ˈtwɛnti/",
+      "en-GB": "/twˈɛnti/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/twenty__Numeral__1",
+        "sense": "cardinal number",
+        "translations": "yirmi",
+        "score": 220.0
+      },
+      {
+        "entry": "eng/twenty__Noun__1",
+        "sense": "a banknote with a denomination of 20",
+        "translations": "yirmilik",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "twice-2847",
+    "headword": "twice",
+    "lookupLemma": "twice",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtwaɪs/",
+      "en-GB": "/twˈaɪs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/twice__Adverb__1",
+        "sense": "two times",
+        "translations": "iki kez",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "id": "two-2855",
+    "headword": "two",
+    "lookupLemma": "two",
+    "pos": "number",
+    "senses": [
+      {
+        "partOfSpeech": "number",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtu/",
+      "en-GB": "/tˈuː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/two__Numeral__1",
+        "sense": "cardinal number 2",
+        "translations": "iki",
+        "score": 222.5
+      },
+      {
+        "entry": "eng/two__Noun__1",
+        "sense": "digit or figure",
+        "translations": "iki",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "id": "type-2859",
+    "headword": "type",
+    "lookupLemma": "type",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈtaɪp/",
+      "en-GB": "/tˈaɪp/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/type__Noun__1",
+        "sense": null,
+        "translations": "tip | tür",
+        "score": 115.0
+      },
+      {
+        "entry": "eng/type__Verb__1",
+        "sense": "to enter characters into a computer using keyboard",
+        "translations": "tuşlamak",
+        "score": 100
+      },
+      {
+        "entry": "eng/type__Verb__1",
+        "sense": "to use a typewriter",
+        "translations": "tuşlamak",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "umbrella-2883",
+    "headword": "umbrella",
+    "lookupLemma": "umbrella",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈəmˌbɹɛɫə/, /əmˈbɹɛɫə/",
+      "en-GB": "/ʌmbɹˈɛlɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/umbrella__Noun__1",
+        "sense": null,
+        "translations": "şemsiye | güncek",
+        "score": 182.5
+      }
+    ]
+  },
+  {
+    "id": "uncle-2891",
+    "headword": "uncle",
+    "lookupLemma": "uncle",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈəŋkəɫ/",
+      "en-GB": "/ˈʌŋkəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/uncle__Noun__1",
+        "sense": "brother (or brother-in-law) of someone’s parent",
+        "translations": "amca | dayı | enişte",
+        "score": 165.0
+      }
+    ]
+  },
+  {
+    "id": "under-2903",
+    "headword": "under",
+    "lookupLemma": "under",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep., adv.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈəndɝ/",
+      "en-GB": "/ˈʌndɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/under__Preposition__1",
+        "sense": "at a lower level than",
+        "translations": "altında",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/under__Preposition__1",
+        "sense": "beneath the surface of",
+        "translations": "altında",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/under__Preposition__1",
+        "sense": null,
+        "translations": "altında",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "understand-2911",
+    "headword": "understand",
+    "lookupLemma": "understand",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˌəndɝˈstænd/",
+      "en-GB": "/ˌʌndəstˈænd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/understand__Verb__1",
+        "sense": "to grasp the meaning of",
+        "translations": "anlamak",
+        "score": 127.1
+      }
+    ]
+  },
+  {
+    "id": "university-2971",
+    "headword": "university",
+    "lookupLemma": "university",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˌjunəˈvɝsəti/",
+      "en-GB": "/jˌuːnɪvˈɜːsɪtˌi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/university__Noun__1",
+        "sense": "institution of higher education",
+        "translations": "üniversite | darülfünun",
+        "score": 193.6
+      }
+    ]
+  },
+  {
+    "id": "until-2994",
+    "headword": "until",
+    "lookupLemma": "until",
+    "pos": "conj.",
+    "senses": [
+      {
+        "partOfSpeech": "conj./prep.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ənˈtɪɫ/",
+      "en-GB": "/ʌntˈɪl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/until__Preposition__1",
+        "sense": "up to the time of",
+        "translations": "kadar | dek",
+        "score": 101.1
+      }
+    ]
+  },
+  {
+    "id": "up-2768",
+    "headword": "up",
+    "lookupLemma": "up",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv., prep.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈəp/",
+      "en-GB": "/ˈʌp/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/up__Adverb__1",
+        "sense": "away from earth’s surface",
+        "translations": "yukarı | yukarıya",
+        "score": 101.1
+      }
+    ]
+  },
+  {
+    "id": "upstairs-2788",
+    "headword": "upstairs",
+    "lookupLemma": "upstairs",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "adj.",
+        "level": "A2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/əpˈstɛɹz/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/upstairs__Adverb__1",
+        "sense": "up the stairs; on or to a higher floor or level",
+        "translations": "yukarıda",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "id": "us-2804",
+    "headword": "us",
+    "lookupLemma": "us",
+    "pos": "pron.",
+    "senses": [
+      {
+        "partOfSpeech": "pron.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈəs/, /ˌjuˈɛs/",
+      "en-GB": "/ˈʌs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/us__Pronoun__1",
+        "sense": "objective case of \"we\"",
+        "translations": "biz",
+        "score": 12.5
+      },
+      {
+        "entry": "eng/us__Pronoun__1",
+        "sense": "colloquial: me",
+        "translations": "bana",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "id": "use-2808",
+    "headword": "use",
+    "lookupLemma": "use",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈjus/, /ˈjuz/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/use__Verb__1",
+        "sense": "employ, apply",
+        "translations": "kullanmak",
+        "score": 153.1
+      },
+      {
+        "entry": "eng/use__Noun__1",
+        "sense": null,
+        "translations": "kullanma | kullanım | kullanış",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/use__Noun__1",
+        "sense": "usefulness",
+        "translations": "fayda | yarar",
+        "score": 100.6
+      },
+      {
+        "entry": "eng/use__Noun__1",
+        "sense": "function",
+        "translations": "kullanış",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "useful-2824",
+    "headword": "useful",
+    "lookupLemma": "useful",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈjusfəɫ/",
+      "en-GB": "/jˈuːsfəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/useful__Adjective__1",
+        "sense": null,
+        "translations": "faydalı | yararlı",
+        "score": 110.6
+      }
+    ]
+  },
+  {
+    "id": "usually-2836",
+    "headword": "usually",
+    "lookupLemma": "usually",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈjuʒəɫi/, /ˈjuʒəwəɫi/",
+      "en-GB": "/jˈuːʒuːəli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/usually__Adverb__1",
+        "sense": "most of the time",
+        "translations": "genelde | genellikle",
+        "score": 100.0
+      }
+    ]
+  },
+  {
+    "id": "vacation-2840",
+    "headword": "vacation",
+    "lookupLemma": "vacation",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/veɪˈkeɪʃən/",
+      "en-GB": "/veɪkˈeɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/vacation__Noun__1",
+        "sense": null,
+        "translations": "tatil",
+        "score": 107.5
+      }
+    ]
+  },
+  {
+    "id": "vegetable-2876",
+    "headword": "vegetable",
+    "lookupLemma": "vegetable",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈvɛdʒtəbəɫ/",
+      "en-GB": "/vˈɛdʒɪtəbəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/vegetable__Noun__1",
+        "sense": "a plant raised for some edible part of it",
+        "translations": "sebze | zerzevat | göverti",
+        "score": 145.0
+      },
+      {
+        "entry": "eng/vegetable__Noun__1",
+        "sense": "any plant",
+        "translations": "bitki",
+        "score": 101.0
+      },
+      {
+        "entry": "eng/vegetable__Noun__1",
+        "sense": "a person whose brain has been damaged",
+        "translations": "bitki | sebze",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/vegetable__Noun__1",
+        "sense": "edible part of such a plant",
+        "translations": "et | sebze",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "very-2892",
+    "headword": "very",
+    "lookupLemma": "very",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "adj.",
+        "level": "B2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈvɛɹi/",
+      "en-GB": "/vˈɛɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/very__Adverb__1",
+        "sense": "to a high degree",
+        "translations": "çok | pek",
+        "score": 117.8
+      },
+      {
+        "entry": "eng/very__Adverb__1",
+        "sense": null,
+        "translations": "tam",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "video-2908",
+    "headword": "video",
+    "lookupLemma": "video",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈvɪdioʊ/",
+      "en-GB": "/vˈɪdɪəʊ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/video__Noun__1",
+        "sense": "television show, movie",
+        "translations": "video",
+        "score": 125.0
+      },
+      {
+        "entry": "eng/video__Noun__1",
+        "sense": "motion picture stored on VHS",
+        "translations": "video | görüntü",
+        "score": 115.0
+      },
+      {
+        "entry": "eng/video__Noun__1",
+        "sense": "VHS",
+        "translations": "videokaset",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "village-2920",
+    "headword": "village",
+    "lookupLemma": "village",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈvɪɫədʒ/, /ˈvɪɫɪdʒ/",
+      "en-GB": "/vˈɪlɪdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/village__Noun__1",
+        "sense": "a rural habitation of size between a hamlet and a town",
+        "translations": "köy | nahiye",
+        "score": 152.5
+      }
+    ]
+  },
+  {
+    "id": "visit-2944",
+    "headword": "visit",
+    "lookupLemma": "visit",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈvɪzɪt/",
+      "en-GB": "/vˈɪzɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/visit__Verb__1",
+        "sense": "to go and meet (someone)",
+        "translations": "ziyaret etmek",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/visit__Noun__1",
+        "sense": null,
+        "translations": "ziyaret",
+        "score": 110.6
+      }
+    ]
+  },
+  {
+    "id": "visitor-2948",
+    "headword": "visitor",
+    "lookupLemma": "visitor",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈvɪzɪtɝ/",
+      "en-GB": "/vˈɪzɪtɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/visitor__Noun__1",
+        "sense": "guest",
+        "translations": "konuk | ziyaretçi",
+        "score": 100.4
+      }
+    ]
+  },
+  {
+    "id": "wait-2983",
+    "headword": "wait",
+    "lookupLemma": "wait",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈweɪt/",
+      "en-GB": "/wˈeɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wait__Verb__1",
+        "sense": "delay until some event",
+        "translations": "beklemek",
+        "score": 148.3
+      }
+    ]
+  },
+  {
+    "id": "waiter-2986",
+    "headword": "waiter",
+    "lookupLemma": "waiter",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈweɪtɝ/",
+      "en-GB": "/wˈeɪtɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/waiter__Noun__1",
+        "sense": "a server in a restaurant or similar",
+        "translations": "garson",
+        "score": 126.1
+      }
+    ]
+  },
+  {
+    "id": "wake-2989",
+    "headword": "wake",
+    "lookupLemma": "wake",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈweɪk/",
+      "en-GB": "/wˈeɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wake__Verb__1",
+        "sense": "to make somebody stop sleeping",
+        "translations": "uyandırmak | kaldırmak",
+        "score": 100.6
+      },
+      {
+        "entry": "eng/wake__Verb__1",
+        "sense": "to stop sleeping",
+        "translations": "uyanmak",
+        "score": 100.0
+      }
+    ]
+  },
+  {
+    "id": "walk-2992",
+    "headword": "walk",
+    "lookupLemma": "walk",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɑk/, /ˈwɔk/",
+      "en-GB": "/wˈɔːk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/walk__Verb__1",
+        "sense": "to move on the feet",
+        "translations": "yürümek",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/walk__Noun__1",
+        "sense": "trip made by walking",
+        "translations": "yürüyüş | gezinti | gezme",
+        "score": 111.0
+      },
+      {
+        "entry": "eng/walk__Verb__1",
+        "sense": "to take for a walk or accompany",
+        "translations": "gezdirmek | yürüyüşe çıkarmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/walk__Verb__1",
+        "sense": "to travel a distance by walking",
+        "translations": "yürümek",
+        "score": 50.0
+      }
+    ]
+  },
+  {
+    "id": "wall-2995",
+    "headword": "wall",
+    "lookupLemma": "wall",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɔɫ/",
+      "en-GB": "/wˈɔːl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wall__Noun__1",
+        "sense": "substantial structure acting as side or division in a building",
+        "translations": "duvar | sur",
+        "score": 190.0
+      },
+      {
+        "entry": "eng/wall__Noun__1",
+        "sense": "structure built for defense surrounding an area",
+        "translations": "duvar | sur",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/wall__Noun__1",
+        "sense": "defensive rampart",
+        "translations": "sur | duvar",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/wall__Noun__1",
+        "sense": "anatomy, zoology, botany: divisive or containing structure",
+        "translations": "duvar",
+        "score": 60.0
+      },
+      {
+        "entry": "eng/wall__Noun__1",
+        "sense": "soccer: line of defenders",
+        "translations": "duvar | sur",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "id": "want-2765",
+    "headword": "want",
+    "lookupLemma": "want",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɑnt/, /ˈwɔnt/",
+      "en-GB": "/wˈɒnt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/want__Verb__1",
+        "sense": "to desire",
+        "translations": "istemek",
+        "score": 147.7
+      },
+      {
+        "entry": "eng/want__Noun__1",
+        "sense": "desire, wish, longing",
+        "translations": "istek",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "warm-2773",
+    "headword": "warm",
+    "lookupLemma": "warm",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɔɹm/",
+      "en-GB": "/wˈɔːm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/warm__Adjective__1",
+        "sense": null,
+        "translations": "ılık | sıcak",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/warm__Adjective__1",
+        "sense": "being something that causes warmth",
+        "translations": "ılık | sıcak",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/warm__Adjective__1",
+        "sense": "caring, of relation to another person",
+        "translations": "sıcak | ılık",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "id": "wash-2785",
+    "headword": "wash",
+    "lookupLemma": "wash",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɑʃ/",
+      "en-GB": "/wˈɒʃ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wash__Verb__1",
+        "sense": null,
+        "translations": "yıkamak | yumak",
+        "score": 132.2
+      }
+    ]
+  },
+  {
+    "id": "watch-2797",
+    "headword": "watch",
+    "lookupLemma": "watch",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɑtʃ/, /ˈwɔtʃ/",
+      "en-GB": "/wˈɒtʃ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/watch__Noun__1",
+        "sense": null,
+        "translations": "saat | kol saatı",
+        "score": 117.2
+      },
+      {
+        "entry": "eng/watch__Verb__1",
+        "sense": null,
+        "translations": "izlemek | seyretmek | bakmak | gözlemlemek | göz kulak olmak | gözetmek",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/watch__Noun__1",
+        "sense": "person or group of people who guard",
+        "translations": "bekçi | nöbetçi",
+        "score": 100.1
+      },
+      {
+        "entry": "eng/watch__Noun__1",
+        "sense": "particular time period",
+        "translations": "nöbet",
+        "score": 100
+      },
+      {
+        "entry": "eng/watch__Verb__1",
+        "sense": "to be wary",
+        "translations": "dikkat etmek",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "water-2801",
+    "headword": "water",
+    "lookupLemma": "water",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɔtɝ/",
+      "en-GB": "/wˈɔːtɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/water__Noun__1",
+        "sense": "inorganic compound H₂O",
+        "translations": "su | ab",
+        "score": 240.0
+      },
+      {
+        "entry": "eng/water__Noun__1",
+        "sense": "one of the basic elements",
+        "translations": "su | ab",
+        "score": 210.0
+      },
+      {
+        "entry": "eng/water__Noun__1",
+        "sense": "serving of water",
+        "translations": "su",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/water__Verb__1",
+        "sense": "to pour water into the soil surrounding (plants)",
+        "translations": "sulamak",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/water__Noun__1",
+        "sense": "body of water, or specific part of it",
+        "translations": "karasuyu | su",
+        "score": 100
+      },
+      {
+        "entry": "eng/water__Noun__1",
+        "sense": "urine",
+        "translations": "idrar | sidik | çiş",
+        "score": 100
+      },
+      {
+        "entry": "eng/water__Verb__1",
+        "sense": "colloquial: to urinate",
+        "translations": "işemek | çiş yapmak",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/water__Verb__1",
+        "sense": "to fill with or secrete water",
+        "translations": "sulandırmak | sulanmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/water__Verb__1",
+        "sense": "to provide (animals) with water",
+        "translations": "su vermek",
+        "score": 100
+      }
+    ],
+    "existing": {
+      "translation": "su",
+      "ipa": "/ˈwɔːtə(r)/",
+      "example": "Drink more water.",
+      "exampleTr": "Daha fazla su iç.",
+      "approxTr": "voo-tır",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/ˈwɔːtər/",
+          "approxTr": "voo-tır"
+        },
+        "en-GB": {
+          "ipa": "/ˈwɔːtə/",
+          "approxTr": "voo-tı"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "way-2809",
+    "headword": "way",
+    "lookupLemma": "way",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "adv.",
+        "level": "B2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈweɪ/",
+      "en-GB": "/wˈeɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/way__Noun__1",
+        "sense": "road, direction, path",
+        "translations": "yol",
+        "score": 117.0
+      },
+      {
+        "entry": "eng/way__Noun__1",
+        "sense": "method or manner",
+        "translations": "yol",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/way__Noun__1",
+        "sense": "possibility",
+        "translations": "imkan | mümkünat",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "we-2813",
+    "headword": "we",
+    "lookupLemma": "we",
+    "pos": "pron.",
+    "senses": [
+      {
+        "partOfSpeech": "pron.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwi/",
+      "en-GB": "/wˈiː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/we__Pronoun__1",
+        "sense": "generic we (the speaker and at least one other person, regardless of whether it's the person being addressed)",
+        "translations": "biz",
+        "score": 182.5
+      },
+      {
+        "entry": "eng/we__Pronoun__1",
+        "sense": "items to check for clusivity",
+        "translations": "ikimiz | üçümüz",
+        "score": 100
+      },
+      {
+        "entry": "eng/we__Pronoun__1",
+        "sense": "the royal we (referring to the sovereign alone acting in their capacity as monarch)",
+        "translations": "biz",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "id": "wear-2837",
+    "headword": "wear",
+    "lookupLemma": "wear",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɛɹ/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wear__Verb__1",
+        "sense": null,
+        "translations": "giymek | takmak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/wear__Noun__1",
+        "sense": "damage",
+        "translations": "yıpranma",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "weather-2841",
+    "headword": "weather",
+    "lookupLemma": "weather",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɛðɝ/",
+      "en-GB": "/wˈɛðɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/weather__Noun__1",
+        "sense": null,
+        "translations": "hava",
+        "score": 192.5
+      }
+    ]
+  },
+  {
+    "id": "website-2849",
+    "headword": "website",
+    "lookupLemma": "website",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɛbˌsaɪt/",
+      "en-GB": "/wˈɛbsaɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/website__Noun__1",
+        "sense": "a collection of pages on the World Wide Web",
+        "translations": "Web sitesi",
+        "score": 110.0
+      }
+    ]
+  },
+  {
+    "id": "wednesday-2857",
+    "headword": "Wednesday",
+    "lookupLemma": "Wednesday",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɛnzˌdeɪ/, /ˈwɛnzdi/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/Wednesday__Noun__1",
+        "sense": "day of the week",
+        "translations": "çarşamba | Çarşamba",
+        "score": 210.0
+      },
+      {
+        "entry": "eng/Wednesday__Adverb__1",
+        "sense": "on Wednesday",
+        "translations": "çarşamba",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "week-2861",
+    "headword": "week",
+    "lookupLemma": "week",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwik/",
+      "en-GB": "/wˈiːk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/week__Noun__1",
+        "sense": "period of seven days",
+        "translations": "hafta | yedil",
+        "score": 210.0
+      }
+    ]
+  },
+  {
+    "id": "weekend-2865",
+    "headword": "weekend",
+    "lookupLemma": "weekend",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwiˌkɛnd/, /ˈwiˌkɪnd/",
+      "en-GB": "/wiːkˈɛnd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/weekend__Noun__1",
+        "sense": "break in the working week",
+        "translations": "hafta sonu",
+        "score": 160.0
+      }
+    ]
+  },
+  {
+    "id": "welcome-2877",
+    "headword": "welcome",
+    "lookupLemma": "welcome",
+    "pos": "exclam.",
+    "senses": [
+      {
+        "partOfSpeech": "exclam., v., adj.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "A2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɛɫkəm/",
+      "en-GB": "/wˈɛlkʌm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/welcome__Interjection__1",
+        "sense": "greeting given upon someone's arrival",
+        "translations": "hoş geldiniz | hoş geldin",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/welcome__Adjective__1",
+        "sense": "whose arrival is a cause of joy",
+        "translations": "hoş geldiniz | hoş geldin",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/welcome__Verb__1",
+        "sense": "affirm or greet the arrival of someone",
+        "translations": "karşılamak",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/welcome__Noun__1",
+        "sense": "act of greeting someone's arrival",
+        "translations": "karşılama",
+        "score": 100
+      },
+      {
+        "entry": "eng/welcome__Noun__1",
+        "sense": "utterance of such a greeting",
+        "translations": "selamlama",
+        "score": 100
+      },
+      {
+        "entry": "eng/welcome__Verb__1",
+        "sense": "to accept willingly",
+        "translations": "memnuniyetle karşılamak",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "well-2881",
+    "headword": "well",
+    "lookupLemma": "well",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv., adj., exclam.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɛɫ/",
+      "en-GB": "/wˈɛl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/well__Noun__1",
+        "sense": "hole sunk into the ground",
+        "translations": "kuyu",
+        "score": 121.1
+      },
+      {
+        "entry": "eng/well__Adverb__1",
+        "sense": "accurately; competently",
+        "translations": "iyi | güzel",
+        "score": 121.0
+      },
+      {
+        "entry": "eng/well__Adjective__1",
+        "sense": "in good health",
+        "translations": "iyi",
+        "score": 111.0
+      },
+      {
+        "entry": "eng/well__Adverb__1",
+        "sense": "completely; fully",
+        "translations": "adamakıllı | güzelce | iyice",
+        "score": 100
+      },
+      {
+        "entry": "eng/well__Adverb__1",
+        "sense": "to a significant degree",
+        "translations": "epey | epeyce | epeyi | epeyice | hayli | oldukça",
+        "score": 100
+      },
+      {
+        "entry": "eng/well__Interjection__1",
+        "sense": null,
+        "translations": "bak | bak bak | bak sen",
+        "score": 100
+      },
+      {
+        "entry": "eng/well__Interjection__1",
+        "sense": "to acknowledge a statement or situation",
+        "translations": "pekala | peki | öyleyse",
+        "score": 100
+      },
+      {
+        "entry": "eng/well__Interjection__1",
+        "sense": "used in conversation to fill space",
+        "translations": "işte | şey",
+        "score": 100
+      },
+      {
+        "entry": "eng/well__Interjection__1",
+        "sense": "used to introduce a statement that may be contrary to expectations",
+        "translations": "işte | vallaha | yani | şey",
+        "score": 100
+      },
+      {
+        "entry": "eng/well__Noun__1",
+        "sense": "spring",
+        "translations": "kaynak | memba | pınar",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/well__Verb__1",
+        "sense": "to have something seep out of the surface",
+        "translations": "dolmak | taşmak",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "west-2885",
+    "headword": "west",
+    "lookupLemma": "west",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., adj., adv.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɛst/",
+      "en-GB": "/wˈɛst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/west__Noun__1",
+        "sense": "compass point",
+        "translations": "batı | garp",
+        "score": 161.0
+      },
+      {
+        "entry": "eng/west__Adjective__1",
+        "sense": null,
+        "translations": "batı",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "what-2897",
+    "headword": "what",
+    "lookupLemma": "what",
+    "pos": "pron.",
+    "senses": [
+      {
+        "partOfSpeech": "pron./det.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈhwət/, /ˈwət/",
+      "en-GB": "/wˈɒt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/what__Pronoun__1",
+        "sense": "what? (interrogative pronoun)",
+        "translations": "ne",
+        "score": 152.5
+      },
+      {
+        "entry": "eng/what__Determiner__1",
+        "sense": null,
+        "translations": "ne | ne kadar",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/what__Interjection__1",
+        "sense": "expression of surprise",
+        "translations": "ne",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/what__Pronoun__1",
+        "sense": "fused relative pronoun: that which; those that; the thing(s) that",
+        "translations": "ne",
+        "score": 40.0
+      },
+      {
+        "entry": "eng/what__Pronoun__1",
+        "sense": "nonstandard relative pronoun",
+        "translations": "ne",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "id": "when-2909",
+    "headword": "when",
+    "lookupLemma": "when",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv., pron., conj.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈhwɛn/, /ˈhwɪn/, /ˈwɛn/, /ˈwɪn/",
+      "en-GB": "/wˈɛn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/when__Adverb__1",
+        "sense": "at what time, as a direct question",
+        "translations": "ne zaman",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/when__Adverb__1",
+        "sense": "at what time, as an indirect question",
+        "translations": "ne zaman",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/when__Pronoun__1",
+        "sense": "what time; which time",
+        "translations": "ne zaman",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/when__Conjunction__1",
+        "sense": "as soon as, at the time that",
+        "translations": "ne zaman",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/when__Conjunction__1",
+        "sense": "at what time; at which time",
+        "translations": "ne zaman",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/when__Noun__1",
+        "sense": "the time",
+        "translations": "ne zaman",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "id": "where-2917",
+    "headword": "where",
+    "lookupLemma": "where",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv., conj.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈhwɛɹ/, /ˈwɛɹ/",
+      "en-GB": "/wˈeə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/where__Adverb__1",
+        "sense": "at or in what place",
+        "translations": "nerede",
+        "score": 170.0
+      },
+      {
+        "entry": "eng/where__Adverb__1",
+        "sense": "at what place; to what place; from what place",
+        "translations": "nerede | hani",
+        "score": 170.0
+      },
+      {
+        "entry": "eng/where__Adverb__1",
+        "sense": "at or in which place",
+        "translations": "nerede",
+        "score": 160.0
+      },
+      {
+        "entry": "eng/where__Adverb__1",
+        "sense": "the place in which",
+        "translations": "nerede",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/where__Adverb__1",
+        "sense": "to what place",
+        "translations": "nereye",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/where__Adverb__1",
+        "sense": "to which place or situation",
+        "translations": "nereye",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/where__Adverb__1",
+        "sense": "in what situation",
+        "translations": "nerede",
+        "score": 60.0
+      },
+      {
+        "entry": "eng/where__Adverb__1",
+        "sense": "legal: in the situation in which",
+        "translations": "nerede",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/where__Noun__1",
+        "sense": "the place in which something happens",
+        "translations": "nerede",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "id": "which-2933",
+    "headword": "which",
+    "lookupLemma": "which",
+    "pos": "pron.",
+    "senses": [
+      {
+        "partOfSpeech": "pron./det.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈhwɪtʃ/, /ˈwɪtʃ/",
+      "en-GB": "/wˈɪtʃ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/which__Determiner__1",
+        "sense": "(interrogative) what, of those mentioned or implied",
+        "translations": "hangi",
+        "score": 101.1
+      }
+    ]
+  },
+  {
+    "id": "white-2945",
+    "headword": "white",
+    "lookupLemma": "white",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈhwaɪt/, /ˈwaɪt/",
+      "en-GB": "/wˈaɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/white__Adjective__1",
+        "sense": "bright and colourless",
+        "translations": "beyaz | ak",
+        "score": 200.0
+      },
+      {
+        "entry": "eng/white__Adjective__1",
+        "sense": null,
+        "translations": "beyaz | ak",
+        "score": 180.0
+      },
+      {
+        "entry": "eng/white__Noun__1",
+        "sense": "color",
+        "translations": "beyaz | ak",
+        "score": 172.5
+      },
+      {
+        "entry": "eng/white__Noun__1",
+        "sense": "person of European descent",
+        "translations": "beyaz | ak",
+        "score": 160.0
+      },
+      {
+        "entry": "eng/white__Noun__1",
+        "sense": "white of the eye",
+        "translations": "göz akı | ak",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/white__Adjective__1",
+        "sense": "board games: deemed to belong to the white set",
+        "translations": "ak | beyaz",
+        "score": 40.0
+      },
+      {
+        "entry": "eng/white__Adjective__1",
+        "sense": "politics: anti-revolutionary",
+        "translations": "ak | beyaz",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/white__Adjective__1",
+        "sense": "designated for use by Caucasians",
+        "translations": "ak | beyaz",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/white__Adjective__1",
+        "sense": "pale or pallid",
+        "translations": "ak | beyaz",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "id": "who-2949",
+    "headword": "who",
+    "lookupLemma": "who",
+    "pos": "pron.",
+    "senses": [
+      {
+        "partOfSpeech": "pron.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈhu/",
+      "en-GB": "/hˈuː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/who__Pronoun__1",
+        "sense": "who? (interrogative pronoun)",
+        "translations": "kim",
+        "score": 150.0
+      }
+    ]
+  },
+  {
+    "id": "why-2965",
+    "headword": "why",
+    "lookupLemma": "why",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈhwaɪ/, /ˈwaɪ/",
+      "en-GB": "/wˈaɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/why__Adverb__1",
+        "sense": "(interrogative) for what reason",
+        "translations": "neden | niye | niçin",
+        "score": 120.4
+      }
+    ]
+  },
+  {
+    "id": "wife-2977",
+    "headword": "wife",
+    "lookupLemma": "wife",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwaɪf/",
+      "en-GB": "/wˈaɪf/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wife__Noun__1",
+        "sense": "female partner in a marriage",
+        "translations": "karı | eş | avrat",
+        "score": 162.5
+      }
+    ]
+  },
+  {
+    "id": "will-2987",
+    "headword": "will",
+    "lookupLemma": "will",
+    "pos": "modal v.",
+    "senses": [
+      {
+        "partOfSpeech": "modal v.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɪɫ/, /wəɫ/",
+      "en-GB": "/wˈɪl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/will__Noun__1",
+        "sense": "act of choosing to do something; conscious intent or volition",
+        "translations": "irade",
+        "score": 113.5
+      },
+      {
+        "entry": "eng/will__Noun__1",
+        "sense": "intention or decision",
+        "translations": "irade",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/will__Noun__1",
+        "sense": "one's independent faculty of choice",
+        "translations": "irade",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/will__Verb__1",
+        "sense": null,
+        "translations": "istek",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "win-2993",
+    "headword": "win",
+    "lookupLemma": "win",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɪn/",
+      "en-GB": "/wˈɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/win__Verb__1",
+        "sense": "intransitive: achieve by winning",
+        "translations": "kazanmak",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/win__Verb__1",
+        "sense": "transitive: achieve victory in",
+        "translations": "kazanmak | yenmek",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/win__Noun__1",
+        "sense": "individual victory",
+        "translations": "galibiyet",
+        "score": 106.0
+      },
+      {
+        "entry": "eng/win__Verb__1",
+        "sense": "obtain (someone) by wooing",
+        "translations": "kazanmak",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "id": "window-2770",
+    "headword": "window",
+    "lookupLemma": "window",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɪndoʊ/",
+      "en-GB": "/wˈɪndəʊ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/window__Noun__1",
+        "sense": "area on a computer screen",
+        "translations": "pencere",
+        "score": 212.5
+      },
+      {
+        "entry": "eng/window__Noun__1",
+        "sense": "opening for light and air",
+        "translations": "pencere | cam",
+        "score": 202.5
+      },
+      {
+        "entry": "eng/window__Noun__1",
+        "sense": null,
+        "translations": "pencere",
+        "score": 50.0
+      }
+    ]
+  },
+  {
+    "id": "wine-2774",
+    "headword": "wine",
+    "lookupLemma": "wine",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwaɪn/",
+      "en-GB": "/wˈaɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wine__Noun__1",
+        "sense": null,
+        "translations": "şarap | mey | içki | sücü | çakır",
+        "score": 190.0
+      },
+      {
+        "entry": "eng/wine__Noun__1",
+        "sense": "wine colour",
+        "translations": "bordo | koyu kırmızı | şarap rengi",
+        "score": 100
+      },
+      {
+        "entry": "eng/wine__Verb__1",
+        "sense": "drink wine",
+        "translations": "şarap içmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/wine__Noun__1",
+        "sense": "serving of wine",
+        "translations": "şarap",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "id": "winter-2786",
+    "headword": "winter",
+    "lookupLemma": "winter",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɪntɝ/",
+      "en-GB": "/wˈɪntɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/winter__Noun__1",
+        "sense": "fourth season, marked by short days and the lowest temperatures",
+        "translations": "kış",
+        "score": 250.0
+      },
+      {
+        "entry": "eng/winter__Verb__1",
+        "sense": "spend the winter, as in a particular place on holiday",
+        "translations": "kışlamak",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "with-2802",
+    "headword": "with",
+    "lookupLemma": "with",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɪð/, /ˈwɪθ/, /wɪð/, /wɪθ/",
+      "en-GB": "/wˈɪð/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/with__Preposition__1",
+        "sense": "in the company of",
+        "translations": "ile | -la | -le | -yla | -yle",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/with__Preposition__1",
+        "sense": "with",
+        "translations": "ile",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/with__Preposition__1",
+        "sense": null,
+        "translations": "ile | yanında",
+        "score": 100
+      },
+      {
+        "entry": "eng/with__Preposition__1",
+        "sense": "containing",
+        "translations": "-li | -lu | -lü | -lı",
+        "score": 100
+      },
+      {
+        "entry": "eng/with__Preposition__1",
+        "sense": "in addition to",
+        "translations": "-lı | ile",
+        "score": 100
+      },
+      {
+        "entry": "eng/with__Preposition__1",
+        "sense": "against",
+        "translations": "ile",
+        "score": 40.0
+      },
+      {
+        "entry": "eng/with__Preposition__1",
+        "sense": "as nourishment",
+        "translations": "ile",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/with__Preposition__1",
+        "sense": "by means of",
+        "translations": "ile",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/with__Preposition__1",
+        "sense": "expressing manner",
+        "translations": "ile",
+        "score": 30.0
+      },
+      {
+        "entry": "eng/with__Preposition__1",
+        "sense": "in support of",
+        "translations": "ile",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "id": "without-2810",
+    "headword": "without",
+    "lookupLemma": "without",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/wɪˈðaʊt/, /wɪˈθaʊt/",
+      "en-GB": "/wɪðˈaʊt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/without__Preposition__1",
+        "sense": "not having",
+        "translations": "-sız | -siz | -suz | -süz",
+        "score": 140.0
+      }
+    ]
+  },
+  {
+    "id": "woman-2818",
+    "headword": "woman",
+    "lookupLemma": "woman",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwʊmən/",
+      "en-GB": "/wˈʊmən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/woman__Noun__1",
+        "sense": "adult female person",
+        "translations": "kadın | bayan | karı | cıvır | gacı | hatun",
+        "score": 195.0
+      }
+    ]
+  },
+  {
+    "id": "wonderful-2826",
+    "headword": "wonderful",
+    "lookupLemma": "wonderful",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwəndɝfəɫ/",
+      "en-GB": "/wˈʌndəfəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wonderful__Adjective__1",
+        "sense": null,
+        "translations": "harika",
+        "score": 103.1
+      }
+    ]
+  },
+  {
+    "id": "word-2842",
+    "headword": "word",
+    "lookupLemma": "word",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɝd/",
+      "en-GB": "/wˈɜːd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/word__Noun__1",
+        "sense": "unit of language",
+        "translations": "kelime | sözcük | laf",
+        "score": 181.1
+      },
+      {
+        "entry": "eng/word__Noun__1",
+        "sense": "promise",
+        "translations": "kelime | sözcük",
+        "score": 50.0
+      },
+      {
+        "entry": "eng/word__Noun__1",
+        "sense": "computing: fixed-size group of bits handled as a unit",
+        "translations": "söz | kelime",
+        "score": 40.0
+      },
+      {
+        "entry": "eng/word__Noun__1",
+        "sense": "telegraphy: unit of text",
+        "translations": "kelime | söz",
+        "score": 20.0
+      }
+    ],
+    "existing": {
+      "translation": "kelime, sözcük",
+      "ipa": "/wɜːd/",
+      "example": "This word is new.",
+      "exampleTr": "Bu kelime yeni.",
+      "approxTr": "vörd",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/wɜːrd/",
+          "approxTr": "vörd"
+        },
+        "en-GB": {
+          "ipa": "/wɜːd/",
+          "approxTr": "vööd"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "work-2846",
+    "headword": "work",
+    "lookupLemma": "work",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɝk/",
+      "en-GB": "/wˈɜːk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/work__Noun__1",
+        "sense": "intransitive: to do a specific task",
+        "translations": "çalışmak",
+        "score": 162.5
+      },
+      {
+        "entry": "eng/work__Noun__1",
+        "sense": "labour, employment, occupation, job",
+        "translations": "iş | emek | meslek",
+        "score": 125.0
+      },
+      {
+        "entry": "eng/work__Noun__1",
+        "sense": "physics: measure of energy expended in moving an object",
+        "translations": "iş",
+        "score": 116.1
+      },
+      {
+        "entry": "eng/work__Noun__1",
+        "sense": "place where one is employed",
+        "translations": "iş",
+        "score": 113.6
+      },
+      {
+        "entry": "eng/work__Noun__1",
+        "sense": "literary, artistic, or intellectual production",
+        "translations": "eser | yapıt",
+        "score": 105.6
+      },
+      {
+        "entry": "eng/work__Noun__1",
+        "sense": "effort expended on a particular task",
+        "translations": "emek",
+        "score": 105.0
+      },
+      {
+        "entry": "eng/work__Noun__1",
+        "sense": "to shape, form, or improve a material",
+        "translations": "işlemek | çalışmak",
+        "score": 101
+      },
+      {
+        "entry": "eng/work__Noun__1",
+        "sense": null,
+        "translations": "iş görmek | işe yaramak | çalışmak | çalıştırmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/work__Noun__1",
+        "sense": "to cause to move or progress",
+        "translations": "işlemek",
+        "score": 100
+      },
+      {
+        "entry": "eng/work__Noun__1",
+        "sense": "to embroider with thread",
+        "translations": "işlemek",
+        "score": 100
+      },
+      {
+        "entry": "eng/work__Noun__1",
+        "sense": "to force to work",
+        "translations": "çalıştırmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/work__Noun__1",
+        "sense": "transitive: to operate in a certain place, area, or specialty",
+        "translations": "işletmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/work__Noun__1",
+        "sense": "thermodynamics: energy in transit between one form or repository and another",
+        "translations": "iş",
+        "score": 16.1
+      }
+    ],
+    "existing": {
+      "translation": "çalışmak; iş",
+      "ipa": "/wɜːk/",
+      "example": "I work at home.",
+      "exampleTr": "Evde çalışıyorum.",
+      "approxTr": "vörk",
+      "pronunciations": {
+        "en-US": {
+          "ipa": "/wɜːrk/",
+          "approxTr": "vörk"
+        },
+        "en-GB": {
+          "ipa": "/wɜːk/",
+          "approxTr": "vöök"
+        }
+      },
+      "topicTags": [
+        "pilot",
+        "daily-life"
+      ],
+      "reviewStatus": "draft",
+      "contentVersion": "2",
+      "sourceLevel": "A1",
+      "provenance": [
+        {
+          "source": "Legacy src/app.js ENRICHED",
+          "scope": "translation, legacy ipa, example, exampleTr",
+          "note": "Preserved prototype content; original dictionary source and reuse permission not established."
+        },
+        {
+          "source": "AI-assisted editorial draft, individually authored entries",
+          "scope": "en-US/en-GB IPA and Turkish approximate reading, topic tags",
+          "note": "Not dictionary-verified or human-reviewed. Linguistic/editorial review pending; no automatic letter substitution used."
+        }
+      ],
+      "approxDisclaimer": "Türkçe yaklaşık okunuş yalnızca yardımcı ipucudur; IPA veya ses kaydının yerine geçmez. Tireler kesin hece sınırı değildir. /æ/ Türkçe e ile a arasındadır; /ə/ tam bir ı değildir; /w/ Türkçe v değildir; /ŋ/ sonunda ayrı bir g söylenmez. İngilizce r, Türkçe r ile aynı değildir. İnceleme bekleyen taslaktır."
+    }
+  },
+  {
+    "id": "worker-2850",
+    "headword": "worker",
+    "lookupLemma": "worker",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɝkɝ/",
+      "en-GB": "/wˈɜːkɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/worker__Noun__1",
+        "sense": "person who performs labor",
+        "translations": "işçi | amele | emekçi | faale",
+        "score": 125.2
+      }
+    ]
+  },
+  {
+    "id": "world-2858",
+    "headword": "world",
+    "lookupLemma": "world",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwɝɫd/",
+      "en-GB": "/wˈɜːld/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/world__Noun__1",
+        "sense": "collective/subjective human experience",
+        "translations": "dünya | acun | alem | cihan | yeryüzü",
+        "score": 182.5
+      },
+      {
+        "entry": "eng/world__Noun__1",
+        "sense": "the Earth",
+        "translations": "dünya | Dünya | acun | âlem | yeryüzü | cihan",
+        "score": 172.5
+      },
+      {
+        "entry": "eng/world__Noun__1",
+        "sense": "inhabited planet",
+        "translations": "dünya",
+        "score": 162.5
+      },
+      {
+        "entry": "eng/world__Noun__1",
+        "sense": "individual or group perspective or social setting",
+        "translations": "dünya | âlem",
+        "score": 152.5
+      },
+      {
+        "entry": "eng/world__Noun__1",
+        "sense": "the universe",
+        "translations": "evren | dünya",
+        "score": 120.0
+      }
+    ]
+  },
+  {
+    "id": "would-2886",
+    "headword": "would",
+    "lookupLemma": "would",
+    "pos": "modal v.",
+    "senses": [
+      {
+        "partOfSpeech": "modal v.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈwʊd/",
+      "en-GB": "/wˈʊd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/would__Verb__1",
+        "sense": "used to express a polite request",
+        "translations": "güç",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "id": "write-2902",
+    "headword": "write",
+    "lookupLemma": "write",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɹaɪt/",
+      "en-GB": "/ɹˈaɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/write__Verb__1",
+        "sense": null,
+        "translations": "yazmak",
+        "score": 173.6
+      },
+      {
+        "entry": "eng/write__Verb__1",
+        "sense": "to be an author",
+        "translations": "yazmak",
+        "score": 61.1
+      },
+      {
+        "entry": "eng/write__Verb__1",
+        "sense": "to be the author of",
+        "translations": "yazmak",
+        "score": 61.1
+      },
+      {
+        "entry": "eng/write__Verb__1",
+        "sense": "record (data)",
+        "translations": "yazmak",
+        "score": 50.0
+      },
+      {
+        "entry": "eng/write__Verb__1",
+        "sense": "to send a letter to",
+        "translations": "yazmak",
+        "score": 50.0
+      },
+      {
+        "entry": "eng/write__Verb__1",
+        "sense": "to show (information)",
+        "translations": "yazmak",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "id": "writer-2906",
+    "headword": "writer",
+    "lookupLemma": "writer",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɹaɪtɝ/",
+      "en-GB": "/ɹˈaɪtɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/writer__Noun__1",
+        "sense": "person who writes; an author",
+        "translations": "yazar | müellif | yazıcı",
+        "score": 143.6
+      }
+    ]
+  },
+  {
+    "id": "writing-2910",
+    "headword": "writing",
+    "lookupLemma": "writing",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɹaɪtɪŋ/",
+      "en-GB": "/ɹˈaɪtɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/writing__Noun__1",
+        "sense": "written letters or symbols",
+        "translations": "yazı",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/writing__Noun__1",
+        "sense": "process of representing a language",
+        "translations": "yazı",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/writing__Noun__1",
+        "sense": "style of writing",
+        "translations": "yazı",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/writing__Noun__1",
+        "sense": "made for or used in writing",
+        "translations": "yazmalık",
+        "score": 100
+      },
+      {
+        "entry": "eng/writing__Noun__1",
+        "sense": "something written",
+        "translations": "yazı",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/writing__Noun__1",
+        "sense": "work of an author",
+        "translations": "yazı",
+        "score": 100.0
+      }
+    ]
+  },
+  {
+    "id": "wrong-2918",
+    "headword": "wrong",
+    "lookupLemma": "wrong",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈɹɔŋ/",
+      "en-GB": "/ɹˈɒŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/wrong__Adjective__1",
+        "sense": "incorrect",
+        "translations": "yanlış | hatalı",
+        "score": 102.8
+      },
+      {
+        "entry": "eng/wrong__Adjective__1",
+        "sense": "immoral",
+        "translations": "ahlaksız | kötü | yanlış",
+        "score": 100
+      },
+      {
+        "entry": "eng/wrong__Adjective__1",
+        "sense": "improper",
+        "translations": "uygunsuz | yanlış | yersiz",
+        "score": 100
+      },
+      {
+        "entry": "eng/wrong__Adjective__1",
+        "sense": "not working",
+        "translations": "bozuk | hatalı",
+        "score": 100
+      },
+      {
+        "entry": "eng/wrong__Adverb__1",
+        "sense": "wrongly, incorrectly",
+        "translations": "yanlış",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "yeah-2926",
+    "headword": "yeah",
+    "lookupLemma": "yeah",
+    "pos": "exclam.",
+    "senses": [
+      {
+        "partOfSpeech": "exclam.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈjæ/",
+      "en-GB": "/jˈɛh/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/yeah__Particle__1",
+        "sense": "yes",
+        "translations": "evet",
+        "score": 1.7000000000000002
+      }
+    ]
+  },
+  {
+    "id": "year-2930",
+    "headword": "year",
+    "lookupLemma": "year",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈjɪɹ/",
+      "en-GB": "/jˈiə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/year__Noun__1",
+        "sense": "time it takes for the Earth to complete one revolution around the Sun",
+        "translations": "yıl | sene",
+        "score": 200.0
+      },
+      {
+        "entry": "eng/year__Noun__1",
+        "sense": "a period between set dates that mark a year",
+        "translations": "yıl | sene",
+        "score": 180.0
+      },
+      {
+        "entry": "eng/year__Noun__1",
+        "sense": "time it takes for any planetary body to make one revolution around another body",
+        "translations": "yıl | sene",
+        "score": 70.0
+      },
+      {
+        "entry": "eng/year__Noun__1",
+        "sense": "a scheduled part of a calendar year spent in a specific activity",
+        "translations": "yıl | sene",
+        "score": 60.0
+      },
+      {
+        "entry": "eng/year__Noun__1",
+        "sense": "a Julian year",
+        "translations": "yıl | sene",
+        "score": 40.0
+      },
+      {
+        "entry": "eng/year__Noun__1",
+        "sense": "a level or grade at school or college",
+        "translations": "sene | yıl",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "id": "yellow-2934",
+    "headword": "yellow",
+    "lookupLemma": "yellow",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈjɛɫoʊ/",
+      "en-GB": "/jˈɛləʊ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/yellow__Adjective__1",
+        "sense": "having yellow as its color",
+        "translations": "sarı",
+        "score": 222.5
+      },
+      {
+        "entry": "eng/yellow__Noun__1",
+        "sense": "color",
+        "translations": "sarı",
+        "score": 212.5
+      },
+      {
+        "entry": "eng/yellow__Adjective__1",
+        "sense": "lacking courage",
+        "translations": "korkak",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/yellow__Verb__1",
+        "sense": "to become yellow or more yellow",
+        "translations": "sararmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/yellow__Verb__1",
+        "sense": "to cause to become yellow or more yellow",
+        "translations": "sarartmak",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "yes-2938",
+    "headword": "yes",
+    "lookupLemma": "yes",
+    "pos": "exclam.",
+    "senses": [
+      {
+        "partOfSpeech": "exclam.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈjɛs/",
+      "en-GB": "/jˈɛs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/yes__Particle__1",
+        "sense": "word used to indicate agreement or acceptance",
+        "translations": "evet | ha | he",
+        "score": 183.5
+      },
+      {
+        "entry": "eng/yes__Interjection__1",
+        "sense": "expression of pleasure, joy or great excitement",
+        "translations": "evet",
+        "score": 132.9
+      },
+      {
+        "entry": "eng/yes__Noun__1",
+        "sense": "answer that shows agreement or acceptance",
+        "translations": "evet",
+        "score": 52.8
+      },
+      {
+        "entry": "eng/yes__Noun__1",
+        "sense": "vote of support",
+        "translations": "evet",
+        "score": 22.8
+      },
+      {
+        "entry": "eng/yes__Particle__1",
+        "sense": "word used to indicate disagreement or dissent in reply to a negative statement",
+        "translations": "evet",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "id": "yesterday-2942",
+    "headword": "yesterday",
+    "lookupLemma": "yesterday",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv., n.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈjɛstɝˌdeɪ/, /ˈjɛstɝdi/",
+      "en-GB": "/jˈɛstədˌeɪ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/yesterday__Adverb__1",
+        "sense": "on the day before today",
+        "translations": "dün",
+        "score": 180.0
+      },
+      {
+        "entry": "eng/yesterday__Noun__1",
+        "sense": "day before today",
+        "translations": "dün",
+        "score": 170.0
+      },
+      {
+        "entry": "eng/yesterday__Noun__1",
+        "sense": "the recent past",
+        "translations": "dün",
+        "score": 110.0
+      }
+    ]
+  },
+  {
+    "id": "you-2950",
+    "headword": "you",
+    "lookupLemma": "you",
+    "pos": "pron.",
+    "senses": [
+      {
+        "partOfSpeech": "pron.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈju/",
+      "en-GB": "/jˈuː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/you__Pronoun__1",
+        "sense": "subject pronoun: the person being addressed",
+        "translations": "sen | siz",
+        "score": 145.0
+      },
+      {
+        "entry": "eng/you__Pronoun__1",
+        "sense": "subject pronoun: the group being addressed",
+        "translations": "siz | sizler",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/you__Pronoun__1",
+        "sense": "object pronoun: the person being addressed",
+        "translations": "seni | sizi",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/you__Pronoun__1",
+        "sense": "object pronoun: the group being addressed",
+        "translations": "sizi | siz",
+        "score": 100
+      },
+      {
+        "entry": "eng/you__Determiner__1",
+        "sense": "the individual or group spoken/written to",
+        "translations": "sen | siz",
+        "score": 40.0
+      },
+      {
+        "entry": "eng/you__Determiner__1",
+        "sense": "used before epithets for emphasis",
+        "translations": "siz",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "id": "young-2954",
+    "headword": "young",
+    "lookupLemma": "young",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "A1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈjəŋ/",
+      "en-GB": "/jˈʌŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/young__Adjective__1",
+        "sense": "in the early part of life or growth",
+        "translations": "genç",
+        "score": 200.0
+      },
+      {
+        "entry": "eng/young__Adjective__1",
+        "sense": "as if young",
+        "translations": "genç",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/young__Adjective__1",
+        "sense": "belonging in the early part of life",
+        "translations": "gençlik",
+        "score": 100
+      }
+    ]
+  },
+  {
+    "id": "your-2958",
+    "headword": "your",
+    "lookupLemma": "your",
+    "pos": "det.",
+    "senses": [
+      {
+        "partOfSpeech": "det.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈjɔɹ/, /ˈjʊɹ/",
+      "en-GB": "/jˈɔː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/your__Determiner__1",
+        "sense": null,
+        "translations": "sizin",
+        "score": 117.5
+      },
+      {
+        "entry": "eng/your__Determiner__1",
+        "sense": "belonging to you (singular; one owner)",
+        "translations": "senin",
+        "score": 117.5
+      }
+    ]
+  },
+  {
+    "id": "yourself-2966",
+    "headword": "yourself",
+    "lookupLemma": "yourself",
+    "pos": "pron.",
+    "senses": [
+      {
+        "partOfSpeech": "pron.",
+        "level": "A1"
+      }
+    ],
+    "ipaCandidates": {
+      "en-US": "/ˈjɔɹsɛɫf/, /jɝˈsɛɫf/, /jʊɹˈsɛɫf/",
+      "en-GB": "/jɔːsˈɛlf/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/yourself__Pronoun__1",
+        "sense": "(reflexive) your own self",
+        "translations": "kendin",
+        "score": 100
+      }
+    ]
+  }
+]

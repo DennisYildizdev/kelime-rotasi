@@ -1,0 +1,1058 @@
+[
+  {
+    "sourceId": "nuclear-1852",
+    "headword": "nuclear",
+    "level": "B1",
+    "raw": "nuclear adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "nuclear",
+    "translationLookup": "nuclear",
+    "ipaCandidates": {
+      "en-US": "/ˈnukɫiɝ/",
+      "en-GB": "/njˈuːkliə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/nuclear__Adjective__1",
+        "sense": "involving nuclear energy",
+        "translations": "nükleer",
+        "score": 100
+      },
+      {
+        "entry": "eng/nuclear__Adjective__1",
+        "sense": "of a weapon: deriving its force from nuclear energy",
+        "translations": "nükleer",
+        "score": 100
+      },
+      {
+        "entry": "eng/nuclear__Adjective__1",
+        "sense": "pertaining to the nucleus of a cell",
+        "translations": "nükleer",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "obvious-1897",
+    "headword": "obvious",
+    "level": "B1",
+    "raw": "obvious adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "obvious",
+    "translationLookup": "obvious",
+    "ipaCandidates": {
+      "en-US": "/ˈɑbviəs/",
+      "en-GB": "/ˈɒbvɪəs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/obvious__Adjective__1",
+        "sense": "easily discovered or understood; self-explanatory",
+        "translations": "aşikar | belirgin | belli | açık | bariz | net",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "obviously-1901",
+    "headword": "obviously",
+    "level": "B1",
+    "raw": "obviously adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "obviously",
+    "translationLookup": "obviously",
+    "ipaCandidates": {
+      "en-US": "/ˈɑbviəsɫi/",
+      "en-GB": "/ˈɒbvɪəsli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/obviously__Adverb__1",
+        "sense": "in an obvious manner; clearly apparent",
+        "translations": "bariz | ortada",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "occasion-1905",
+    "headword": "occasion",
+    "level": "B1",
+    "raw": "occasion n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "occasion",
+    "translationLookup": "occasion",
+    "ipaCandidates": {
+      "en-US": "/əˈkeɪʒən/",
+      "en-GB": "/əkˈeɪʒən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/occasion__Noun__1",
+        "sense": "favorable opportunity",
+        "translations": "an",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/occasion__Noun__1",
+        "sense": "particular happening",
+        "translations": "an",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/occasion__Noun__1",
+        "sense": "occurrence which brings with it some unlooked-for event; motive, reason",
+        "translations": "fırsat",
+        "score": 1.1
+      },
+      {
+        "entry": "eng/occasion__Noun__1",
+        "sense": "need",
+        "translations": "ihtiyaç",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/occasion__Noun__1",
+        "sense": "reason or excuse; a motive; a persuasion",
+        "translations": "gaye",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/occasion__Noun__1",
+        "sense": "something which causes something else",
+        "translations": "neden",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/occasion__Noun__1",
+        "sense": "special event or function",
+        "translations": "fırsat",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/occasion__Noun__1",
+        "sense": "time when something happens",
+        "translations": "fırsat",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/occasion__Verb__1",
+        "sense": "give occasion to",
+        "translations": "neden olmak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "occur-1913",
+    "headword": "occur",
+    "level": "B1",
+    "raw": "occur v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "occur",
+    "translationLookup": "occur",
+    "ipaCandidates": {
+      "en-US": "/əˈkɝ/",
+      "en-GB": "/əkˈɜː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/occur__Verb__1",
+        "sense": null,
+        "translations": "olmak",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/occur__Verb__1",
+        "sense": "be present or found",
+        "translations": "hazır olmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/occur__Verb__1",
+        "sense": "meet or come to the mind",
+        "translations": "aklına gelmek | hatırlamak",
+        "score": 100
+      },
+      {
+        "entry": "eng/occur__Verb__1",
+        "sense": "present itself",
+        "translations": "olmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "odd-1653",
+    "headword": "odd",
+    "level": "B1",
+    "raw": "odd adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "odd",
+    "translationLookup": "odd",
+    "ipaCandidates": {
+      "en-US": "/ˈɑd/",
+      "en-GB": "/ˈɒd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/odd__Adjective__1",
+        "sense": "indivisible by two",
+        "translations": "tek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "official-1689",
+    "headword": "official",
+    "level": "B1",
+    "raw": "official adj. B1, n. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "official",
+    "translationLookup": "official",
+    "ipaCandidates": {
+      "en-US": "/əˈfɪʃəɫ/",
+      "en-GB": "/əfˈɪʃəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/official__Adjective__1",
+        "sense": "approved by authority",
+        "translations": "resmî",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/official__Adjective__1",
+        "sense": "relating to an office; especially, to a subordinate executive officer or attendant",
+        "translations": "resmî",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/official__Noun__1",
+        "sense": "office holder invested with powers and authorities",
+        "translations": "memur",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "old-fashioned-1713",
+    "headword": "old-fashioned",
+    "level": "B1",
+    "raw": "old-fashioned adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "old-fashioned",
+    "translationLookup": "old-fashioned",
+    "ipaCandidates": {
+      "en-US": "/ˌoʊɫdˈfæʃənd/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/old-fashioned__Adjective__1",
+        "sense": "outdated or no longer in vogue",
+        "translations": "eski moda | modası geçmiş",
+        "score": 100.6
+      },
+      {
+        "entry": "eng/old-fashioned__Adjective__1",
+        "sense": null,
+        "translations": "eski kafalı",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "operation-1757",
+    "headword": "operation",
+    "level": "B1",
+    "raw": "operation n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "operation",
+    "translationLookup": "operation",
+    "ipaCandidates": {
+      "en-US": "/ˌɑpɝˈeɪʃən/",
+      "en-GB": "/ˌɒpəɹˈeɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/operation__Noun__1",
+        "sense": "surgical procedure",
+        "translations": "operasyon | ameliyat | cerrahî müdahale",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/operation__Noun__1",
+        "sense": "procedure for generating a value from one or more other values",
+        "translations": "işlem",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/operation__Noun__1",
+        "sense": "military campaign",
+        "translations": "harekât",
+        "score": 101
+      },
+      {
+        "entry": "eng/operation__Noun__1",
+        "sense": "method by which a device performs its function",
+        "translations": "çalışma",
+        "score": 100
+      },
+      {
+        "entry": "eng/operation__Noun__1",
+        "sense": "method or practice by which actions are done",
+        "translations": "işleyiş | çalışma",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "organized-1821",
+    "headword": "organized",
+    "level": "B1",
+    "raw": "organized adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "organized",
+    "translationLookup": "organized",
+    "ipaCandidates": {
+      "en-US": "/ˈɔɹɡəˌnaɪzd/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/organized__Adjective__1",
+        "sense": "characterised by efficient organization",
+        "translations": "organize",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "organizer-1825",
+    "headword": "organizer",
+    "level": "B1",
+    "raw": "organizer n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "organizer",
+    "translationLookup": "organizer",
+    "ipaCandidates": {
+      "en-US": "/ˈɔɹɡəˌnaɪzɝ/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/organizer__Noun__1",
+        "sense": "person arranging public events",
+        "translations": "organizatör | düzenleyici | örgütleyici",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/organizer__Noun__1",
+        "sense": "hand-held micro-computer",
+        "translations": "elektronik ajanda",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "originally-1837",
+    "headword": "originally",
+    "level": "B1",
+    "raw": "originally adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "originally",
+    "translationLookup": "original",
+    "ipaCandidates": {
+      "en-US": "/ɝˈɪdʒənəɫi/, /ɝˈɪdʒnəɫi/",
+      "en-GB": "/əɹˈɪdʒɪnəli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/original__Adjective__1",
+        "sense": "first in a series",
+        "translations": "orijinal",
+        "score": 12.5
+      },
+      {
+        "entry": "eng/original__Adjective__1",
+        "sense": "pioneering",
+        "translations": "orijinal",
+        "score": 12.5
+      },
+      {
+        "entry": "eng/original__Adjective__1",
+        "sense": "fresh, different",
+        "translations": "eski",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/original__Adjective__1",
+        "sense": "newly created",
+        "translations": "eski",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/original__Adjective__1",
+        "sense": "relating to the origin or beginning",
+        "translations": "eski",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/original__Noun__1",
+        "sense": "object from which all later copies and variations are derived",
+        "translations": "eski",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/original__Adjective__1",
+        "sense": null,
+        "translations": "orijinal",
+        "score": 2.5
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "asıl",
+        "score": 2
+      },
+      {
+        "entry": "eng/original__Noun__1",
+        "sense": null,
+        "translations": "ibraz",
+        "score": 1
+      },
+      {
+        "entry": "eng/original__Noun__1",
+        "sense": "person with a unique and interesting personality and/or creative talent",
+        "translations": "yalnız",
+        "score": 0.0
+      }
+    ],
+    "externalEvidence": {
+      "headword": "originally",
+      "sourceUrl": "https://en.wiktionary.org/wiki/originally",
+      "note": "",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/əˈɹəd͡ʒ.ə.nə.li/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/originally"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "ought-1849",
+    "headword": "ought",
+    "level": "B1",
+    "raw": "ought modal v. B1",
+    "pos": "modal v.",
+    "senses": [
+      {
+        "partOfSpeech": "modal v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "ought",
+    "translationLookup": "ought",
+    "ipaCandidates": {
+      "en-US": "/ˈɔt/",
+      "en-GB": "/ˈɔːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/ought__Verb__2",
+        "sense": "indicating advisability or prudence",
+        "translations": "görev",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/ought__Verb__2",
+        "sense": "indicating desirability",
+        "translations": "görev",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/ought__Verb__2",
+        "sense": "indicating duty or obligation",
+        "translations": "gelmek",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/ought__Verb__2",
+        "sense": "indicating likelihood or probability",
+        "translations": "görev",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "ours-1856",
+    "headword": "ours",
+    "level": "B1",
+    "raw": "ours pron. B1",
+    "pos": "pron.",
+    "senses": [
+      {
+        "partOfSpeech": "pron.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "ours",
+    "translationLookup": "ours",
+    "ipaCandidates": {
+      "en-US": "/ˈaʊɝz/, /ˈaʊɹz/, /ˈɑɹz/",
+      "en-GB": "/ˈaʊəz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/ours__Pronoun__1",
+        "sense": "that which belongs to us",
+        "translations": "bizimki",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "outdoor-1872",
+    "headword": "outdoor",
+    "level": "B1",
+    "raw": "outdoor adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "outdoor",
+    "translationLookup": "outdoor",
+    "ipaCandidates": {
+      "en-US": "/ˈaʊtˌdɔɹ/",
+      "en-GB": "/aʊtdˈɔː/"
+    },
+    "dictionaryCandidates": [],
+    "externalEvidence": {
+      "headword": "outdoor",
+      "sourceUrl": "https://en.wiktionary.org/wiki/outdoor",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/aʊtˈdɔː/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/outdoor"
+        },
+        "en-GB": {
+          "ipa": "/aʊtˈdɔː/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/outdoor"
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "outdoors-1876",
+    "headword": "outdoors",
+    "level": "B1",
+    "raw": "outdoors adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "outdoors",
+    "translationLookup": "outdoors",
+    "ipaCandidates": {
+      "en-US": "/ˈaʊtˈdɔɹz/",
+      "en-GB": "/aʊtdˈɔːz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/outdoors__Adverb__1",
+        "sense": "in the open air",
+        "translations": "dışarı",
+        "score": 1.1
+      },
+      {
+        "entry": "eng/outdoors__Noun__1",
+        "sense": "environment outside of enclosed structures",
+        "translations": "doğa",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "package-1650",
+    "headword": "package",
+    "level": "B1",
+    "raw": "package n. B1, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "package",
+    "translationLookup": "package",
+    "ipaCandidates": {
+      "en-US": "/ˈpækədʒ/, /ˈpækɪdʒ/",
+      "en-GB": "/pˈækɪdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/package__Noun__1",
+        "sense": "something which is packed",
+        "translations": "paket",
+        "score": 112.2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "painful-1662",
+    "headword": "painful",
+    "level": "B1",
+    "raw": "painful adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "painful",
+    "translationLookup": "painful",
+    "ipaCandidates": {
+      "en-US": "/ˈpeɪnfəɫ/",
+      "en-GB": "/pˈeɪnfəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/painful__Adjective__1",
+        "sense": null,
+        "translations": "ağrılı",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "pale-1686",
+    "headword": "pale",
+    "level": "B1",
+    "raw": "pale adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "pale",
+    "translationLookup": "pale",
+    "ipaCandidates": {
+      "en-US": "/ˈpeɪɫ/",
+      "en-GB": "/pˈeɪl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/pale__Adjective__1",
+        "sense": "light in color",
+        "translations": "solgun",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/pale__Verb__1",
+        "sense": "to become pale",
+        "translations": "ağarmak",
+        "score": 1.1
+      },
+      {
+        "entry": "eng/pale__Adjective__1",
+        "sense": "having a pallor, of human skin",
+        "translations": "ak",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/pale__Noun__2",
+        "sense": "defensive area held in another country",
+        "translations": "üs",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/pale__Noun__2",
+        "sense": "fence made of wooden stakes",
+        "translations": "kazık duvar",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/pale__Noun__2",
+        "sense": "heraldry: vertical band",
+        "translations": "direk",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/pale__Noun__2",
+        "sense": "limits, bounds",
+        "translations": "kısıtlama",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/pale__Noun__2",
+        "sense": "wooden stake",
+        "translations": "lata",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "pan-1690",
+    "headword": "pan",
+    "level": "B1",
+    "raw": "pan n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "pan",
+    "translationLookup": "pan",
+    "ipaCandidates": {
+      "en-US": "/ˈpæn/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/pan__Noun__1",
+        "sense": "flat vessel used for cooking",
+        "translations": "tava",
+        "score": 117.2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "participate-1734",
+    "headword": "participate",
+    "level": "B1",
+    "raw": "participate v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "participate",
+    "translationLookup": "participate",
+    "ipaCandidates": {
+      "en-US": "/pɑɹˈtɪsəˌpeɪt/",
+      "en-GB": "/pɑːtˈɪsɪpˌeɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/participate__Verb__1",
+        "sense": "to join in, to take part, to involve oneself",
+        "translations": "katılmak | iştirak etmek",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "particularly-1742",
+    "headword": "particularly",
+    "level": "B1",
+    "raw": "particularly adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "particularly",
+    "translationLookup": "particularly",
+    "ipaCandidates": {
+      "en-US": "/ˌpɑɹˈtɪkjəɫɝɫi/, /pɝˈtɪkjəɫɝɫi/",
+      "en-GB": "/pətˈɪkjʊləli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "özellikle",
+        "score": 2
+      },
+      {
+        "entry": "eng/particularly__Adverb__1",
+        "sense": "especially",
+        "translations": "ayrı",
+        "score": 1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "passion-1770",
+    "headword": "passion",
+    "level": "B1",
+    "raw": "passion n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "passion",
+    "translationLookup": "passion",
+    "ipaCandidates": {
+      "en-US": "/ˈpæʃən/",
+      "en-GB": "/pˈæʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/passion__Noun__1",
+        "sense": "any great emotion",
+        "translations": "tutku | ihtiras",
+        "score": 123.5
+      },
+      {
+        "entry": "eng/passion__Noun__1",
+        "sense": "suffering of Jesus",
+        "translations": "çile",
+        "score": 100
+      },
+      {
+        "entry": "eng/passion__Noun__1",
+        "sense": "fervor, determination",
+        "translations": "tutku",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/passion__Noun__1",
+        "sense": "object of passionate love or strong interest",
+        "translations": "tutku",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "path-1782",
+    "headword": "path",
+    "level": "B1",
+    "raw": "path n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "path",
+    "translationLookup": "path",
+    "ipaCandidates": {
+      "en-US": "/ˈpæθ/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/path__Noun__1",
+        "sense": "a course taken",
+        "translations": "yol",
+        "score": 115.6
+      },
+      {
+        "entry": "eng/path__Noun__1",
+        "sense": null,
+        "translations": "yol | patika | çığır",
+        "score": 113.1
+      },
+      {
+        "entry": "eng/path__Noun__1",
+        "sense": "a metaphorical course",
+        "translations": "yol",
+        "score": 111.1
+      },
+      {
+        "entry": "eng/path__Noun__1",
+        "sense": "a method or direction of proceeding",
+        "translations": "yol",
+        "score": 111.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "payment-1798",
+    "headword": "payment",
+    "level": "B1",
+    "raw": "payment n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 7,
+    "displayWordHint": "payment",
+    "translationLookup": "payment",
+    "ipaCandidates": {
+      "en-US": "/ˈpeɪmənt/",
+      "en-GB": "/pˈeɪmənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/payment__Noun__1",
+        "sense": null,
+        "translations": "ödeme",
+        "score": 101
+      }
+    ],
+    "needsExternal": []
+  }
+]

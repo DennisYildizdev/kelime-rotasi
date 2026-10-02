@@ -1,0 +1,928 @@
+[
+  {
+    "sourceId": "expedition-834",
+    "headword": "expedition",
+    "level": "B1",
+    "raw": "expedition n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "expedition",
+    "translationLookup": "expedition",
+    "ipaCandidates": {
+      "en-US": "/ˌɛkspəˈdɪʃən/",
+      "en-GB": "/ˌɛkspədˈɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/expedition__Noun__1",
+        "sense": "An important enterprise, implying a change of place",
+        "translations": "sefer",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "experienced-850",
+    "headword": "experienced",
+    "level": "B1",
+    "raw": "experienced adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "experienced",
+    "translationLookup": "experienced",
+    "ipaCandidates": {
+      "en-US": "/ɪkˈspɪɹiənst/",
+      "en-GB": "/ɛkspˈiəɹɪənst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/experienced__Adjective__1",
+        "sense": "having experience",
+        "translations": "deneyimli",
+        "score": 12.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "explode-870",
+    "headword": "explode",
+    "level": "B1",
+    "raw": "explode v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "explode",
+    "translationLookup": "explode",
+    "ipaCandidates": {
+      "en-US": "/ɪksˈpɫoʊd/",
+      "en-GB": "/ɛksplˈəʊd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/explode__Verb__1",
+        "sense": null,
+        "translations": "patlamak",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "explore-878",
+    "headword": "explore",
+    "level": "B1",
+    "raw": "explore v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "explore",
+    "translationLookup": "explore",
+    "ipaCandidates": {
+      "en-US": "/ɪksˈpɫɔɹ/",
+      "en-GB": "/ɛksplˈɔː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/explore__Verb__1",
+        "sense": "to travel somewhere in search of discovery",
+        "translations": "keşfetmek",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/explore__Verb__1",
+        "sense": "to examine or investigate something systematically",
+        "translations": "araştırmak",
+        "score": 100.3
+      },
+      {
+        "entry": "eng/explore__Verb__1",
+        "sense": "to (seek) experience first hand",
+        "translations": "incelemek | tetkik etmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/explore__Verb__1",
+        "sense": "to examine diagnostically",
+        "translations": "muayene etmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "explosion-882",
+    "headword": "explosion",
+    "level": "B1",
+    "raw": "explosion n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "explosion",
+    "translationLookup": "explosion",
+    "ipaCandidates": {
+      "en-US": "/ɪksˈpɫoʊʒən/",
+      "en-GB": "/ɛksplˈəʊʒən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/explosion__Noun__1",
+        "sense": "violent release of energy",
+        "translations": "patlama",
+        "score": 151.7
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "export-886",
+    "headword": "export",
+    "level": "B1",
+    "raw": "export n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "export",
+    "translationLookup": "export",
+    "ipaCandidates": {
+      "en-US": "/ˈɛkspɔɹt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/export__Noun__1",
+        "sense": "the act of exporting",
+        "translations": "ihracat | ihraç",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "fairly-966",
+    "headword": "fairly",
+    "level": "B1",
+    "raw": "fairly adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "fairly",
+    "translationLookup": "fairly",
+    "ipaCandidates": {
+      "en-US": "/ˈfɛɹɫi/",
+      "en-GB": "/fˈeəli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/fairly__Adverb__1",
+        "sense": "partly, not fully; somewhat",
+        "translations": "yeterince",
+        "score": 0.6
+      },
+      {
+        "entry": "eng/fairly__Adverb__1",
+        "sense": "in a fair manner",
+        "translations": "adil",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "familiar-982",
+    "headword": "familiar",
+    "level": "B1",
+    "raw": "familiar adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "familiar",
+    "translationLookup": "familiar",
+    "ipaCandidates": {
+      "en-US": "/fəˈmɪɫjɝ/",
+      "en-GB": "/fəmˈɪliə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/familiar__Adjective__1",
+        "sense": "intimate or friendly",
+        "translations": "aşina",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/familiar__Adjective__1",
+        "sense": "known to one",
+        "translations": "aşina",
+        "score": 10.0
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "tanıdık",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "fancy-998",
+    "headword": "fancy",
+    "level": "B1",
+    "raw": "fancy v., adj. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "fancy",
+    "translationLookup": "fancy",
+    "ipaCandidates": {
+      "en-US": "/ˈfænsi/",
+      "en-GB": "/fˈænsi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/fancy__Noun__1",
+        "sense": "The imagination; the image-making power of the mind",
+        "translations": "yaratıcılık",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "fascinating-1022",
+    "headword": "fascinating",
+    "level": "B1",
+    "raw": "fascinating adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "fascinating",
+    "translationLookup": "fascinating",
+    "ipaCandidates": {
+      "en-US": "/ˈfæsəˌneɪtɪŋ/",
+      "en-GB": "/fˈæsɪnˌeɪtɪŋ/"
+    },
+    "dictionaryCandidates": [],
+    "externalEvidence": {
+      "headword": "fascinating",
+      "sourceUrl": "https://en.wiktionary.org/wiki/fascinating",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ˈfæsɪˌneɪtɪŋ/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/fascinating"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [
+          "büyüleyici",
+          "cezbedici",
+          "etkileyici",
+          "çekici"
+        ],
+        "sourceUrl": "https://en.wiktionary.org/wiki/fascinating#English"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "fashionable-1030",
+    "headword": "fashionable",
+    "level": "B1",
+    "raw": "fashionable adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "fashionable",
+    "translationLookup": "fashionable",
+    "ipaCandidates": {
+      "en-US": "/ˈfæʃənəbəɫ/, /ˈfæʃnəbəɫ/",
+      "en-GB": "/fˈæʃənəbəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/fashionable__Adjective__1",
+        "sense": null,
+        "translations": "moda",
+        "score": 1.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "fasten-1038",
+    "headword": "fasten",
+    "level": "B1",
+    "raw": "fasten v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "fasten",
+    "translationLookup": "fasten",
+    "ipaCandidates": {
+      "en-US": "/ˈfæsən/",
+      "en-GB": "/fˈɑːsən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/fasten__Verb__1",
+        "sense": "to attach or connect in a secure manner",
+        "translations": "bağlamak",
+        "score": 1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "favour-1054",
+    "headword": "favour",
+    "level": "B1",
+    "raw": "favour n. B1, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "favour",
+    "translationLookup": "favour",
+    "ipaCandidates": {
+      "en-US": "/ˈfeɪvɝ/",
+      "en-GB": "/fˈeɪvɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "hizmet",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "fence-827",
+    "headword": "fence",
+    "level": "B1",
+    "raw": "fence n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "fence",
+    "translationLookup": "fence",
+    "ipaCandidates": {
+      "en-US": "/ˈfɛns/",
+      "en-GB": "/fˈɛns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/fence__Noun__1",
+        "sense": "barrier",
+        "translations": "çit | duvar | çeper",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/fence__Verb__1",
+        "sense": "to enclose by building a fence",
+        "translations": "çitlemek",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/fence__Verb__1",
+        "sense": "to engage in (the sport) fencing",
+        "translations": "eskrim yapmak",
+        "score": 30.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "fighting-863",
+    "headword": "fighting",
+    "level": "B1",
+    "raw": "fighting n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "fighting",
+    "translationLookup": "fight",
+    "ipaCandidates": {
+      "en-US": "/ˈfaɪtɪŋ/",
+      "en-GB": "/fˈaɪtɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/fight__Verb__1",
+        "sense": "(intransitive) to contend in physical conflict",
+        "translations": "savaşmak | dövüşmek",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/fight__Noun__1",
+        "sense": "battle",
+        "translations": "savaş",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/fight__Noun__1",
+        "sense": "physical confrontation",
+        "translations": "dövüş",
+        "score": 100.0
+      }
+    ],
+    "externalEvidence": {
+      "headword": "fighting",
+      "sourceUrl": "https://en.wiktionary.org/wiki/fighting",
+      "note": "",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ˈfaɪ.tɪŋ/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/fighting"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "file-871",
+    "headword": "file",
+    "level": "B1",
+    "raw": "file n. B1, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "file",
+    "translationLookup": "file",
+    "ipaCandidates": {
+      "en-US": "/ˈfaɪɫ/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/file__Noun__1",
+        "sense": "computing, aggregation of data",
+        "translations": "dosya",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/file__Verb__3",
+        "sense": "smooth with a file",
+        "translations": "törpülemek",
+        "score": 122.5
+      },
+      {
+        "entry": "eng/file__Noun__1",
+        "sense": "collection of papers",
+        "translations": "dosya",
+        "score": 121.1
+      },
+      {
+        "entry": "eng/file__Noun__3",
+        "sense": null,
+        "translations": "eğe | törpü",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/file__Verb__1",
+        "sense": null,
+        "translations": "arşivlemek | başvuru yapmak | müracaat etmek",
+        "score": 100
+      },
+      {
+        "entry": "eng/file__Verb__1",
+        "sense": "intransitive: to make a formal request",
+        "translations": "başvurmak | müracaat etmek | talep etmek",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/file__Verb__1",
+        "sense": "to store computer data",
+        "translations": "saklamak",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "financial-895",
+    "headword": "financial",
+    "level": "B1",
+    "raw": "financial adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "financial",
+    "translationLookup": "financial",
+    "ipaCandidates": {
+      "en-US": "/ˌfaɪˈnænʃəɫ/, /fəˈnænʃəɫ/, /fɪˈnænʃəɫ/",
+      "en-GB": "/faɪnˈænʃəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/financial__Adjective__1",
+        "sense": null,
+        "translations": "finansal | mali",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "fitness-947",
+    "headword": "fitness",
+    "level": "B1",
+    "raw": "fitness n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "fitness",
+    "translationLookup": "fitness",
+    "ipaCandidates": {
+      "en-US": "/ˈfɪtnəs/",
+      "en-GB": "/fˈɪtnəs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/fitness__Noun__1",
+        "sense": null,
+        "translations": "fitness",
+        "score": 10.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "fixed-959",
+    "headword": "fixed",
+    "level": "B1",
+    "raw": "fixed adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "fixed",
+    "translationLookup": "fixed",
+    "ipaCandidates": {
+      "en-US": "/ˈfɪkst/",
+      "en-GB": "/fˈɪkst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/fixed__Adjective__1",
+        "sense": "not changing, not able to be changed, staying the same",
+        "translations": "değişmez | sabit",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "flag-963",
+    "headword": "flag",
+    "level": "B1",
+    "raw": "flag n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "flag",
+    "translationLookup": "flag",
+    "ipaCandidates": {
+      "en-US": "/ˈfɫæɡ/",
+      "en-GB": "/flˈæɡ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/flag__Noun__1",
+        "sense": "piece of cloth or often its representation",
+        "translations": "bayrak | sancak | liva",
+        "score": 174.3
+      },
+      {
+        "entry": "eng/flag__Noun__1",
+        "sense": "true-or-false variable",
+        "translations": "bayrak",
+        "score": 41.4
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "flood-991",
+    "headword": "flood",
+    "level": "B1",
+    "raw": "flood n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "flood",
+    "translationLookup": "flood",
+    "ipaCandidates": {
+      "en-US": "/ˈfɫəd/",
+      "en-GB": "/flˈʌd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/flood__Noun__1",
+        "sense": "overflow of water",
+        "translations": "sel | taşkın | seyelan | su taşkını",
+        "score": 130.4
+      },
+      {
+        "entry": "eng/flood__Verb__1",
+        "sense": "to overflow",
+        "translations": "taşmak",
+        "score": 110.3
+      },
+      {
+        "entry": "eng/flood__Noun__1",
+        "sense": "large number or quantity",
+        "translations": "sel",
+        "score": 20.4
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "flour-999",
+    "headword": "flour",
+    "level": "B1",
+    "raw": "flour n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "flour",
+    "translationLookup": "flour",
+    "ipaCandidates": {
+      "en-US": "/ˈfɫaʊɝ/, /ˈfɫaʊɹ/",
+      "en-GB": "/flˈaʊə/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/flour__Noun__1",
+        "sense": "ground cereal grains or other foodstuff",
+        "translations": "un",
+        "score": 162.5
+      },
+      {
+        "entry": "eng/flour__Verb__1",
+        "sense": null,
+        "translations": "unlamak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "flow-1003",
+    "headword": "flow",
+    "level": "B1",
+    "raw": "flow v., n. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "flow",
+    "translationLookup": "flow",
+    "ipaCandidates": {
+      "en-US": "/ˈfɫoʊ/",
+      "en-GB": "/flˈəʊ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/flow__Verb__1",
+        "sense": "to move as a fluid",
+        "translations": "akmak",
+        "score": 121.0
+      },
+      {
+        "entry": "eng/flow__Noun__1",
+        "sense": "the movement of a fluid",
+        "translations": "akış | seyelan",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/flow__Noun__1",
+        "sense": "the rising movement of the tide",
+        "translations": "met",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "fold-1027",
+    "headword": "fold",
+    "level": "B1",
+    "raw": "fold v. B1, n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "fold",
+    "translationLookup": "fold",
+    "ipaCandidates": {
+      "en-US": "/ˈfoʊɫd/",
+      "en-GB": "/fˈəʊld/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/fold__Verb__1",
+        "sense": null,
+        "translations": "katlamak",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/fold__Verb__1",
+        "sense": "make the proper arrangement (in a thin material) by bending",
+        "translations": "katlamak | bükmek",
+        "score": 112.5
+      },
+      {
+        "entry": "eng/fold__Noun__2",
+        "sense": "enclosure for domestic animals",
+        "translations": "ağıl",
+        "score": 105.0
+      },
+      {
+        "entry": "eng/fold__Noun__1",
+        "sense": null,
+        "translations": "kat",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "folk-1035",
+    "headword": "folk",
+    "level": "B1",
+    "raw": "folk n., adj. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "folk",
+    "translationLookup": "folk",
+    "ipaCandidates": {
+      "en-US": "/ˈfoʊk/",
+      "en-GB": "/fˈəʊk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/folk__Noun__1",
+        "sense": "inhabitants of a region",
+        "translations": "halk | millet | ulus",
+        "score": 105.0
+      }
+    ],
+    "needsExternal": []
+  }
+]

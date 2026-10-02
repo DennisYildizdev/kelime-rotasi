@@ -1,0 +1,3782 @@
+[
+  {
+    "sourceId": "childhood-467",
+    "headword": "childhood",
+    "level": "B1",
+    "raw": "childhood n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "childhood",
+    "translationLookup": "childhood",
+    "ipaCandidates": {
+      "en-US": "/ˈtʃaɪɫdˌhʊd/",
+      "en-GB": "/tʃˈaɪldhʊd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/childhood__Noun__1",
+        "sense": null,
+        "translations": "çocukluk",
+        "score": 131.0
+      },
+      {
+        "entry": "eng/childhood__Noun__1",
+        "sense": "state of being a child",
+        "translations": "çocukluk",
+        "score": 131.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "claim-523",
+    "headword": "claim",
+    "level": "B1",
+    "raw": "claim v., n. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "claim",
+    "translationLookup": "claim",
+    "ipaCandidates": {
+      "en-US": "/ˈkɫeɪm/",
+      "en-GB": "/klˈeɪm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/claim__Noun__1",
+        "sense": null,
+        "translations": "iddia",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/claim__Verb__1",
+        "sense": null,
+        "translations": "iddia etmek | öne sürmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "clause-264",
+    "headword": "clause",
+    "level": "B1",
+    "raw": "clause n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "clause",
+    "translationLookup": "clause",
+    "ipaCandidates": {
+      "en-US": "/ˈkɫɔz/",
+      "en-GB": "/klˈɔːz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/clause__Noun__1",
+        "sense": "grammar: verb along with a subject and modifiers",
+        "translations": "cümlecik",
+        "score": 100
+      },
+      {
+        "entry": "eng/clause__Noun__1",
+        "sense": "legal: separate part of a contract",
+        "translations": "ibare",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "click-284",
+    "headword": "click",
+    "level": "B1",
+    "raw": "click v., n. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "click",
+    "translationLookup": "click",
+    "ipaCandidates": {
+      "en-US": "/ˈkɫɪk/",
+      "en-GB": "/klˈɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/click__Verb__1",
+        "sense": "transitive: press and release (button on a mouse)",
+        "translations": "tıklamak",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/click__Verb__1",
+        "sense": "intransitive: click the left button of a mouse",
+        "translations": "tıklamak",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/click__Noun__1",
+        "sense": "act of pressing a button on a computer mouse",
+        "translations": "tık",
+        "score": 101
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "client-288",
+    "headword": "client",
+    "level": "B1",
+    "raw": "client n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "client",
+    "translationLookup": "client",
+    "ipaCandidates": {
+      "en-US": "/ˈkɫaɪənt/",
+      "en-GB": "/klˈaɪənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/client__Noun__1",
+        "sense": "a customer or receiver of services",
+        "translations": "müşteri | tüketici",
+        "score": 114.8
+      },
+      {
+        "entry": "eng/client__Noun__1",
+        "sense": "person who receives help or advice from a professional person",
+        "translations": "müvekkil",
+        "score": 111.2
+      },
+      {
+        "entry": "eng/client__Noun__1",
+        "sense": "computing: the role of a computer application or system",
+        "translations": "istemci | müşteri",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "cloth-320",
+    "headword": "cloth",
+    "level": "B1",
+    "raw": "cloth n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "cloth",
+    "translationLookup": "cloth",
+    "ipaCandidates": {
+      "en-US": "/ˈkɫɔθ/",
+      "en-GB": "/klˈɒθ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/cloth__Noun__1",
+        "sense": "fabric",
+        "translations": "kumaş",
+        "score": 107.9
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "clue-340",
+    "headword": "clue",
+    "level": "B1",
+    "raw": "clue n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "clue",
+    "translationLookup": "clue",
+    "ipaCandidates": {
+      "en-US": "/ˈkɫu/",
+      "en-GB": "/klˈuː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/clue__Noun__1",
+        "sense": "information that may lead one to a certain point or conclusion",
+        "translations": "ipucu",
+        "score": 111.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "coal-348",
+    "headword": "coal",
+    "level": "B1",
+    "raw": "coal n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "coal",
+    "translationLookup": "coal",
+    "ipaCandidates": {
+      "en-US": "/ˈkoʊɫ/",
+      "en-GB": "/kˈəʊl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/coal__Noun__1",
+        "sense": "uncountable: carbon rock",
+        "translations": "kömür",
+        "score": 160.0
+      },
+      {
+        "entry": "eng/coal__Noun__1",
+        "sense": null,
+        "translations": "kömür",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/coal__Noun__1",
+        "sense": "countable: carbon rock",
+        "translations": "kömür",
+        "score": 70.0
+      },
+      {
+        "entry": "eng/coal__Noun__1",
+        "sense": "smouldering material",
+        "translations": "kömür",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "coin-368",
+    "headword": "coin",
+    "level": "B1",
+    "raw": "coin n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "coin",
+    "translationLookup": "coin",
+    "ipaCandidates": {
+      "en-US": "/ˈkɔɪn/",
+      "en-GB": "/kˈɔɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/coin__Noun__1",
+        "sense": "(currency) a piece of currency",
+        "translations": "sikke | demir para | madenî para",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/coin__Noun__1",
+        "sense": "a token used in a special establishment like a casino",
+        "translations": "jeton",
+        "score": 100
+      },
+      {
+        "entry": "eng/coin__Noun__1",
+        "sense": "one of the suits of minor arcana in tarot, or a card of that suit",
+        "translations": "sikke",
+        "score": 30.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "collection-388",
+    "headword": "collection",
+    "level": "B1",
+    "raw": "collection n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "collection",
+    "translationLookup": "collection",
+    "ipaCandidates": {
+      "en-US": "/kəˈɫɛkʃən/",
+      "en-GB": "/kəlˈɛkʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/collection__Noun__1",
+        "sense": "set of items",
+        "translations": "koleksiyon | toplama",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "coloured-400",
+    "headword": "coloured",
+    "level": "B1",
+    "raw": "coloured adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "coloured",
+    "translationLookup": "colour",
+    "ipaCandidates": {
+      "en-US": "/ˈkəɫɝd/",
+      "en-GB": "/kˈʌləd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "renk",
+        "score": 2
+      }
+    ],
+    "externalEvidence": {
+      "headword": "coloured",
+      "sourceUrl": "https://en.wiktionary.org/wiki/coloured",
+      "note": "The page prints one transcription without an explicit accent label; recorded as en-US.",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ˈkʌl.əd/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/coloured"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  },
+  {
+    "sourceId": "combine-412",
+    "headword": "combine",
+    "level": "B1",
+    "raw": "combine v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "combine",
+    "translationLookup": "combine",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑmbaɪn/, /kəmˈbaɪn/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/combine__Verb__1",
+        "sense": null,
+        "translations": "birleşmek",
+        "score": 2.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "commercial-440",
+    "headword": "commercial",
+    "level": "B1",
+    "raw": "commercial adj., n. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "commercial",
+    "translationLookup": "commercial",
+    "ipaCandidates": {
+      "en-US": "/kəˈmɝʃəɫ/",
+      "en-GB": "/kəmˈɜːʃəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/commercial__Noun__1",
+        "sense": "advertisement in a common media format",
+        "translations": "reklam",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "commit-448",
+    "headword": "commit",
+    "level": "B1",
+    "raw": "commit v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "commit",
+    "translationLookup": "commit",
+    "ipaCandidates": {
+      "en-US": "/kəˈmɪt/",
+      "en-GB": "/kəmˈɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/commit__Verb__1",
+        "sense": "to have someone enter an institution as a patient",
+        "translations": "yerleştirmek",
+        "score": 2.5
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "irtikab etmek",
+        "score": 2
+      },
+      {
+        "entry": "eng/commit__Noun__1",
+        "sense": "(computing) act of committing, making a permanent change",
+        "translations": "takviye",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/commit__Noun__1",
+        "sense": "submission of source code",
+        "translations": "tedarik",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/commit__Verb__1",
+        "sense": "computing: to make changes permanent",
+        "translations": "güçlendirmek",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/commit__Verb__1",
+        "sense": "to entrust; to consign",
+        "translations": "güvenmek",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/commit__Verb__1",
+        "sense": "to imprison",
+        "translations": "kapatmak",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/commit__Verb__1",
+        "sense": "to pledge or bind; to compromise, expose, or endanger",
+        "translations": "tehlikeye atmak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "communication-472",
+    "headword": "communication",
+    "level": "B1",
+    "raw": "communication n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "communication",
+    "translationLookup": "communication",
+    "ipaCandidates": {
+      "en-US": "/kəmˌjunəˈkeɪʃən/",
+      "en-GB": "/kəmjˌuːnɪkˈeɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/communication__Noun__1",
+        "sense": "act or fact of communicating anything",
+        "translations": "iletişim | komünikasyon",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/communication__Noun__1",
+        "sense": "concept of exchanging information",
+        "translations": "iletişim | komünikasyon",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/communication__Noun__1",
+        "sense": "instance of data transfer",
+        "translations": "iletişim",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/communication__Noun__1",
+        "sense": "message",
+        "translations": "mesaj",
+        "score": 101.0
+      },
+      {
+        "entry": "eng/communication__Noun__1",
+        "sense": "body of data exchange",
+        "translations": "veri transferi",
+        "score": 100
+      },
+      {
+        "entry": "eng/communication__Noun__1",
+        "sense": "connection between tissues",
+        "translations": "bağlantı",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/communication__Noun__1",
+        "sense": "passageway or opening",
+        "translations": "geçit | pasaj",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "comparison-488",
+    "headword": "comparison",
+    "level": "B1",
+    "raw": "comparison n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "comparison",
+    "translationLookup": "comparison",
+    "ipaCandidates": {
+      "en-US": "/kəmˈpɛɹəsən/",
+      "en-GB": "/kəmpˈæɹɪsən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/comparison__Noun__1",
+        "sense": "act of comparing or the state of being compared",
+        "translations": "karşılaştırma | mukayese | salıştırma",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/comparison__Noun__1",
+        "sense": "evaluation of the similarities and differences of two (or more) things",
+        "translations": "karşılaştırma",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "competitive-500",
+    "headword": "competitive",
+    "level": "B1",
+    "raw": "competitive adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "competitive",
+    "translationLookup": "competitive",
+    "ipaCandidates": {
+      "en-US": "/kəmˈpɛtətɪv/, /kəmˈpɛtɪtɪv/",
+      "en-GB": "/kəmpˈɛtɪtˌɪv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/competitive__Adjective__1",
+        "sense": "economics: capable of competing successfully",
+        "translations": "rekabete dayanabilen",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/competitive__Adjective__1",
+        "sense": "of price: cheap",
+        "translations": "rekabete dayanabilen",
+        "score": 10.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "competitor-504",
+    "headword": "competitor",
+    "level": "B1",
+    "raw": "competitor n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "competitor",
+    "translationLookup": "competitor",
+    "ipaCandidates": {
+      "en-US": "/kəmˈpɛtətɝ/, /kəmˈpɛtɪtɝ/",
+      "en-GB": "/kəmpˈɛtɪtɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/competitor__Noun__1",
+        "sense": "person against whom one is competing",
+        "translations": "rakip",
+        "score": 111.2
+      },
+      {
+        "entry": "eng/competitor__Noun__1",
+        "sense": "participant in a competition",
+        "translations": "rakip",
+        "score": 101
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "complaint-512",
+    "headword": "complaint",
+    "level": "B1",
+    "raw": "complaint n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "complaint",
+    "translationLookup": "complaint",
+    "ipaCandidates": {
+      "en-US": "/kəmˈpɫeɪnt/",
+      "en-GB": "/kəmplˈeɪnt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/complaint__Noun__1",
+        "sense": null,
+        "translations": "yakınma | şikayet",
+        "score": 100
+      },
+      {
+        "entry": "eng/complaint__Noun__1",
+        "sense": "grievance, problem, difficulty, or concern; the act of complaining",
+        "translations": "şikayet",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "complex-524",
+    "headword": "complex",
+    "level": "B1",
+    "raw": "complex adj. B1, n. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 2,
+    "displayWordHint": "complex",
+    "translationLookup": "complex",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑmpɫɛks/, /kəmˈpɫɛks/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/complex__Adjective__1",
+        "sense": "in mathematics",
+        "translations": "karmaşık",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/complex__Adjective__1",
+        "sense": null,
+        "translations": "karmaşık",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/complex__Noun__1",
+        "sense": "collection of buildings",
+        "translations": "karmaşık",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/complex__Noun__1",
+        "sense": "in chemistry",
+        "translations": "karmaşık",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/complex__Noun__1",
+        "sense": "psychologically based dislike or fear",
+        "translations": "karmaşık",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "concentrate-537",
+    "headword": "concentrate",
+    "level": "B1",
+    "raw": "concentrate v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "concentrate",
+    "translationLookup": "concentrate",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑnsənˌtɹeɪt/",
+      "en-GB": "/kˈɒnsəntɹˌeɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/concentrate__Noun__1",
+        "sense": "A substance that is in a condensed form",
+        "translations": "konsantre",
+        "score": 100
+      },
+      {
+        "entry": "eng/concentrate__Verb__1",
+        "sense": "focus one's thought or attention",
+        "translations": "konsantre olmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/concentrate__Verb__1",
+        "sense": "bring to, or direct toward, a common center",
+        "translations": "yoğunlaştırmak",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/concentrate__Verb__1",
+        "sense": "increase the strength and diminish the bulk of, as of a liquid or an ore",
+        "translations": "yoğunlaştırmak",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "conclude-561",
+    "headword": "conclude",
+    "level": "B1",
+    "raw": "conclude v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "conclude",
+    "translationLookup": "conclude",
+    "ipaCandidates": {
+      "en-US": "/kənˈkɫud/",
+      "en-GB": "/kənklˈuːd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/conclude__Verb__1",
+        "sense": "to end",
+        "translations": "bitirmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "conclusion-565",
+    "headword": "conclusion",
+    "level": "B1",
+    "raw": "conclusion n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "conclusion",
+    "translationLookup": "conclusion",
+    "ipaCandidates": {
+      "en-US": "/kənˈkɫuʒən/",
+      "en-GB": "/kənklˈuːʒən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/conclusion__Noun__1",
+        "sense": "end, final part",
+        "translations": "son",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/conclusion__Noun__1",
+        "sense": "outcome",
+        "translations": "sonuç",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "confident-585",
+    "headword": "confident",
+    "level": "B1",
+    "raw": "confident adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "confident",
+    "translationLookup": "confident",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑnfədənt/",
+      "en-GB": "/kˈɒnfɪdənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/confident__Adjective__1",
+        "sense": "being very sure of or positive about something",
+        "translations": "emin",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "confirm-589",
+    "headword": "confirm",
+    "level": "B1",
+    "raw": "confirm v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "confirm",
+    "translationLookup": "confirm",
+    "ipaCandidates": {
+      "en-US": "/kənˈfɝm/",
+      "en-GB": "/kənfˈɜːm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/confirm__Verb__1",
+        "sense": "to assure",
+        "translations": "onaylamak | tasdik etmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "confuse-597",
+    "headword": "confuse",
+    "level": "B1",
+    "raw": "confuse v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "confuse",
+    "translationLookup": "confuse",
+    "ipaCandidates": {
+      "en-US": "/kənˈfjuz/",
+      "en-GB": "/kənfjˈuːz/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/confuse__Verb__1",
+        "sense": "to mix up / muddle up one thing with another; to mistake one thing for another",
+        "translations": "karıştırmak",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "confused-601",
+    "headword": "confused",
+    "level": "B1",
+    "raw": "confused adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "confused",
+    "translationLookup": "confused",
+    "ipaCandidates": {
+      "en-US": "/kənˈfjuzd/",
+      "en-GB": "/kənfjˈuːzd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/confused__Adjective__1",
+        "sense": "unable to think clearly or understand",
+        "translations": "şaşkın | şaşırmış",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "connection-617",
+    "headword": "connection",
+    "level": "B1",
+    "raw": "connection n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "connection",
+    "translationLookup": "connection",
+    "ipaCandidates": {
+      "en-US": "/kəˈnɛkʃən/",
+      "en-GB": "/kənˈɛkʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/connection__Noun__1",
+        "sense": "transport: transfer",
+        "translations": "aktarma",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/connection__Noun__1",
+        "sense": "act of connecting",
+        "translations": "bağlantı | bağlanma",
+        "score": 100.1
+      },
+      {
+        "entry": "eng/connection__Noun__1",
+        "sense": "established communications or transportation link",
+        "translations": "bağlantı",
+        "score": 100.1
+      },
+      {
+        "entry": "eng/connection__Noun__1",
+        "sense": "point at which two or more things are joined",
+        "translations": "bağlantı",
+        "score": 100.1
+      },
+      {
+        "entry": "eng/connection__Noun__1",
+        "sense": "feeling of understanding and ease of communication between two or more people",
+        "translations": "bağ",
+        "score": 100
+      },
+      {
+        "entry": "eng/connection__Noun__1",
+        "sense": "individual related to oneself, through either family or business",
+        "translations": "tanıdık",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "consequence-625",
+    "headword": "consequence",
+    "level": "B1",
+    "raw": "consequence n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "consequence",
+    "translationLookup": "consequence",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑnsəkwəns/",
+      "en-GB": "/kˈɒnsɪkwəns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/consequence__Noun__1",
+        "sense": "that which follows something on which it depends",
+        "translations": "sonuç | netice",
+        "score": 111.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "consist-641",
+    "headword": "consist",
+    "level": "B1",
+    "raw": "consist v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "consist",
+    "translationLookup": "consist",
+    "ipaCandidates": {
+      "en-US": "/kənˈsɪst/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/consist__Verb__1",
+        "sense": "to be composed (of)",
+        "translations": "oluşmak",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/consist__Noun__1",
+        "sense": "sequence of railroad carriages or cars that form a unit",
+        "translations": "birlik",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "consume-665",
+    "headword": "consume",
+    "level": "B1",
+    "raw": "consume v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "consume",
+    "translationLookup": "consume",
+    "ipaCandidates": {
+      "en-US": "/kənˈsum/",
+      "en-GB": "/kənsˈuːm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/consume__Verb__1",
+        "sense": "eat",
+        "translations": "yemek | tüketmek",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/consume__Verb__1",
+        "sense": "use up",
+        "translations": "harcamak | kullanmak",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/consume__Verb__1",
+        "sense": null,
+        "translations": "tüketmek | yoğaltmak",
+        "score": 100
+      },
+      {
+        "entry": "eng/consume__Verb__1",
+        "sense": "destroy completely",
+        "translations": "bitirmek | tüketmek | yoğaltmak",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "consumer-669",
+    "headword": "consumer",
+    "level": "B1",
+    "raw": "consumer n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "consumer",
+    "translationLookup": "consumer",
+    "ipaCandidates": {
+      "en-US": "/kənˈsumɝ/",
+      "en-GB": "/kənsˈuːmɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/consumer__Noun__1",
+        "sense": "person purchasing goods",
+        "translations": "tüketici | konsomatör",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "contact-673",
+    "headword": "contact",
+    "level": "B1",
+    "raw": "contact n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "contact",
+    "translationLookup": "contact",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑnˌtækt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/contact__Noun__1",
+        "sense": "an act of touching physically",
+        "translations": "bağlantı",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/contact__Noun__1",
+        "sense": "an establishment of communication",
+        "translations": "bağlantı",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/contact__Verb__1",
+        "sense": "establish communication with",
+        "translations": "aramak",
+        "score": 10.0
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "bağlantı kurmak",
+        "score": 2
+      },
+      {
+        "entry": "eng/contact__Noun__1",
+        "sense": "colloquial: a contact lens",
+        "translations": "kontak lens",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/contact__Noun__1",
+        "sense": "someone with whom one is in communication",
+        "translations": "aşina",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/contact__Verb__1",
+        "sense": "touch physically",
+        "translations": "dokunmak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "container-681",
+    "headword": "container",
+    "level": "B1",
+    "raw": "container n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "container",
+    "translationLookup": "container",
+    "ipaCandidates": {
+      "en-US": "/kənˈteɪnɝ/",
+      "en-GB": "/kəntˈeɪnɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/container__Noun__1",
+        "sense": "a very large, typically metal, box used for transporting goods",
+        "translations": "konteyner",
+        "score": 120.6
+      },
+      {
+        "entry": "eng/container__Noun__1",
+        "sense": null,
+        "translations": "kap | konteyner",
+        "score": 111.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "content1-689",
+    "headword": "content1",
+    "level": "B1",
+    "raw": "content1 n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "content",
+    "translationLookup": "content",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑntɛnt/, /kənˈtɛnt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/content__Noun__2",
+        "sense": "that which is contained",
+        "translations": "içerik | muhteva",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/content__Noun__2",
+        "sense": "subject matter",
+        "translations": "içerik",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "continuous-709",
+    "headword": "continuous",
+    "level": "B1",
+    "raw": "continuous adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "continuous",
+    "translationLookup": "continuous",
+    "ipaCandidates": {
+      "en-US": "/kənˈtɪnjuəs/",
+      "en-GB": "/kəntˈɪnjuːəs/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/continuous__Adjective__1",
+        "sense": "without break, cessation, or interruption in time",
+        "translations": "sürekli | devamlı",
+        "score": 111.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "contrast-717",
+    "headword": "contrast",
+    "level": "B1",
+    "raw": "contrast n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "contrast",
+    "translationLookup": "contrast",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑntɹæst/, /kənˈtɹæst/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/contrast__Noun__1",
+        "sense": "difference between two objects, people or concepts",
+        "translations": "paradoks",
+        "score": 10.0
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "tezat",
+        "score": 2
+      },
+      {
+        "entry": "eng/contrast__Verb__1",
+        "sense": "to set in opposition in order to show the difference or differences between",
+        "translations": "karşılaştırmak",
+        "score": 1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "convenient-732",
+    "headword": "convenient",
+    "level": "B1",
+    "raw": "convenient adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "convenient",
+    "translationLookup": "convenient",
+    "ipaCandidates": {
+      "en-US": "/kənˈvinjənt/",
+      "en-GB": "/kənvˈiːnɪənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/convenient__Adjective__1",
+        "sense": "of or pertaining to convenience; simple; easy; expedient",
+        "translations": "münasip | uygun | elverişli | kullanışlı | muvâfık | rahat",
+        "score": 101.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "convince-743",
+    "headword": "convince",
+    "level": "B1",
+    "raw": "convince v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "convince",
+    "translationLookup": "convince",
+    "ipaCandidates": {
+      "en-US": "/kənˈvɪns/",
+      "en-GB": "/kənvˈɪns/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/convince__Verb__1",
+        "sense": "to make someone believe, or feel sure about something",
+        "translations": "ikna etmek",
+        "score": 113.6
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "costume-795",
+    "headword": "costume",
+    "level": "B1",
+    "raw": "costume n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "costume",
+    "translationLookup": "costume",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑstum/, /kɑˈstum/",
+      "en-GB": "/kˈɒstjuːm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/costume__Noun__1",
+        "sense": "dress of a particular country, period or people",
+        "translations": "kostüm",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/costume__Noun__1",
+        "sense": "set of clothes appropriate for a particular occasion",
+        "translations": "kostüm",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "cottage-799",
+    "headword": "cottage",
+    "level": "B1",
+    "raw": "cottage n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "cottage",
+    "translationLookup": "cottage",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑtədʒ/, /ˈkɑtɪdʒ/",
+      "en-GB": "/kˈɒtɪdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/cottage__Noun__1",
+        "sense": "A small house; a cot; a hut",
+        "translations": "evcik",
+        "score": 2.5
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "sayfiye",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "cotton-803",
+    "headword": "cotton",
+    "level": "B1",
+    "raw": "cotton n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "cotton",
+    "translationLookup": "cotton",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑtən/, /ˈkɔtən/",
+      "en-GB": "/kˈɒtən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/cotton__Noun__1",
+        "sense": "any plant yielding fiber like that of Gossypium",
+        "translations": "pamuk",
+        "score": 142.5
+      },
+      {
+        "entry": "eng/cotton__Noun__1",
+        "sense": "fiber",
+        "translations": "pamuk",
+        "score": 142.5
+      },
+      {
+        "entry": "eng/cotton__Noun__1",
+        "sense": "fabric",
+        "translations": "pamuk",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/cotton__Adjective__1",
+        "sense": "made of cotton",
+        "translations": "pamuk",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "countryside-546",
+    "headword": "countryside",
+    "level": "B1",
+    "raw": "countryside n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "countryside",
+    "translationLookup": "countryside",
+    "ipaCandidates": {
+      "en-US": "/ˈkəntɹiˌsaɪd/",
+      "en-GB": "/kˈʌntɹɪsˌaɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/countryside__Noun__1",
+        "sense": "area outside of towns and cities, or such part of a larger area",
+        "translations": "kır",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/countryside__Noun__1",
+        "sense": "a rural landscape",
+        "translations": "kır",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "court-566",
+    "headword": "court",
+    "level": "B1",
+    "raw": "court n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "court",
+    "translationLookup": "court",
+    "ipaCandidates": {
+      "en-US": "/ˈkɔɹt/",
+      "en-GB": "/kˈɔːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/court__Noun__1",
+        "sense": "hall, chamber, or place, where justice is administered",
+        "translations": "mahkeme",
+        "score": 123.7
+      },
+      {
+        "entry": "eng/court__Noun__1",
+        "sense": "tribunal established for the administration of justice",
+        "translations": "mahkeme",
+        "score": 123.7
+      },
+      {
+        "entry": "eng/court__Noun__1",
+        "sense": "place for playing the game of tennis and some other ball games",
+        "translations": "kort",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/court__Noun__1",
+        "sense": "enclosed space; a courtyard",
+        "translations": "avlu",
+        "score": 103.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "covered-578",
+    "headword": "covered",
+    "level": "B1",
+    "raw": "covered adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "covered",
+    "translationLookup": "covered",
+    "ipaCandidates": {
+      "en-US": "/ˈkəvɝd/",
+      "en-GB": "/kˈʌvəd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "üstü kapalı",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "cruel-674",
+    "headword": "cruel",
+    "level": "B1",
+    "raw": "cruel adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "cruel",
+    "translationLookup": "cruel",
+    "ipaCandidates": {
+      "en-US": "/ˈkɹuəɫ/, /ˈkɹuɫ/",
+      "en-GB": "/kɹˈuːəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/cruel__Adjective__1",
+        "sense": "that intentionally causes pain and suffering",
+        "translations": "acımasız | zalim | merhametsiz | vahşi",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "cultural-682",
+    "headword": "cultural",
+    "level": "B1",
+    "raw": "cultural adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "cultural",
+    "translationLookup": "cultural",
+    "ipaCandidates": {
+      "en-US": "/ˈkəɫtʃɝəɫ/",
+      "en-GB": "/kˈʌltʃəɹəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/cultural__Adjective__1",
+        "sense": "pertaining to culture",
+        "translations": "kültürel",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "currency-706",
+    "headword": "currency",
+    "level": "B1",
+    "raw": "currency n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "currency",
+    "translationLookup": "currency",
+    "ipaCandidates": {
+      "en-US": "/ˈkɝənsi/",
+      "en-GB": "/kˈʌɹənsi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/currency__Noun__1",
+        "sense": "money or other item used to facilitate transactions",
+        "translations": "para birimi | para",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/currency__Noun__1",
+        "sense": "state of being current; general acceptance or recognition",
+        "translations": "geçerlilik",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "current-710",
+    "headword": "current",
+    "level": "B1",
+    "raw": "current adj. B1, n. B2",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "current",
+    "translationLookup": "current",
+    "ipaCandidates": {
+      "en-US": "/ˈkɑɹənt/, /ˈkɝənt/, /ˈkɝnt/",
+      "en-GB": "/kˈʌɹənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/current__Adjective__1",
+        "sense": "existing or occurring at the moment",
+        "translations": "güncel",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/current__Noun__1",
+        "sense": "part of a fluid that moves continuously in a certain direction",
+        "translations": "akıntı | akım | cereyan",
+        "score": 111.1
+      },
+      {
+        "entry": "eng/current__Noun__1",
+        "sense": "time rate of flow of electric charge",
+        "translations": "akım",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/current__Adjective__1",
+        "sense": "generally accepted, used, practiced, or prevalent at the moment",
+        "translations": "geçerli",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "currently-714",
+    "headword": "currently",
+    "level": "B1",
+    "raw": "currently adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "currently",
+    "translationLookup": "currently",
+    "ipaCandidates": {
+      "en-US": "/ˈkɝəntɫi/",
+      "en-GB": "/kˈʌɹəntli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/currently__Adverb__1",
+        "sense": "at this moment",
+        "translations": "halen | şu anda",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "curtain-718",
+    "headword": "curtain",
+    "level": "B1",
+    "raw": "curtain n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "curtain",
+    "translationLookup": "curtain",
+    "ipaCandidates": {
+      "en-US": "/ˈkɝtən/",
+      "en-GB": "/kˈɜːtən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/curtain__Noun__1",
+        "sense": "piece of cloth in a theater",
+        "translations": "perde",
+        "score": 162.5
+      },
+      {
+        "entry": "eng/curtain__Noun__1",
+        "sense": "piece of cloth covering a window",
+        "translations": "perde",
+        "score": 135.0
+      },
+      {
+        "entry": "eng/curtain__Verb__1",
+        "sense": "to cover with a curtain",
+        "translations": "perdelemek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "custom-730",
+    "headword": "custom",
+    "level": "B1",
+    "raw": "custom n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "custom",
+    "translationLookup": "custom",
+    "ipaCandidates": {
+      "en-US": "/ˈkəstəm/",
+      "en-GB": "/kˈʌstəm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/custom__Noun__1",
+        "sense": null,
+        "translations": "adet | görenek",
+        "score": 112.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "damage-752",
+    "headword": "damage",
+    "level": "B1",
+    "raw": "damage n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "damage",
+    "translationLookup": "damage",
+    "ipaCandidates": {
+      "en-US": "/ˈdæmədʒ/, /ˈdæmɪdʒ/",
+      "en-GB": "/dˈæmɪdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/damage__Noun__1",
+        "sense": "abstract measure of something not being intact; harm",
+        "translations": "zarar | hasar | ziyan",
+        "score": 121.4
+      },
+      {
+        "entry": "eng/damage__Verb__1",
+        "sense": null,
+        "translations": "zarar",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "decade-543",
+    "headword": "decade",
+    "level": "B1",
+    "raw": "decade n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "decade",
+    "translationLookup": "decade",
+    "ipaCandidates": {
+      "en-US": "/ˈdɛkeɪd/, /dɛˈkeɪd/",
+      "en-GB": "/dˈɛkeɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/decade__Noun__1",
+        "sense": "period of ten years",
+        "translations": "onyıl",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/decade__Noun__1",
+        "sense": "series of ten things",
+        "translations": "onlu",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "decorate-571",
+    "headword": "decorate",
+    "level": "B1",
+    "raw": "decorate v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "decorate",
+    "translationLookup": "decorate",
+    "ipaCandidates": {
+      "en-US": "/ˈdɛkɝˌeɪt/",
+      "en-GB": "/dˈɛkəɹˌeɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "dekore etmek",
+        "score": 2
+      },
+      {
+        "entry": "eng/decorate__Verb__1",
+        "sense": null,
+        "translations": "bezenmek",
+        "score": 1.1
+      },
+      {
+        "entry": "eng/decorate__Verb__1",
+        "sense": "to improve the appearance of a house, room, office and so forth",
+        "translations": "kağıtla kaplamak",
+        "score": 1.1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "define-603",
+    "headword": "define",
+    "level": "B1",
+    "raw": "define v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "define",
+    "translationLookup": "define",
+    "ipaCandidates": {
+      "en-US": "/dɪˈfaɪn/",
+      "en-GB": "/dɪfˈaɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/define__Verb__1",
+        "sense": "describe, explain, make definite and clear",
+        "translations": "tanımlamak",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "definite-607",
+    "headword": "definite",
+    "level": "B1",
+    "raw": "definite adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "definite",
+    "translationLookup": "definite",
+    "ipaCandidates": {
+      "en-US": "/ˈdɛfənət/",
+      "en-GB": "/dˈɛfɪnət/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/definite__Adjective__1",
+        "sense": "(linguistics) designating an identified or immediately identifiable person or thing",
+        "translations": "belli",
+        "score": 2.5
+      },
+      {
+        "entry": "eng/definite__Adjective__1",
+        "sense": "having distinct limits",
+        "translations": "belli",
+        "score": 2.5
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "belirli",
+        "score": 2
+      },
+      {
+        "entry": "eng/definite__Adjective__1",
+        "sense": "free from any doubt",
+        "translations": "anlaşılır",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "definition-615",
+    "headword": "definition",
+    "level": "B1",
+    "raw": "definition n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "definition",
+    "translationLookup": "definition",
+    "ipaCandidates": {
+      "en-US": "/ˌdɛfəˈnɪʃən/",
+      "en-GB": "/dˌɛfɪnˈɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/definition__Noun__1",
+        "sense": "statement of the meaning of a word or word group or a sign or symbol",
+        "translations": "tanım | tarif",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/definition__Noun__1",
+        "sense": "act of defining",
+        "translations": "tanımlama",
+        "score": 100
+      },
+      {
+        "entry": "eng/definition__Noun__1",
+        "sense": "bodybuilding: the degree to which individual muscles are distinct",
+        "translations": "definasyon | definisyon",
+        "score": 100
+      },
+      {
+        "entry": "eng/definition__Noun__1",
+        "sense": "clarity of visual presentation, distinctness of outline or detail",
+        "translations": "çözünürlük",
+        "score": 100
+      },
+      {
+        "entry": "eng/definition__Noun__1",
+        "sense": "sharp demarcation of outlines or limits",
+        "translations": "definasyon | definisyon",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "deliver-647",
+    "headword": "deliver",
+    "level": "B1",
+    "raw": "deliver v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "deliver",
+    "translationLookup": "deliver",
+    "ipaCandidates": {
+      "en-US": "/dɪˈɫɪvɝ/",
+      "en-GB": "/dɪlˈɪvɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/deliver__Verb__1",
+        "sense": "to give birth",
+        "translations": "doğurmak",
+        "score": 2.1
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "dağıtmak",
+        "score": 2
+      },
+      {
+        "entry": "eng/deliver__Verb__1",
+        "sense": "to bring or transport something to its destination",
+        "translations": "teslim etmek",
+        "score": 1.1
+      },
+      {
+        "entry": "eng/deliver__Verb__1",
+        "sense": "to express in words",
+        "translations": "konuşmak",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/deliver__Verb__1",
+        "sense": "to free from or disburden of anything",
+        "translations": "işgalden kurtarmak",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/deliver__Verb__1",
+        "sense": "to give forth in action or exercise; to discharge",
+        "translations": "atmak",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/deliver__Verb__1",
+        "sense": "to hand over or surrender",
+        "translations": "pes etmek",
+        "score": 0.0
+      },
+      {
+        "entry": "eng/deliver__Verb__1",
+        "sense": "to set free",
+        "translations": "işgalden kurtarmak",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "departure-675",
+    "headword": "departure",
+    "level": "B1",
+    "raw": "departure n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "departure",
+    "translationLookup": "departure",
+    "ipaCandidates": {
+      "en-US": "/dɪˈpɑɹtʃɝ/",
+      "en-GB": "/dɪpˈɑːtʃɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/departure__Noun__1",
+        "sense": "the act of departing",
+        "translations": "kalkış | gidiş",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "despite-731",
+    "headword": "despite",
+    "level": "B1",
+    "raw": "despite prep. B1",
+    "pos": "prep.",
+    "senses": [
+      {
+        "partOfSpeech": "prep.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "despite",
+    "translationLookup": "despite",
+    "ipaCandidates": {
+      "en-US": "/dɪˈspaɪt/",
+      "en-GB": "/dɪspˈaɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/despite__Preposition__1",
+        "sense": null,
+        "translations": "rağmen | karşın",
+        "score": 115.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "destination-734",
+    "headword": "destination",
+    "level": "B1",
+    "raw": "destination n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "destination",
+    "translationLookup": "destination",
+    "ipaCandidates": {
+      "en-US": "/ˌdɛstəˈneɪʃən/, /ˌdɛstɪˈneɪʃən/",
+      "en-GB": "/dˌɛstɪnˈeɪʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/destination__Noun__1",
+        "sense": "the act of destining or appointing",
+        "translations": "alınyazısı",
+        "score": 1
+      },
+      {
+        "entry": "eng/destination__Noun__1",
+        "sense": "the place set for the end of a journey, or to which something is sent",
+        "translations": "alınyazısı",
+        "score": 1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "determine-757",
+    "headword": "determine",
+    "level": "B1",
+    "raw": "determine v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "determine",
+    "translationLookup": "determine",
+    "ipaCandidates": {
+      "en-US": "/dəˈtɝmən/, /dɪˈtɝmən/",
+      "en-GB": "/dɪtˈɜːmɪn/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/determine__Verb__1",
+        "sense": "to set the limits of",
+        "translations": "karar vermek",
+        "score": 10.0
+      },
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "belirlenmek",
+        "score": 2
+      },
+      {
+        "entry": "eng/determine__Verb__1",
+        "sense": "to ascertain definitely",
+        "translations": "belirlemek",
+        "score": 1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "determined-761",
+    "headword": "determined",
+    "level": "B1",
+    "raw": "determined adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "determined",
+    "translationLookup": "determined",
+    "ipaCandidates": {
+      "en-US": "/dɪˈtɝmənd/",
+      "en-GB": "/dɪtˈɜːmɪnd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/determined__Adjective__1",
+        "sense": "decided or resolute",
+        "translations": "kat'î",
+        "score": 1
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "development-769",
+    "headword": "development",
+    "level": "B1",
+    "raw": "development n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "development",
+    "translationLookup": "development",
+    "ipaCandidates": {
+      "en-US": "/dɪˈvɛɫəpmənt/",
+      "en-GB": "/dɪvˈɛləpmənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/development__Noun__1",
+        "sense": "process of developing",
+        "translations": "ilerleme | gelişim | gelişme | kalkınma",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "diagram-777",
+    "headword": "diagram",
+    "level": "B1",
+    "raw": "diagram n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "diagram",
+    "translationLookup": "diagram",
+    "ipaCandidates": {
+      "en-US": "/ˈdaɪəˌɡɹæm/",
+      "en-GB": "/dˈaɪəɡɹˌæm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/diagram__Noun__1",
+        "sense": "graph or chart",
+        "translations": "diyagram",
+        "score": 132.5
+      },
+      {
+        "entry": "eng/diagram__Noun__1",
+        "sense": "plan, drawing, sketch or outline to show workings or parts relationships",
+        "translations": "şema | diyagram",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "diamond-785",
+    "headword": "diamond",
+    "level": "B1",
+    "raw": "diamond n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "diamond",
+    "translationLookup": "diamond",
+    "ipaCandidates": {
+      "en-US": "/ˈdaɪmənd/",
+      "en-GB": "/dˈaɪəmənd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/diamond__Noun__1",
+        "sense": "gemstone",
+        "translations": "elmas | pırlanta",
+        "score": 190.0
+      },
+      {
+        "entry": "eng/diamond__Noun__1",
+        "sense": "uncountable: mineral",
+        "translations": "elmas | pırlanta",
+        "score": 190.0
+      },
+      {
+        "entry": "eng/diamond__Noun__1",
+        "sense": "card games: card of the diamonds suit",
+        "translations": "karo",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/diamond__Noun__1",
+        "sense": "something that resembles a diamond",
+        "translations": "elmas",
+        "score": 30.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "difficulty-544",
+    "headword": "difficulty",
+    "level": "B1",
+    "raw": "difficulty n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "difficulty",
+    "translationLookup": "difficulty",
+    "ipaCandidates": {
+      "en-US": "/ˈdɪfəkəɫti/, /ˈdɪfɪˌkəɫti/",
+      "en-GB": "/dˈɪfɪkˌʌlti/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/difficulty__Noun__1",
+        "sense": "state of being difficult",
+        "translations": "zorluk",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "directly-568",
+    "headword": "directly",
+    "level": "B1",
+    "raw": "directly adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "directly",
+    "translationLookup": "directly",
+    "ipaCandidates": {
+      "en-US": "/daɪˈɹɛkɫi/, /dɝˈɛktɫi/, /diˈɹɛkɫi/, /dɪˈɹɛkɫi/",
+      "en-GB": "/daɪɹˈɛktli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/directly__Adverb__1",
+        "sense": "in a direct manner",
+        "translations": "direkt | direktman | doğrudan",
+        "score": 100
+      },
+      {
+        "entry": "eng/directly__Adverb__1",
+        "sense": "in a straightforward way",
+        "translations": "direkt | direktman | doğrudan",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "dirt-576",
+    "headword": "dirt",
+    "level": "B1",
+    "raw": "dirt n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "dirt",
+    "translationLookup": "dirt",
+    "ipaCandidates": {
+      "en-US": "/ˈdɝt/",
+      "en-GB": "/dˈɜːt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/dirt__Noun__1",
+        "sense": "unclean matter",
+        "translations": "kir",
+        "score": 101.1
+      },
+      {
+        "entry": "eng/dirt__Noun__1",
+        "sense": "soil or earth",
+        "translations": "toprak | kum",
+        "score": 101.0
+      },
+      {
+        "entry": "eng/dirt__Noun__1",
+        "sense": "previously unknown negative information, kompromat",
+        "translations": "dedikodu | pislik",
+        "score": 100
+      },
+      {
+        "entry": "eng/dirt__Noun__1",
+        "sense": "stain or spot (on clothes etc)",
+        "translations": "leke",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "disadvantage-584",
+    "headword": "disadvantage",
+    "level": "B1",
+    "raw": "disadvantage n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "disadvantage",
+    "translationLookup": "disadvantage",
+    "ipaCandidates": {
+      "en-US": "/ˌdɪsədˈvænɪdʒ/, /ˌdɪsədˈvæntɪdʒ/",
+      "en-GB": "/dˌɪsɐdvˈɑːntɪdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/disadvantage__Noun__1",
+        "sense": "setback or handicap",
+        "translations": "dezavantaj",
+        "score": 102.5
+      },
+      {
+        "entry": "eng/disadvantage__Noun__1",
+        "sense": "weakness",
+        "translations": "dezavantaj",
+        "score": 102.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "disappointed-596",
+    "headword": "disappointed",
+    "level": "B1",
+    "raw": "disappointed adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "disappointed",
+    "translationLookup": "disappointed",
+    "ipaCandidates": {
+      "en-US": "/ˌdɪsəˈpɔɪnɪd/, /ˌdɪsəˈpɔɪntɪd/",
+      "en-GB": "/dˌɪsɐpˈɔɪntɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/disappointed__Adjective__1",
+        "sense": "defeated of hope or expectation",
+        "translations": "hayal kırıklığına uğramış",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "disappointing-600",
+    "headword": "disappointing",
+    "level": "B1",
+    "raw": "disappointing adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "disappointing",
+    "translationLookup": "disappointing",
+    "ipaCandidates": {
+      "en-US": "/ˌdɪsəˈpɔɪnɪŋ/, /ˌdɪsəˈpɔɪntɪŋ/",
+      "en-GB": "/dˌɪsɐpˈɔɪntɪŋ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/disappointing__Adjective__1",
+        "sense": "that disappoints or disappoint",
+        "translations": "hayal kırıklığı",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "discount-616",
+    "headword": "discount",
+    "level": "B1",
+    "raw": "discount n. B1, v. B2",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "v.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "discount",
+    "translationLookup": "discount",
+    "ipaCandidates": {
+      "en-US": "/ˈdɪskaʊnt/, /dɪˈskaʊnt/",
+      "en-GB": ""
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/discount__Noun__1",
+        "sense": "reduction in price",
+        "translations": "indirim | iskonto",
+        "score": 130.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "dislike-648",
+    "headword": "dislike",
+    "level": "B1",
+    "raw": "dislike v., n. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v., n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "dislike",
+    "translationLookup": "dislike",
+    "ipaCandidates": {
+      "en-US": "/dɪˈsɫaɪk/",
+      "en-GB": "/dɪslˈaɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/dislike__Noun__1",
+        "sense": "feeling of distaste",
+        "translations": "antipati",
+        "score": 0.4
+      },
+      {
+        "entry": "eng/dislike__Verb__1",
+        "sense": "not to like something",
+        "translations": "kabul etmemek",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "divide-676",
+    "headword": "divide",
+    "level": "B1",
+    "raw": "divide v. B1, n. B2",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      },
+      {
+        "partOfSpeech": "n.",
+        "level": "B2"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "divide",
+    "translationLookup": "divide",
+    "ipaCandidates": {
+      "en-US": "/dɪˈvaɪd/",
+      "en-GB": "/dɪvˈaɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/divide__Verb__1",
+        "sense": "divide up; share by dividing",
+        "translations": "bölmek",
+        "score": 21.1
+      },
+      {
+        "entry": "eng/divide__Verb__1",
+        "sense": "calculate quotient",
+        "translations": "bölmek",
+        "score": 21.0
+      },
+      {
+        "entry": "eng/divide__Verb__1",
+        "sense": "split into two or more parts",
+        "translations": "bölmek",
+        "score": 21.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "documentary-700",
+    "headword": "documentary",
+    "level": "B1",
+    "raw": "documentary n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "documentary",
+    "translationLookup": "documentary",
+    "ipaCandidates": {
+      "en-US": "/ˌdɑkjəˈmɛnɝi/, /ˌdɑkjəˈmɛntɝi/, /ˌdɑkjuˈmɛnɝi/, /ˌdɑkjuˈmɛntɝi/",
+      "en-GB": "/dˌɒkjuːmˈɛntəɹi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/documentary__Noun__1",
+        "sense": "documentary film",
+        "translations": "belgesel | belgesel film",
+        "score": 125.0
+      },
+      {
+        "entry": "eng/documentary__Noun__1",
+        "sense": "programme or publication of fact",
+        "translations": "belgesel",
+        "score": 105.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "donate-720",
+    "headword": "donate",
+    "level": "B1",
+    "raw": "donate v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "donate",
+    "translationLookup": "donate",
+    "ipaCandidates": {
+      "en-US": "/ˈdoʊˌneɪt/",
+      "en-GB": "/dəʊnˈeɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/donate__Verb__1",
+        "sense": "to give away something of value",
+        "translations": "bağışlamak | ihsan etmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "doubt-738",
+    "headword": "doubt",
+    "level": "B1",
+    "raw": "doubt n., v. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n., v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "doubt",
+    "translationLookup": "doubt",
+    "ipaCandidates": {
+      "en-US": "/ˈdaʊt/",
+      "en-GB": "/dˈaʊt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/doubt__Noun__1",
+        "sense": null,
+        "translations": "şüphe | kuşku | güman | şek",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/doubt__Verb__1",
+        "sense": null,
+        "translations": "şüphelenmek | kuşkulanmak",
+        "score": 130.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "dressed-794",
+    "headword": "dressed",
+    "level": "B1",
+    "raw": "dressed adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 3,
+    "displayWordHint": "dressed",
+    "translationLookup": "dressed",
+    "ipaCandidates": {
+      "en-US": "/ˈdɹɛst/",
+      "en-GB": "/dɹˈɛst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": null,
+        "sense": null,
+        "translations": "kıyafetli",
+        "score": 2
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "drum-816",
+    "headword": "drum",
+    "level": "B1",
+    "raw": "drum n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "drum",
+    "translationLookup": "drum",
+    "ipaCandidates": {
+      "en-US": "/ˈdɹəm/",
+      "en-GB": "/dɹˈʌm/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/drum__Noun__1",
+        "sense": "musical instrument",
+        "translations": "davul",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/drum__Noun__1",
+        "sense": "barrel etc. for liquid",
+        "translations": "varil",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/drum__Noun__1",
+        "sense": "cylindrical block forming a pillar",
+        "translations": "kasnak",
+        "score": 100
+      },
+      {
+        "entry": "eng/drum__Noun__1",
+        "sense": "wall supporting a dome",
+        "translations": "kasnak",
+        "score": 100
+      },
+      {
+        "entry": "eng/drum__Noun__1",
+        "sense": "hollow, cylindrical object",
+        "translations": "davul",
+        "score": 40.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "drunk-820",
+    "headword": "drunk",
+    "level": "B1",
+    "raw": "drunk adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "drunk",
+    "translationLookup": "drunk",
+    "ipaCandidates": {
+      "en-US": "/ˈdɹəŋk/",
+      "en-GB": "/dɹˈʌŋk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/drunk__Adjective__1",
+        "sense": "intoxicated after drinking too much alcohol",
+        "translations": "sarhoş | esrik",
+        "score": 132.4
+      },
+      {
+        "entry": "eng/drunk__Noun__1",
+        "sense": "habitual drinker",
+        "translations": "ayyaş | içkici",
+        "score": 103.5
+      },
+      {
+        "entry": "eng/drunk__Noun__1",
+        "sense": "one who is drunk",
+        "translations": "sarhoş | esrik",
+        "score": 101.7
+      },
+      {
+        "entry": "eng/drunk__Noun__1",
+        "sense": "drunken state",
+        "translations": "sarhoşluk",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "due-828",
+    "headword": "due",
+    "level": "B1",
+    "raw": "due adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "due",
+    "translationLookup": "due",
+    "ipaCandidates": {
+      "en-US": "/ˈdju/, /ˈdu/",
+      "en-GB": "/djˈuː/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/due__Noun__1",
+        "sense": "membership fees",
+        "translations": "aidat",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "dust-836",
+    "headword": "dust",
+    "level": "B1",
+    "raw": "dust n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "dust",
+    "translationLookup": "dust",
+    "ipaCandidates": {
+      "en-US": "/ˈdəst/",
+      "en-GB": "/dˈʌst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/dust__Noun__1",
+        "sense": "fine, dry particles",
+        "translations": "toz",
+        "score": 162.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "duty-840",
+    "headword": "duty",
+    "level": "B1",
+    "raw": "duty n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "duty",
+    "translationLookup": "duty",
+    "ipaCandidates": {
+      "en-US": "/ˈdjuti/, /ˈduti/",
+      "en-GB": "/djˈuːti/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/duty__Noun__1",
+        "sense": "that which one is morally or legally obligated to do",
+        "translations": "görev | vazife",
+        "score": 110.6
+      },
+      {
+        "entry": "eng/duty__Noun__1",
+        "sense": "period of time",
+        "translations": "vardiya | çalışma süresi",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/duty__Noun__1",
+        "sense": "tax; tariff",
+        "translations": "gümrük | ithal vergisi",
+        "score": 100.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "earthquake-868",
+    "headword": "earthquake",
+    "level": "B1",
+    "raw": "earthquake n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "earthquake",
+    "translationLookup": "earthquake",
+    "ipaCandidates": {
+      "en-US": "/ˈɝθˌkweɪk/",
+      "en-GB": "/ˈɜːθkweɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/earthquake__Noun__1",
+        "sense": null,
+        "translations": "deprem | zelzele",
+        "score": 177.5
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "eastern-880",
+    "headword": "eastern",
+    "level": "B1",
+    "raw": "eastern adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "eastern",
+    "translationLookup": "eastern",
+    "ipaCandidates": {
+      "en-US": "/ˈistɝn/",
+      "en-GB": "/ˈiːstən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/eastern__Adjective__1",
+        "sense": "related to the east",
+        "translations": "doğu",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "economic-892",
+    "headword": "economic",
+    "level": "B1",
+    "raw": "economic adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "economic",
+    "translationLookup": "economic",
+    "ipaCandidates": {
+      "en-US": "/ˌɛkəˈnɑmɪk/, /ˌikəˈnɑmɪk/",
+      "en-GB": "/ˌiːkənˈɒmɪk/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/economic__Adjective__1",
+        "sense": null,
+        "translations": "ekonomik | iktisadi",
+        "score": 120.0
+      },
+      {
+        "entry": "eng/economic__Adjective__1",
+        "sense": "pertaining to the study of money",
+        "translations": "ekonomik",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "economy-896",
+    "headword": "economy",
+    "level": "B1",
+    "raw": "economy n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "economy",
+    "translationLookup": "economy",
+    "ipaCandidates": {
+      "en-US": "/iˈkɑnəmi/, /ɪˈkɑnəmi/",
+      "en-GB": "/ɪkˈɒnəmi/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/economy__Noun__1",
+        "sense": "effective management of the resources of a community or system",
+        "translations": "ekonomi | iktisat | denlik",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/economy__Noun__1",
+        "sense": "production and distribution and consumption",
+        "translations": "ekonomi | iktisat | denlik",
+        "score": 150.0
+      },
+      {
+        "entry": "eng/economy__Noun__1",
+        "sense": "frugal use of resources",
+        "translations": "ekonomi | iktisat | tutum",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/economy__Noun__1",
+        "sense": null,
+        "translations": "ekonomi",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "edge-900",
+    "headword": "edge",
+    "level": "B1",
+    "raw": "edge n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "edge",
+    "translationLookup": "edge",
+    "ipaCandidates": {
+      "en-US": "/ˈɛdʒ/",
+      "en-GB": "/ˈɛdʒ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/edge__Noun__1",
+        "sense": "boundary line of a surface",
+        "translations": "kenar",
+        "score": 113.1
+      },
+      {
+        "entry": "eng/edge__Noun__1",
+        "sense": "an advantage",
+        "translations": "avantaj",
+        "score": 100.0
+      },
+      {
+        "entry": "eng/edge__Noun__1",
+        "sense": "in graph theory: any of the pairs of vertices in a graph",
+        "translations": "kenar",
+        "score": 100
+      },
+      {
+        "entry": "eng/edge__Noun__1",
+        "sense": "joining line between two vertices of a polygon",
+        "translations": "kenar",
+        "score": 100
+      },
+      {
+        "entry": "eng/edge__Noun__1",
+        "sense": "place where two faces of a polyhedron meet",
+        "translations": "kenar",
+        "score": 100
+      },
+      {
+        "entry": "eng/edge__Noun__1",
+        "sense": "thin cutting side of the blade of an instrument",
+        "translations": "bıçak ağzı | bıçak sırtı",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "editor-912",
+    "headword": "editor",
+    "level": "B1",
+    "raw": "editor n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "editor",
+    "translationLookup": "editor",
+    "ipaCandidates": {
+      "en-US": "/ˈɛdətɝ/, /ˈɛdɪtɝ/",
+      "en-GB": "/ˈɛdɪtɐ/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/editor__Noun__1",
+        "sense": "newspaper editor",
+        "translations": "editör | redaktör",
+        "score": 100
+      },
+      {
+        "entry": "eng/editor__Noun__1",
+        "sense": "person who edits",
+        "translations": "muharrir | redaktör",
+        "score": 100
+      },
+      {
+        "entry": "eng/editor__Noun__1",
+        "sense": "someone who manipulates video footage and assembles it into the correct order",
+        "translations": "editör",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "educate-916",
+    "headword": "educate",
+    "level": "B1",
+    "raw": "educate v. B1",
+    "pos": "v.",
+    "senses": [
+      {
+        "partOfSpeech": "v.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "educate",
+    "translationLookup": "educate",
+    "ipaCandidates": {
+      "en-US": "/ˈɛdʒəˌkeɪt/, /ˈɛdʒjuˌkeɪt/",
+      "en-GB": "/ˈɛdʒuːkˌeɪt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/educate__Verb__1",
+        "sense": "to instruct or train",
+        "translations": "eğitmek",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "educated-920",
+    "headword": "educated",
+    "level": "B1",
+    "raw": "educated adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "educated",
+    "translationLookup": "educated",
+    "ipaCandidates": {
+      "en-US": "/ˈɛdʒəˌkeɪtɪd/, /ˈɛdʒjuˌkeɪtɪd/",
+      "en-GB": "/ˈɛdʒuːkˌeɪtɪd/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/educated__Adjective__1",
+        "sense": null,
+        "translations": "eğitimli | okumuş | tahsilli",
+        "score": 100
+      },
+      {
+        "entry": "eng/educated__Adjective__1",
+        "sense": "based on relevant information",
+        "translations": "bilgilendirilmiş | bilgili",
+        "score": 100
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "educational-928",
+    "headword": "educational",
+    "level": "B1",
+    "raw": "educational adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "educational",
+    "translationLookup": "educational",
+    "ipaCandidates": {
+      "en-US": "/ˌɛdʒəˈkeɪʃənəɫ/, /ˌɛdʒjuˈkeɪʃənəɫ/",
+      "en-GB": "/ˌɛdʒuːkˈeɪʃənəl/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/educational__Adjective__1",
+        "sense": null,
+        "translations": "eğitici | eğitsel",
+        "score": 110.0
+      },
+      {
+        "entry": "eng/educational__Adjective__1",
+        "sense": "instructive",
+        "translations": "eğitici | eğitsel",
+        "score": 110.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "effective-936",
+    "headword": "effective",
+    "level": "B1",
+    "raw": "effective adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "effective",
+    "translationLookup": "effective",
+    "ipaCandidates": {
+      "en-US": "/ˈifɛktɪv/, /ɪˈfɛktɪv/",
+      "en-GB": "/ɪfˈɛktɪv/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/effective__Adjective__1",
+        "sense": "having the power to produce a required effect or effects",
+        "translations": "etkili",
+        "score": 12.5
+      },
+      {
+        "entry": "eng/effective__Adjective__1",
+        "sense": "actually in effect",
+        "translations": "etkili",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/effective__Adjective__1",
+        "sense": "efficient, serviceable, or operative",
+        "translations": "etkin",
+        "score": 10.0
+      },
+      {
+        "entry": "eng/effective__Adjective__1",
+        "sense": "producing a decided or decisive effect",
+        "translations": "etkili",
+        "score": 10.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "effectively-940",
+    "headword": "effectively",
+    "level": "B1",
+    "raw": "effectively adv. B1",
+    "pos": "adv.",
+    "senses": [
+      {
+        "partOfSpeech": "adv.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "effectively",
+    "translationLookup": "effectively",
+    "ipaCandidates": {
+      "en-US": "/ˈifɛktɪvɫi/, /ɪˈfɛktɪvɫi/",
+      "en-GB": "/ɪfˈɛktɪvli/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/effectively__Adverb__1",
+        "sense": "in an efficient or effective manner; with powerful effect",
+        "translations": "etkili",
+        "score": 0.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "effort-948",
+    "headword": "effort",
+    "level": "B1",
+    "raw": "effort n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "effort",
+    "translationLookup": "effort",
+    "ipaCandidates": {
+      "en-US": "/ˈɛfɝt/",
+      "en-GB": "/ˈɛfət/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/effort__Noun__1",
+        "sense": null,
+        "translations": "gayret | efor | çaba | ceht",
+        "score": 120.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "election-980",
+    "headword": "election",
+    "level": "B1",
+    "raw": "election n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "election",
+    "translationLookup": "election",
+    "ipaCandidates": {
+      "en-US": "/ɪˈɫɛkʃən/",
+      "en-GB": "/ɪlˈɛkʃən/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/election__Noun__1",
+        "sense": "process of choosing a new leader or representatives by popular vote",
+        "translations": "seçim | saylav",
+        "score": 125.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "element-1000",
+    "headword": "element",
+    "level": "B1",
+    "raw": "element n. B1",
+    "pos": "n.",
+    "senses": [
+      {
+        "partOfSpeech": "n.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "element",
+    "translationLookup": "element",
+    "ipaCandidates": {
+      "en-US": "/ˈɛɫəmənt/",
+      "en-GB": "/ˈɛlɪmənt/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/element__Noun__1",
+        "sense": "chemistry: simplest chemical substance",
+        "translations": "element | unsur",
+        "score": 140.0
+      },
+      {
+        "entry": "eng/element__Noun__1",
+        "sense": "alchemy: one of the four basic building blocks",
+        "translations": "element | unsur",
+        "score": 131.0
+      },
+      {
+        "entry": "eng/element__Noun__1",
+        "sense": "simplest or essential part or principle of anything",
+        "translations": "unsur | eleman | öğe",
+        "score": 130.0
+      },
+      {
+        "entry": "eng/element__Noun__1",
+        "sense": "set theory: object in a set",
+        "translations": "eleman | üye",
+        "score": 111.0
+      },
+      {
+        "entry": "eng/element__Noun__1",
+        "sense": "atmospheric forces",
+        "translations": "unsur",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/element__Noun__1",
+        "sense": "computing: conceptual object in a markup language",
+        "translations": "unsur",
+        "score": 20.0
+      },
+      {
+        "entry": "eng/element__Noun__1",
+        "sense": "place or state of being that a person or object is best suited to",
+        "translations": "unsur",
+        "score": 20.0
+      }
+    ],
+    "needsExternal": []
+  },
+  {
+    "sourceId": "embarrassed-1024",
+    "headword": "embarrassed",
+    "level": "B1",
+    "raw": "embarrassed adj. B1",
+    "pos": "adj.",
+    "senses": [
+      {
+        "partOfSpeech": "adj.",
+        "level": "B1"
+      }
+    ],
+    "sourcePage": 4,
+    "displayWordHint": "embarrassed",
+    "translationLookup": "embarrass",
+    "ipaCandidates": {
+      "en-US": "/ɪmˈbɛɹəst/",
+      "en-GB": "/ɛmbˈæɹəst/"
+    },
+    "dictionaryCandidates": [
+      {
+        "entry": "eng/embarrass__Verb__1",
+        "sense": null,
+        "translations": "rezil etmek",
+        "score": 110.0
+      }
+    ],
+    "externalEvidence": {
+      "headword": "embarrassed",
+      "sourceUrl": "https://en.wiktionary.org/wiki/embarrassed",
+      "note": "",
+      "unverified": "",
+      "ipa": {
+        "en-US": {
+          "ipa": "/ɪmˈbæɹ.əst/",
+          "sourceUrl": "https://en.wiktionary.org/wiki/embarrassed"
+        },
+        "en-GB": {
+          "ipa": null,
+          "sourceUrl": null
+        }
+      },
+      "translations": {
+        "translations": [],
+        "sourceUrl": null,
+        "unverified": "English entry lists no Turkish gloss"
+      }
+    },
+    "needsExternal": []
+  }
+]
